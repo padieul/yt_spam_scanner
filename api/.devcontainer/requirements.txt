@@ -1,0 +1,6 @@
+fastapi[all]
+pandas
+pymongo
+requests
+uvicorn
+elasticsearch
