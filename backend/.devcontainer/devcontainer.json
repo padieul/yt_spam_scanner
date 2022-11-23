@@ -1,7 +1,7 @@
 {
     "name": "backend",
     "dockerComposeFile": "../../docker-compose.yml",
-    "workspaceFolder": "/workspace/backend",
+    "workspaceFolder": "/workspace",
     "service": "backend",
     "features": {
         "ghcr.io/devcontainers/features/git:1": {}
