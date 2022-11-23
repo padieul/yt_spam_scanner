@@ -1,6 +1,7 @@
 fastapi[all]
 pandas
+matplotlib
+tensorflow
 pymongo
 requests
 uvicorn
-elasticsearch

@@ -1,8 +1,8 @@
 {
-    "name": "api",
+    "name": "backend",
     "dockerComposeFile": "../../docker-compose.yml",
-    "workspaceFolder": "/workspace/api",
-    "service": "api",
+    "workspaceFolder": "/workspace/backend",
+    "service": "backend",
     "features": {
         "ghcr.io/devcontainers/features/git:1": {}
     },
@@ -10,7 +10,6 @@
         "ms-python.python",
         "ms-python.vscode-pylance"
     ],
-    "remoteUser": "vscode",
     "settings": {
         "editor.formatOnSave": true,
         "python.formatting.provider": "black",
