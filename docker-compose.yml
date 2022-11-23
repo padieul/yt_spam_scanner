@@ -30,6 +30,8 @@ services:
     build:
       context: backend/
       dockerfile: Dockerfile
+    volumes:
+      - .:/workspace:cached
     image: movie-backend
     ports:
       - 8000:8000
@@ -44,6 +46,8 @@ services:
     build:
       context: frontend/
       dockerfile: Dockerfile
+    volumes:
+      - .:/workspace:cached
     image: movie-frontend
     ports:
       - 5000:5000

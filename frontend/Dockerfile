@@ -8,6 +8,8 @@ RUN npm install
 
 RUN npm audit fix
 
+RUN npm update
+
 COPY . .
 
 EXPOSE 5000
@@ -15,5 +17,7 @@ EXPOSE 5000
 ENV HOST=0.0.0.0
 
 RUN npm run build
+
+RUN npm update
 
 CMD [ "npm", "start" ] 
