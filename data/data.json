@@ -1,0 +1,3211 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "KbIeuNxunLZ5gKdPfvTS597e3yg",
+    "nextPageToken": "QURTSl9pMW5GWUplWUlwQlBZWng4bXk2bUlMc1l6dkU2RW4wVnBiYVR4UTdiQWZld1QxSXNvY2RNRWtnX3hpVnFZTjZJbTdwLUMzZmMxT2xQQUJ6cXR5OXJXV09EYWg5THc=",
+    "pageInfo": {
+        "totalResults": 100,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2PX-F0doujCPSZSq8I9N0ogmusA",
+            "id": "Ugx3iqdV315x-Tc9jQx4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TzO9cN8znsP4qD8mkXyDDDfu91E",
+                    "id": "Ugx3iqdV315x-Tc9jQx4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Kostenloses Depot eröffnen: ►► <a href=\"https://link.finanzfluss.de/go/depot-id203\">https://link.finanzfluss.de/go/depot-id203</a> *📈\r<br>45 Min. Gratis-Webinar für Anfänger:  ►► <a href=\"https://link.finanzfluss.de/go/webinar-id203\">https://link.finanzfluss.de/go/webinar-id203</a> 👨‍🎓",
+                        "textOriginal": "Kostenloses Depot eröffnen: ►► https://link.finanzfluss.de/go/depot-id203 *📈\r\n45 Min. Gratis-Webinar für Anfänger:  ►► https://link.finanzfluss.de/go/webinar-id203 👨‍🎓",
+                        "authorDisplayName": "Finanzfluss",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_hr2lJOpl4CcN-7hs3ymmc4IuK8HGTFeqenxAg7g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCeARcCUiZg79SQQ-2_XNlXQ",
+                        "authorChannelId": {
+                            "value": "UCeARcCUiZg79SQQ-2_XNlXQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 59,
+                        "publishedAt": "2019-08-25T08:05:53Z",
+                        "updatedAt": "2021-11-02T15:27:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 19,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BiIXz1Vd-zoHRs_H40av4YU7C3U",
+            "id": "UgzOWyWKSqymh6i0CJJ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "w3MpOtmrvMXX1Zo1UfQtt8KJTqA",
+                    "id": "UgzOWyWKSqymh6i0CJJ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich habe es satt, auf den Prämienvorschuss zu warten, da ich alle 14 Tage meiner Investition 18.000 US-Dollar erhalte, weil jeder mehr als sein Gehalt braucht, um finanziell stabil zu sein 😇",
+                        "textOriginal": "Ich habe es satt, auf den Prämienvorschuss zu warten, da ich alle 14 Tage meiner Investition 18.000 US-Dollar erhalte, weil jeder mehr als sein Gehalt braucht, um finanziell stabil zu sein 😇",
+                        "authorDisplayName": "c=ypto",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/E3rwrWKmI-fxDVysgEk51h1qe9EUORDGGl8HuJYdw-Bd4kc0ybKmJancvMFbiMbTzJQTG9WLrA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UChy0u9BTJkNd7QaDPxl_eDQ",
+                        "authorChannelId": {
+                            "value": "UChy0u9BTJkNd7QaDPxl_eDQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-10-26T14:09:24Z",
+                        "updatedAt": "2022-10-26T14:09:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zhNaPAZZOU8P-Ideir63PUpwsh0",
+            "id": "UgyjfqUJfi_fLr_dIiJ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "m9YMCPlECfN0rPkm2raAt9JxUL4",
+                    "id": "UgyjfqUJfi_fLr_dIiJ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Danke fürs Teilen",
+                        "textOriginal": "Danke fürs Teilen",
+                        "authorDisplayName": "Hamid Ja",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_PviyhjJGTfvYCEQRbauDYetHT8GeOTJld3Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCCYLygFT7o0zXZqZA2K6m0Q",
+                        "authorChannelId": {
+                            "value": "UCCYLygFT7o0zXZqZA2K6m0Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-08-21T15:24:26Z",
+                        "updatedAt": "2022-08-21T15:24:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "k_4uxCVI6Ng1dg3YNu5_cvxH6zM",
+            "id": "UgzSYTPCmW4CC-qDkZJ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XrshDIFdh0kTvXHoPweeOzlSiZE",
+                    "id": "UgzSYTPCmW4CC-qDkZJ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Klasse!!",
+                        "textOriginal": "Klasse!!",
+                        "authorDisplayName": "Zweiloch Werner",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ZQdspY83Vo_WlkGcNi4TjfUZlH6gmjhJTDNTNS-QgnV_-r8e-RL4DJGgBWWrbqRkmixA3N1BxQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCIglNNfic_EB7mxHIT3i_ww",
+                        "authorChannelId": {
+                            "value": "UCIglNNfic_EB7mxHIT3i_ww"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-06-10T19:04:06Z",
+                        "updatedAt": "2022-06-10T19:04:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wuuOEXbV90qYJM4S_b7M7r5U5to",
+            "id": "UgzfOu5uDRczQD9R9P94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "BV0Y7BO0ARtaEmZ7OHpIfeIaU_E",
+                    "id": "UgzfOu5uDRczQD9R9P94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sparkasse ist sowieso eklig mit Kontoführungsgebühren.",
+                        "textOriginal": "Sparkasse ist sowieso eklig mit Kontoführungsgebühren.",
+                        "authorDisplayName": "VIPERZCREW",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/1WPJx1LcadSx8Kw9GHGmv1FpxIYFPQirDU0Gi4JKe-EmhtP-ujyfire7yDgBhOynpzBw-dgCPQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCWzhjHOUFTqi3bCxbNo4kqg",
+                        "authorChannelId": {
+                            "value": "UCWzhjHOUFTqi3bCxbNo4kqg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-06-07T02:18:12Z",
+                        "updatedAt": "2022-06-07T02:18:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wdpNCVvGoGNLQesoJ8HWIx2_wF8",
+            "id": "Ugxe_ouLa-qTP3F5xLt4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aOc4fKZr-AgvKnRXxjZ6DhJEjvM",
+                    "id": "Ugxe_ouLa-qTP3F5xLt4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Wenn ich bei der Bank mit einem bestimmten Prozentsatz anlege, soll ich mir dann immer nach einem Jahr den Betrag auszahlen lassen und dann wieder neu anlegen oder wie mach ich das am Besten?",
+                        "textOriginal": "Wenn ich bei der Bank mit einem bestimmten Prozentsatz anlege, soll ich mir dann immer nach einem Jahr den Betrag auszahlen lassen und dann wieder neu anlegen oder wie mach ich das am Besten?",
+                        "authorDisplayName": "Frederik Pintar",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-KLumyz840JBEwwUPdoiZ3bw_vnhGTjMR0PnT5ilu5Lph8-Fp7fnpe8-saV7K5=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCWmKk5IwORMqxmqH_DZQ2QA",
+                        "authorChannelId": {
+                            "value": "UCWmKk5IwORMqxmqH_DZQ2QA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-06-05T21:26:02Z",
+                        "updatedAt": "2022-06-05T21:26:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "TiOOK-mWo75TpASXryM1r0fkUyI",
+            "id": "UgwLL2vMJT4NUD99G8l4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YcLKQitsCOYNmw-usxykKAinGc4",
+                    "id": "UgwLL2vMJT4NUD99G8l4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Wie ist deine Meinung zu Privat insolvenz? Auf dem normalen weg würde es mehrere Jahrzehnte dauern!",
+                        "textOriginal": "Wie ist deine Meinung zu Privat insolvenz? Auf dem normalen weg würde es mehrere Jahrzehnte dauern!",
+                        "authorDisplayName": "H. O.",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_NA6e84PO-cDziE8lTCWJ6EHaAPBHC0NBQZMrehw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCt6U2nvEBpDzkRrKBUmLWpA",
+                        "authorChannelId": {
+                            "value": "UCt6U2nvEBpDzkRrKBUmLWpA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-04-28T02:32:15Z",
+                        "updatedAt": "2022-04-28T02:32:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bFnMCAm_RmYqf5WtzyiojKfuB-c",
+            "id": "UgzAFU6Rr8nsO8PMbt14AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YweOBDdnj6CqCDKNiInLjTu5sHY",
+                    "id": "UgzAFU6Rr8nsO8PMbt14AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Hallo, ich habe gesehen, dass Sie ein Video sind, wir interessieren uns für Sie, sind Sie ein Video, ist es bequem zu kommunizieren?",
+                        "textOriginal": "Hallo, ich habe gesehen, dass Sie ein Video sind, wir interessieren uns für Sie, sind Sie ein Video, ist es bequem zu kommunizieren?",
+                        "authorDisplayName": "Yunying",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/_fMR-TX5-lqjopzcN9oVqn3w43Rwr6AMtO4IugMWfLdvFARU7tvMY0ZYntc7dbwOXmeDr-mB=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UChYaZWnXXuSJe5Fba6wPNkA",
+                        "authorChannelId": {
+                            "value": "UChYaZWnXXuSJe5Fba6wPNkA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-03-14T06:06:44Z",
+                        "updatedAt": "2022-03-14T06:06:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7onpgjAJ0kWkJxJpIaADBiEAerc",
+            "id": "UgxeaDPf094M8678DdV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fa8bsihDhGqp5nXJU4Ckyql_yb4",
+                    "id": "UgxeaDPf094M8678DdV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Richtig geiles Video:) finde dein Buch auch super",
+                        "textOriginal": "Richtig geiles Video:) finde dein Buch auch super",
+                        "authorDisplayName": "EinfachAnna",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/G9F6w62tlJkMddpx9xEO6bzUwjqaTJ10UOZl6p1gmTiUl3cte27jqGKk6q4-4QFBj3XUhEY3=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCFjYHyJILgp2VjOoWxkbpsg",
+                        "authorChannelId": {
+                            "value": "UCFjYHyJILgp2VjOoWxkbpsg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-02-17T17:21:23Z",
+                        "updatedAt": "2022-02-17T17:21:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1yT4E_Q_FZ4D8MNF0B1hHTeoFpo",
+            "id": "Ugw4QB-aoA36FwUZoZ94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "BVEzXoRWvgUOXEsvJuDa79Cuaao",
+                    "id": "Ugw4QB-aoA36FwUZoZ94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sehr informativ. Vielen Dank 😊",
+                        "textOriginal": "Sehr informativ. Vielen Dank 😊",
+                        "authorDisplayName": "LEICHTGEMACHT",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/6PtDRHhCVoxr_7X6Kle-bDByYULg-2un-m8mLhzkn_BSdyh94bEWdmrHAN08oW4pEmJ3Ug80Tg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC9fKEqDq00AJZM5FpgD4x9Q",
+                        "authorChannelId": {
+                            "value": "UC9fKEqDq00AJZM5FpgD4x9Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-02-13T22:20:49Z",
+                        "updatedAt": "2022-02-13T22:20:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "0W6RDpL5p-uzoi4t89yKPQvmlV8",
+            "id": "UgxwJB-WRdTmAtnimUF4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1RrCW8qNbAs6HJmu1l3DykpUzqI",
+                    "id": "UgxwJB-WRdTmAtnimUF4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Der wichtigste Punkt geht in einem Halbsatz unter: Wenn du mehr sparen willst, versuche zunächst, mehr zu verdienen. Einen Tag übers Sparen nachdenken bringt vielleicht +1000€ p.a. Einen Tag über die richtige Anlage nachdenken bringt +2% p.a. Einen Tag übers Einkommen nachdenken kann leicht 20-200 % bringen.",
+                        "textOriginal": "Der wichtigste Punkt geht in einem Halbsatz unter: Wenn du mehr sparen willst, versuche zunächst, mehr zu verdienen. Einen Tag übers Sparen nachdenken bringt vielleicht +1000€ p.a. Einen Tag über die richtige Anlage nachdenken bringt +2% p.a. Einen Tag übers Einkommen nachdenken kann leicht 20-200 % bringen.",
+                        "authorDisplayName": "Zsolt Sz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/KInMdP0tgO8OCEkiXGWmepn3OsQbLd6IPNIlOLpLcy4ml7YiqzK5WH9hriPMZQbCziUcS8Ty_A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC8wF37MrsFkfpKgmgv3UHfA",
+                        "authorChannelId": {
+                            "value": "UC8wF37MrsFkfpKgmgv3UHfA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-02-11T11:53:58Z",
+                        "updatedAt": "2022-02-11T11:53:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JB0GO2b_edWTB6n6rWcYuzoqkl0",
+            "id": "UgysLq5AJczxvTyx36J4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5JXqwumvbCrqSsk3Yv_Nw6cxdhA",
+                    "id": "UgysLq5AJczxvTyx36J4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich: 15 keine Ahnung von Finanzen (deswegen schaue ich mir das an)<br>Auch ich: nach dem 1sten Punkt 😂🤓ich habe nichts von all dem, gehe noch zur Schule und lebe bei meinen Eltern hahah ich hab nichtmal mein eigenes Konto. Aber ich will gerne mehr über Geld und den Umgang damit lernen und das so früh wie möglich=)",
+                        "textOriginal": "Ich: 15 keine Ahnung von Finanzen (deswegen schaue ich mir das an)\nAuch ich: nach dem 1sten Punkt 😂🤓ich habe nichts von all dem, gehe noch zur Schule und lebe bei meinen Eltern hahah ich hab nichtmal mein eigenes Konto. Aber ich will gerne mehr über Geld und den Umgang damit lernen und das so früh wie möglich=)",
+                        "authorDisplayName": "Laura",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-jjnHG99FJ0dK2JfBITZLSUO_Y_1TY4tLQe8gko5aVICMpRZ1UFBFnMTw7nvHz=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC9ZwohILtQbBNC3y7wNAjxg",
+                        "authorChannelId": {
+                            "value": "UC9ZwohILtQbBNC3y7wNAjxg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-01-05T19:40:50Z",
+                        "updatedAt": "2022-01-05T19:40:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "sMI5rLO3waT6EOd-TKZah393CB8",
+            "id": "Ugz7uG-k8-fFLgAPdwV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Lxl680MKnUlEPWf_hen1liCAKPM",
+                    "id": "Ugz7uG-k8-fFLgAPdwV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Und wo lagere ich mein finanzielles Schutzschild? Sparbuch?",
+                        "textOriginal": "Und wo lagere ich mein finanzielles Schutzschild? Sparbuch?",
+                        "authorDisplayName": "hans hein",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-z33g-WzMhWgHMDuHevlmSCzZCsnDuvQaZXJDe8g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UClddW4IKvfCU72zGS6MqsfA",
+                        "authorChannelId": {
+                            "value": "UClddW4IKvfCU72zGS6MqsfA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-01-02T12:49:28Z",
+                        "updatedAt": "2022-01-02T12:49:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MZ85bX1PfzdW94-YDlEPZUZPN58",
+            "id": "UgzW5JXPSW4dn6q9OVF4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QATre_uifO0TTw4D24R8eDI22nA",
+                    "id": "UgzW5JXPSW4dn6q9OVF4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Thomas, ihr habt wirklich einen TOLLEN Kanal aufgebaut. Strukturiert, sympatisch, klar und deutlich. Vielen Dank für deine Videos und weiter so!",
+                        "textOriginal": "Thomas, ihr habt wirklich einen TOLLEN Kanal aufgebaut. Strukturiert, sympatisch, klar und deutlich. Vielen Dank für deine Videos und weiter so!",
+                        "authorDisplayName": "Nils Schneider",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu--UwQZw2xQv0nlgVnEwgq6gWtPLnY4DXSM2nW9fHE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCOgpUwY86ElRwEm06xkn7Vw",
+                        "authorChannelId": {
+                            "value": "UCOgpUwY86ElRwEm06xkn7Vw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-12-13T17:07:27Z",
+                        "updatedAt": "2021-12-13T17:07:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "HfoncuAmPATa44gR18N_m9MEQK8",
+            "id": "Ugxp3Q1iy3EfhXio-Hx4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ZMHSz7_ucSn3P-LDnTA3EkCNCtE",
+                    "id": "Ugxp3Q1iy3EfhXio-Hx4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Hello",
+                        "textOriginal": "Hello",
+                        "authorDisplayName": "♜ Pinned ხy Open4Profit",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/EnlxfNWC9mOxOR_2-k4lg8yqyNBMXk3pKe3Xhp85WvtdMuVZxEvf9nMhsyH9z0RMZykx7Zd3jcg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCuscPjUPgzFAPKgR9ZqQ3SA",
+                        "authorChannelId": {
+                            "value": "UCuscPjUPgzFAPKgR9ZqQ3SA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-11-10T03:52:43Z",
+                        "updatedAt": "2021-11-10T03:52:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MXGHSc4o0JzsKrFtThHiJtyU_4o",
+            "id": "Ugykxdcr7wgx-Dwjtwd4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Th9i0QaRxi4BYQFpJyk08K7ZaRg",
+                    "id": "Ugykxdcr7wgx-Dwjtwd4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Bin erst 16 und mache mit meinem Gewerbe aktuell circa 500 bis 1k im Monat. Das Problem ist jedoch, dass es schwierig für mich ist zukünftige Kosten zu berechnen bzw einen Finanzplan zu erstellen, da ich im Moment noch keine eigenen Kosten habe.<br>Sprich Kosten für Essen, Familie, usw.",
+                        "textOriginal": "Bin erst 16 und mache mit meinem Gewerbe aktuell circa 500 bis 1k im Monat. Das Problem ist jedoch, dass es schwierig für mich ist zukünftige Kosten zu berechnen bzw einen Finanzplan zu erstellen, da ich im Moment noch keine eigenen Kosten habe.\nSprich Kosten für Essen, Familie, usw.",
+                        "authorDisplayName": "fn6ty",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-DLUS_TVChIe6vqQ68cPMNZmRA9ajWa7f3JXTRNw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCJWkYdl1N4MiGx9qiacl6cA",
+                        "authorChannelId": {
+                            "value": "UCJWkYdl1N4MiGx9qiacl6cA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-11-08T19:35:05Z",
+                        "updatedAt": "2021-11-08T19:35:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7xy6Sddd6RhNVNh0pEGbcezu6jE",
+            "id": "UgzMWM2VTCfNdpXEC-N4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hh6Y0rtV1crKs3xSjBJwiF8ti0M",
+                    "id": "UgzMWM2VTCfNdpXEC-N4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "„Es geht heute nicht darum, WIE VIEL man für sein Geld zurück bekommt. \r<br>Es geht darum, dass man es ÜBERHAUPT zurück bekommt.“ (Markus Krall Total)",
+                        "textOriginal": "„Es geht heute nicht darum, WIE VIEL man für sein Geld zurück bekommt. \r\nEs geht darum, dass man es ÜBERHAUPT zurück bekommt.“ (Markus Krall Total)",
+                        "authorDisplayName": "Alexander Streeb",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/rq2dXwtIf_7KgAM2Lpy1WVH8Q-Eqaq0b6tjZZH4EWHnoSqO6AfpTZ5ZU4ZeUm1I3JJePUmhb7A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCZc-fRIOjes1xeFt7heb9hg",
+                        "authorChannelId": {
+                            "value": "UCZc-fRIOjes1xeFt7heb9hg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-10-25T02:03:29Z",
+                        "updatedAt": "2021-10-25T02:03:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MZYKFEeCpateJ_EydUma2X8c-bU",
+            "id": "UgwovDXCtsgvvY9210t4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0K6Upppjr-U53Ofd-xUzB8SIdNs",
+                    "id": "UgwovDXCtsgvvY9210t4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sehr gut erklärt",
+                        "textOriginal": "Sehr gut erklärt",
+                        "authorDisplayName": "vipex",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu92ZGTNGDG4tVZmcLQNc0rTwVUW9vuLfczT1e2fFASrDqpeALZpig7Pe9WYxLfW=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCxp_gv6G1lB64NKb6IBkTkQ",
+                        "authorChannelId": {
+                            "value": "UCxp_gv6G1lB64NKb6IBkTkQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-10-14T19:55:37Z",
+                        "updatedAt": "2021-10-14T19:55:37Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RGfO8F6vlnZFzTTo2Kn6TWba1jY",
+            "id": "UgwJwTOfDUqfNP6Tr7Z4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "avhiZ0kQEcXjLuJ-4rGMwiarCA0",
+                    "id": "UgwJwTOfDUqfNP6Tr7Z4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sehr gefallen! Abonniert!",
+                        "textOriginal": "Sehr gefallen! Abonniert!",
+                        "authorDisplayName": "Anastasia Kunze",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-EjM6xqeexFgJZcRhikwtSNXyeShWtTaNGocqHMQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCUdZL6CEXN2P_1HrAw2rEzw",
+                        "authorChannelId": {
+                            "value": "UCUdZL6CEXN2P_1HrAw2rEzw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-10-13T07:24:42Z",
+                        "updatedAt": "2021-10-13T07:24:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "SuNk9Aa9e4AxWrAiFFZgN6kEJP0",
+            "id": "UgycxqnK1TVeDB7LmAB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_xj4ZIhl1RRq3jmSzp3Qe5EkxXE",
+                    "id": "UgycxqnK1TVeDB7LmAB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "was hälst du von Ginmon, Scalable usw. oder sollte man lieber bei seiner Bank schauen?  Die Sparkasse nimmt hohe Gebühren",
+                        "textOriginal": "was hälst du von Ginmon, Scalable usw. oder sollte man lieber bei seiner Bank schauen?  Die Sparkasse nimmt hohe Gebühren",
+                        "authorDisplayName": "H. K.-W.",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9JBWpT9OiQVV6c_ZxnvpQsaS1IafZVw49UJg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCl77Y3-SPd5nWKEwjBqXzIA",
+                        "authorChannelId": {
+                            "value": "UCl77Y3-SPd5nWKEwjBqXzIA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-08-29T21:58:19Z",
+                        "updatedAt": "2021-08-29T21:58:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "A4l32-kNHcpWs94DtAQnO_IRXOs",
+            "id": "UgyG-5NpsOIM6I_Ypnd4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Y_JAExRnrZwE70ibrWyRetUMTO4",
+                    "id": "UgyG-5NpsOIM6I_Ypnd4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Niemand wird reich nur mit sparen. Dein Fokus muß darauf liegen das Geld rein kommt. Es spart sich nir großen Scheinen einfach leichter. Ich habe nie hart gesprart und es von null trotzudem geschafft. ( Muß auch mal ein Buich schreiben :)  Einfach normal gelebt und wenn ordentlich Geld da ist sofort investieren.",
+                        "textOriginal": "Niemand wird reich nur mit sparen. Dein Fokus muß darauf liegen das Geld rein kommt. Es spart sich nir großen Scheinen einfach leichter. Ich habe nie hart gesprart und es von null trotzudem geschafft. ( Muß auch mal ein Buich schreiben :)  Einfach normal gelebt und wenn ordentlich Geld da ist sofort investieren.",
+                        "authorDisplayName": "QuaxC42",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8-InLkdfVs5RvVVqhaVCFQ5KbaXZ0doFDvjI-T=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCjU-DeBROnFVyf6P4CF1fUw",
+                        "authorChannelId": {
+                            "value": "UCjU-DeBROnFVyf6P4CF1fUw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-07-28T11:11:28Z",
+                        "updatedAt": "2021-07-28T11:11:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "374_uPWVk2WyoIBfXhEpyXDG3Y8",
+            "id": "Ugw13uA3o0EtgyXSie94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TWr-vHn8hvO6g7J2OaocUwG3dPc",
+                    "id": "Ugw13uA3o0EtgyXSie94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Danke für das Video!<br>Wo sollte man seinen “Notgroschen” anlegen? Das Tagesgeld Konto sollte ja auch keine gute Lösung zu sein",
+                        "textOriginal": "Danke für das Video!\nWo sollte man seinen “Notgroschen” anlegen? Das Tagesgeld Konto sollte ja auch keine gute Lösung zu sein",
+                        "authorDisplayName": "mze",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-fhYi-3Uuz5NABkYV7i0SkqN-VIWYgS_K1TQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC87GFK_Q6_TtLAuHn2TmiNA",
+                        "authorChannelId": {
+                            "value": "UC87GFK_Q6_TtLAuHn2TmiNA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-07-22T16:44:09Z",
+                        "updatedAt": "2021-07-22T16:44:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1NforgXLCpBmpuEmJhZhAwPWDDw",
+            "id": "Ugw9cBcYHGKTYr6LWSB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "55OpwuGIYbjibVL-lUs9B6t6E5Y",
+                    "id": "Ugw9cBcYHGKTYr6LWSB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "&lt;= 10 min :P",
+                        "textOriginal": "<= 10 min :P",
+                        "authorDisplayName": "M X",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu882hKMkmkYZhDDt8F-RhVGu4QCYSk54_OnMA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCqXTUJ21lDGvhYTqhu9QjFA",
+                        "authorChannelId": {
+                            "value": "UCqXTUJ21lDGvhYTqhu9QjFA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-05-20T20:07:26Z",
+                        "updatedAt": "2021-05-20T20:07:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7hzzdPBIH4OWz_4pmSkkFYwgiis",
+            "id": "UgxlhXI8lcZhi0_oXYx4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "keal4u7jM9-uV-iFOfqrmVQKdsk",
+                    "id": "UgxlhXI8lcZhi0_oXYx4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich soll einfach mehr verdienen. Ja was für ein super Tipp, Herr Professor. Bisher habe ich meine Goldtaler versehentlich alle einfach gefressen.",
+                        "textOriginal": "Ich soll einfach mehr verdienen. Ja was für ein super Tipp, Herr Professor. Bisher habe ich meine Goldtaler versehentlich alle einfach gefressen.",
+                        "authorDisplayName": "Geek Beat",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-6x-tl90G8JJytFuucUAfD6akNKUoatIccykV9pw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCHDxGeHd1fqI9xp368yCp_g",
+                        "authorChannelId": {
+                            "value": "UCHDxGeHd1fqI9xp368yCp_g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2021-05-14T16:24:58Z",
+                        "updatedAt": "2021-05-14T16:24:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "0yjgawvOPCGaaB-pBMt1oP5HBUQ",
+            "id": "UgzL_GbydBRnYO0veeN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2uU2NssJKBceJEtdCP4iBNHkNZI",
+                    "id": "UgzL_GbydBRnYO0veeN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "1. analyse finanzielle situation finanziele landkarte finden\r<br>2. aufräumen kündigen etc.\r<br>3. ziel festlegen sparen für urlaub ziele runterschrauben\r<br>4. sparen automatisieren ,,aus dem auge aus dem sinn&quot;\r<br>5. aufbau finanzielles schutzes notkrochen \r<br>6. investierenstrateegie festlegen bleiben aktie börse etc\r<br>7. zeit nehmen keiner anlagenstrategie stur folgen ,, hin und her macht taschen leer&quot;\r<br>8. honorar und steuerberater fragen die  interessenskonfliktfrei \r<br>9. haus oder wohnung kaufen mieten ist große entscheidungsfrage",
+                        "textOriginal": "1. analyse finanzielle situation finanziele landkarte finden\r\n2. aufräumen kündigen etc.\r\n3. ziel festlegen sparen für urlaub ziele runterschrauben\r\n4. sparen automatisieren ,,aus dem auge aus dem sinn\"\r\n5. aufbau finanzielles schutzes notkrochen \r\n6. investierenstrateegie festlegen bleiben aktie börse etc\r\n7. zeit nehmen keiner anlagenstrategie stur folgen ,, hin und her macht taschen leer\"\r\n8. honorar und steuerberater fragen die  interessenskonfliktfrei \r\n9. haus oder wohnung kaufen mieten ist große entscheidungsfrage",
+                        "authorDisplayName": "Ozan Yildirim",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-MclyBAGe5yogGoupMilFFR47mbGsbnYdVsQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCNM0AhVolTmK6noMUtIJIEQ",
+                        "authorChannelId": {
+                            "value": "UCNM0AhVolTmK6noMUtIJIEQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-05-11T13:11:41Z",
+                        "updatedAt": "2021-05-11T13:11:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7Vg5gLKfz5GgR16itB5g4fOaOH8",
+            "id": "Ugzr3fzwzrymBrYTBPF4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "V9SpQ8gmOBJkoF2yTd8W5GNpMP4",
+                    "id": "Ugzr3fzwzrymBrYTBPF4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Super Video, danke Finanzfluss.",
+                        "textOriginal": "Super Video, danke Finanzfluss.",
+                        "authorDisplayName": "Erik Mitel",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_4BOkdVezRBCRjCvmUKng-zZra6IxDLqHRqQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdyvjZeI3ITrEOlQ-P3mvGw",
+                        "authorChannelId": {
+                            "value": "UCdyvjZeI3ITrEOlQ-P3mvGw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-05-05T20:38:16Z",
+                        "updatedAt": "2021-05-05T20:38:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ysl3I0HYamwVnyQNkriNPvGQCWI",
+            "id": "Ugx0b8bn93Ci0PQuky54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2VJKr4IXbDnxTPtOcT2t8QPYcRw",
+                    "id": "Ugx0b8bn93Ci0PQuky54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "So alles was ich wissen sollte, mehr brauch ich nicht mehr lernen",
+                        "textOriginal": "So alles was ich wissen sollte, mehr brauch ich nicht mehr lernen",
+                        "authorDisplayName": "Fox",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-8udnDS10aI_wDRwv0aNMuPtUF5dPtf-WoJcX2gg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC0ftOD5SGJTZvq9xA6ShohQ",
+                        "authorChannelId": {
+                            "value": "UC0ftOD5SGJTZvq9xA6ShohQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-05-04T17:48:23Z",
+                        "updatedAt": "2021-05-04T17:48:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pD8ekRlDFb2sPXtCfeFKBIYYBH0",
+            "id": "UgyAmiP_OqMDdfQEDQ54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "em4jINrG0JotdQHu2bD88XAsBX0",
+                    "id": "UgyAmiP_OqMDdfQEDQ54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "O",
+                        "textOriginal": "O",
+                        "authorDisplayName": "finfluencer. at",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-S3Wn8ynaVFMgC6txNrWdzmDnu_7rqhEAFON7DRw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCigI-czoEil8KMigpNeenNg",
+                        "authorChannelId": {
+                            "value": "UCigI-czoEil8KMigpNeenNg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-05-02T10:41:04Z",
+                        "updatedAt": "2021-05-02T10:41:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6NYZ3xDExS4OYxJPnY1a18scGxg",
+            "id": "Ugwwye3dwUqo_GoLvVp4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3kKyIpeW11c9voXE5N0MpaNTl0k",
+                    "id": "Ugwwye3dwUqo_GoLvVp4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Mega!!!! Danke für dieses kurze und knackige Video mit so tollen Tipps!",
+                        "textOriginal": "Mega!!!! Danke für dieses kurze und knackige Video mit so tollen Tipps!",
+                        "authorDisplayName": "Merle Schlobinski ☀️ Kinder- und Jugendcoach",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/gc_nCaOQWQNZm16CdZa3f8fdLMqf9rbj0Bm2YXazIwhkeEDvjpWBF2biWaweLQDL32lt-dBugw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCARJ_m9ZgjKBXM6q-nI9I2Q",
+                        "authorChannelId": {
+                            "value": "UCARJ_m9ZgjKBXM6q-nI9I2Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-04-28T10:54:30Z",
+                        "updatedAt": "2021-04-28T10:54:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "gHkqanJrEumx59_Lzk1BJu6uGcI",
+            "id": "UgyFWsky90z8rWGWhjV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mA6XVVv3rVmwvpHBAp-AXmh3yb0",
+                    "id": "UgyFWsky90z8rWGWhjV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=4m10s\">4:10</a> Jo kein Problem dann Schraub ich den Lachs einfach mal höher",
+                        "textOriginal": "4:10 Jo kein Problem dann Schraub ich den Lachs einfach mal höher",
+                        "authorDisplayName": "Norman Weber",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_Kj6m7ZfJBGlkNjFoc6q__OYn4S0owfI7MkA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCLnCDdy74GV6rPc2XwyOrDw",
+                        "authorChannelId": {
+                            "value": "UCLnCDdy74GV6rPc2XwyOrDw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-04-25T19:15:05Z",
+                        "updatedAt": "2021-04-25T19:15:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Jdh-egQlmMUYhbxoa5aGmKq6snc",
+            "id": "Ugxnm5Bz3FFpSrj5M014AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mQA6aAzL8IAWA2QUKWjsyDoCAeA",
+                    "id": "Ugxnm5Bz3FFpSrj5M014AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Also ich hab ein Hauskredit und kann das investieren vergessen?",
+                        "textOriginal": "Also ich hab ein Hauskredit und kann das investieren vergessen?",
+                        "authorDisplayName": "Knoco",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_DhXfd-z4X9mbjTHE6LXC3HbR26XB_VbNS4g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCTANgGjJh_sN5WPY-zK2MbA",
+                        "authorChannelId": {
+                            "value": "UCTANgGjJh_sN5WPY-zK2MbA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-04-25T08:52:50Z",
+                        "updatedAt": "2021-04-25T08:52:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wOloxGF9QEZ7u5F2wU3oteLxR2I",
+            "id": "Ugwo0HkDlFVX0KcT5h94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "WcKaFHrkCVqUPP7O9zDu4ZMPVXs",
+                    "id": "Ugwo0HkDlFVX0KcT5h94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sind nicht weniger als 10min, Anzeige ist raus &lt;3",
+                        "textOriginal": "Sind nicht weniger als 10min, Anzeige ist raus <3",
+                        "authorDisplayName": "Falko Hannemann",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Dl_0Wr7DcnT03RKNHh67K3OD-hZX36LqUHLn5w6Upjb7BM_fng8C8wHrn2ah-o9OFzgkYaI_=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC3uWDARurUpGSTyAJqERRTw",
+                        "authorChannelId": {
+                            "value": "UC3uWDARurUpGSTyAJqERRTw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-04-21T17:03:59Z",
+                        "updatedAt": "2021-04-21T17:03:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LEKGmVXzrexcmJkOSx9EGBFNIfM",
+            "id": "Ugw3aaHqD1-jUx25b_d4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6B1C7AG_7hW-yVbFxKAak_2wobc",
+                    "id": "Ugw3aaHqD1-jUx25b_d4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Schönes Hemd",
+                        "textOriginal": "Schönes Hemd",
+                        "authorDisplayName": "slimebo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_tVfpGr270GUCcOlEZfqY8HBfYqFszBJ30G9Fv=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCknAGLO_5l28eZnG7KjRPTQ",
+                        "authorChannelId": {
+                            "value": "UCknAGLO_5l28eZnG7KjRPTQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-04-20T20:53:02Z",
+                        "updatedAt": "2021-04-20T20:53:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "P04uapZUerYvUHUn-27GcnColQw",
+            "id": "Ugwcs1OhrQ_oyi8L3Ut4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "a5MzOgMEYUcicj186xuZMYKLXrI",
+                    "id": "Ugwcs1OhrQ_oyi8L3Ut4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ab wann lohnt es sich denn ein Tagesgeld Konto zu machen? Ich hab zum beispiel noch schulden abzuzahlen da wäre es doch besser erst diese abzuzahlen und dann geld beiseite zu legen oder?",
+                        "textOriginal": "Ab wann lohnt es sich denn ein Tagesgeld Konto zu machen? Ich hab zum beispiel noch schulden abzuzahlen da wäre es doch besser erst diese abzuzahlen und dann geld beiseite zu legen oder?",
+                        "authorDisplayName": "PuBkracker",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/9aS5iosH_Va6Vvc31dmokqca5eukmM7GA3gbTlzWSBY_wY4KpWjRzVUR6ooOkxUrn5lXuYjv=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC3OLOy8n9qQXGIVYEm-q1iQ",
+                        "authorChannelId": {
+                            "value": "UC3OLOy8n9qQXGIVYEm-q1iQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-03-29T09:08:15Z",
+                        "updatedAt": "2021-03-29T09:08:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5aKBxqxeF3XnDjb1JymI0ZpDgm0",
+            "id": "UgyD2-Z6iQydFXdjHOR4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mfkus8zUs5FOi0I0JQgLnApRvrI",
+                    "id": "UgyD2-Z6iQydFXdjHOR4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Mir hilft das tatsächlich sehr, man hätte sowas in der schule lernen sollen.",
+                        "textOriginal": "Mir hilft das tatsächlich sehr, man hätte sowas in der schule lernen sollen.",
+                        "authorDisplayName": "lucamagkinderriegel",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_nx_Vz932iVIEyoI90BdPQypux_tN42dTyOTWIow=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC7aphSwlpslylpTbCVPvbTg",
+                        "authorChannelId": {
+                            "value": "UC7aphSwlpslylpTbCVPvbTg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2021-03-18T12:13:45Z",
+                        "updatedAt": "2021-03-18T12:13:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6NK3KN4Tm0DXbkmJI1XOCuoMznY",
+            "id": "Ugz6mGgQMo0AIgdoOv54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QoB2-Lb6OWG5Ki1cleISSsrpBjk",
+                    "id": "Ugz6mGgQMo0AIgdoOv54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Kannst du bitte eine Playlist für Neulinge machen",
+                        "textOriginal": "Kannst du bitte eine Playlist für Neulinge machen",
+                        "authorDisplayName": "Benji Ja",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_IgOYCciogoRViTWp7QqCUgWTxhLimPEr52w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdQsabrrEdoo6SSVGl4TL7Q",
+                        "authorChannelId": {
+                            "value": "UCdQsabrrEdoo6SSVGl4TL7Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-03-11T10:00:02Z",
+                        "updatedAt": "2021-03-11T10:00:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "a3F5ore0MAexKoVkPChbzF74M1I",
+            "id": "UgwMLWHs5vvNWF70sfx4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YW4J3vKyyAQdsQNGnNZC-baN7_M",
+                    "id": "UgwMLWHs5vvNWF70sfx4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ist es eigentlich sinnvoll bei einem ETF Anbieter zu bleiben? Also um Überschneidungen vorzubeugen, wenn man mehrere ETFs besparen möchte.",
+                        "textOriginal": "Ist es eigentlich sinnvoll bei einem ETF Anbieter zu bleiben? Also um Überschneidungen vorzubeugen, wenn man mehrere ETFs besparen möchte.",
+                        "authorDisplayName": "Herr Yeti",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_tDBvHSFtv1xKCBUdve7gItuSjDn2XSl9kGQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCaA4yZkI8rqIkbKzRaz1mqA",
+                        "authorChannelId": {
+                            "value": "UCaA4yZkI8rqIkbKzRaz1mqA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-03-02T16:44:12Z",
+                        "updatedAt": "2021-03-02T16:44:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "U2Fmy-jc1PqF6nbaA89yo7udgdE",
+            "id": "Ugx6XapRxjWlk-HQLYB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "D8VRECi3Io9i_ggtDlE7lMhoDc0",
+                    "id": "Ugx6XapRxjWlk-HQLYB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Aber 10 min sind ja nicht weniger als 10 min oder? So ein klichbait😂",
+                        "textOriginal": "Aber 10 min sind ja nicht weniger als 10 min oder? So ein klichbait😂",
+                        "authorDisplayName": "MRK",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8JH0T1yCWjIZcqjBgaL1XWWN6F7gxW_zz_Mto1nw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCrVihmtKNW4zKlOrtmx3OJA",
+                        "authorChannelId": {
+                            "value": "UCrVihmtKNW4zKlOrtmx3OJA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-28T10:07:52Z",
+                        "updatedAt": "2021-02-28T10:07:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jbwcavwPY-dec06jChYrHZUrRbk",
+            "id": "Ugw-SMN-inJ5mkwOjb94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_hFDFE1B2-26jjQPT6x5lZl47C0",
+                    "id": "Ugw-SMN-inJ5mkwOjb94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Zählt die Anlage in einen ETF bereits als Diversifikation der Finanzen?",
+                        "textOriginal": "Zählt die Anlage in einen ETF bereits als Diversifikation der Finanzen?",
+                        "authorDisplayName": "Michael Fritz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_vS4h764Ke48z7iBOsVugcL9J5S3b2uEwUDPEzlw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCQThXIqyTcu7gfskidp9KTQ",
+                        "authorChannelId": {
+                            "value": "UCQThXIqyTcu7gfskidp9KTQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-20T08:47:03Z",
+                        "updatedAt": "2021-02-20T08:47:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mOUlIOc9Ladzi7t7Mtu8LZa1yUw",
+            "id": "Ugxdbxem_HqRykYBBRp4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ErsPL7_HgBNVy3ZsqMnaZIWsGd4",
+                    "id": "Ugxdbxem_HqRykYBBRp4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Super Video!",
+                        "textOriginal": "Super Video!",
+                        "authorDisplayName": "Score2Pro",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8lLC3QbW__931wdEtdB-5MKVICgxA4xObm1Nhd7w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCtOdI18A6xaDglFT6dJ8odA",
+                        "authorChannelId": {
+                            "value": "UCtOdI18A6xaDglFT6dJ8odA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2021-02-16T14:56:16Z",
+                        "updatedAt": "2021-02-16T14:56:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UxoPy_v_FJHc4YYifOQ2DSSf7mc",
+            "id": "UgwCW6jkNtZWSOYyQal4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mja_cRjmHWSDMupD6f68VQ-qgKI",
+                    "id": "UgwCW6jkNtZWSOYyQal4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Zählt Bafög zu Schulden?",
+                        "textOriginal": "Zählt Bafög zu Schulden?",
+                        "authorDisplayName": "Mrcl",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8nrkgHPaZ4ahzXITdKu7OEtxoRaChAlT_P8IHAtA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvFdjneIZ_3PDK0Uc8P5lag",
+                        "authorChannelId": {
+                            "value": "UCvFdjneIZ_3PDK0Uc8P5lag"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-16T10:29:12Z",
+                        "updatedAt": "2021-02-16T10:29:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "L0FuRiVzeCPaC9Krz_1Rm2TNyPE",
+            "id": "UgxswX5YVw1QWyFmhal4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "UOpGVn7cGsJEHgSKYkmgV9ICt0Q",
+                    "id": "UgxswX5YVw1QWyFmhal4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Kann jemand einen Broker empfehlen, wenn man in ETF&#39;s investieren will?",
+                        "textOriginal": "Kann jemand einen Broker empfehlen, wenn man in ETF's investieren will?",
+                        "authorDisplayName": "J. Goethe",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-KfuUjDXwDdvSeCEZxCHvhVO1RhpnphG2RxEKJ_A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC6XUnGpTmCSXkz0qP_MT4gg",
+                        "authorChannelId": {
+                            "value": "UC6XUnGpTmCSXkz0qP_MT4gg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-15T21:22:13Z",
+                        "updatedAt": "2021-02-15T21:22:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "95djns8josPI6IEG2B2skAqMM6U",
+            "id": "UgwTfioh12zFeSZI7MF4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TzPnDq4xvcS6QRjJZzpenJXH83c",
+                    "id": "UgwTfioh12zFeSZI7MF4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Leider ist das Video dank &quot;C&quot; und der NullZinsPolitik der Banken. Alles Geld das auf der Bank liegt, gehört nicht DIR sondern ist ein Darlehen von DIR an die BANK. Wie sagte doch ein bekannter Politiker damals.... &quot;Die Rente ist sicher....&quot; klar ist die sicher, nur die höhe der Rente nicht. Riester Rürup... alles für´n Ar___!!! Gold, Silber, Bitcoin, oder Aktien in Lebensmittel, Pharma und alles was man zum Leben braucht geht auch. Aber lasst das Geld nicht auf der Bank, denn dann ist es im schlimmsten Falle futsch.",
+                        "textOriginal": "Leider ist das Video dank \"C\" und der NullZinsPolitik der Banken. Alles Geld das auf der Bank liegt, gehört nicht DIR sondern ist ein Darlehen von DIR an die BANK. Wie sagte doch ein bekannter Politiker damals.... \"Die Rente ist sicher....\" klar ist die sicher, nur die höhe der Rente nicht. Riester Rürup... alles für´n Ar___!!! Gold, Silber, Bitcoin, oder Aktien in Lebensmittel, Pharma und alles was man zum Leben braucht geht auch. Aber lasst das Geld nicht auf der Bank, denn dann ist es im schlimmsten Falle futsch.",
+                        "authorDisplayName": "RoB",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8bBbuGSLq6x2v1xvlLGU-Nj9Ya8BAJpan0yWRs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC9iZY839D_31ipx0UqR2g9A",
+                        "authorChannelId": {
+                            "value": "UC9iZY839D_31ipx0UqR2g9A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-06T18:22:32Z",
+                        "updatedAt": "2021-02-06T18:22:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IDoICjEcqx3CRot4yqpMxPGtaXk",
+            "id": "UgxhbA3PN4MDl_2zfCV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OHJSHDhVEsLf4lwhIjLIphgJAaY",
+                    "id": "UgxhbA3PN4MDl_2zfCV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Seit paar Monaten baue ich &quot;finanzielle Kissen&quot; auf. Ich sage mir, das Geld ist für neues Laptop, welches ich brauche... aber spare trotzdem weiter. 😇",
+                        "textOriginal": "Seit paar Monaten baue ich \"finanzielle Kissen\" auf. Ich sage mir, das Geld ist für neues Laptop, welches ich brauche... aber spare trotzdem weiter. 😇",
+                        "authorDisplayName": "Aleksandra",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Jmxp2rfgMZNI-jR_S1D6B4RNAwUC19Wa5Abl-cN-x5RVie55L7c9aRHXW7t5aLXA9ssQyDZ8NgE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UClXxwrPXGgHxqUzFvXm3avA",
+                        "authorChannelId": {
+                            "value": "UClXxwrPXGgHxqUzFvXm3avA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2021-02-06T04:54:22Z",
+                        "updatedAt": "2021-02-06T04:54:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "dfNS2xYaVyr3xO0LeqZuxfN0mFk",
+            "id": "Ugw2KKLL7Bd2bBZ5zF54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4MDwRwEUTM4iU-UUwLLSktDvyaE",
+                    "id": "Ugw2KKLL7Bd2bBZ5zF54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sehr hilfreich 🙂",
+                        "textOriginal": "Sehr hilfreich 🙂",
+                        "authorDisplayName": "Aleksandra",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Jmxp2rfgMZNI-jR_S1D6B4RNAwUC19Wa5Abl-cN-x5RVie55L7c9aRHXW7t5aLXA9ssQyDZ8NgE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UClXxwrPXGgHxqUzFvXm3avA",
+                        "authorChannelId": {
+                            "value": "UClXxwrPXGgHxqUzFvXm3avA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-06T04:48:17Z",
+                        "updatedAt": "2021-02-06T04:48:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_8Cn7P5qhPYpLhbUw0qeTSG8l9c",
+            "id": "Ugwi2KSIHxq8jUpoKSh4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "99tuVjsnqzNpFAwAXTYn2P5y50I",
+                    "id": "Ugwi2KSIHxq8jUpoKSh4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "der ist doch Franzose",
+                        "textOriginal": "der ist doch Franzose",
+                        "authorDisplayName": "Kerim Yanar",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_hXnSf-_NczIhw-P6oVjq_0Jr2XqeKs4aY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCEplUzytCHkNrUgFNQvuZ9w",
+                        "authorChannelId": {
+                            "value": "UCEplUzytCHkNrUgFNQvuZ9w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-02-03T21:54:57Z",
+                        "updatedAt": "2021-02-03T21:54:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6Uz3oYsylYMK81oNrdw7pV3Gndo",
+            "id": "Ugzz48ZlThGr6JKkhT54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "tEVU91EY0Z2gq1dZySL3F-kL_X4",
+                    "id": "Ugzz48ZlThGr6JKkhT54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=5m56s\">5:56</a> etwas unerwartetes wie z.B. eine Pandemie^^",
+                        "textOriginal": "5:56 etwas unerwartetes wie z.B. eine Pandemie^^",
+                        "authorDisplayName": "Tuzapi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9Z6cg3LfBV__7d48HrBPpnEZi5yN6b8HqT6IWFJA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCoYy8Dv-6zaP1qhVLIRvJ2Q",
+                        "authorChannelId": {
+                            "value": "UCoYy8Dv-6zaP1qhVLIRvJ2Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-01-22T00:42:04Z",
+                        "updatedAt": "2021-01-22T00:42:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "E5h9Qmq2iN4aYF4Z2Ww4cSy9RuM",
+            "id": "UgzysqE3bo7aKUwq5YN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Hj-CBdvopJ2LnuNT8VRlsraY_HA",
+                    "id": "UgzysqE3bo7aKUwq5YN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=3m42s\">3:42</a> monatlisch... Joseph Goebbels wants to know your location.",
+                        "textOriginal": "3:42 monatlisch... Joseph Goebbels wants to know your location.",
+                        "authorDisplayName": "Flo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_uqNcBO0plNBVzV9ArEnglHRXK1S-Br_aq_n04OHbOgbGdZseHeIXu1r-0RJvJ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCuHps4yVsgVA3HLqVdy2piA",
+                        "authorChannelId": {
+                            "value": "UCuHps4yVsgVA3HLqVdy2piA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2021-01-20T17:30:18Z",
+                        "updatedAt": "2021-01-20T17:30:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "W4Uy4r2bvquvsUhcqqbo0Ic6BiQ",
+            "id": "UgxYZGI8FsmBJAW3OLV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "stoRM7pzRFx8TPKJuTdtnoZ5QWM",
+                    "id": "UgxYZGI8FsmBJAW3OLV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Hey! ich hätte eine Frage :) undzwar habe ich mir ein auto finanziert welches ich noch die nächsten 4 Jahre zahlen muss. Nun wird immer wieder vor dem &quot;investment&quot; gesagt das man sich erst von seinen schulden befreien soll. Ich würde sehr gerne schon mit dem Investieren anfangen, denn so würde ich ja 4 Jahre Zeit quasi wegwerfen. Monatlich hätte ich das Geld zur verfügung um eine Monatliche Sparrate problemlos aufopfern zu können. Wäre das nun falsch? oder sollte ich tatsächlich das überschüssige geld einfach zur seite legen ohne zu investieren und dann erst nach 4 jahren das angesparte geld in ein investment stecken? LG David",
+                        "textOriginal": "Hey! ich hätte eine Frage :) undzwar habe ich mir ein auto finanziert welches ich noch die nächsten 4 Jahre zahlen muss. Nun wird immer wieder vor dem \"investment\" gesagt das man sich erst von seinen schulden befreien soll. Ich würde sehr gerne schon mit dem Investieren anfangen, denn so würde ich ja 4 Jahre Zeit quasi wegwerfen. Monatlich hätte ich das Geld zur verfügung um eine Monatliche Sparrate problemlos aufopfern zu können. Wäre das nun falsch? oder sollte ich tatsächlich das überschüssige geld einfach zur seite legen ohne zu investieren und dann erst nach 4 jahren das angesparte geld in ein investment stecken? LG David",
+                        "authorDisplayName": "Schalom",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/9KUHLktFv_efuBlQbUmhTzBm7iFInj881MZg_JBUHFrxnLB0DS8f_BO-MO8uuoK1ojp2FjkPm5Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC7r7xK42SNkGyVaqgGPNgyg",
+                        "authorChannelId": {
+                            "value": "UC7r7xK42SNkGyVaqgGPNgyg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-01-18T09:40:56Z",
+                        "updatedAt": "2021-01-18T09:40:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "a9pWixPtTje-DxJbgLgQdD3axKM",
+            "id": "Ugw6u4vNndI8ZJy-IHN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "CNhVw0Iv8_jMtqsHLGkCryo5DoE",
+                    "id": "Ugw6u4vNndI8ZJy-IHN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Der Staat kriegt das ja auch nicht hin trotz Rekord Steuer Einnahmen, da wird schon ein ausgeglichener Haushalt gefeiert obwohl man so viel Schulden hat aus den Vorjahren",
+                        "textOriginal": "Der Staat kriegt das ja auch nicht hin trotz Rekord Steuer Einnahmen, da wird schon ein ausgeglichener Haushalt gefeiert obwohl man so viel Schulden hat aus den Vorjahren",
+                        "authorDisplayName": "Matthias Kalweit",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9ijwaWAidrNlB1Lc6FK0-OgbE39yGF9RcToK5D=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCL6jE9zXm8151YcTjOOYPzA",
+                        "authorChannelId": {
+                            "value": "UCL6jE9zXm8151YcTjOOYPzA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-01-02T20:28:31Z",
+                        "updatedAt": "2021-01-02T20:28:31Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qfKzsAAaDVXKbKyO_oXbxA6lM2o",
+            "id": "UgwkxwkeUbfn_8vDun54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jUt85W2f2Ua1x6zhaTWLqK6ZUgU",
+                    "id": "UgwkxwkeUbfn_8vDun54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Puh, kann mir jemand einen Tipp geben wie ich erfahren kann, ob sich meine private Riester lohnt?",
+                        "textOriginal": "Puh, kann mir jemand einen Tipp geben wie ich erfahren kann, ob sich meine private Riester lohnt?",
+                        "authorDisplayName": "lugo jenkins",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8T_bguQm5vkDrj_FwNo0iBh0ykiLqg3VOK-gCj=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCnAcoqjlIBUj_QM2p8hYs6Q",
+                        "authorChannelId": {
+                            "value": "UCnAcoqjlIBUj_QM2p8hYs6Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-12-29T15:38:12Z",
+                        "updatedAt": "2020-12-29T15:38:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JQLYn3SWJ1HMs8zkKifSutKuu0U",
+            "id": "UgxftUBUCdSKWxD30F94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "92GgkApp4-vh8igo1Hbt4mrVxjI",
+                    "id": "UgxftUBUCdSKWxD30F94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Du willst mehr verdienen? Einfach höheres Einkommen generieren!",
+                        "textOriginal": "Du willst mehr verdienen? Einfach höheres Einkommen generieren!",
+                        "authorDisplayName": "Smitty Werben Jaggerman-Jensen",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9OL1L7PS4YW_EIM65_tao1voxr0035_sSWiR60=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCR2zrEtD4ypTcPS1g9Mwggg",
+                        "authorChannelId": {
+                            "value": "UCR2zrEtD4ypTcPS1g9Mwggg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-12-29T09:14:01Z",
+                        "updatedAt": "2020-12-29T09:14:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "csilcYmEN8dZVuXUemI_fORp2Hs",
+            "id": "UgxntxkwjS8Nkz04pl54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ahhhTP0yy76zqaqd2-zpPYw0nsc",
+                    "id": "UgxntxkwjS8Nkz04pl54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich würde das Ersparte Fiatgeld nie auf einem Konto lagern!!!<br>Lieber ein externes Schliessfach mieten!",
+                        "textOriginal": "Ich würde das Ersparte Fiatgeld nie auf einem Konto lagern!!!\nLieber ein externes Schliessfach mieten!",
+                        "authorDisplayName": "Ramose Neferamun",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9odsUv-fSc6fFV2baBorWc7r_7-w9DULcQMjhv=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCF1TluGNfzzdh5ryrazVIHQ",
+                        "authorChannelId": {
+                            "value": "UCF1TluGNfzzdh5ryrazVIHQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-12-27T19:44:55Z",
+                        "updatedAt": "2020-12-27T19:44:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-ziUPzkOrXr8svFCMzQinetVlHQ",
+            "id": "Ugxat3tHfyfhAPgzlSB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bgbaZc8ooEojHho5hS4c_gTEc_4",
+                    "id": "Ugxat3tHfyfhAPgzlSB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "super Video.",
+                        "textOriginal": "super Video.",
+                        "authorDisplayName": "Kefa Hatumi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-ZKbeTOMbBTm1yh84C-BIP0LUZ1xg2w37AOg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCSlyRcJ-ggH2uOqrjsV1H5w",
+                        "authorChannelId": {
+                            "value": "UCSlyRcJ-ggH2uOqrjsV1H5w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-12-10T22:27:32Z",
+                        "updatedAt": "2020-12-10T22:27:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "A4GLGwk32dWETb0GDp-VvheCJi0",
+            "id": "UgxXElV-hsvglH1T9iN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "brNKpn1AwUq7rC8KbNTtUQzgGNk",
+                    "id": "UgxXElV-hsvglH1T9iN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich habe 292$ verdint soll ich das auch investieren? Ich weiß ja nicht ob das genug ist.",
+                        "textOriginal": "Ich habe 292$ verdint soll ich das auch investieren? Ich weiß ja nicht ob das genug ist.",
+                        "authorDisplayName": "Adrijana",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_yxQNMyBKFZEzGncbedLkW1faleCKJ5gj-dVyR4Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCJfMOAvYzsifMNBD8Jwliqw",
+                        "authorChannelId": {
+                            "value": "UCJfMOAvYzsifMNBD8Jwliqw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-11-25T13:57:09Z",
+                        "updatedAt": "2020-11-25T13:57:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1CwuJsTZHKk7aHlvIxGMQ9csi7w",
+            "id": "Ugy3_AiUBLR5-69OHlJ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "27S_1HuwcAIgzyMQ_TIFTILDWMI",
+                    "id": "Ugy3_AiUBLR5-69OHlJ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Fluss=Flusspferd Ahhhh! nu versteh ich",
+                        "textOriginal": "Fluss=Flusspferd Ahhhh! nu versteh ich",
+                        "authorDisplayName": "KrisArtFox",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/zkegHFcZufKTBQQmL_wBCWy46CIqBDqaWZnEKkL3G2voebyLlB7P-lKq4e8bW8h-X-LaGuUDNw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCtStxGio9lGucgJXZHV4Gug",
+                        "authorChannelId": {
+                            "value": "UCtStxGio9lGucgJXZHV4Gug"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-11-13T23:37:28Z",
+                        "updatedAt": "2020-11-13T23:37:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Ll6yEvpLOp3Urd8luramls2-8LY",
+            "id": "UgyH088JlP73ODMp4NZ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xd9_l06tXm_bk5FGo41ZryqDtLI",
+                    "id": "UgyH088JlP73ODMp4NZ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=3m42s\">3:42</a> Da hat sich der Franzose eingeschlichen. Monatlisch, cherie!",
+                        "textOriginal": "3:42 Da hat sich der Franzose eingeschlichen. Monatlisch, cherie!",
+                        "authorDisplayName": "meister1176",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu80JGkRAD_HILbdfrryFEyuUw7F7AhzhwLVNSWD=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UChR-M1hfbLPI61rv85FckQg",
+                        "authorChannelId": {
+                            "value": "UChR-M1hfbLPI61rv85FckQg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2020-09-29T17:48:09Z",
+                        "updatedAt": "2020-09-29T17:48:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "t-JHhGkAiT7Nz20DGp7RP7nZjqg",
+            "id": "UgxGra_Lnr-RRK2sKc14AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ybB_u_syxNBWdvpMiJeft3K21WA",
+                    "id": "UgxGra_Lnr-RRK2sKc14AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Erklärung zu ungenau wohne jetzt auf dem Jupiter",
+                        "textOriginal": "Erklärung zu ungenau wohne jetzt auf dem Jupiter",
+                        "authorDisplayName": "Just",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-NkXZOYDo2Zk-cWyyrjjagMOomjrRf8KEo5kKh=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCHfYB3N2ZjCCYMT0CQzcv5w",
+                        "authorChannelId": {
+                            "value": "UCHfYB3N2ZjCCYMT0CQzcv5w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-09-29T14:20:12Z",
+                        "updatedAt": "2020-09-29T14:20:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "o-ATVKox3rNd4xAYu3r6XPElNyQ",
+            "id": "UgwzzWdK5HxTHA5F0gx4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OYtW-PdB5jqBilQVAkacehsAAqU",
+                    "id": "UgwzzWdK5HxTHA5F0gx4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Da ich dieses Video aus langer weile grade noch mal schaue, wollte ich mal sagen, DANKE. Dank meines Polsters was ich mir anlegen wollte als Schutzschild, bin ich in der lage ohne große Probleme unsere kaputte Waschmaschine direkt zu ersetzen. Wahrscheinlich hätte ich direkt zu viel investiert und hätte sonst nix mehr da.",
+                        "textOriginal": "Da ich dieses Video aus langer weile grade noch mal schaue, wollte ich mal sagen, DANKE. Dank meines Polsters was ich mir anlegen wollte als Schutzschild, bin ich in der lage ohne große Probleme unsere kaputte Waschmaschine direkt zu ersetzen. Wahrscheinlich hätte ich direkt zu viel investiert und hätte sonst nix mehr da.",
+                        "authorDisplayName": "Blumbum Productions",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_hFb_m8zoBTf0huwSJqi7oM7gLLoZuyu0liAk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCAn2R9qNxpR15MPjotJzKkA",
+                        "authorChannelId": {
+                            "value": "UCAn2R9qNxpR15MPjotJzKkA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-09-20T07:32:44Z",
+                        "updatedAt": "2020-09-20T07:32:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "WuuVCF7dpJPCu-FXpjGrg5obvQc",
+            "id": "Ugzk-e0AScHBSEPrdFh4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TzDnGBjnyZlzaXPsQLL1OsObEm4",
+                    "id": "Ugzk-e0AScHBSEPrdFh4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Hi  erklären sie mir Bitte über Bau spar Darlehen? Der Nachteil und der Vorteil beim haus finnanzirung.",
+                        "textOriginal": "Hi  erklären sie mir Bitte über Bau spar Darlehen? Der Nachteil und der Vorteil beim haus finnanzirung.",
+                        "authorDisplayName": "Daniel Asefaw",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/RfVOrwnOOZAsGK8c5a4gOgOocFee8fpDltseNt5fc73puDEJ1EFpkzB4ySrH1MdngMi2jvZK0g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC_1rcc-Q9RqcLttv4BlxqfQ",
+                        "authorChannelId": {
+                            "value": "UC_1rcc-Q9RqcLttv4BlxqfQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-08-26T02:10:08Z",
+                        "updatedAt": "2020-08-26T02:10:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PlDlzBBz71v77FIvTbTFdeu37-g",
+            "id": "Ugy5MqUrQMhNnVIjCE14AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hAzbCrV0RcFC6w3wMMDYta_JzVo",
+                    "id": "Ugy5MqUrQMhNnVIjCE14AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Thomas du bist ne absolute Legende. Danke für all das an Wissen was du uns gibst! 🙏🏽👌🏽",
+                        "textOriginal": "Thomas du bist ne absolute Legende. Danke für all das an Wissen was du uns gibst! 🙏🏽👌🏽",
+                        "authorDisplayName": "Steve Oh",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8s9nmlNeIBdJA-syqRjYS6qDogAQwcRnT1zA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC-NRRkHDX8U2FN1OweMNRNA",
+                        "authorChannelId": {
+                            "value": "UC-NRRkHDX8U2FN1OweMNRNA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2020-08-24T08:42:15Z",
+                        "updatedAt": "2020-08-24T08:42:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "vo9HKZpnzga2gchkEHc7vPut084",
+            "id": "Ugy5u5ZHWldZJpJRf1B4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zV7Iz5z9VsGZS8XMjJoMDuuR4No",
+                    "id": "Ugy5u5ZHWldZJpJRf1B4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Dafür reichen keine 10 Jahre. Finanzielle Bildung ist ein Prozess, der niemals endet.",
+                        "textOriginal": "Dafür reichen keine 10 Jahre. Finanzielle Bildung ist ein Prozess, der niemals endet.",
+                        "authorDisplayName": "Ibn Hamza Azziz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9QRgLIwflNqy0GiwMSbYcCSm9RolA15CJseg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCDa8_vsAezd08c3wHeDCwIg",
+                        "authorChannelId": {
+                            "value": "UCDa8_vsAezd08c3wHeDCwIg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-08-20T13:48:43Z",
+                        "updatedAt": "2020-08-20T13:48:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "STqFahokNmjWSn9a44O9NXMOdGY",
+            "id": "UgwqxYhkgJ31vmjM33x4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "l7O6zsJDMWUJJU2gzAwM_97Qpxs",
+                    "id": "UgwqxYhkgJ31vmjM33x4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Kann ich mit einer monatlichen Spar Rate von 150€ überhaupt irgendwas erreichen? Habe ein Einkommen von 1340€ netto",
+                        "textOriginal": "Kann ich mit einer monatlichen Spar Rate von 150€ überhaupt irgendwas erreichen? Habe ein Einkommen von 1340€ netto",
+                        "authorDisplayName": "Marv",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9Lv231CiAj3fizfvHCV_Z00M6dUp9748PStsP0tA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCrdsuowtCmZD-k5Y7DZ-jPw",
+                        "authorChannelId": {
+                            "value": "UCrdsuowtCmZD-k5Y7DZ-jPw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-08-16T16:31:29Z",
+                        "updatedAt": "2020-08-16T16:31:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Zk56DwDa3_N8AksOPE1o0ymwvWk",
+            "id": "UgxbBjbqCkZtHxau2XV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "r6Tfg1vig0dKt__p9lnCNEF6Zak",
+                    "id": "UgxbBjbqCkZtHxau2XV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Hab mich am Kaffee verschluckt bei <a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=4m08s\">4:08</a> 😂",
+                        "textOriginal": "Hab mich am Kaffee verschluckt bei 4:08 😂",
+                        "authorDisplayName": "andy1356000",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8hCzeGq6NkyD2p7vgZ3YtwVRMZnSP2wFZweJkN=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC3j7TPRGWNp8-2ffLoDar5A",
+                        "authorChannelId": {
+                            "value": "UC3j7TPRGWNp8-2ffLoDar5A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-08-14T06:08:29Z",
+                        "updatedAt": "2020-08-14T06:08:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "uQypfX99dkFxOXVo-hWp7Z_cgrA",
+            "id": "Ugyfg_cESP6NHUbqoaR4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ClVo3PKINzKaQoRmoJcYBQEg9XU",
+                    "id": "Ugyfg_cESP6NHUbqoaR4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich habe momentan keine Schulden und habe 4 Netto Gehälter gespart.  Jetzt würde ich gern investieren aber momentan ist alles unsicher. Weiß nicht was ich machen soll.",
+                        "textOriginal": "Ich habe momentan keine Schulden und habe 4 Netto Gehälter gespart.  Jetzt würde ich gern investieren aber momentan ist alles unsicher. Weiß nicht was ich machen soll.",
+                        "authorDisplayName": "Ana JHMH",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_dfJ9vdYy9IJxOCKO-6r2Ta3r_SQUIkv1hjV52r-M=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCa89oBnJwFv29KINThtcRww",
+                        "authorChannelId": {
+                            "value": "UCa89oBnJwFv29KINThtcRww"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-08-08T19:25:20Z",
+                        "updatedAt": "2020-08-08T19:25:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BrK-Cyfd_8PB1EVX2S_QmZHXiiI",
+            "id": "UgySJNvCpRT2aO5Ez8x4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-UWr7A3L5i15rytrl95KxBxZ57E",
+                    "id": "UgySJNvCpRT2aO5Ez8x4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Super erklärt. Danke",
+                        "textOriginal": "Super erklärt. Danke",
+                        "authorDisplayName": "Traveller777Fly",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8O8i2aMfcO6rvARLM02T0MIld4ijL7wLk8lcrB=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCnciJai97wzTPH4CmEXEcBg",
+                        "authorChannelId": {
+                            "value": "UCnciJai97wzTPH4CmEXEcBg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-08-06T18:52:11Z",
+                        "updatedAt": "2020-08-06T18:52:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "07hIJK_YX_KTXGxWU-7ySD-_n3U",
+            "id": "UgyrQPOsUdXwMi7cGF14AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FmvG56a6gi-gmsHHlE95_HQ3IeQ",
+                    "id": "UgyrQPOsUdXwMi7cGF14AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "indem du &#39;einfach mehr verdienst&#39; hört sich gut an 😂",
+                        "textOriginal": "indem du 'einfach mehr verdienst' hört sich gut an 😂",
+                        "authorDisplayName": "Avn",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9d8WHIZtX5N9TxbiKI_JFRqWGgTkzUB6YiWppbbg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCZuHlXt0zDYU8firo9TafZg",
+                        "authorChannelId": {
+                            "value": "UCZuHlXt0zDYU8firo9TafZg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-08-02T10:36:32Z",
+                        "updatedAt": "2020-08-02T10:36:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "kdw1RcKShGG5EjCk1uVbvG8htz4",
+            "id": "UgysB2aJpc64y9n9lMB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "e76hsIWmbAmv8d3E74JwP0i97fo",
+                    "id": "UgysB2aJpc64y9n9lMB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Mal ne Frage an ETF Kenner, gibt es einen ähnlichen etf/Index zum msci world der mehr oder nur soziale Unternehmen hat. Ich tue mich schwer mein Geld in Unternehmen zu investieren die Kinder ausbeuten. (Coca Cola, Nestlé, Apple, etc.)",
+                        "textOriginal": "Mal ne Frage an ETF Kenner, gibt es einen ähnlichen etf/Index zum msci world der mehr oder nur soziale Unternehmen hat. Ich tue mich schwer mein Geld in Unternehmen zu investieren die Kinder ausbeuten. (Coca Cola, Nestlé, Apple, etc.)",
+                        "authorDisplayName": "Tech & More",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8gIybj_Bt_a_Q1leI4JLpNJmASCMe6NRiM0mtXVQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCGxRscZy3FI7oJfL_w4Vttw",
+                        "authorChannelId": {
+                            "value": "UCGxRscZy3FI7oJfL_w4Vttw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-08-02T08:25:14Z",
+                        "updatedAt": "2020-08-02T08:25:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2EUn-MX6jOzU34mW56kJkeXKy74",
+            "id": "Ugxxv8OI0cnRbCqbziF4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "T2_jXmKLvfq1gW44xEwDnjwoIow",
+                    "id": "Ugxxv8OI0cnRbCqbziF4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ganz ehrlich, du bist voll das Opfer. Du bringst diese schulische BWL scheiße bei. Erklär lieber was über das geheime Wissen wie: Immobilien vollfinanzieren und 15 Jahre später sein eingesetztes Eigenkapital mehr als verzehnfacht zu haben. Jedes Jahr eine Immobilie und Game over.",
+                        "textOriginal": "Ganz ehrlich, du bist voll das Opfer. Du bringst diese schulische BWL scheiße bei. Erklär lieber was über das geheime Wissen wie: Immobilien vollfinanzieren und 15 Jahre später sein eingesetztes Eigenkapital mehr als verzehnfacht zu haben. Jedes Jahr eine Immobilie und Game over.",
+                        "authorDisplayName": "Alex Fiebig",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9kijfJCQSupCbLwBO6zuUzNPJQTvmPGICK-6pa=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC7W3NKbePeVqRcA_J33dWcg",
+                        "authorChannelId": {
+                            "value": "UC7W3NKbePeVqRcA_J33dWcg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-07-28T18:31:07Z",
+                        "updatedAt": "2020-07-28T18:31:07Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zVHOtLCc5adkbnw4S-EkGX0Dfps",
+            "id": "Ugw4ZBQzkJ0A0sYXCad4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3SojOBtfsVd9mn4ZZkK9tfyqELY",
+                    "id": "Ugw4ZBQzkJ0A0sYXCad4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sich erst zu bezahlen stammt aus dem Buch Rich dad poor dad",
+                        "textOriginal": "Sich erst zu bezahlen stammt aus dem Buch Rich dad poor dad",
+                        "authorDisplayName": "mfg",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9w6cK16zXkjHRuMHYl7O1JgaDOo6MznKvOeoJd=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCEcxaenrSfvWnhjakL1iwCw",
+                        "authorChannelId": {
+                            "value": "UCEcxaenrSfvWnhjakL1iwCw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-07-26T07:55:32Z",
+                        "updatedAt": "2020-07-26T07:55:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RY0izDNbmyaVCpDRRK0iZ7ZmuBQ",
+            "id": "UgxRD2p55QdDJ8cT7kR4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5duTZSltybC3h8EKx4MoMi_N1xU",
+                    "id": "UgxRD2p55QdDJ8cT7kR4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich weiß wie immer genauso viel wie Vorher......KEIN PLAN",
+                        "textOriginal": "Ich weiß wie immer genauso viel wie Vorher......KEIN PLAN",
+                        "authorDisplayName": "WMB1209 wmb1209",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9aiUAkYkEcZwPAAVwN3bIXxDMJlFZqfzLpmT4d=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCI4B2mQFHWEKKv1_vSGleZQ",
+                        "authorChannelId": {
+                            "value": "UCI4B2mQFHWEKKv1_vSGleZQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-07-16T12:52:18Z",
+                        "updatedAt": "2020-07-16T12:52:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "n97p3wSkKY6cxj73uDPUtMVKMvY",
+            "id": "Ugyss8jioY2exofahb54AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "49-oeAq1EdRbiMyJdHT1KYsRDP4",
+                    "id": "Ugyss8jioY2exofahb54AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Der Moment wo gesagt wird DU musst für dich Ausrechnen ob sich der Riester Lohnt ist für mich der Moment wo ich direkt kein Bock mehr habe! Verdammt nochmal ich blick diesen RiesterDreck nicht und hab schlicht kein Plan ob er gut oder Schlecht ist! Sooooo Demotivierend eh",
+                        "textOriginal": "Der Moment wo gesagt wird DU musst für dich Ausrechnen ob sich der Riester Lohnt ist für mich der Moment wo ich direkt kein Bock mehr habe! Verdammt nochmal ich blick diesen RiesterDreck nicht und hab schlicht kein Plan ob er gut oder Schlecht ist! Sooooo Demotivierend eh",
+                        "authorDisplayName": "WMB1209 wmb1209",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9aiUAkYkEcZwPAAVwN3bIXxDMJlFZqfzLpmT4d=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCI4B2mQFHWEKKv1_vSGleZQ",
+                        "authorChannelId": {
+                            "value": "UCI4B2mQFHWEKKv1_vSGleZQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-07-16T12:43:58Z",
+                        "updatedAt": "2020-07-16T12:43:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qaV_7Od8vv5Z8Jaj7YxGOemLiLw",
+            "id": "UgzWuN-Ry94Y_TGdWrZ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Rw7BvSXzdzKo3Iz2DkA0ZBfTOKE",
+                    "id": "UgzWuN-Ry94Y_TGdWrZ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Schaue mir das Video mit 0.5 x Speed an. Zeit ist Geld 😁",
+                        "textOriginal": "Schaue mir das Video mit 0.5 x Speed an. Zeit ist Geld 😁",
+                        "authorDisplayName": "Fireblader Fux",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_yQcnQh_aU-Rmru5NxJyjgYQQoQcgfaLWVXJJV5g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvGglk6mAzkFbdMybZ64PFA",
+                        "authorChannelId": {
+                            "value": "UCvGglk6mAzkFbdMybZ64PFA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-06-26T17:16:05Z",
+                        "updatedAt": "2020-06-26T17:16:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JCmeEIm1bkChhxwat0gcVvavl7A",
+            "id": "Ugw22-CzIiiyb-y2mFV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "UcS0fXcNZbHoo6KkJGgc_vyfHuc",
+                    "id": "Ugw22-CzIiiyb-y2mFV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Papalapap komm in die Gruppe",
+                        "textOriginal": "Papalapap komm in die Gruppe",
+                        "authorDisplayName": "Haksnybkdkw",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/IyuuGoSvXLMfxoVe1MDLnXaercWrTCoa9pFOkd2oie5_f3Kz6yv0ETTEq0QCSU6Z7pynZUw0Lg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCSQ1WZOs_dea_FMr3Z6tzbA",
+                        "authorChannelId": {
+                            "value": "UCSQ1WZOs_dea_FMr3Z6tzbA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-06-25T04:53:22Z",
+                        "updatedAt": "2020-06-25T04:53:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mLsJMUkbtMQNdCjkrw8n518P1fg",
+            "id": "Ugw52ZQLNwEju8E0scN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "y4_K0G7fACNFyHSct0T8_P7X9PQ",
+                    "id": "Ugw52ZQLNwEju8E0scN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sehr informativ und motivierend!",
+                        "textOriginal": "Sehr informativ und motivierend!",
+                        "authorDisplayName": "Flo Rize",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-5q3qapPQX9GSX8jjTc77BTKqH6s7K1vhcxeyC4g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCy39ts32DcGOupcKkymlV0A",
+                        "authorChannelId": {
+                            "value": "UCy39ts32DcGOupcKkymlV0A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-06-17T14:45:14Z",
+                        "updatedAt": "2020-06-17T14:45:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "W_D41ifqqMf22CeYHvm5fGJ0tJs",
+            "id": "UgyF_skmDdLDbwL9ZM94AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "74Sn8ufjfTY_e8AFa6lHz5BgLKs",
+                    "id": "UgyF_skmDdLDbwL9ZM94AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Würde gerne minimalistisch leben. Also währe spaaren das kleinste Problem für mich",
+                        "textOriginal": "Würde gerne minimalistisch leben. Also währe spaaren das kleinste Problem für mich",
+                        "authorDisplayName": "Emanuel",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9CS_QXUkUI0BmvDsf8Ve0PrCaC96KIgC99jg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCKB6tkJiGlCIlCekwz9cLBA",
+                        "authorChannelId": {
+                            "value": "UCKB6tkJiGlCIlCekwz9cLBA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-06-10T12:25:07Z",
+                        "updatedAt": "2020-06-10T12:25:07Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9790HzNyd5Yqf17h0sjUWtyIiTI",
+            "id": "UgxTAwssxytvDtPnQPh4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "tzxm50w1nte2kSPwV08Q_Cap4BI",
+                    "id": "UgxTAwssxytvDtPnQPh4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Macht es nicht Sinn trotz Schulden, weiter zu investieren? Aktuell zahle ich Kredit zurück und auch in mein Depot für ETFs ..  Theoretisch könnte ich auch 100% in den Kreidt stecken aber mein Ziel ist mittelfristig den Kredit durch diese Erträge zu decken. Für einen Baugrund MUSS man einen Kredit aufnehmen weil mehr als 100k hat man nicht so schnell ...",
+                        "textOriginal": "Macht es nicht Sinn trotz Schulden, weiter zu investieren? Aktuell zahle ich Kredit zurück und auch in mein Depot für ETFs ..  Theoretisch könnte ich auch 100% in den Kreidt stecken aber mein Ziel ist mittelfristig den Kredit durch diese Erträge zu decken. Für einen Baugrund MUSS man einen Kredit aufnehmen weil mehr als 100k hat man nicht so schnell ...",
+                        "authorDisplayName": "SpinnedRock",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9b7bBm-KaJulS5p-JsCX7ul86Zo4nyZy6c3yu3=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCUeGpUPf0KrIdAp9xJXZbqQ",
+                        "authorChannelId": {
+                            "value": "UCUeGpUPf0KrIdAp9xJXZbqQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-05-31T00:05:55Z",
+                        "updatedAt": "2020-05-31T00:05:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "o1d7iDyuRdW2PbFTQTic7bkHjuI",
+            "id": "UgybicBkKZDcZWNONiF4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "CQ24PUSnWUEnegY8gPOhto7zx78",
+                    "id": "UgybicBkKZDcZWNONiF4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=3m04s\">3:04</a> oder einfach STINKESTINKEREICH zu werden :D",
+                        "textOriginal": "3:04 oder einfach STINKESTINKEREICH zu werden :D",
+                        "authorDisplayName": "Bassinus",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_tY6IILgtZOsVvZdBeBSlBaj59gL0SpKt2j4X5vg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCWw9nOSOZvG-5F4yqterw0g",
+                        "authorChannelId": {
+                            "value": "UCWw9nOSOZvG-5F4yqterw0g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-05-29T14:10:10Z",
+                        "updatedAt": "2020-05-29T14:10:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "TXpkAr4muBKufeiwJJsWFQfsYsg",
+            "id": "Ugw18Du0aWOFCGoeRBN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-rDFFtzUslSAE80L6ffEg-zRhDg",
+                    "id": "Ugw18Du0aWOFCGoeRBN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "boxh nxht efscgazr",
+                        "textOriginal": "boxh nxht efscgazr",
+                        "authorDisplayName": "Manuel Kopp",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8YuL2pfUZEIA7Fz1sESIaxSX3l7OoiU5SUdjDifg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCGt9Os5_BguPTtZatQpunow",
+                        "authorChannelId": {
+                            "value": "UCGt9Os5_BguPTtZatQpunow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-05-28T23:19:51Z",
+                        "updatedAt": "2020-05-28T23:19:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-HY5HbxGHkHJozHxdTjASBwkz3A",
+            "id": "UgxKe274rQ0zCj2YOuN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "P1RjOTVLs21nT0vsvlCVW9SVGLg",
+                    "id": "UgxKe274rQ0zCj2YOuN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "instant push",
+                        "textOriginal": "instant push",
+                        "authorDisplayName": "Manuel Kopp",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8YuL2pfUZEIA7Fz1sESIaxSX3l7OoiU5SUdjDifg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCGt9Os5_BguPTtZatQpunow",
+                        "authorChannelId": {
+                            "value": "UCGt9Os5_BguPTtZatQpunow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-05-28T23:19:19Z",
+                        "updatedAt": "2020-05-28T23:19:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "vbljk3gi7gGZAEVN268bz6C7qe0",
+            "id": "Ugyqhj572WmhvYOjhuJ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fEYAtktFI7P-uGz4k8ARGd0mU1A",
+                    "id": "Ugyqhj572WmhvYOjhuJ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Noch die 10 Minuten für Werbung erreicht😂, hast du dir aber verdient",
+                        "textOriginal": "Noch die 10 Minuten für Werbung erreicht😂, hast du dir aber verdient",
+                        "authorDisplayName": "BoundingSteak24",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/NhTLnpaD49Jwbfum4NAY5TrAwvkSOeSBDpbxSglLCo3hSgnaQ85CccLGZTRGL0rH6GiB0CYuJGk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCf92fvwmM-EMyO_MMOheeKA",
+                        "authorChannelId": {
+                            "value": "UCf92fvwmM-EMyO_MMOheeKA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2020-05-27T14:46:08Z",
+                        "updatedAt": "2020-05-27T14:46:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "HQN-MW_LEXeTZa3DE6geCUfWFDQ",
+            "id": "UgxGmDf5iogcGKLNhDV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OscCm1iJGRnovDLZKXNfWQFQvuc",
+                    "id": "UgxGmDf5iogcGKLNhDV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Meine Waschmachine kostet auch immer 4 Nettomonatsgehälter",
+                        "textOriginal": "Meine Waschmachine kostet auch immer 4 Nettomonatsgehälter",
+                        "authorDisplayName": "Hans Wurst",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_NvxzA5zhJ1hgtRaVFJIudJj-PAMkNRBSid7Gj=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCGw3PwunUACbZlYHhQRazIA",
+                        "authorChannelId": {
+                            "value": "UCGw3PwunUACbZlYHhQRazIA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-05-22T16:32:22Z",
+                        "updatedAt": "2020-05-22T16:32:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "E7jaSFnKJACCakV6ya4VBEspx6c",
+            "id": "Ugyzn07n_YGYd2jPh254AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qt4eux659yd1WaW2j_TA4dyxor0",
+                    "id": "Ugyzn07n_YGYd2jPh254AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Vielen Dank für das lehrreiche Video. Meiner Meinung nach sollten das Thema Finanzen und das Thema Gesundheit zwingende Schulfächer sein.",
+                        "textOriginal": "Vielen Dank für das lehrreiche Video. Meiner Meinung nach sollten das Thema Finanzen und das Thema Gesundheit zwingende Schulfächer sein.",
+                        "authorDisplayName": "HELDENMODUS",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8HagPMZKRSCJoWdQ_rI5WQcAkAVbBpDWAEc2twlw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCpV75IerM4YgOfFB8FlzqKw",
+                        "authorChannelId": {
+                            "value": "UCpV75IerM4YgOfFB8FlzqKw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2020-05-14T04:53:15Z",
+                        "updatedAt": "2020-05-14T04:53:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "nrUUo5MkC6pmJTdBg9ip0tkfdss",
+            "id": "UgwplnUJbrJ3I--sInB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ampFfarydqu8ySGs7ayJneSQoPw",
+                    "id": "UgwplnUJbrJ3I--sInB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "total überflüssiges video ihr braucht nur einen Tipp: BUY LOW SELL HIGH 😅😂🤣",
+                        "textOriginal": "total überflüssiges video ihr braucht nur einen Tipp: BUY LOW SELL HIGH 😅😂🤣",
+                        "authorDisplayName": "Daniel Lugo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-1_wV3wD5u9F3i_KZAOsVlR6I3gPm9Iz6uKpbp=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC6IBSgNsfOn1a7IiU1jaFaA",
+                        "authorChannelId": {
+                            "value": "UC6IBSgNsfOn1a7IiU1jaFaA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-05-09T21:40:59Z",
+                        "updatedAt": "2020-05-09T21:41:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ARMOTJNkiSbMTdiGfaPfelXYCwQ",
+            "id": "UgyqqBsCk9yDV66Q7zZ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9IBkltjwSvDOZen955k3ElGMtzM",
+                    "id": "UgyqqBsCk9yDV66Q7zZ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=G3j_91syHgQ&amp;t=4m45s\">4:45</a>",
+                        "textOriginal": "4:45",
+                        "authorDisplayName": "Art-Lifestyle Vlog - MrMonkeyCheater",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9_Kqc2fxMlOtlQQ0enErQIFg4BNmv3k2o3L4bj=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCaAPwvOu6dPpBll0QiFDJtQ",
+                        "authorChannelId": {
+                            "value": "UCaAPwvOu6dPpBll0QiFDJtQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-04-16T17:39:20Z",
+                        "updatedAt": "2020-04-16T17:39:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4PYNeKE6Om-qkiw04CajMf84CsU",
+            "id": "UgxsdKAQ63r0ct6Wyup4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "d5LyZdOGyrtlKjJwFwxSHqwDXhs",
+                    "id": "UgxsdKAQ63r0ct6Wyup4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Heast du bist da geilste Hammer Infos für uns Laien Danke weiter so :)",
+                        "textOriginal": "Heast du bist da geilste Hammer Infos für uns Laien Danke weiter so :)",
+                        "authorDisplayName": "Big Boom",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9isPwZHekKHXyuZc7BZrh2Eu8zQSO9HlknIQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UChTn1aFWBJ9VL4MhIzqb-BA",
+                        "authorChannelId": {
+                            "value": "UChTn1aFWBJ9VL4MhIzqb-BA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-04-03T19:19:50Z",
+                        "updatedAt": "2020-04-03T19:19:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bPeRLIb2EPkGhJXmmWIWHhCnz9Y",
+            "id": "UgzAnJp93YJ5EqMTsJ14AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "gKK0E4kbJGCXowlsFBKAP5gL6C4",
+                    "id": "UgzAnJp93YJ5EqMTsJ14AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Frage: Was mache Ich mit einem geringfügigen Betrag einer ausländischen Währung(aktuell knapp über 100 Euro), welche seit Monaten fällt und was sich kaum in den nächsten Jahren ändern wird? Sofort in Euro umtauschen bevor das Geld komplett wertlos wird?",
+                        "textOriginal": "Frage: Was mache Ich mit einem geringfügigen Betrag einer ausländischen Währung(aktuell knapp über 100 Euro), welche seit Monaten fällt und was sich kaum in den nächsten Jahren ändern wird? Sofort in Euro umtauschen bevor das Geld komplett wertlos wird?",
+                        "authorDisplayName": "A Z",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_xj1-NVhKcuHTmo_X5kFg5tbc6l6hnVJ6-Kw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCDOGmHDvrnTgMJzXG_oYuCg",
+                        "authorChannelId": {
+                            "value": "UCDOGmHDvrnTgMJzXG_oYuCg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-03-23T14:29:58Z",
+                        "updatedAt": "2020-03-23T14:33:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "T_PDv1znbIH_L2ivxhaERTJ95bQ",
+            "id": "UgxCWZ1_mDG4O5k-APB4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2tsWkjaYRboUiWGFWYb0BI7sF-U",
+                    "id": "UgxCWZ1_mDG4O5k-APB4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Sehr informatives Video und optimal auf das Wesentliche reduziert.. Danke Finanzfluss!",
+                        "textOriginal": "Sehr informatives Video und optimal auf das Wesentliche reduziert.. Danke Finanzfluss!",
+                        "authorDisplayName": "K O",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-6DPPpIW8lCIjuSggzvp53DEdMcBCDmd-R6pHjqQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCXvRC2bjEnCF3j_4e5yyyNQ",
+                        "authorChannelId": {
+                            "value": "UCXvRC2bjEnCF3j_4e5yyyNQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-03-22T18:10:57Z",
+                        "updatedAt": "2020-03-22T18:10:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8aeFRQz6YaI1pDEe5wbtQ73LR0w",
+            "id": "UgyA2RMGonfVLnffyFl4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ma3g_vWYTMI9rOUZWy0bop8vTc8",
+                    "id": "UgyA2RMGonfVLnffyFl4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Vielen dank fürs Video.<br>Alles sehr umfangreich und einfach erklärt. Sehr deutlich gemacht und gut zu verstehen .Top",
+                        "textOriginal": "Vielen dank fürs Video.\nAlles sehr umfangreich und einfach erklärt. Sehr deutlich gemacht und gut zu verstehen .Top",
+                        "authorDisplayName": "Lucien Khalo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_eAfYLcScV6GefZnvGJWI39iUjRlDZYHl9Sw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC71FWppIgVDfw0kkhzq1hBg",
+                        "authorChannelId": {
+                            "value": "UC71FWppIgVDfw0kkhzq1hBg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-03-21T22:48:30Z",
+                        "updatedAt": "2020-03-21T22:48:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jiA_zTzj5iJH3L6jxeRk1L36D6U",
+            "id": "UgxoTgu4AsLYpE23-CJ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "JwWfatxSM9zQOBp9J_1uRaA75s8",
+                    "id": "UgxoTgu4AsLYpE23-CJ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Habt ihr auch Videos über Expert Advisor?",
+                        "textOriginal": "Habt ihr auch Videos über Expert Advisor?",
+                        "authorDisplayName": "Oli Jaschok",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9wBLVR-81jeJzwBrTCwzoBD5QJVXaw6MLd_dVaeg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCx9CQ7wevvQ4NiuvWgKrEMQ",
+                        "authorChannelId": {
+                            "value": "UCx9CQ7wevvQ4NiuvWgKrEMQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-02-25T22:44:20Z",
+                        "updatedAt": "2020-02-25T22:44:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "s23Gf9WYGzZtAcWZ7UlyD5H671g",
+            "id": "UgzyVt8ECgOdbUfJ4bZ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YZx8hkvhDEYX3W9ZcuiONbCFnIo",
+                    "id": "UgzyVt8ECgOdbUfJ4bZ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Mein Abo hast du. Danke dir",
+                        "textOriginal": "Mein Abo hast du. Danke dir",
+                        "authorDisplayName": "Ekselans",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9F-5r8ivyAx9map0Rn-QNvoGbRxGQg7CZZvg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCPSt99q8cuu1_VQmge7srBQ",
+                        "authorChannelId": {
+                            "value": "UCPSt99q8cuu1_VQmge7srBQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-02-23T11:48:49Z",
+                        "updatedAt": "2020-02-23T11:48:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ze8LGjHGrPB9V78UaamjAxc8518",
+            "id": "Ugww4iaN183r1Y9IdLR4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_98-aExpahkqHiJcqL1FPqQeSGE",
+                    "id": "Ugww4iaN183r1Y9IdLR4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Dankeschön, einfach Dankeschön für dieses Video über die Grundlagen. Ich fange damit jetzt an und wie beim Bild in Punkt 1 bekomme ich wirklich Bauchschmerzen, wenn ich an das Thema Geld denke.<br>Zeit dass es sich ändert 💪🏻🙏🏻",
+                        "textOriginal": "Dankeschön, einfach Dankeschön für dieses Video über die Grundlagen. Ich fange damit jetzt an und wie beim Bild in Punkt 1 bekomme ich wirklich Bauchschmerzen, wenn ich an das Thema Geld denke.\nZeit dass es sich ändert 💪🏻🙏🏻",
+                        "authorDisplayName": "René Gollin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu--J4EQyZ8YrxAM3vikEr--b0os39u0EFUYHA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC_RxcK5-z-JISJfM9FLU7rQ",
+                        "authorChannelId": {
+                            "value": "UC_RxcK5-z-JISJfM9FLU7rQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2020-02-15T06:52:49Z",
+                        "updatedAt": "2020-02-15T06:52:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "U_hjpKe8Gruyo0C4k8_rdLO107Y",
+            "id": "Ugw6sb4LnzyicUl7muh4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mUU2zipQd8cLUQBUUk4QLIZL4cc",
+                    "id": "Ugw6sb4LnzyicUl7muh4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Einfach den eigenen Tod faken und von vorne anfangen.",
+                        "textOriginal": "Einfach den eigenen Tod faken und von vorne anfangen.",
+                        "authorDisplayName": "FastLegEnte",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-SWZoLMkfcCQPFn0oQKOlT4I7iBKWWqRm2TgpGoA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCx5l6-vCDpJHeFJwu1QJ1TQ",
+                        "authorChannelId": {
+                            "value": "UCx5l6-vCDpJHeFJwu1QJ1TQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-02-11T21:22:04Z",
+                        "updatedAt": "2020-02-11T21:22:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "VxvZHMixQbiB3H1-FhXQVEPSN34",
+            "id": "UgysV8LdXezuYEiNwvN4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zYpXdbncG2ajJtAnVIAEfTIBB8M",
+                    "id": "UgysV8LdXezuYEiNwvN4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Ich lebe seit Jahren als (Day-)trader. Eure Videos schaue ich mir trotzdem gerne an, weil sie sind einfach gut gemacht. Und es sind immer die einfachen Dinge, welche einen nochmal zum Überlegen anstoßen.<br>Das ganze Video geht ja um den einfachen Satz, der mir in meiner Kindheit weitergegeben wurde: &quot;Die Einnahmen müssen größer als die Ausgaben sein&quot;.",
+                        "textOriginal": "Ich lebe seit Jahren als (Day-)trader. Eure Videos schaue ich mir trotzdem gerne an, weil sie sind einfach gut gemacht. Und es sind immer die einfachen Dinge, welche einen nochmal zum Überlegen anstoßen.\nDas ganze Video geht ja um den einfachen Satz, der mir in meiner Kindheit weitergegeben wurde: \"Die Einnahmen müssen größer als die Ausgaben sein\".",
+                        "authorDisplayName": "P8qzxnxfP85xZ2H3wDRV",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_HxbyXVC0iz3GANX3AgtWYzwmylS0oKLjp9Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCQHY2g86xMMTDrgpVhMeI7w",
+                        "authorChannelId": {
+                            "value": "UCQHY2g86xMMTDrgpVhMeI7w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 8,
+                        "publishedAt": "2020-02-11T20:42:35Z",
+                        "updatedAt": "2020-02-11T20:42:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "N1EthqG7SDuMPiyWKDJnSC2hEPI",
+            "id": "UgwfSBzgbFcLPk7ww8d4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YmmgmuJwyE8TJFcZJUBUA_FWjH0",
+                    "id": "UgwfSBzgbFcLPk7ww8d4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Fakt ist, dass man erst genügend verdienen muss um eine große Summe sparen zu können ;)",
+                        "textOriginal": "Fakt ist, dass man erst genügend verdienen muss um eine große Summe sparen zu können ;)",
+                        "authorDisplayName": "Florian Orth",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/rokKGkRmYC9hWW0AetrWZw0bQVn36ZDv7kM7prsIKDGLDsHkyGCRGDIv6Psa7losio7Qto7sBg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd8tfL-HR5gF6Cn_AXWwE_Q",
+                        "authorChannelId": {
+                            "value": "UCd8tfL-HR5gF6Cn_AXWwE_Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-02-11T17:03:36Z",
+                        "updatedAt": "2020-02-11T17:03:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "VTvCN488eDqsk15tH95rnLTPRtU",
+            "id": "UgzPKxkcHcF7uyhk4nZ4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "n9DUFfpW49XuwJ3rl5m16DpTVhE",
+                    "id": "UgzPKxkcHcF7uyhk4nZ4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "1. Analysieren<br>2. Aufräumen<br>3. Ziele festlegen<br>4. Automatisiert Sparen<br>5. Finanzielles Schutzschild<br>6. Investieren<br>7. Nimm dir Zeit",
+                        "textOriginal": "1. Analysieren\n2. Aufräumen\n3. Ziele festlegen\n4. Automatisiert Sparen\n5. Finanzielles Schutzschild\n6. Investieren\n7. Nimm dir Zeit",
+                        "authorDisplayName": "Pxrifier",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-f7ryVNyb_BCOYs4mp9Yz6QoyUOKVjjo8-hv7G6Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCURDOK2Y7mMNHdnJpWa4f-w",
+                        "authorChannelId": {
+                            "value": "UCURDOK2Y7mMNHdnJpWa4f-w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 284,
+                        "publishedAt": "2020-02-07T22:00:12Z",
+                        "updatedAt": "2020-02-07T22:01:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Z7s8iQbc5T6Xsce4xGbLZx63RrA",
+            "id": "Ugy1hZC7fyz9gxtdX5R4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "e0_7Wxnq5_1M-XGYTNd0rmoD0YI",
+                    "id": "Ugy1hZC7fyz9gxtdX5R4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Danke",
+                        "textOriginal": "Danke",
+                        "authorDisplayName": "MrTantrix187",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9gpRaw3RpMNY19AwfercAlW_j90jz42_ehng=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCjU3cgswTZ5fep1eOSNe7Ug",
+                        "authorChannelId": {
+                            "value": "UCjU3cgswTZ5fep1eOSNe7Ug"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-02-03T08:02:42Z",
+                        "updatedAt": "2020-02-03T08:02:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LUShwE31bVOP7GocM2AVLUqbm7Q",
+            "id": "UgzP77XyYfWok4p5_ON4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SW8OueJqAJlzadnzVAm2H22S2FY",
+                    "id": "UgzP77XyYfWok4p5_ON4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Wenn ich alles, wirklich alles von meinem Einkommen abgezogen habe...freu ich mich, dass überhaupt nochwas übrig ist. Hups. <br>Mehr verdienen ist auch nicht so easy.<br>Bin immer bisschen deprimiert, weil anscheinend alle genug übrig haben, nur ich checke es iwi nicht oder mache was falsch. <br>Bin auch nicht mutig genug für den internationalen Aktienmarkt 😑.<br>Trotzdem gutes Video.",
+                        "textOriginal": "Wenn ich alles, wirklich alles von meinem Einkommen abgezogen habe...freu ich mich, dass überhaupt nochwas übrig ist. Hups. \nMehr verdienen ist auch nicht so easy.\nBin immer bisschen deprimiert, weil anscheinend alle genug übrig haben, nur ich checke es iwi nicht oder mache was falsch. \nBin auch nicht mutig genug für den internationalen Aktienmarkt 😑.\nTrotzdem gutes Video.",
+                        "authorDisplayName": "Sonderbar",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/YeP1IpDxXBhthEn--JoGDPSxBYgjqrdlRxAJ-Fio-kMsJ6nU9GKYXnz8bGzL1H6nFPZFuyaX=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCgO4-uofts0xLVA9AhHkpxA",
+                        "authorChannelId": {
+                            "value": "UCgO4-uofts0xLVA9AhHkpxA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-01-15T08:19:56Z",
+                        "updatedAt": "2020-01-15T08:19:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "efzXpOCO_oAdk7zJYUjc09ZVwf8",
+            "id": "Ugx96-VRqeOSrueGs3V4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lgAjOU8sLsSlMc8TMUVNQu83Tcs",
+                    "id": "Ugx96-VRqeOSrueGs3V4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Mach keine YouTube Werbung, damit wir dich weiter mögen 😉",
+                        "textOriginal": "Mach keine YouTube Werbung, damit wir dich weiter mögen 😉",
+                        "authorDisplayName": "Mohammed kenno",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9lFBdBFGBjpaKYtK2rbgLBxuwLYq0E8kiyqA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UChuPHQwZEneiUuJq3IzvWjA",
+                        "authorChannelId": {
+                            "value": "UChuPHQwZEneiUuJq3IzvWjA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-01-09T13:28:38Z",
+                        "updatedAt": "2020-01-09T13:28:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tFA3riUbexOVQBBZXCJVT6ejGKQ",
+            "id": "UgwIAbNAol0aAqMzzQV4AaABAg",
+            "snippet": {
+                "videoId": "G3j_91syHgQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XMpw92uWx35UyDX9071vX0Ks9Aw",
+                    "id": "UgwIAbNAol0aAqMzzQV4AaABAg",
+                    "snippet": {
+                        "videoId": "G3j_91syHgQ",
+                        "textDisplay": "Verdiene 6000 im monat und muss für 500000 genau 250 monate sparen wenn ich 1000 jeden monat zurücklege. Das dauert also 20 jahre.... kann sich jemand vorstellen 20 jahre lang zu warten? wenn alle die, die geld haben in den 20 jahren wo ich spare die ganze zeit bereits gelebt haben? Macht kein sinn denn dann ist fast alles schon vorbei was man gutes alter nennen kann.. sparen bringt nichts nur nie dabei sein wird das dann sein. Ich warte ein jahr immer ab hab dann meine 35000 cash da und dann hämmere ich alles in meine ideen weil wenn das klappt gibts richtig geld.....spart mal weiter 20 jahre für ein traum für den man danach dann trotzdem wieder weiter sparen muss weil der traum der erfüllt wurde weiter kostet",
+                        "textOriginal": "Verdiene 6000 im monat und muss für 500000 genau 250 monate sparen wenn ich 1000 jeden monat zurücklege. Das dauert also 20 jahre.... kann sich jemand vorstellen 20 jahre lang zu warten? wenn alle die, die geld haben in den 20 jahren wo ich spare die ganze zeit bereits gelebt haben? Macht kein sinn denn dann ist fast alles schon vorbei was man gutes alter nennen kann.. sparen bringt nichts nur nie dabei sein wird das dann sein. Ich warte ein jahr immer ab hab dann meine 35000 cash da und dann hämmere ich alles in meine ideen weil wenn das klappt gibts richtig geld.....spart mal weiter 20 jahre für ein traum für den man danach dann trotzdem wieder weiter sparen muss weil der traum der erfüllt wurde weiter kostet",
+                        "authorDisplayName": "Andy Stolzer",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8CAhgBzofimzWG2pl31FP1YCVdhcoBqIdaol2s=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCBHWQDLOyXxdNjxRZGszGsA",
+                        "authorChannelId": {
+                            "value": "UCBHWQDLOyXxdNjxRZGszGsA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2020-01-08T22:41:49Z",
+                        "updatedAt": "2020-01-08T22:41:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

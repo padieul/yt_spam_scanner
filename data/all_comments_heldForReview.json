@@ -1,0 +1,454 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "t-zrBTdBRpF5r3wMIXe77PQr9Ac",
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 100
+    },
+    "items": [
+        [
+            {
+                "kind": "youtube#commentThread",
+                "etag": "DQbyo5bzNawEYmE7SC5VYxP2vF8",
+                "id": "UgxOLRydRoSCMTFPwlx4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "HacZYyIcnZ2iJyqoTfQk_8QbChM",
+                        "id": "UgxOLRydRoSCMTFPwlx4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Teilt bitte dieses Video, so unterstützt ihr unseren Kanal. Hat euch das Video gefallen? Lasst bitte einen Like da 👍<br><br>Eure Meinung zählt! ✏ Schreibt uns gerne Anregungen und Kritik.<br>Werde Teil unserer Community 👉 <a href=\"https://bit.ly/3OYzW5L\">https://bit.ly/3OYzW5L</a>",
+                            "textOriginal": "Teilt bitte dieses Video, so unterstützt ihr unseren Kanal. Hat euch das Video gefallen? Lasst bitte einen Like da 👍\n\nEure Meinung zählt! ✏ Schreibt uns gerne Anregungen und Kritik.\nWerde Teil unserer Community 👉 https://bit.ly/3OYzW5L",
+                            "authorDisplayName": "Finance Experience - Geld, Finanzen, Wirtschaft",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/oZB5XjMgxZFUwjgEbn-dH_8FojICoWzSxDtm2Hsttu_HgKzfc5Nm8SE5KQpwn2ua0f5lBRhBxw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCY4IRKiV-jGyef351u9B7SA",
+                            "authorChannelId": {
+                                "value": "UCY4IRKiV-jGyef351u9B7SA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2022-11-23T15:40:12Z",
+                            "updatedAt": "2022-11-23T15:40:12Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "qHgJxRMlCSF9AysfCU7ZfX_AOzM",
+                "id": "UgyFhhBaa3pf3X2M-3B4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "LqkqCdGr3PCJ7C7L0sT5n2zHYeM",
+                        "id": "UgyFhhBaa3pf3X2M-3B4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Er hat absolut recht !! Das heißt für mich raus aus dem €, Geldreserven in CHF oder $, keine deutschen Aktien",
+                            "textOriginal": "Er hat absolut recht !! Das heißt für mich raus aus dem €, Geldreserven in CHF oder $, keine deutschen Aktien",
+                            "authorDisplayName": "Gert Baeseler",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu96tpQ2h6nEiOYIRjnZGxK8AClF2dqkVbBlSA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCLK4qCmacMd4JpgzKBSdMiQ",
+                            "authorChannelId": {
+                                "value": "UCLK4qCmacMd4JpgzKBSdMiQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-11-23T16:51:34Z",
+                            "updatedAt": "2022-11-23T16:51:34Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "Drf-bLYre9YEUFAQGSvqhLviRFs",
+                "id": "UgxIGJ1pcNuD_mAet6F4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "NC3JojWKAsNOuiy25k7rkt3OxhY",
+                        "id": "UgxIGJ1pcNuD_mAet6F4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Das Land ist in Ordnung. Es ist der Staat der am Ende ist.<br>Wer immer noch glaubt, dass dies alles zufällig ist, gehört zu den Verursachern oder in die Klapse.",
+                            "textOriginal": "Das Land ist in Ordnung. Es ist der Staat der am Ende ist.\nWer immer noch glaubt, dass dies alles zufällig ist, gehört zu den Verursachern oder in die Klapse.",
+                            "authorDisplayName": "Carlitos Mayo",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_9Y0i2gzrAy48Xs-_klNUlwLiyp8wXCC4dIeLn=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC40mjCzhOJCCi4nJZFcF5_g",
+                            "authorChannelId": {
+                                "value": "UC40mjCzhOJCCi4nJZFcF5_g"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-11-23T16:32:15Z",
+                            "updatedAt": "2022-11-23T16:36:11Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "oKG99k8dGfY0VXJ2h99XSh0H3So",
+                "id": "UgyUIuBINf5D9T-zDtt4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "LdDLmO5_oWH3H0E2RQKb0pJO3LQ",
+                        "id": "UgyUIuBINf5D9T-zDtt4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "👆 - MY PRIVATE PHOTO HERE 💌💥w✅",
+                            "textOriginal": "👆 - MY PRIVATE PHOTO HERE 💌💥w✅",
+                            "authorDisplayName": "𝗚𝗜𝗥𝗟𝗦𝟲𝟵.𝗫𝗬𝗭",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_ktPStCEvF51nIepADybSh2ZB0qgwmuxbiG86pFYRzZg=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCUz6t3TcOX-S83mUQ1ARieQ",
+                            "authorChannelId": {
+                                "value": "UCUz6t3TcOX-S83mUQ1ARieQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-11-23T16:29:34Z",
+                            "updatedAt": "2022-11-23T16:29:34Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "cKykVWMlfLBVaNh35IpO-Jz53YU",
+                "id": "UgwUivGmRFQgqbwR31t4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "k4HZMZqHOzvfsl2uJnbf5JVdPj8",
+                        "id": "UgwUivGmRFQgqbwR31t4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "👆 - ВЕSТ ADULТ DAТING SIТE 😜💑a🍒",
+                            "textOriginal": "👆 - ВЕSТ ADULТ DAТING SIТE 😜💑a🍒",
+                            "authorDisplayName": "𝗫𝗫𝗫𝟭𝟴.𝗢𝗡𝗟𝗜𝗡𝗘",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9GzBu6wxoVvp8K8FmW5LLVFQaii_j2qeWaQLkmIUH5dA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCxiRXQZTj1FRKpBwVoqSkZA",
+                            "authorChannelId": {
+                                "value": "UCxiRXQZTj1FRKpBwVoqSkZA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-11-23T16:22:06Z",
+                            "updatedAt": "2022-11-23T16:22:06Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "nqGNFxNt_Nsp7Ox28Gq3O6ubfRE",
+                "id": "UgzFL7m_znr_DhZ6JJB4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "nkNOmBll6ZtNDDit4zzChyyCvh0",
+                        "id": "UgzFL7m_znr_DhZ6JJB4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Lieferketten-Anfälligkeit - Pleite-Unternehmen-Zombifizierung - Zinsfalle : dem ist nichts entgegenzuhalten.<br>Und wenn den Sozialisten alla Scholz-Habeck-Lindner-Merz-Konsorten nichts mehr einfällt,<br>dann kommt Putin gelegen, um Kriegswirtschaft anzukurbeln,<br>beschönigend genannt : &quot; Sondervermögen für die Bundeswehr &quot;.<br>Diese Kriegstreiber/innen gehören in einem Nürnberg-2.0 vor Gericht gestellt und abgeurteilt !<br>Problem : die regierungskonforme Justiz folgt ( noch ) nicht.<br>Und die USA werden nicht anklagen, weil sie davon noch profitieren und deshalb unterstützen ...<br>Wir sitzen wirklich in der Falle von &quot; Hunger Games &quot;.<br>Wir brauchen dringend Menschen wie Katniss und Peeta !!!",
+                            "textOriginal": "Lieferketten-Anfälligkeit - Pleite-Unternehmen-Zombifizierung - Zinsfalle : dem ist nichts entgegenzuhalten.\nUnd wenn den Sozialisten alla Scholz-Habeck-Lindner-Merz-Konsorten nichts mehr einfällt,\ndann kommt Putin gelegen, um Kriegswirtschaft anzukurbeln,\nbeschönigend genannt : \" Sondervermögen für die Bundeswehr \".\nDiese Kriegstreiber/innen gehören in einem Nürnberg-2.0 vor Gericht gestellt und abgeurteilt !\nProblem : die regierungskonforme Justiz folgt ( noch ) nicht.\nUnd die USA werden nicht anklagen, weil sie davon noch profitieren und deshalb unterstützen ...\nWir sitzen wirklich in der Falle von \" Hunger Games \".\nWir brauchen dringend Menschen wie Katniss und Peeta !!!",
+                            "authorDisplayName": "Ulrich Raisch",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9IlERajmPWZtnfAcpvmxsDoTVK9W486mELBQ=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC-PNlrjB8SG2c-dhPUPj2iA",
+                            "authorChannelId": {
+                                "value": "UC-PNlrjB8SG2c-dhPUPj2iA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-11-23T16:01:23Z",
+                            "updatedAt": "2022-11-23T16:01:23Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "RUeSbclAp_-XlIO4TzCoiq9lGLY",
+                "id": "UgwvMBh_wG9m3oXmaV54AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "4XzkasRX6AMyxcIaoXsJQYX2WKM",
+                        "id": "UgwvMBh_wG9m3oXmaV54AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Nichts war und ist unerwartet, alles ist ein Ablaufs Plan, der seid Merkel gestärkt läuft und die Lieferketten werden gezielt manipuliert und daher die Intelligenz derzeit an der Macht...🤔",
+                            "textOriginal": "Nichts war und ist unerwartet, alles ist ein Ablaufs Plan, der seid Merkel gestärkt läuft und die Lieferketten werden gezielt manipuliert und daher die Intelligenz derzeit an der Macht...🤔",
+                            "authorDisplayName": "Joachim Schwabe",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8owCDzDHg3t-_J6f-J7Y6aLNBIVMLKCq1dVceDZA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCs-dERsr7k5mZZ0uKTmDlzA",
+                            "authorChannelId": {
+                                "value": "UCs-dERsr7k5mZZ0uKTmDlzA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-11-23T16:00:44Z",
+                            "updatedAt": "2022-11-23T16:00:44Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 0,
+                    "isPublic": true
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "dX2jDyoPE59Kl_Mv84o_L5vQOMo",
+                "id": "Ugy74IXypewLaY2v_Hh4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "RnLYP60pPU9HW-K3OIqMnCTbBE4",
+                        "id": "Ugy74IXypewLaY2v_Hh4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "😡😮👍❤Vielen Lieben Dank",
+                            "textOriginal": "😡😮👍❤Vielen Lieben Dank",
+                            "authorDisplayName": "Angela Hottel",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9rgF9HaVSXFMoDY9TBO196EzsYLB53xYRuYQ=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCgBDbDf8hV_-x1To6wP9jHw",
+                            "authorChannelId": {
+                                "value": "UCgBDbDf8hV_-x1To6wP9jHw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2022-11-23T15:51:17Z",
+                            "updatedAt": "2022-11-23T15:51:17Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 1,
+                    "isPublic": true
+                },
+                "replies": {
+                    "comments": [
+                        {
+                            "kind": "youtube#comment",
+                            "etag": "ZP-qLpmdQCyl3nV3gL2mqy9cb6w",
+                            "id": "Ugy74IXypewLaY2v_Hh4AaABAg.9imI3oZmbi-9imJagOpHHM",
+                            "snippet": {
+                                "videoId": "f5IurPz_sQ8",
+                                "textDisplay": "Konsequenzen ziehen !!!",
+                                "textOriginal": "Konsequenzen ziehen !!!",
+                                "parentId": "Ugy74IXypewLaY2v_Hh4AaABAg",
+                                "authorDisplayName": "Ulrich Raisch",
+                                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9IlERajmPWZtnfAcpvmxsDoTVK9W486mELBQ=s48-c-k-c0x00ffffff-no-rj",
+                                "authorChannelUrl": "http://www.youtube.com/channel/UC-PNlrjB8SG2c-dhPUPj2iA",
+                                "authorChannelId": {
+                                    "value": "UC-PNlrjB8SG2c-dhPUPj2iA"
+                                },
+                                "canRate": true,
+                                "viewerRating": "none",
+                                "likeCount": 0,
+                                "publishedAt": "2022-11-23T16:04:39Z",
+                                "updatedAt": "2022-11-23T16:04:39Z"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "TWtmEDU1l4UppJnfJsAKiPfc2sc",
+                "id": "Ugwr2if-64kyGAqB_6p4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "asyqfdyXbKNrdmdWUb8t3WtE49U",
+                        "id": "Ugwr2if-64kyGAqB_6p4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Wann kommt jetzt der grosse Crash, mit seinen Zeitkalkulationen lag Krall jedenfalls daneben. Wann ist Italien pleite oder wann ist soviel Geld gedruckt  das die Inflation unerträglich wird??",
+                            "textOriginal": "Wann kommt jetzt der grosse Crash, mit seinen Zeitkalkulationen lag Krall jedenfalls daneben. Wann ist Italien pleite oder wann ist soviel Geld gedruckt  das die Inflation unerträglich wird??",
+                            "authorDisplayName": "B E",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-mYa5ROW0F1-fYgaiFtDFdlVq-oQttDHyy_oLo=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCpRXs67ywcabbw-2XNa6LlA",
+                            "authorChannelId": {
+                                "value": "UCpRXs67ywcabbw-2XNa6LlA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 4,
+                            "publishedAt": "2022-11-23T15:50:54Z",
+                            "updatedAt": "2022-11-23T15:50:54Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 3,
+                    "isPublic": true
+                },
+                "replies": {
+                    "comments": [
+                        {
+                            "kind": "youtube#comment",
+                            "etag": "dlgqnPzXzWyS6lh7P0zdSrsMNbo",
+                            "id": "Ugwr2if-64kyGAqB_6p4AaABAg.9imI0yaXlvf9imN-UwkJUE",
+                            "snippet": {
+                                "videoId": "f5IurPz_sQ8",
+                                "textDisplay": "Die können so viel Geld drucken wie sie wollen ohne dass es crasht. Geht schon seit Jahrzehnten so, nur hat&#39;s keiner gemerkt.",
+                                "textOriginal": "Die können so viel Geld drucken wie sie wollen ohne dass es crasht. Geht schon seit Jahrzehnten so, nur hat's keiner gemerkt.",
+                                "parentId": "Ugwr2if-64kyGAqB_6p4AaABAg",
+                                "authorDisplayName": "Carlitos Mayo",
+                                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_9Y0i2gzrAy48Xs-_klNUlwLiyp8wXCC4dIeLn=s48-c-k-c0x00ffffff-no-rj",
+                                "authorChannelUrl": "http://www.youtube.com/channel/UC40mjCzhOJCCi4nJZFcF5_g",
+                                "authorChannelId": {
+                                    "value": "UC40mjCzhOJCCi4nJZFcF5_g"
+                                },
+                                "canRate": true,
+                                "viewerRating": "none",
+                                "likeCount": 0,
+                                "publishedAt": "2022-11-23T16:34:23Z",
+                                "updatedAt": "2022-11-23T16:34:23Z"
+                            }
+                        },
+                        {
+                            "kind": "youtube#comment",
+                            "etag": "WvW-NIlqpgz0W1ScHsrBIRZl0cY",
+                            "id": "Ugwr2if-64kyGAqB_6p4AaABAg.9imI0yaXlvf9imKYgSm7MS",
+                            "snippet": {
+                                "videoId": "f5IurPz_sQ8",
+                                "textDisplay": "@Ulrich Raisch  Die zahlen jetzt 4% für Neuverschuldung bei 150 %Verschuldung",
+                                "textOriginal": "@Ulrich Raisch  Die zahlen jetzt 4% für Neuverschuldung bei 150 %Verschuldung",
+                                "parentId": "Ugwr2if-64kyGAqB_6p4AaABAg",
+                                "authorDisplayName": "B E",
+                                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-mYa5ROW0F1-fYgaiFtDFdlVq-oQttDHyy_oLo=s48-c-k-c0x00ffffff-no-rj",
+                                "authorChannelUrl": "http://www.youtube.com/channel/UCpRXs67ywcabbw-2XNa6LlA",
+                                "authorChannelId": {
+                                    "value": "UCpRXs67ywcabbw-2XNa6LlA"
+                                },
+                                "canRate": true,
+                                "viewerRating": "none",
+                                "likeCount": 0,
+                                "publishedAt": "2022-11-23T16:12:58Z",
+                                "updatedAt": "2022-11-23T16:12:58Z"
+                            }
+                        },
+                        {
+                            "kind": "youtube#comment",
+                            "etag": "MSSXbvyDbQ3PQKi3oeXt3joe8zA",
+                            "id": "Ugwr2if-64kyGAqB_6p4AaABAg.9imI0yaXlvf9imJQ9UOMhz",
+                            "snippet": {
+                                "videoId": "f5IurPz_sQ8",
+                                "textDisplay": "Italien geht nicht pleite, so lange Meloni am Ruder ist !<br>DANK sei Gott gibt es noch Menschen mit normalem Verstand ...",
+                                "textOriginal": "Italien geht nicht pleite, so lange Meloni am Ruder ist !\nDANK sei Gott gibt es noch Menschen mit normalem Verstand ...",
+                                "parentId": "Ugwr2if-64kyGAqB_6p4AaABAg",
+                                "authorDisplayName": "Ulrich Raisch",
+                                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9IlERajmPWZtnfAcpvmxsDoTVK9W486mELBQ=s48-c-k-c0x00ffffff-no-rj",
+                                "authorChannelUrl": "http://www.youtube.com/channel/UC-PNlrjB8SG2c-dhPUPj2iA",
+                                "authorChannelId": {
+                                    "value": "UC-PNlrjB8SG2c-dhPUPj2iA"
+                                },
+                                "canRate": true,
+                                "viewerRating": "none",
+                                "likeCount": 0,
+                                "publishedAt": "2022-11-23T16:03:04Z",
+                                "updatedAt": "2022-11-23T16:03:04Z"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "youtube#commentThread",
+                "etag": "i-d6SYaakKfrGJEXZWa-t5ws5ZY",
+                "id": "Ugyd3QA-zDhOFlhswgx4AaABAg",
+                "snippet": {
+                    "videoId": "f5IurPz_sQ8",
+                    "topLevelComment": {
+                        "kind": "youtube#comment",
+                        "etag": "XM7l6wtcn4EMEp6U-FURZcZn7hw",
+                        "id": "Ugyd3QA-zDhOFlhswgx4AaABAg",
+                        "snippet": {
+                            "videoId": "f5IurPz_sQ8",
+                            "textDisplay": "Alles willkürlich herbeigeführt",
+                            "textOriginal": "Alles willkürlich herbeigeführt",
+                            "authorDisplayName": "Mika",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_QOg1_rJWlNx19FNp1sO_Frw252Buy6PXfAw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCq-_beDpfqhVTnKTGY1eEow",
+                            "authorChannelId": {
+                                "value": "UCq-_beDpfqhVTnKTGY1eEow"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 5,
+                            "publishedAt": "2022-11-23T15:48:52Z",
+                            "updatedAt": "2022-11-23T15:48:52Z"
+                        }
+                    },
+                    "canReply": true,
+                    "totalReplyCount": 1,
+                    "isPublic": true
+                },
+                "replies": {
+                    "comments": [
+                        {
+                            "kind": "youtube#comment",
+                            "etag": "erf4TkY7-ABJMAdRHjkCnfATPjs",
+                            "id": "Ugyd3QA-zDhOFlhswgx4AaABAg.9imHn6E74mg9imJYCVGvFI",
+                            "snippet": {
+                                "videoId": "f5IurPz_sQ8",
+                                "textDisplay": "Klaus Schwab-Konsorten lassen grüßen ...<br>&quot; Hunger Games &quot; angesagt !<br>Dagegen braucht es Menschen wie Katniss und Peeta ...",
+                                "textOriginal": "Klaus Schwab-Konsorten lassen grüßen ...\n\" Hunger Games \" angesagt !\nDagegen braucht es Menschen wie Katniss und Peeta ...",
+                                "parentId": "Ugyd3QA-zDhOFlhswgx4AaABAg",
+                                "authorDisplayName": "Ulrich Raisch",
+                                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9IlERajmPWZtnfAcpvmxsDoTVK9W486mELBQ=s48-c-k-c0x00ffffff-no-rj",
+                                "authorChannelUrl": "http://www.youtube.com/channel/UC-PNlrjB8SG2c-dhPUPj2iA",
+                                "authorChannelId": {
+                                    "value": "UC-PNlrjB8SG2c-dhPUPj2iA"
+                                },
+                                "canRate": true,
+                                "viewerRating": "none",
+                                "likeCount": 0,
+                                "publishedAt": "2022-11-23T16:04:10Z",
+                                "updatedAt": "2022-11-23T16:04:10Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    ]
+}
