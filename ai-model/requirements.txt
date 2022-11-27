@@ -1,3 +1,6 @@
-tensorflow
-pandas
 matplotlib
+numpy
+pandas
+tensorflow0
+nltk
+scikit-learn
