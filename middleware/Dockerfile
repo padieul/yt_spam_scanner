@@ -1,9 +1,18 @@
-FROM tiangolo/uvicorn-gunicorn-fastapi:python3.7
+FROM python:3.10.8
 
-COPY . .
+WORKDIR /code
 
-RUN pip install -r requirements.txt
+COPY requirements.txt .
 
-EXPOSE 8000
+RUN pip install --upgrade pip
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Setup hosts so that requirements can be installed
+RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pip setuptools
+RUN pip install --no-cache-dir -r requirements.txt
+
+# alternatively: 
+#CMD uvicorn app.main:app --reload --host 0.0.0.0 --port 5000
+
+COPY start.sh .
+RUN chmod +x start.sh
+CMD ./start.sh

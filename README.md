@@ -4,21 +4,15 @@
 
 #### Frontend
 
-1.  If container not already running: 
-    ```
-    docker compose up
-    ``` 
+1.  If container not already running: `docker compose up` 
     or right-click on docker-compose.debug.yml in **VS-Code** and choose "Compose Up"
 2.  Execute launch configuration "Launch Chrome against localhost". Set breakpoints inside "frontend/src" if necessary.
 
 #### Middleware
 
-1.  If container not already running: 
-    ```
-    docker compose up
-    ``` 
+1.  If container not already running: `docker compose up` 
     or right-click on docker-compose.debug.yml in **VS-Code** and choose "Compose Up"
-2.  Execute launch configuration 
+2.  Open `localhost:8000/docs` to access API. To debug, execute launch configuration "Python: Middleware Remote Attach". Set breakpoints inside "middleware/app" if necessary.
 
 
 ## Project contributions:

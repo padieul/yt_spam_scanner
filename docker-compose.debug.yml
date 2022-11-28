@@ -2,7 +2,22 @@ version: "3.4"
 
 services:
 
- 
+
+  middleware:
+    build: # instead of an image, build the service from a dockerfile
+      context: ./middleware # context for building
+    environment:
+      - API_DEBUG=1 # setting debug state
+    env_file:
+      - ./elasticsearch/es.env # for inserting the ES password
+    ports:
+      - 8000:8000 # main port
+      - 5678:5678 # for remote debugger when DEBUG=1
+    volumes:
+      - ./middleware/app:/code/app # for code changes
+    networks:
+      - ytScannerNetwork
+
   frontend:
     build:
       context: frontend/
