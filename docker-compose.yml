@@ -2,56 +2,11 @@ version: "3.4"
 
 services:
 
-  tensorflow-servings:
-    image: tensorflow/serving:latest
-    ports:
-      - 8501:8501
-    environment: 
-      - MODEL_NAME=movie_model
-    volumes: 
-      - ./ai-model/model:/models/movie_model
-    depends_on: [mongo]  
-    networks:
-      - ytScannerNetwork
-
-  mongo:
-    image: "mongo"
-    container_name: "movieDB"
-    environment: 
-      - MONGO_INITDB_DATABASE=movieRecommenderDB
-    volumes:
-      - ./mongo-volume:/data/db
-    ports: 
-      - 27016:27016
-    networks:
-      - ytScannerNetwork
-  
-  backend:
-    build:
-      context: backend/
-      dockerfile: Dockerfile
-    volumes:
-      - .:/workspace:cached
-    image: movie-backend
-    ports:
-      - 8000:8000
-    depends_on: ["mongo"]
-    environment: 
-      - MONGOHOST=mongo
-      - TF_SERVING_HOST=tensorflow-servings  
+  middleware:
     networks:
       - ytScannerNetwork
 
   frontend:
-    build:
-      context: frontend/
-      dockerfile: Dockerfile
-    volumes:
-      - .:/workspace:cached
-    image: movie-frontend
-    ports:
-      - 5000:5000
-    depends_on: ["backend"]
     networks:
       - ytScannerNetwork
 
