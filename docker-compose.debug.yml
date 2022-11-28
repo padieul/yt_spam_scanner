@@ -1,0 +1,19 @@
+version: "3.4"
+
+services:
+
+ 
+  frontend:
+    build:
+      context: frontend/
+      dockerfile: Dockerfile
+    image: movie-frontend
+    ports:
+      - 5000:5000
+    depends_on: ["backend"]
+    networks:
+      - ytScannerNetwork
+
+networks:
+  ytScannerNetwork:
+    driver: bridge
