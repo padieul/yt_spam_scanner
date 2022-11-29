@@ -14,6 +14,16 @@
     or right-click on docker-compose.debug.yml in **VS-Code** and choose "Compose Up"
 2.  Open `localhost:8000/docs` to access API. To debug, execute launch configuration "Python: Middleware Remote Attach". Set breakpoints inside "middleware/app" if necessary.
 
+> Before running `docker compose up` on Windows computers, please make sure the line ending is `LF` instead of `CRLF` in VSCODE for the file `middleware/start.sh`
+
+
+<p align="center">
+  <img src="./images/LF_settings.jpg" />
+</p>
+<!-- ![alt text](./images/LF_settings.jpg) -->
+
+
+
 
 ## Project contributions:
 

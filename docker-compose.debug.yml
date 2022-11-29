@@ -154,6 +154,7 @@ services:
     container_name: middleware
     build: # instead of an image, build the service from a dockerfile
       context: ./middleware # context for building
+      dockerfile: Dockerfile
     environment:
       - API_DEBUG=1 # setting debug state
     env_file:
