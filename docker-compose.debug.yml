@@ -1,4 +1,4 @@
-version: "3.4"
+version: "2.2"
 
 # USEFUL! 
 # https://www.elastic.co/guide/en/elasticsearch/reference/8.3/docker.html#docker-compose-file
@@ -62,7 +62,7 @@ services:
     depends_on:
       setup:
         condition: service_healthy
-    image: elasticsearch:${STACK_VERSION}
+    image: docker.elastic.co/elasticsearch/elasticsearch:${STACK_VERSION}
     env_file:
       - .env
     environment: # (see https://www.elastic.co/guide/en/elasticsearch/reference/7.17/docker.html)
@@ -71,7 +71,7 @@ services:
       - cluster.name=${CLUSTER_NAME}
       - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
       - bootstrap.memory_lock=true
-      - xpack.security.enabled=true # enable security/basic authentication
+      - xpack.security.enabled=false # enable security/basic authentication
       - xpack.security.http.ssl.enabled=true
       - xpack.security.http.ssl.key=certs/es01/es01.key
       - xpack.security.http.ssl.certificate=certs/es01/es01.crt
@@ -94,7 +94,7 @@ services:
         soft: -1
         hard: -1
     volumes:
-      - ./elasticsearch/esdata01:/usr/share/elasticsearch/data # persist elasticsearch data
+      - esdata01:/usr/share/elasticsearch/data # persist elasticsearch data
       - certs:/usr/share/elasticsearch/config/certs
     ports:
       - 9200:9200 # make port 9200 accessible for the host
@@ -124,13 +124,13 @@ services:
     container_name: kibana
     image: docker.elastic.co/kibana/kibana:${STACK_VERSION}
     ports:
-      - ${KIBANA_PORT}:5601
+      - ${KIBANA_PORT}:${KIBANA_PORT}
     depends_on: 
-      es01:
-        condition: service_healthy
+      - es01
+        # condition: service_healthy
     environment:
       - SERVERNAME=kibana
-      - ELASTICSEARCH_HOSTS=https://es01:9200
+      - ELASTICSEARCH_HOSTS=http://es01:9200
       - ELASTICSEARCH_USERNAME=kibana_system
       - ELASTICSEARCH_PASSWORD=${KIBANA_PASSWORD}
       - ELASTICSEARCH_SSL_CERTIFICATEAUTHORITIES=config/certs/ca/ca.crt
@@ -179,12 +179,22 @@ services:
     networks:
       - ytScannerNetwork
 
+
+
 volumes:
   certs:
     driver: local
   kibanadata:
     driver: local
+  esdata01:
+    driver: local
 
 networks:
   ytScannerNetwork:
     driver: bridge
+
+
+
+
+
+
