@@ -1,3 +1,4 @@
 /mongo-volume
 .DS_Store
 /middleware/app/__pycache__
+/elasticsearch

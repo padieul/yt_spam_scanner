@@ -56,6 +56,8 @@ services:
       interval: 1s
       timeout: 5s
       retries: 120
+    networks:
+      - ytScannerNetwork
 
   es01: # service name (also used as host name)
     container_name: es01
