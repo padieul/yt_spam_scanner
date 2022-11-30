@@ -29,5 +29,5 @@
 
 Timeframe       | Angelina  | Vivian    | Abdulghani                                               | Paul
 --------        | --------  | --------  | -------                                                  | ------
-10.11 - 25.11   | Inhalt    | Inhalt    | Configuring Docker containers and compose                | Configuring ES and Kibana
+10.11 - 25.11   | Inhalt    | Implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
 26.11 - 02.12   | Inhalt    | Inhalt    | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
