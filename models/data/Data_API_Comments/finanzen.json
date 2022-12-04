@@ -1,0 +1,2520 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "XQOvJHuUe0wXkF_UodUrSLyWAa4",
+    "pageInfo": {
+        "totalResults": 61,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "AQhUHV2QSNOvgWlgeOD900WwDeM",
+            "id": "UgzROrGl2gPTzOIEQW54AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0_QRaJY673gZClEoxbHcazn0XbI",
+                    "id": "UgzROrGl2gPTzOIEQW54AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "🌱Meine ETF Depotempfehlung ► <a href=\"https://bit.ly/3lBDnjS\">https://bit.ly/3lBDnjS</a> *\r<br>📈 Meine Einzelaktien Depotempfehlung ►  <a href=\"https://bit.ly/3fMLIBb\">https://bit.ly/3fMLIBb</a> *",
+                        "textOriginal": "🌱Meine ETF Depotempfehlung ► https://bit.ly/3lBDnjS *\r\n📈 Meine Einzelaktien Depotempfehlung ►  https://bit.ly/3fMLIBb *",
+                        "authorDisplayName": "Finanzbär",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_-RAxADorQKaA_OoPHUlbLSl2fMIuAayjOy3Yd=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCFxPUPyzQQYaNfj0El4Ccqg",
+                        "authorChannelId": {
+                            "value": "UCFxPUPyzQQYaNfj0El4Ccqg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2022-08-29T14:58:20Z",
+                        "updatedAt": "2022-08-29T14:58:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "53ypTFAawt1uq_RCHP5y41x29K8",
+            "id": "UgxhoYRIAO4SNVTEbWZ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jmZyTESogGnZJ8bS_y5wnK9VQiM",
+                    "id": "UgxhoYRIAO4SNVTEbWZ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Bei einigen Punkten habe ich mich selbst erkannt ;)",
+                        "textOriginal": "Bei einigen Punkten habe ich mich selbst erkannt ;)",
+                        "authorDisplayName": "ClipartsFree. de",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8ZsagcwLpLrW8iEoDwk1staLrnU5-3KQ9MLof_4A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCCDDxFp__K6HMmts3jLLyaQ",
+                        "authorChannelId": {
+                            "value": "UCCDDxFp__K6HMmts3jLLyaQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-10-30T21:45:55Z",
+                        "updatedAt": "2022-10-30T21:45:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Ewt_5G9fmQ5-RX24dy7MHgp46Zw",
+            "id": "Ugzmo0yGwtGBwLMz1Hd4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fVYOw6wCy1XledaJyAfkneLaAC8",
+                    "id": "Ugzmo0yGwtGBwLMz1Hd4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Sehr gutes Video 👍🏼",
+                        "textOriginal": "Sehr gutes Video 👍🏼",
+                        "authorDisplayName": "J U W A",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/4cYnTHT9zpzoavixgqr2_YygbmoBs5zPmOJPRe2Hk_Ajy_SFrWpUIjy3oPA5AwkHEVxzL9bR_Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC99tDdfQWLgNsH1cfBq7T1w",
+                        "authorChannelId": {
+                            "value": "UC99tDdfQWLgNsH1cfBq7T1w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-13T06:44:07Z",
+                        "updatedAt": "2022-09-13T06:44:07Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "oV0a81uP-ssmzJqG-9Dgrl8nDD4",
+            "id": "UgwGMqumPMAGrfg_XwJ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "7Kny8CwcVN95nWh7cGrIMuCCylk",
+                    "id": "UgwGMqumPMAGrfg_XwJ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Wer die alten Börsen-Binsenweisheiten und Tipps von Kostolany &amp; Co befolgt, kann viele Fehler vermeiden ... und dann kommt Faktor Mensch mit seiner Psyche und seinen Emotionen 🤣",
+                        "textOriginal": "Wer die alten Börsen-Binsenweisheiten und Tipps von Kostolany & Co befolgt, kann viele Fehler vermeiden ... und dann kommt Faktor Mensch mit seiner Psyche und seinen Emotionen 🤣",
+                        "authorDisplayName": "Chris x",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9IW08KRj4FIpXb6isZJEyCc4auZwAr1YEnjA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCMeYdvdXItM62-j19EKFguA",
+                        "authorChannelId": {
+                            "value": "UCMeYdvdXItM62-j19EKFguA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-12T11:51:31Z",
+                        "updatedAt": "2022-09-12T11:51:31Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IYaaeNkkTnS1IbEQn6OnTWtsvuI",
+            "id": "Ugy5Yd51VQTw4-ZkCLJ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "BqfHpS8oBl7Mw8ElIBfVCXcWs9c",
+                    "id": "Ugy5Yd51VQTw4-ZkCLJ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Brillantes Video! Insbesondere &quot;Viel hilft viel&quot; hat schon massiv Zeit gefressen. Macht bis zu einem gewissen Punkt Spaß, nur dreht sich das irgendwann in eine Art Abhängigkeit.",
+                        "textOriginal": "Brillantes Video! Insbesondere \"Viel hilft viel\" hat schon massiv Zeit gefressen. Macht bis zu einem gewissen Punkt Spaß, nur dreht sich das irgendwann in eine Art Abhängigkeit.",
+                        "authorDisplayName": "Ce Re",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9SrPOIcY9qcZ5Bo6mv1L9qG_jKHuaZr1CAig=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC1P9NwL-ZVvpHuY4zgMgYng",
+                        "authorChannelId": {
+                            "value": "UC1P9NwL-ZVvpHuY4zgMgYng"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-10T08:27:34Z",
+                        "updatedAt": "2022-09-10T08:27:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GPXfdVJ5M2tFG5CrV7urkF-sTH0",
+            "id": "Ugwf73bJJRRDIHfwKaB4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "olIqjXXaFM5G5CJ_56EcoyMGvtc",
+                    "id": "Ugwf73bJJRRDIHfwKaB4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Danke für den reflektierten Beitrag. :)",
+                        "textOriginal": "Danke für den reflektierten Beitrag. :)",
+                        "authorDisplayName": "Train-Traum - Mad about trains!!!",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-siiqg1YmHOmKxICyyE8_vhpSNymOnvObS4x9T=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCi7bIJ8xiC6BRhJpgALOm7A",
+                        "authorChannelId": {
+                            "value": "UCi7bIJ8xiC6BRhJpgALOm7A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-09T20:47:52Z",
+                        "updatedAt": "2022-09-09T20:47:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6zvOrFC7QO7tiWOlxThPrTRv7kg",
+            "id": "UgxRpag4Fh6QiZ4NJ754AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "A9v4U2eZ-0UJJITW3ekPfLmmhIU",
+                    "id": "UgxRpag4Fh6QiZ4NJ754AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Hallo, <br>ich bin seit mehr als 40 Jahren Aktionär. Meine Erfahrungen haben ergeben:<br>Mach es wie ein Eichhörnchen und vergrabe überall ein paar Nüsse . Sei fleißig und effizient beim Sammeln. Oder Neudeutsch: Diversifizierung ist der Schlüssel zum Erfolg . Und wer mehr Einkommen generieren kann, kann mehr investieren.",
+                        "textOriginal": "Hallo, \nich bin seit mehr als 40 Jahren Aktionär. Meine Erfahrungen haben ergeben:\nMach es wie ein Eichhörnchen und vergrabe überall ein paar Nüsse . Sei fleißig und effizient beim Sammeln. Oder Neudeutsch: Diversifizierung ist der Schlüssel zum Erfolg . Und wer mehr Einkommen generieren kann, kann mehr investieren.",
+                        "authorDisplayName": "Harald Seither",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-TEsOD50f_MOJsCS_a6yPVfWhSKVuXNRL-DQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC3vhm31MQZGCGud-gEQtKHg",
+                        "authorChannelId": {
+                            "value": "UC3vhm31MQZGCGud-gEQtKHg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-09T04:59:14Z",
+                        "updatedAt": "2022-09-09T04:59:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "822dy3cGfy9Eia6msKYz-bzytRY",
+            "id": "Ugys5hOMxDiUpvbCZ1t4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "w-jVbREc9h5OAoF57bQdrR8-eGs",
+                    "id": "Ugys5hOMxDiUpvbCZ1t4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Ich kaufe dann fällt die Aktie und ich kaufe voller Freude billig nach nur damit die Aktie weiterfällt und ich mich ärgere. 😂",
+                        "textOriginal": "Ich kaufe dann fällt die Aktie und ich kaufe voller Freude billig nach nur damit die Aktie weiterfällt und ich mich ärgere. 😂",
+                        "authorDisplayName": "Web crawler",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-uuzS5ypr13aaY94dGpaESLSY_6hB3-qaXE5E2=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCjrM9mH7bXs3tm_j5rCPReg",
+                        "authorChannelId": {
+                            "value": "UCjrM9mH7bXs3tm_j5rCPReg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-09-07T20:57:30Z",
+                        "updatedAt": "2022-09-07T20:57:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tFzbqJ1ONcEm2URkB3_VQ3ZkleM",
+            "id": "Ugwj259zK8a0v_LlC7d4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "JBnh_mBPz0rAl1d34NF_jGyc_bs",
+                    "id": "Ugwj259zK8a0v_LlC7d4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Der größte Fehler war der Kauf von Anteilen der Münchner Beltana 🤣, die sich unser Geld komplett eingesteckt haben.",
+                        "textOriginal": "Der größte Fehler war der Kauf von Anteilen der Münchner Beltana 🤣, die sich unser Geld komplett eingesteckt haben.",
+                        "authorDisplayName": "Fino Maler",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu86ETBaueXfJCEX8OxhRPjtTqcBylqjKY4kout_=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCijlXhW77DcaFfL0CP05lOA",
+                        "authorChannelId": {
+                            "value": "UCijlXhW77DcaFfL0CP05lOA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-07T15:31:42Z",
+                        "updatedAt": "2022-09-07T15:31:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "KB2UGxt93S8M0uacZyc7JkWuLok",
+            "id": "Ugyr6O_EvyeHuaaZUm14AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TAH4Ipvp9ws-5pXYlwPK4eXWVtQ",
+                    "id": "Ugyr6O_EvyeHuaaZUm14AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Hab auch den AG gewechselt und hab jetzt gute 40% mehr :D.<br>Brauch aber nicht mehr Geld, also geht von den 40% fast alles ins Aktien Depot.",
+                        "textOriginal": "Hab auch den AG gewechselt und hab jetzt gute 40% mehr :D.\nBrauch aber nicht mehr Geld, also geht von den 40% fast alles ins Aktien Depot.",
+                        "authorDisplayName": "1988Beeni",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_-CIbdL9fiSWuzeSeLZDelrztTFqzYTP-NPA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzlHVgj2JXp9gXQhXGMpcRw",
+                        "authorChannelId": {
+                            "value": "UCzlHVgj2JXp9gXQhXGMpcRw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-07T08:46:45Z",
+                        "updatedAt": "2022-09-07T08:47:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5ot7eAfnWPkG4O-n4SHGyHs85xk",
+            "id": "UgyW3mLh-RtmglHTzlV4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mlgG7PfQJwP5zJqneBefZshnmZs",
+                    "id": "UgyW3mLh-RtmglHTzlV4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "&quot;Leben und Leben lassen!&quot; trifft es sehr gut, ich habe schon kaum mehr lust auf einen Austausch mit anderen Investoren, weil es nur noch um Ideologien geht. Sehr guter Punkt den du da ansprichst, ich hoffe diese Mentalität ändert sich bald wieder",
+                        "textOriginal": "\"Leben und Leben lassen!\" trifft es sehr gut, ich habe schon kaum mehr lust auf einen Austausch mit anderen Investoren, weil es nur noch um Ideologien geht. Sehr guter Punkt den du da ansprichst, ich hoffe diese Mentalität ändert sich bald wieder",
+                        "authorDisplayName": "Nic Nac",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-GZmBUX4SOFeuMloA9gUSc3KM0EuIG2RiNVg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCyFB5G1nW69_B02ZW2zgDww",
+                        "authorChannelId": {
+                            "value": "UCyFB5G1nW69_B02ZW2zgDww"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-07T08:28:08Z",
+                        "updatedAt": "2022-09-07T08:28:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NVwfN4NNQrJXwtTFmXDqH9qgAHc",
+            "id": "Ugwxx2F9P63sew5fttd4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ebg6uLc4QJxdz3aJAY9Ug64nK3g",
+                    "id": "Ugwxx2F9P63sew5fttd4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Auf den &quot;trigger&quot; warten... LLL nehm ich gerne für 0.33... bis auf 0.37 runter und nun? 0.60... kenne ich.",
+                        "textOriginal": "Auf den \"trigger\" warten... LLL nehm ich gerne für 0.33... bis auf 0.37 runter und nun? 0.60... kenne ich.",
+                        "authorDisplayName": "Sven L.",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-J0cclCElVzdHUppsDmap2v1ZNAgh_VnwmHg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCCT8Zpa7clgUYhtyqugyfpQ",
+                        "authorChannelId": {
+                            "value": "UCCT8Zpa7clgUYhtyqugyfpQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-06T14:32:29Z",
+                        "updatedAt": "2022-09-06T14:32:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "EsGZj3D1iG44xzgbn6dLDOpjkBM",
+            "id": "UgzbXs7cVkCp0JJIz-V4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8IoeuFqSzYP6wToXWr-TfTpxGJ0",
+                    "id": "UgzbXs7cVkCp0JJIz-V4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Hab leider selber auch 30000 Euro in den Sand gesetzt, bis Anfang Februar hiess es immer die Verkäufen laufen gut die Umsätze steigen. Anfang März Handelsstop konnten wohl Rechnungen nicht bezahlen.",
+                        "textOriginal": "Hab leider selber auch 30000 Euro in den Sand gesetzt, bis Anfang Februar hiess es immer die Verkäufen laufen gut die Umsätze steigen. Anfang März Handelsstop konnten wohl Rechnungen nicht bezahlen.",
+                        "authorDisplayName": "XAndreas3000X",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu97kevyqgh7AIjpYNtL2rUxtFtXzoew-BnZ2g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCYB4y-L-D1hWTDvUjPijIcQ",
+                        "authorChannelId": {
+                            "value": "UCYB4y-L-D1hWTDvUjPijIcQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-06T14:00:38Z",
+                        "updatedAt": "2022-09-06T14:00:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ubR24-_0zF4wmjjqxV4Z3Bk0Plc",
+            "id": "UgzGNTdid-YF4m8hyTF4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LXa08VU_RhtxbU4xgNO3HnvXJoM",
+                    "id": "UgzGNTdid-YF4m8hyTF4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Aktien die in Kanada gelistet sind war ein Fehler",
+                        "textOriginal": "Aktien die in Kanada gelistet sind war ein Fehler",
+                        "authorDisplayName": "Ralf Voitl",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/BD6v0QbkTpxI_HgdSvupUM_MXiBHwhE-n9LPWmOX1WTWcddkO_9i-YSaehkl1UnzjlLYF7TAew=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCs_N_i1CyJXYBLHe3zQETfA",
+                        "authorChannelId": {
+                            "value": "UCs_N_i1CyJXYBLHe3zQETfA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-06T02:41:16Z",
+                        "updatedAt": "2022-09-06T02:41:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "FkUEC6pvlCZcZloZZDJnX9GqE88",
+            "id": "Ugyp1NEB-oED_PCsCUl4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jdSswzeLRPRtOiOyrgwboHmdZUQ",
+                    "id": "Ugyp1NEB-oED_PCsCUl4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Starkes Video! Finde es sehr gut wie du schon die kleinen Schritte lobst und nicht nur alles auf die Strategie setzt! Es ist schon ein großer Schritt wenn man überhaupt erst zum investieren kommt, sprich den monatlichen Überschuss nicht komsumiert und sinnlos ausgibt, sondern ihn versucht gut anzulegen. Die Erfahrung kommt dann von ganz alleine, aber man ist mit dem Start schon besser dran als 95% der anderen, deswegen dran bleiben!",
+                        "textOriginal": "Starkes Video! Finde es sehr gut wie du schon die kleinen Schritte lobst und nicht nur alles auf die Strategie setzt! Es ist schon ein großer Schritt wenn man überhaupt erst zum investieren kommt, sprich den monatlichen Überschuss nicht komsumiert und sinnlos ausgibt, sondern ihn versucht gut anzulegen. Die Erfahrung kommt dann von ganz alleine, aber man ist mit dem Start schon besser dran als 95% der anderen, deswegen dran bleiben!",
+                        "authorDisplayName": "fnrbhce 1907",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9hG0bJe942cdFefHq3pNfst09O2inoFFFX9Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCz2fF40pzi-zsUXefzCtnVA",
+                        "authorChannelId": {
+                            "value": "UCz2fF40pzi-zsUXefzCtnVA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-09-05T17:42:00Z",
+                        "updatedAt": "2022-09-05T17:42:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "48vBDMt-649SLYpygPjsOk5eiU8",
+            "id": "Ugyr55RS4JViUUEKqpR4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "N3NAw3wJ3xiWRj1bmB4QftAWNGM",
+                    "id": "Ugyr55RS4JViUUEKqpR4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein größter Fehler.  Ich bin ein Mann, also Zocker 😜",
+                        "textOriginal": "Mein größter Fehler.  Ich bin ein Mann, also Zocker 😜",
+                        "authorDisplayName": "der hanfi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8DTYit3wwPtBJvEpXrkQiOJUTNN7T0UV9YrKy6gQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCJB_sSuLBPNnQ1lGU4cNYKw",
+                        "authorChannelId": {
+                            "value": "UCJB_sSuLBPNnQ1lGU4cNYKw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2022-09-05T07:46:19Z",
+                        "updatedAt": "2022-09-05T07:46:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "j5zcDmbBYj6vaW9xfusUT3-4sN8",
+            "id": "UgzYK8hE3dz6mfRDRf54AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LMQK8MWrZLJggzCMB9G7Dcehn9w",
+                    "id": "UgzYK8hE3dz6mfRDRf54AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Vielen Dank für das informative Video. Eine Frage hätte ich aber. Glencore gibt es doch noch. Wieso hast du bei den investment geld verloren?",
+                        "textOriginal": "Vielen Dank für das informative Video. Eine Frage hätte ich aber. Glencore gibt es doch noch. Wieso hast du bei den investment geld verloren?",
+                        "authorDisplayName": "Daniel G",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu985LnW3c_z9aTpxfTvQJ4tr6RyOJRqQh-qZjctkDjawpxI3v8ksJzYg3MPasTw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCPpDlTWKQJgHHvYnqygPI2w",
+                        "authorChannelId": {
+                            "value": "UCPpDlTWKQJgHHvYnqygPI2w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-09-04T23:48:34Z",
+                        "updatedAt": "2022-09-04T23:48:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tHTVSj9s7ErSkpd9v1qyw7u5G7E",
+            "id": "UgwYtSjjcqBAk44fy_h4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LQQcDvMHNKHrVZ3wuQTsqDjfOE0",
+                    "id": "UgwYtSjjcqBAk44fy_h4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Meine größten Fehler: Zu Beginn nicht in Tranchen in Einzelaktien investiert, ähnlich einem Sparplan und auch nicht ausreichend diversifiziert.",
+                        "textOriginal": "Meine größten Fehler: Zu Beginn nicht in Tranchen in Einzelaktien investiert, ähnlich einem Sparplan und auch nicht ausreichend diversifiziert.",
+                        "authorDisplayName": "Scheibi85",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_vJAMbOMD1sr1eSXFSe7nku97_RjRj-v9YOA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCuMp-s8056QGXU_0CufloMg",
+                        "authorChannelId": {
+                            "value": "UCuMp-s8056QGXU_0CufloMg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T20:23:20Z",
+                        "updatedAt": "2022-09-04T20:23:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NhZFzr97DJ9QhuITbOjfvE4S8Ug",
+            "id": "Ugz65l6AF7mMS-2_Ug54AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rLmeWgDTTSMTtRmHeNbuD8DwqW4",
+                    "id": "Ugz65l6AF7mMS-2_Ug54AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Wie wahr! Danke und ich freue mich auf weitere Folgen .",
+                        "textOriginal": "Wie wahr! Danke und ich freue mich auf weitere Folgen .",
+                        "authorDisplayName": "Tomatschek Arcor",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-MyyoX20BDLJEW3BnDlgS2lXSd6CvMrN64NQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCfVNhFBC06AshDdA9OsH0EQ",
+                        "authorChannelId": {
+                            "value": "UCfVNhFBC06AshDdA9OsH0EQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T19:35:08Z",
+                        "updatedAt": "2022-09-04T19:35:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3yUVFUClLjsJJrBV18r28eWyAPE",
+            "id": "Ugyky2QmgRQmXSuH4E94AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QcgaTnTUh1vnJaj5WQJpeN3n6N8",
+                    "id": "Ugyky2QmgRQmXSuH4E94AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Dumme frage, aber wenn Trade Republic pleite geht, verliert man die Aktien doch nicht, richtig? Auch bei Depots über 100.000€?",
+                        "textOriginal": "Dumme frage, aber wenn Trade Republic pleite geht, verliert man die Aktien doch nicht, richtig? Auch bei Depots über 100.000€?",
+                        "authorDisplayName": "Tobi T",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9GuwGyGFHU9aV_VuXyNJCAejsQ-R3FKJnJ4A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCo94MVLItn-W2-Dde__ZP2Q",
+                        "authorChannelId": {
+                            "value": "UCo94MVLItn-W2-Dde__ZP2Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T17:51:25Z",
+                        "updatedAt": "2022-09-04T17:51:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "18DqrmMRsPZyitQkB-WmvmeLtHY",
+                        "id": "Ugyky2QmgRQmXSuH4E94AaABAg.9fZWDlGvw0e9fZnzbrX5p-",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Nein. Dein Depot kannst du dann übertragen zu einem anderen Broker übertragen und dein Geldkonto ist bis 100.00€ abgesichert.",
+                            "textOriginal": "Nein. Dein Depot kannst du dann übertragen zu einem anderen Broker übertragen und dein Geldkonto ist bis 100.00€ abgesichert.",
+                            "parentId": "Ugyky2QmgRQmXSuH4E94AaABAg",
+                            "authorDisplayName": "Scheibi85",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_vJAMbOMD1sr1eSXFSe7nku97_RjRj-v9YOA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCuMp-s8056QGXU_0CufloMg",
+                            "authorChannelId": {
+                                "value": "UCuMp-s8056QGXU_0CufloMg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-09-04T20:35:23Z",
+                            "updatedAt": "2022-09-04T20:35:23Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_A1cNoSapjYJqinrGrc_BDgEGfM",
+            "id": "UgxxKyO47ix_IdkNpXJ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6qp8VxeW5gMkXWWp6zCG44Z1djw",
+                    "id": "UgxxKyO47ix_IdkNpXJ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein größter Fehltritt derzeit ist Vonovia, aber dad ist nur der Buchwert. Realisiert ist der größte Mist meine Spielepassion für CD Projekt Red gewesen. 67€ war way to much😵",
+                        "textOriginal": "Mein größter Fehltritt derzeit ist Vonovia, aber dad ist nur der Buchwert. Realisiert ist der größte Mist meine Spielepassion für CD Projekt Red gewesen. 67€ war way to much😵",
+                        "authorDisplayName": "Aktien für Dummies",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_-PrgA4HRlv3BiWZL1QHQTDnXUrw7U7jGO2duaa4ndga8umdy60ZpYrMYEs6T_=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC7yoJNK4bivRHVZFaNpJY9w",
+                        "authorChannelId": {
+                            "value": "UC7yoJNK4bivRHVZFaNpJY9w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T17:04:44Z",
+                        "updatedAt": "2022-09-04T17:04:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Z6jU1CotGGR4SgMu2dvQ8wBwcHQ",
+            "id": "UgwDPREwBM3YLxPqifN4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "IErnIxpnsANr7hDmLD4Cx7YN0KM",
+                    "id": "UgwDPREwBM3YLxPqifN4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein grösster Fehler: viel zu schnell gekauft und viel zu schnell wieder verkauft (tagestrading), damit innerhalb einer Woche 10 % vom Portfolie versenkt, das war mein Lehrgeld, längerfristig investieren in Aktien ist die beste Anlage.",
+                        "textOriginal": "Mein grösster Fehler: viel zu schnell gekauft und viel zu schnell wieder verkauft (tagestrading), damit innerhalb einer Woche 10 % vom Portfolie versenkt, das war mein Lehrgeld, längerfristig investieren in Aktien ist die beste Anlage.",
+                        "authorDisplayName": "Willi Schellhaas",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_kuWtmZGeQySqf_Z57s49Y7sbmtEb4-QNAdhDIh8Pz6ObCFqNMB4RzssmIbtys=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCRwGfRp0LWoGWfGY9P7tWCg",
+                        "authorChannelId": {
+                            "value": "UCRwGfRp0LWoGWfGY9P7tWCg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2022-09-04T16:25:02Z",
+                        "updatedAt": "2022-09-04T16:25:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "sdz4-dCQAypUKhf3xgW8bGUUQVc",
+                        "id": "UgwDPREwBM3YLxPqifN4AaABAg.9fZML43bDbm9ff999oQD5o",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "1 zu 1 wie bei mir. Alle verkauften Aktien sind gestiegen.",
+                            "textOriginal": "1 zu 1 wie bei mir. Alle verkauften Aktien sind gestiegen.",
+                            "parentId": "UgwDPREwBM3YLxPqifN4AaABAg",
+                            "authorDisplayName": "Ibo XP",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_qsObxXLDINEabLhoxFB1s8jeG2dPLWidDmw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCefvVmPSHv_EOMPTlPf6NlQ",
+                            "authorChannelId": {
+                                "value": "UCefvVmPSHv_EOMPTlPf6NlQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-07T07:44:30Z",
+                            "updatedAt": "2022-09-07T07:44:30Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "s-j3S_Iahc8RYocn_KZffH34X6Y",
+            "id": "UgzXiOkYuLLnOXznpyl4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "DhnAWEczY-6xn9VMtfesZ97naYg",
+                    "id": "UgzXiOkYuLLnOXznpyl4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Stimme dir absolut zu, tolles Video wie immer, sehr selbstreflektiert. Finde allerdings, dass 100% also nur in Krypto schon noch eine andere Art von Investment ist, da Totalausfallrisiko. Im Vergleich zu ETFs bspw.",
+                        "textOriginal": "Stimme dir absolut zu, tolles Video wie immer, sehr selbstreflektiert. Finde allerdings, dass 100% also nur in Krypto schon noch eine andere Art von Investment ist, da Totalausfallrisiko. Im Vergleich zu ETFs bspw.",
+                        "authorDisplayName": "Josh Frosch",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8LdHk2LZugKPLZPotz3nf04z9H9avHOXpJTA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd2n0ZpGUObIPKiPyhPL7WA",
+                        "authorChannelId": {
+                            "value": "UCd2n0ZpGUObIPKiPyhPL7WA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-09-04T16:20:33Z",
+                        "updatedAt": "2022-09-04T16:20:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "m7lornNzYUYPlo1ZJ-_RB_PVkMQ",
+            "id": "UgziXodyEhuDmNypQNt4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ixu6rSFfBgPuE4e8D7Ai6KSnQBU",
+                    "id": "UgziXodyEhuDmNypQNt4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Wahre Worte, hätte mir jemand sowas mal vor 14 Jahren erzählt, besser gesagt, so sachlich und ohne gemecker erklärt...",
+                        "textOriginal": "Wahre Worte, hätte mir jemand sowas mal vor 14 Jahren erzählt, besser gesagt, so sachlich und ohne gemecker erklärt...",
+                        "authorDisplayName": "Marc Henrich",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_CfzbIi2XL0sUSmLPtn6do-rjb-4K19KNZ9cdY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCNLZzvihmiu8kYbUr4_34sA",
+                        "authorChannelId": {
+                            "value": "UCNLZzvihmiu8kYbUr4_34sA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-09-04T16:07:58Z",
+                        "updatedAt": "2022-09-04T16:07:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JGRVJS9VU4fFha_AK2V4kNPX2rM",
+            "id": "UgxJcw4n4uhUv-YomJZ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "JoiN1i47p4fXJ5L3x_NBXAV18-I",
+                    "id": "UgxJcw4n4uhUv-YomJZ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Ich finde es super wie selbst reflektiert du bist, dass du die Fehler eingestehst und andere daran teilhaben lässt. Einige Sachen sind mir davon auch schon wieder fahren, wie ständiger Strategiewechsel oder Depot 24/7 checken. Aber ich habe auch daraus gelernt. Bis kommende Woche Sonntag! Weiter so!",
+                        "textOriginal": "Ich finde es super wie selbst reflektiert du bist, dass du die Fehler eingestehst und andere daran teilhaben lässt. Einige Sachen sind mir davon auch schon wieder fahren, wie ständiger Strategiewechsel oder Depot 24/7 checken. Aber ich habe auch daraus gelernt. Bis kommende Woche Sonntag! Weiter so!",
+                        "authorDisplayName": "Felix Krüger",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_BpRZbYPObSBwtf5lH5fLDwZlphaI95s31eQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCYCKmnCtzCBh-NcQXZhO5vA",
+                        "authorChannelId": {
+                            "value": "UCYCKmnCtzCBh-NcQXZhO5vA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T13:06:22Z",
+                        "updatedAt": "2022-09-04T13:06:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ebTMs1cb_38LLEz-QepMYnyLMlE",
+            "id": "UgyN3lv3LxymQ7c_YpV4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NuO_jMpFM2jjL7m_-cwaoXT6LYM",
+                    "id": "UgyN3lv3LxymQ7c_YpV4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Vielen Dank für das Video. Aus meiner Sicht wäre auch noch ein Fehler, dass zu schnell investiert wird, ohne das Asset zu verstehen.<br>Heute würde ich Personen empfehlen zuerst ein bis zwei Bücher zum Thema Kapitalmarkt und ETFs zu lesen, bevor die ersten ETF Anteile oder andere Wertpapiere gekauft werden.<br>Bei Aktien war ich damals zu ungeduldig, bei P2P bin ich jedoch so vorgegangen und habe es nicht bereut. Damals gab es das Buch von Kollja und Lars zum Thema P2P und dort stand damals (2019) aus meiner Sicht alles wichtige drin. Heute wäre die Printversion des Buches natürlich ein bisschen veraltet. <br><br>Schritt 1: Assetklasse auswählen die einen interessiert<br>Schritt 2: Wissen aneignen (Bücher oder Personen mit Erfahrungen)<br>Schritt 3: Ziele definieren (z. B. die Gewichtung im Gesamtportfolio) und planen z. B. für das aktuelle Jahr<br>Schritt 4: Start des Investments (bei mir am liebsten mit kleinen Summen und kleinschrittiger Skalierbarkeit)<br><br>Viele Starten eben direkt bei Schritt 4 und versenken erstmals Omas Erbe :D",
+                        "textOriginal": "Vielen Dank für das Video. Aus meiner Sicht wäre auch noch ein Fehler, dass zu schnell investiert wird, ohne das Asset zu verstehen.\nHeute würde ich Personen empfehlen zuerst ein bis zwei Bücher zum Thema Kapitalmarkt und ETFs zu lesen, bevor die ersten ETF Anteile oder andere Wertpapiere gekauft werden.\nBei Aktien war ich damals zu ungeduldig, bei P2P bin ich jedoch so vorgegangen und habe es nicht bereut. Damals gab es das Buch von Kollja und Lars zum Thema P2P und dort stand damals (2019) aus meiner Sicht alles wichtige drin. Heute wäre die Printversion des Buches natürlich ein bisschen veraltet. \n\nSchritt 1: Assetklasse auswählen die einen interessiert\nSchritt 2: Wissen aneignen (Bücher oder Personen mit Erfahrungen)\nSchritt 3: Ziele definieren (z. B. die Gewichtung im Gesamtportfolio) und planen z. B. für das aktuelle Jahr\nSchritt 4: Start des Investments (bei mir am liebsten mit kleinen Summen und kleinschrittiger Skalierbarkeit)\n\nViele Starten eben direkt bei Schritt 4 und versenken erstmals Omas Erbe :D",
+                        "authorDisplayName": "Lukas Krusberski",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8w-K392vNRaH6UW4D2GL3IYTB9RazFdleTsnBv=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCQAErh-AbIwk-23hTf7t3bg",
+                        "authorChannelId": {
+                            "value": "UCQAErh-AbIwk-23hTf7t3bg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2022-09-04T12:35:41Z",
+                        "updatedAt": "2022-09-04T12:35:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "AatJxJB5JeoWt1LyWlpvRaCkHLE",
+            "id": "UgyzPXpgIP49eS480FJ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9q7RIX_wV9h9c1Oh3zzZXf36jek",
+                    "id": "UgyzPXpgIP49eS480FJ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Pip Trading mit Öl, ohne vorher Strategien getestet zu haben - schön 5-stellig verloren :`)",
+                        "textOriginal": "Pip Trading mit Öl, ohne vorher Strategien getestet zu haben - schön 5-stellig verloren :`)",
+                        "authorDisplayName": "Dullitwin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/sK8RK-w59Rk7Ico1l6XT8L0yv26B7ByW6PtUSBRxJhnwNfLBZ50L6YyLp9fMIpIJ1nqAlkyclw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCYsVRAh49m-fYBWQ88nIh4g",
+                        "authorChannelId": {
+                            "value": "UCYsVRAh49m-fYBWQ88nIh4g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T12:24:27Z",
+                        "updatedAt": "2022-09-04T12:24:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8fenEjCWaBb_iyAbAVqwGo9yQUI",
+            "id": "UgxyKLxvYcTFeONM0Rd4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "PphNbHH_D1ApZdBi6bgfTVTTZ2Q",
+                    "id": "UgxyKLxvYcTFeONM0Rd4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Was hälst du von der Firma Tecis?",
+                        "textOriginal": "Was hälst du von der Firma Tecis?",
+                        "authorDisplayName": "Trenik",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9hZGVtJC1jsePlyo-uPLDP4oGR7kSkDjllQnHf=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC_2JWAXvz9-u1Bjm6YP6tzw",
+                        "authorChannelId": {
+                            "value": "UC_2JWAXvz9-u1Bjm6YP6tzw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T12:12:53Z",
+                        "updatedAt": "2022-09-04T12:12:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bOqvBgP90jJKiXU1LqnYpmd19Dc",
+            "id": "UgzSw1-oI3ZZB8m-FIR4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "WbFIfW4mG4z7muScoILR-B84z2A",
+                    "id": "UgzSw1-oI3ZZB8m-FIR4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Hallo Finanzbär,<br>Bin selber bei TR.. Habe jetzt erst mitbekommen durch dein Video das TR. Mitarbeiter entlassen hat...<br>Muss man sich Gedanken um seine Aktien haben..?<br>Bzw..lieber dort weggehen? <br>Bin sonst eigentlich zufrieden dort...<br>Was ist deine Meinung dazu .?<br>Danke schon mal für deine Antwort..<br>LG.",
+                        "textOriginal": "Hallo Finanzbär,\nBin selber bei TR.. Habe jetzt erst mitbekommen durch dein Video das TR. Mitarbeiter entlassen hat...\nMuss man sich Gedanken um seine Aktien haben..?\nBzw..lieber dort weggehen? \nBin sonst eigentlich zufrieden dort...\nWas ist deine Meinung dazu .?\nDanke schon mal für deine Antwort..\nLG.",
+                        "authorDisplayName": "l f",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-z2GNSqsbtYA51mTONdnVqqWK22vIvvlECf7Am=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCI5Rv8w229lN-SL0qzAPy3Q",
+                        "authorChannelId": {
+                            "value": "UCI5Rv8w229lN-SL0qzAPy3Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T11:59:50Z",
+                        "updatedAt": "2022-09-04T11:59:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jS5jfWZ5Z8fOVqtOOcOAI8UGVZU",
+            "id": "UgzWElooEgA8VKZMJiF4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zBz1-x4xjS96-ctNmpw3HjCAYdQ",
+                    "id": "UgzWElooEgA8VKZMJiF4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "💯",
+                        "textOriginal": "💯",
+                        "authorDisplayName": "Sandokai",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8hyDNmrU57YYtHRHd34KV9fxHuEj2uyqLtKeMgjA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCNIi-3jrnc5vhnvC5BqGu8Q",
+                        "authorChannelId": {
+                            "value": "UCNIi-3jrnc5vhnvC5BqGu8Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T11:44:23Z",
+                        "updatedAt": "2022-09-04T11:44:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Gwd71PAd7ois0yIjN-lnPzKEpag",
+            "id": "Ugzf5EJP-nurY2xEliJ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "v4jnlpAQoDkrH7tVN7a3VsQcdIc",
+                    "id": "Ugzf5EJP-nurY2xEliJ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "👍",
+                        "textOriginal": "👍",
+                        "authorDisplayName": "Maxi D.",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-MV-GmvQKLPRGdncyFAOD45wmuZWBsYWcr4w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCSMLFAkfdR_Ly_-bPbkhazw",
+                        "authorChannelId": {
+                            "value": "UCSMLFAkfdR_Ly_-bPbkhazw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T11:41:58Z",
+                        "updatedAt": "2022-09-04T11:41:58Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PqmrZQczCvCzYGk80QQXhcav9bk",
+            "id": "UgzIyAC694foOgKPzpt4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Dp2d1_N2ay5t4Am8tcbxasXZMf8",
+                    "id": "UgzIyAC694foOgKPzpt4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein größter Fehler war viel hin und her ! Von einer Bank zur anderen zu Vermögensverwalter etc… hab mich jetzt von allen getrennt und mache alles Online und hab ein 70/30 etf Portfolio. Am Anfang dachte ich es ist komisch sein Geld selber zu verwalten aber es war der beste Schritt den ich im Bereich investieren gemacht hab. ✌️",
+                        "textOriginal": "Mein größter Fehler war viel hin und her ! Von einer Bank zur anderen zu Vermögensverwalter etc… hab mich jetzt von allen getrennt und mache alles Online und hab ein 70/30 etf Portfolio. Am Anfang dachte ich es ist komisch sein Geld selber zu verwalten aber es war der beste Schritt den ich im Bereich investieren gemacht hab. ✌️",
+                        "authorDisplayName": "Keanu Go",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_M1mSGxXioizSRneqXQq02ZZa_104JmL1swvrVFbB7QtxMk0AyGtjRXjlqKys_=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCq1zgiUNrzb0XPMk_oywwWA",
+                        "authorChannelId": {
+                            "value": "UCq1zgiUNrzb0XPMk_oywwWA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 11,
+                        "publishedAt": "2022-09-04T11:40:56Z",
+                        "updatedAt": "2022-09-04T11:40:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PcrMGM-tEt-X3KPLp72eqQ2LO0c",
+            "id": "UgwPigvX_0Se5DCmebd4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GmeaBIbcg-LLh9ZnkQZNqaB8IqA",
+                    "id": "UgwPigvX_0Se5DCmebd4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Gutes Video! Danke dir! Einzig die Aussage &quot;Nuri ist bankrott gegangen&quot; ist etwas ungenau formuliert. Bankrott ist eine Straftat, Nuri ist allerdings in Insolvenz, das kann zusammenhängen, eine Insolvenz ist aber nicht automatisch mit einem Bankrott verbunden.",
+                        "textOriginal": "Gutes Video! Danke dir! Einzig die Aussage \"Nuri ist bankrott gegangen\" ist etwas ungenau formuliert. Bankrott ist eine Straftat, Nuri ist allerdings in Insolvenz, das kann zusammenhängen, eine Insolvenz ist aber nicht automatisch mit einem Bankrott verbunden.",
+                        "authorDisplayName": "Bernhard Krämer",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8CMAq2ZBQWR3P8nftWMPV7ULMIXJMDfLuIIvTsIg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC4UnKg37BJCJZJPoQat-hiw",
+                        "authorChannelId": {
+                            "value": "UC4UnKg37BJCJZJPoQat-hiw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T11:29:05Z",
+                        "updatedAt": "2022-09-04T11:29:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xbrGidl2ARheMJUUbRa6jKjtbk8",
+            "id": "Ugx5SDB39jPSCinkBMp4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "UpNlyOrMQ8svth9e5lWdTR3uhc0",
+                    "id": "Ugx5SDB39jPSCinkBMp4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein größter Fehler, habe in ein SPAC investiert, weil ich dachte der geht fix von 10 auf 20 Euro und dann verkaufe ich. (hatte grad zu viel Geld in Coronazeiten und wollte so einen SPAC mal probieren) Jetzt ist er bei unter 2 und ich habe 1.200€ Minus 😂. Tatsächlich glaube ich an das Unternehmen, es ist aber noch zu früh und die Bewertung war zu hoch. Ich lasse es nun liegen.",
+                        "textOriginal": "Mein größter Fehler, habe in ein SPAC investiert, weil ich dachte der geht fix von 10 auf 20 Euro und dann verkaufe ich. (hatte grad zu viel Geld in Coronazeiten und wollte so einen SPAC mal probieren) Jetzt ist er bei unter 2 und ich habe 1.200€ Minus 😂. Tatsächlich glaube ich an das Unternehmen, es ist aber noch zu früh und die Bewertung war zu hoch. Ich lasse es nun liegen.",
+                        "authorDisplayName": "Flo XX",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8ncIRsJczxSSmiBoRhm6YPusi5atwhAbJPN6BhnA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCDIxgrIhoglwcXaBZ5HIl8A",
+                        "authorChannelId": {
+                            "value": "UCDIxgrIhoglwcXaBZ5HIl8A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T11:12:12Z",
+                        "updatedAt": "2022-09-04T11:12:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pmwoJfy0xJTq6eDd7n0eIFEUq_U",
+            "id": "UgwueJUU8mOqfzZ4Vv94AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Z6vIs2CHOnYMTVkLlLmAXoLIqC0",
+                    "id": "UgwueJUU8mOqfzZ4Vv94AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Top Video. Bei Thema Zeitaufwand muss ich auch noch an mir arbeiten!",
+                        "textOriginal": "Top Video. Bei Thema Zeitaufwand muss ich auch noch an mir arbeiten!",
+                        "authorDisplayName": "Engel auf Erden",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8hQZ2RBd-jAtqJuEIcXSPgr5BwFJlFmLqW0w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCZMW-XXSV3Rr6Xpe3daCcKA",
+                        "authorChannelId": {
+                            "value": "UCZMW-XXSV3Rr6Xpe3daCcKA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T11:09:12Z",
+                        "updatedAt": "2022-09-04T13:44:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Y1afmhR4EW3xZkO8eTxwbUpWhqs",
+            "id": "UgwH_-0MfV8Oa-7KwbR4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5gWXqDB_nUZqxTfUvzv1n5sjWyo",
+                    "id": "UgwH_-0MfV8Oa-7KwbR4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein größter Fehler: zu spät angefangen mit dem Investieren. Leider erst mit 38 angefangen.",
+                        "textOriginal": "Mein größter Fehler: zu spät angefangen mit dem Investieren. Leider erst mit 38 angefangen.",
+                        "authorDisplayName": "Oliver Hennig",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu87ir3-qWNq2KYdo0L_1v8JB3XQhGTB08wvtQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCze0NL-yZ1Gkr7MiAMa3FgA",
+                        "authorChannelId": {
+                            "value": "UCze0NL-yZ1Gkr7MiAMa3FgA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 12,
+                        "publishedAt": "2022-09-04T10:41:48Z",
+                        "updatedAt": "2022-09-04T10:41:48Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "B8V5r-nVwLEqdtawgxSdKsd0Gbc",
+            "id": "Ugy24vSW7ioH-n4E0Ml4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mNqTvDqF4GnvjivqicXuJppySWM",
+                    "id": "Ugy24vSW7ioH-n4E0Ml4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Was würde denn passieren wenn Trade Republic Insolvenz geht bezüglich der Aktien und vor allem der kryptos die man da hat ?<br><br>Lg",
+                        "textOriginal": "Was würde denn passieren wenn Trade Republic Insolvenz geht bezüglich der Aktien und vor allem der kryptos die man da hat ?\n\nLg",
+                        "authorDisplayName": "Ari-Joni",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytQ5q8CHUQ7WEfVKDVkTf21csKOTFwEuCY1795WaxQZmkkGvcqdOm-3HqT8WsTofhK61lf4i8fM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCP9C7LZxikNyREME9pw8tvw",
+                        "authorChannelId": {
+                            "value": "UCP9C7LZxikNyREME9pw8tvw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T10:39:00Z",
+                        "updatedAt": "2022-09-04T10:39:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "Hxj1HKpNJKjfY6pG2X6v3cpBxGU",
+                        "id": "Ugy24vSW7ioH-n4E0Ml4AaABAg.9fYjjZoQGeC9fZNR07xAZB",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "@smsdelux hallo,<br>Ja das weis ich Aktien kann dir keiner nehmen aber wie sieht das mit kryptos aus bei einer Insolvenz von Trade Republic oder einem anderen Broker ? <br>Lg",
+                            "textOriginal": "@smsdelux hallo,\nJa das weis ich Aktien kann dir keiner nehmen aber wie sieht das mit kryptos aus bei einer Insolvenz von Trade Republic oder einem anderen Broker ? \nLg",
+                            "parentId": "Ugy24vSW7ioH-n4E0Ml4AaABAg",
+                            "authorDisplayName": "Ari-Joni",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytQ5q8CHUQ7WEfVKDVkTf21csKOTFwEuCY1795WaxQZmkkGvcqdOm-3HqT8WsTofhK61lf4i8fM=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCP9C7LZxikNyREME9pw8tvw",
+                            "authorChannelId": {
+                                "value": "UCP9C7LZxikNyREME9pw8tvw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-09-04T16:34:35Z",
+                            "updatedAt": "2022-09-04T16:34:35Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "am1RDXwocd_R5GUtUKJTw-DXszA",
+                        "id": "Ugy24vSW7ioH-n4E0Ml4AaABAg.9fYjjZoQGeC9fZMypuGRD6",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Aktien zählen nicht zur Insolvenz Masse des Brokers.<br>Dazu zählt nur der Teil, des Verrechnungskontos, welcher nicht gesichert ist.<br>Aktien sind definitiv in deinem Besitz, deshalb kannst du auch einen Depotübertrag machen, ohne zu verkaufen.",
+                            "textOriginal": "Aktien zählen nicht zur Insolvenz Masse des Brokers.\nDazu zählt nur der Teil, des Verrechnungskontos, welcher nicht gesichert ist.\nAktien sind definitiv in deinem Besitz, deshalb kannst du auch einen Depotübertrag machen, ohne zu verkaufen.",
+                            "parentId": "Ugy24vSW7ioH-n4E0Ml4AaABAg",
+                            "authorDisplayName": "smsdelux",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/GPZnM8xqSCJdLzw4G749J0qz2DNMp426lewxVm38wqAofRC-4FQRFzC6wdOpBogo3YZkholzXx8=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCCED88BBD642IeHNqm8kJEA",
+                            "authorChannelId": {
+                                "value": "UCCED88BBD642IeHNqm8kJEA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T16:30:36Z",
+                            "updatedAt": "2022-09-04T16:30:36Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "M5V9A_dVaP5-XQMMGj3MGUJolSc",
+                        "id": "Ugy24vSW7ioH-n4E0Ml4AaABAg.9fYjjZoQGeC9fYuajm7DyY",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "interessiert mich auch das Thema Broker Insolvenz,bin bei Smartbroker!",
+                            "textOriginal": "interessiert mich auch das Thema Broker Insolvenz,bin bei Smartbroker!",
+                            "parentId": "Ugy24vSW7ioH-n4E0Ml4AaABAg",
+                            "authorDisplayName": "Nona Schwarz",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_9WlwAKKy6ocO1yfhEZ9JTb1I9qqEoqudVBQ=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC_mr-LO88MJDOYcQANCLBKw",
+                            "authorChannelId": {
+                                "value": "UC_mr-LO88MJDOYcQANCLBKw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-09-04T12:13:54Z",
+                            "updatedAt": "2022-09-04T12:13:54Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wY7O8alZQWwKdEFWsnfsbM-NIu0",
+            "id": "UgyNvnmCIspQwQHsUap4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "y-_yfGKdypziQkoUzKQkbYgrP2M",
+                    "id": "UgyNvnmCIspQwQHsUap4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=K-QVM91VP2U&amp;t=14m18s\">14:18</a> Deine Videos sind immer ein Mehrwert 💪🏻👍🏻",
+                        "textOriginal": "14:18 Deine Videos sind immer ein Mehrwert 💪🏻👍🏻",
+                        "authorDisplayName": "MrMuab",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8d1PeiFIPLW4VKy4Z--IoYecTeURdOB0Dueq2rQkxQeQt_-sI5U5YX8mzbH7MT=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC_WRVT3CKU8w_C9GY4ry8Xg",
+                        "authorChannelId": {
+                            "value": "UC_WRVT3CKU8w_C9GY4ry8Xg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T10:28:20Z",
+                        "updatedAt": "2022-09-04T10:28:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "T2DziupgOuiGDG6YT9x1eWjpJyc",
+            "id": "Ugw_HRUNxL8QLtPCbwp4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qm1Ea60DUfJu0hl2bN9CLEVHO5U",
+                    "id": "Ugw_HRUNxL8QLtPCbwp4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Was passiert wenn Aktienbroker wie Trade Republik pleite geht ?!",
+                        "textOriginal": "Was passiert wenn Aktienbroker wie Trade Republik pleite geht ?!",
+                        "authorDisplayName": "Samet Dogan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu93DCAkXQDqR2EDle-8qQW_aA2j8bvr0wnX_TWElg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCk2lpDY6kIDbRT7Ky1jbIdQ",
+                        "authorChannelId": {
+                            "value": "UCk2lpDY6kIDbRT7Ky1jbIdQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T10:23:44Z",
+                        "updatedAt": "2022-09-04T10:23:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "loWzW2nL4ha5ul10LKatFLIOyaI",
+                        "id": "Ugw_HRUNxL8QLtPCbwp4AaABAg.9fYhznta8Ak9fdb5wiCg-R",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Nichts. Deine Aktien sind Sondervermögen und du kannst sie dann zu einem anderen Broker übertragen. Das Geld auf deinem Verrechnungskonto unterliegt der Einlagensicherung bis 100.000€.",
+                            "textOriginal": "Nichts. Deine Aktien sind Sondervermögen und du kannst sie dann zu einem anderen Broker übertragen. Das Geld auf deinem Verrechnungskonto unterliegt der Einlagensicherung bis 100.000€.",
+                            "parentId": "Ugw_HRUNxL8QLtPCbwp4AaABAg",
+                            "authorDisplayName": "Mert B.",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/xXKX9t32pIhmPCoEfr4n2AdeIlRJaRmMv6EM9AsGIwyxZaqQ4Wsz6TAVxIH0f1GcrMzIeYPJYQ=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCyA46rkAlQsjTBkEhTeFtDQ",
+                            "authorChannelId": {
+                                "value": "UCyA46rkAlQsjTBkEhTeFtDQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-06T17:18:59Z",
+                            "updatedAt": "2022-09-06T17:18:59Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BKGzsFbIfzT7CEb7JAoTlpa19lo",
+            "id": "UgzXNC3vk8nVgbpd34d4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "I4ORz2OTU2V4E6yZBmT8ZiKhWAk",
+                    "id": "UgzXNC3vk8nVgbpd34d4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Bondora Go&amp;Grow wäre sicherlich mal eine Überlegung wert gewesen aber jetzt wo die Rendite für Neuanleger auf 4% gesenkt wurde wird es garnicht mehr in Betracht gezogen",
+                        "textOriginal": "Bondora Go&Grow wäre sicherlich mal eine Überlegung wert gewesen aber jetzt wo die Rendite für Neuanleger auf 4% gesenkt wurde wird es garnicht mehr in Betracht gezogen",
+                        "authorDisplayName": "MrMuab",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8d1PeiFIPLW4VKy4Z--IoYecTeURdOB0Dueq2rQkxQeQt_-sI5U5YX8mzbH7MT=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC_WRVT3CKU8w_C9GY4ry8Xg",
+                        "authorChannelId": {
+                            "value": "UC_WRVT3CKU8w_C9GY4ry8Xg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2022-09-04T10:17:57Z",
+                        "updatedAt": "2022-09-04T10:17:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_LfhvOuZJAgfOZRtPjilt2EAdEg",
+            "id": "UgwZjIPPKwjEJ9wrOrt4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Zc0AyNIBZYjaW7IcnrvfylifXgA",
+                    "id": "UgwZjIPPKwjEJ9wrOrt4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Frauenwechsel?😂",
+                        "textOriginal": "Frauenwechsel?😂",
+                        "authorDisplayName": "Eugen Wertz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu--Yy7v_jMNPACj9CcxJTh0W5t6vMUkyGBL-g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCLc9fDuZd2oL88O4JbkxR-g",
+                        "authorChannelId": {
+                            "value": "UCLc9fDuZd2oL88O4JbkxR-g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T09:50:10Z",
+                        "updatedAt": "2022-09-04T09:50:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "cMmawCRtohLMjWBcF7Hz1NU2q_I",
+            "id": "UgwjVTLovRQMkfTp-wZ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NSnd2qLLjboiUhdkeCaUvcXevO0",
+                    "id": "UgwjVTLovRQMkfTp-wZ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Dem Thema Human Kapital wird meiner Meinung nach viel zu wenig Aufmerksamkeit geschenkt. Wahrscheinlich, weil es leichter ist in ein Unternehmen zu investieren als in sich selbst. Daher schön, dass du das hier aufgegriffen hast. <br><br>Ich selbst habe die letzten Jahren mehrere Hundert Euro pro Monat für ein nebenberufliches Studium bezahlt. Mit meinem neuen Job und dem besseren Gehalt was ich damit nun erzielen konnte ist das wohl die beste Geldanlage gewesen die ich bisher hatte oder auch jemals haben werde.",
+                        "textOriginal": "Dem Thema Human Kapital wird meiner Meinung nach viel zu wenig Aufmerksamkeit geschenkt. Wahrscheinlich, weil es leichter ist in ein Unternehmen zu investieren als in sich selbst. Daher schön, dass du das hier aufgegriffen hast. \n\nIch selbst habe die letzten Jahren mehrere Hundert Euro pro Monat für ein nebenberufliches Studium bezahlt. Mit meinem neuen Job und dem besseren Gehalt was ich damit nun erzielen konnte ist das wohl die beste Geldanlage gewesen die ich bisher hatte oder auch jemals haben werde.",
+                        "authorDisplayName": "r0_binx",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-jXf34vvDTCmJriyLgD7d62TYpx1PEv46ojqZPnJbhj7F9TrCiGvObPiyuvjRD=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdaqC7j0wBj6IdJbdGMGmKA",
+                        "authorChannelId": {
+                            "value": "UCdaqC7j0wBj6IdJbdGMGmKA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 13,
+                        "publishedAt": "2022-09-04T09:40:02Z",
+                        "updatedAt": "2022-09-04T09:41:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "WwyxKDWOEqZtOQYwNwKMOSAnsZA",
+                        "id": "UgwjVTLovRQMkfTp-wZ4AaABAg.9fYczfa3aXS9fro3VwjOnD",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "@Thraciel Wenn es eine Geldanlage gäbe, welche kein Risiko, sondern einen 100%igen Benefit garantiert, dann gäbe es glaub viele reiche Menschen😄 Bleib aber optimistisch.:) es wird sich bestimmt noch gelohnt haben👌🏼",
+                            "textOriginal": "@Thraciel Wenn es eine Geldanlage gäbe, welche kein Risiko, sondern einen 100%igen Benefit garantiert, dann gäbe es glaub viele reiche Menschen😄 Bleib aber optimistisch.:) es wird sich bestimmt noch gelohnt haben👌🏼",
+                            "parentId": "UgwjVTLovRQMkfTp-wZ4AaABAg",
+                            "authorDisplayName": "r0_binx",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-jXf34vvDTCmJriyLgD7d62TYpx1PEv46ojqZPnJbhj7F9TrCiGvObPiyuvjRD=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCdaqC7j0wBj6IdJbdGMGmKA",
+                            "authorChannelId": {
+                                "value": "UCdaqC7j0wBj6IdJbdGMGmKA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-12T05:41:37Z",
+                            "updatedAt": "2022-09-12T05:42:48Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "-zEG02iY3cX1nQflFzXBE_77GFU",
+                        "id": "UgwjVTLovRQMkfTp-wZ4AaABAg.9fYczfa3aXS9frnrCCqABq",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "@Mensch vs Person Maschinenbau",
+                            "textOriginal": "@Mensch vs Person Maschinenbau",
+                            "parentId": "UgwjVTLovRQMkfTp-wZ4AaABAg",
+                            "authorDisplayName": "r0_binx",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-jXf34vvDTCmJriyLgD7d62TYpx1PEv46ojqZPnJbhj7F9TrCiGvObPiyuvjRD=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCdaqC7j0wBj6IdJbdGMGmKA",
+                            "authorChannelId": {
+                                "value": "UCdaqC7j0wBj6IdJbdGMGmKA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-12T05:39:48Z",
+                            "updatedAt": "2022-09-12T05:39:48Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "kYEVMHgBLRdR3jQ-TywqRRA90H0",
+                        "id": "UgwjVTLovRQMkfTp-wZ4AaABAg.9fYczfa3aXS9fr1X_grcT-",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Auch Humankapital hat ein Risiko. Ich hätte mir mein zweites Studium bisher quasi sparen können...",
+                            "textOriginal": "Auch Humankapital hat ein Risiko. Ich hätte mir mein zweites Studium bisher quasi sparen können...",
+                            "parentId": "UgwjVTLovRQMkfTp-wZ4AaABAg",
+                            "authorDisplayName": "Thraciel",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8i-zPsxl3NrZREZvjLK1WjcMDhFY1Y-Ztx2Q=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCeCZ_w83eJD8opxCzRnDGzw",
+                            "authorChannelId": {
+                                "value": "UCeCZ_w83eJD8opxCzRnDGzw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-11T22:28:49Z",
+                            "updatedAt": "2022-09-11T22:28:49Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "kYSslT2MC5iF7sRYd7_0aKjIYws",
+                        "id": "UgwjVTLovRQMkfTp-wZ4AaABAg.9fYczfa3aXS9fckb4L06Ds",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "was genau hast du für ein Studium gemacht",
+                            "textOriginal": "was genau hast du für ein Studium gemacht",
+                            "parentId": "UgwjVTLovRQMkfTp-wZ4AaABAg",
+                            "authorDisplayName": "Mensch vs Person",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8QIIpiZEeMaZAtMeG2kss1Jss4ncKLWKvMF2to7Q=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCGrGDr1G226LjRKr92txw8Q",
+                            "authorChannelId": {
+                                "value": "UCGrGDr1G226LjRKr92txw8Q"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-06T09:22:46Z",
+                            "updatedAt": "2022-09-06T09:22:46Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "f8hJr8KKXj_LvJ0eWwWvmm--6ko",
+            "id": "Ugwl7oK3RMN0L0R4_l94AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "KVsZsyH1-gi2GF7LP2X2mEtlKU8",
+                    "id": "Ugwl7oK3RMN0L0R4_l94AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Top video :) super hilfreich.<br>Noch eine Frage:<br>Sagen wir ein Broker geht Pleite, was passiert dann im Zweifelsfall mit meinen Aktien?<br>Wäre cool wenn du das mal in einem Video ansprechen könntest.<br>Danke schonmal :)",
+                        "textOriginal": "Top video :) super hilfreich.\nNoch eine Frage:\nSagen wir ein Broker geht Pleite, was passiert dann im Zweifelsfall mit meinen Aktien?\nWäre cool wenn du das mal in einem Video ansprechen könntest.\nDanke schonmal :)",
+                        "authorDisplayName": "F J",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-Qq269j8daqzZP_ZKYJNO3G2EkfzBuy5qXWw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCcAxnpPju6rNJ9VGihhzunw",
+                        "authorChannelId": {
+                            "value": "UCcAxnpPju6rNJ9VGihhzunw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T09:35:39Z",
+                        "updatedAt": "2022-09-04T09:35:39Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "vSv-BB2rPwWg_XnYXsOUXU916Bk",
+                        "id": "Ugwl7oK3RMN0L0R4_l94AaABAg.9fYcU_tWezl9f_8wVUaDaK",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Das würde mich auch interessieren ob es Not tut die ganzen PDFs von den Käufen/Verkäufen zu speichern, falls der Broker pleite geht.",
+                            "textOriginal": "Das würde mich auch interessieren ob es Not tut die ganzen PDFs von den Käufen/Verkäufen zu speichern, falls der Broker pleite geht.",
+                            "parentId": "Ugwl7oK3RMN0L0R4_l94AaABAg",
+                            "authorDisplayName": "Daniel G",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu985LnW3c_z9aTpxfTvQJ4tr6RyOJRqQh-qZjctkDjawpxI3v8ksJzYg3MPasTw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCPpDlTWKQJgHHvYnqygPI2w",
+                            "authorChannelId": {
+                                "value": "UCPpDlTWKQJgHHvYnqygPI2w"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T23:47:11Z",
+                            "updatedAt": "2022-09-04T23:47:11Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "jTvv0jn_zty1X_v6QO_Xk16AhWE",
+                        "id": "Ugwl7oK3RMN0L0R4_l94AaABAg.9fYcU_tWezl9fYw5g3WEH1",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "@HS 59 okay und brauche ich dann Nachweise (also alle Rechnungen) um zu beweisen, dass es meine Aktien sind?<br>Oder wie bekomme ich die Anteile vom Broker zurück?<br>Danke schonmal :)",
+                            "textOriginal": "@HS 59 okay und brauche ich dann Nachweise (also alle Rechnungen) um zu beweisen, dass es meine Aktien sind?\nOder wie bekomme ich die Anteile vom Broker zurück?\nDanke schonmal :)",
+                            "parentId": "Ugwl7oK3RMN0L0R4_l94AaABAg",
+                            "authorDisplayName": "F J",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-Qq269j8daqzZP_ZKYJNO3G2EkfzBuy5qXWw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCcAxnpPju6rNJ9VGihhzunw",
+                            "authorChannelId": {
+                                "value": "UCcAxnpPju6rNJ9VGihhzunw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T12:27:00Z",
+                            "updatedAt": "2022-09-04T12:27:00Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "CYLciNPnqRldH6Ekes58NK0s3Wk",
+                        "id": "Ugwl7oK3RMN0L0R4_l94AaABAg.9fYcU_tWezl9fYqMVan9uz",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Aktien und ETF sind Sondervermögen und fallen bei einer Pleite der Bank oder des Brokers nicht in die Konkursmasse. Sie bleiben dem Besitzer erhalten. Für Zertifikate o.ä. Finanzprodukte gilt das nicht.",
+                            "textOriginal": "Aktien und ETF sind Sondervermögen und fallen bei einer Pleite der Bank oder des Brokers nicht in die Konkursmasse. Sie bleiben dem Besitzer erhalten. Für Zertifikate o.ä. Finanzprodukte gilt das nicht.",
+                            "parentId": "Ugwl7oK3RMN0L0R4_l94AaABAg",
+                            "authorDisplayName": "HS 59",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_oDMuGOlk-NNtSnv4Bs1C1TFwmubjCe6vDLg=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCOxb6X26miqA7UgAizIe4CA",
+                            "authorChannelId": {
+                                "value": "UCOxb6X26miqA7UgAizIe4CA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 3,
+                            "publishedAt": "2022-09-04T11:36:52Z",
+                            "updatedAt": "2022-09-04T11:36:52Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3Kvo1KKLtCy6CKXKlqskSmS34yE",
+            "id": "UgwG0hJMTvbil-EBSdl4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FJ3I5H7mS4Stz1drLfmVAwFv8Rk",
+                    "id": "UgwG0hJMTvbil-EBSdl4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "👌",
+                        "textOriginal": "👌",
+                        "authorDisplayName": "Alfred Neumaier",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8BrYJ_TbuqdHqJKvQPzNGtfWIDIDBolNMi9A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC8kagQOrZk8zRumpfrrVUmA",
+                        "authorChannelId": {
+                            "value": "UC8kagQOrZk8zRumpfrrVUmA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T09:03:55Z",
+                        "updatedAt": "2022-09-04T09:03:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "EhiO0AmcBYI5X2Gw5e18m8UR9ug",
+            "id": "UgzqL5nuEGFiSUAHHPB4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "cgxDcyt8iuHI4U8uXIRKzVizfm0",
+                    "id": "UgzqL5nuEGFiSUAHHPB4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Frauen sind weniger risikofreudig,vorsichtiger.Männer zocken eher….",
+                        "textOriginal": "Frauen sind weniger risikofreudig,vorsichtiger.Männer zocken eher….",
+                        "authorDisplayName": "Cat Fun",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/UiHAjyCvKpr3NPSTxuITnAoVznowDoeUCO30UNyQpvSdynL9ey5OjIeqmrY3DqXeSSbs3pMe3A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCmEzN5gV6Zwp_mujWJBmEPA",
+                        "authorChannelId": {
+                            "value": "UCmEzN5gV6Zwp_mujWJBmEPA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T09:02:28Z",
+                        "updatedAt": "2022-09-04T09:02:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "0mUDR6Z2APS213Lzd2hBCX75UZU",
+            "id": "UgwOVyfq8CcmQeCr8094AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "U_I8atHV9Rz8nTWZcRnU2TVKHJA",
+                    "id": "UgwOVyfq8CcmQeCr8094AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Cooles Format mein Lieber. Sehr sehr cool!",
+                        "textOriginal": "Cooles Format mein Lieber. Sehr sehr cool!",
+                        "authorDisplayName": "PengoTTV",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9M8NhCLUeOWwOICEFF9jryDUYDmcWg--O0sjyuzOHfAX6_cOMxjqM65AmtFGcG=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCJpCDSu9ZxLsnVbgl2ofB8g",
+                        "authorChannelId": {
+                            "value": "UCJpCDSu9ZxLsnVbgl2ofB8g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T09:00:06Z",
+                        "updatedAt": "2022-09-04T09:00:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qfd4mgQFo64_tLf9q_P8F85qbNA",
+            "id": "UgxGDuFkZiCkRkSFM8B4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ehiABbUp6CwAO_CIJKGlEFgxzog",
+                    "id": "UgxGDuFkZiCkRkSFM8B4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Top! Selbstreflexion ist vielen ein Fremdwort. Und es dann noch öffentlich zu prasentieren... 👍🏼",
+                        "textOriginal": "Top! Selbstreflexion ist vielen ein Fremdwort. Und es dann noch öffentlich zu prasentieren... 👍🏼",
+                        "authorDisplayName": "Pelle #64",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9XARtz-PD4xNBOgFXTzTPJ9on5SC9kpVVAbQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC0XLAQXXcMkesY6_lCScQUw",
+                        "authorChannelId": {
+                            "value": "UC0XLAQXXcMkesY6_lCScQUw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 19,
+                        "publishedAt": "2022-09-04T08:47:07Z",
+                        "updatedAt": "2022-09-04T08:47:07Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pMbuGdK2VFvIuUTz_gPmLQmtDSw",
+            "id": "UgyjHPIxudG1eEit20l4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SLGdS3Moef9j3QFxGsTGziF1IJI",
+                    "id": "UgyjHPIxudG1eEit20l4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "1. Fehleinschätzung , höhere Mächte und kein gutes Timing hatte ich alles schon. Wirecard drei, vier Wochen bevor die Firma bankrott war, trotz mahnender Stimmen. Und Gazprom habe ich trotz anbahnender starker politischer Spannungen noch Geld nachgeschossen und bin wohl bald gezwungen zu einem Spott-Preis zu verkaufen...",
+                        "textOriginal": "1. Fehleinschätzung , höhere Mächte und kein gutes Timing hatte ich alles schon. Wirecard drei, vier Wochen bevor die Firma bankrott war, trotz mahnender Stimmen. Und Gazprom habe ich trotz anbahnender starker politischer Spannungen noch Geld nachgeschossen und bin wohl bald gezwungen zu einem Spott-Preis zu verkaufen...",
+                        "authorDisplayName": "hbecker",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9LBDTGKivvF2TdfHL2KIPGTzknd1x63Y6IFoiUHg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC-v4ev1ESAlMDu4FZc-R6xw",
+                        "authorChannelId": {
+                            "value": "UC-v4ev1ESAlMDu4FZc-R6xw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-09-04T08:38:55Z",
+                        "updatedAt": "2022-09-04T08:38:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "qssDzOG0qgJNvtv95GvwQy7JVBc",
+                        "id": "UgyjHPIxudG1eEit20l4AaABAg.9fYX-4kozxu9fiEC3STAed",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Gazprom habe ich auch. Das ist kein Vergleich zu Wirecard. Gazprom macht gerade den Umsatz des Jahrhunderts und ist keine Betrügefirma wie Wirecard. <br>Im schlimmsten Fall wird die Gazprom-ADR verkauft und der Preis ist gar nicht schlecht in Moskau.",
+                            "textOriginal": "Gazprom habe ich auch. Das ist kein Vergleich zu Wirecard. Gazprom macht gerade den Umsatz des Jahrhunderts und ist keine Betrügefirma wie Wirecard. \nIm schlimmsten Fall wird die Gazprom-ADR verkauft und der Preis ist gar nicht schlecht in Moskau.",
+                            "parentId": "UgyjHPIxudG1eEit20l4AaABAg",
+                            "authorDisplayName": "Harald Wolf",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QYUSr5FbE6XL1dDdesweg7GSYu9-hEaDoHw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UConD_LD8xeh2fwVk2zThL1w",
+                            "authorChannelId": {
+                                "value": "UConD_LD8xeh2fwVk2zThL1w"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-08T12:26:18Z",
+                            "updatedAt": "2022-09-08T12:26:18Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "u7XvlDjUw00T1Jx-SE7uDm66T5A",
+                        "id": "UgyjHPIxudG1eEit20l4AaABAg.9fYX-4kozxu9fZjkWFjINU",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Wenn es eh schon Spottpreis hat, dann halte es einfach weiter. Und wenn das 5-6 Jahre dauert.",
+                            "textOriginal": "Wenn es eh schon Spottpreis hat, dann halte es einfach weiter. Und wenn das 5-6 Jahre dauert.",
+                            "parentId": "UgyjHPIxudG1eEit20l4AaABAg",
+                            "authorDisplayName": "MrZillas",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/4R1APZXcYolKeXyL4r0rsm0XKTflHbEcivSezOZuj92P4myMTnkdvk07HWNjqhwnfnWj_V1M=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCtfLaAne3ihCP1DArK_kKOw",
+                            "authorChannelId": {
+                                "value": "UCtfLaAne3ihCP1DArK_kKOw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-09-04T19:58:22Z",
+                            "updatedAt": "2022-09-04T19:58:22Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_-7fNJ-JkzflcQkfuIMvEBa_LuI",
+            "id": "UgxPUx1cDx8jL380Xq94AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "kCWbvZzcuBojHqzUxV0pP9zusdc",
+                    "id": "UgxPUx1cDx8jL380Xq94AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "meine ersten investments waren cannabis aktien. ihr könnt euch denken wie die gelaufen sind 😅",
+                        "textOriginal": "meine ersten investments waren cannabis aktien. ihr könnt euch denken wie die gelaufen sind 😅",
+                        "authorDisplayName": "Sergej Hafner",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_6Q9EsgmnAk11X8J3ZIvVZ2GKjeFmo1ISi3tdwog=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCy1fmdliKDqvPY7j3m-Qy7g",
+                        "authorChannelId": {
+                            "value": "UCy1fmdliKDqvPY7j3m-Qy7g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T08:26:03Z",
+                        "updatedAt": "2022-09-04T08:26:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "E66Ct-ospCRaVy0UaiZnXSowlx4",
+                        "id": "UgxPUx1cDx8jL380Xq94AaABAg.9fYVWrISHVc9fZRC-6v580",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Habe meine einzige Canabisaktie damals mit rund 40% plus, das waren rund 4,5€ je Aktie verkauft. Daraufhin stieg sie noch um 1000% um jetzt wieder günstiger zu sein, als zum Einstieg... Völliger Dreck😂",
+                            "textOriginal": "Habe meine einzige Canabisaktie damals mit rund 40% plus, das waren rund 4,5€ je Aktie verkauft. Daraufhin stieg sie noch um 1000% um jetzt wieder günstiger zu sein, als zum Einstieg... Völliger Dreck😂",
+                            "parentId": "UgxPUx1cDx8jL380Xq94AaABAg",
+                            "authorDisplayName": "Aktien für Dummies",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_-PrgA4HRlv3BiWZL1QHQTDnXUrw7U7jGO2duaa4ndga8umdy60ZpYrMYEs6T_=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC7yoJNK4bivRHVZFaNpJY9w",
+                            "authorChannelId": {
+                                "value": "UC7yoJNK4bivRHVZFaNpJY9w"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T17:07:29Z",
+                            "updatedAt": "2022-09-04T17:07:29Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YRIDiS0VpN3am6I8_Sf-v3nTIT4",
+            "id": "UgwqBAyHxGn2j6R9Hh14AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "EsydASzgxfdEMpHcszYaFj2Q3a8",
+                    "id": "UgwqBAyHxGn2j6R9Hh14AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "wann kommt mal wieder ein Video zum lithium Thema? ps: riesen Respekt an dich und deine Videos, die sind echt super :))",
+                        "textOriginal": "wann kommt mal wieder ein Video zum lithium Thema? ps: riesen Respekt an dich und deine Videos, die sind echt super :))",
+                        "authorDisplayName": "lukas",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu93eh2gPTgaGEbXrTGlGdrxCpo7AzFUicSjcCi7ow=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCsSTQg0sIeipv4KpLwxTtTA",
+                        "authorChannelId": {
+                            "value": "UCsSTQg0sIeipv4KpLwxTtTA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2022-09-04T08:16:49Z",
+                        "updatedAt": "2022-09-04T08:16:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "h2dDtphZk4KtkfIEt4fINdCDE4U",
+            "id": "UgzfiAa6CI-7layJj0R4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fIZ7sjTeeCLn9cEHv0CgBKhQXhg",
+                    "id": "UgzfiAa6CI-7layJj0R4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Danke fürs Video. Ja, meine Screenzeit muss ich auch unbedingt kürzen. Bringt nichts 🤷🏻‍♂️",
+                        "textOriginal": "Danke fürs Video. Ja, meine Screenzeit muss ich auch unbedingt kürzen. Bringt nichts 🤷🏻‍♂️",
+                        "authorDisplayName": "Dom🥃",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/RvXFgDfPV3m1hUFBisIuKUxPo2wTwTzSHQsW8wtlNeYaiUDLX6C9AzOu5uCVpRr_20mNWtc8Ig=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCfZo5HDWDM5oGnqWxccFZQw",
+                        "authorChannelId": {
+                            "value": "UCfZo5HDWDM5oGnqWxccFZQw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-09-04T08:10:49Z",
+                        "updatedAt": "2022-09-04T08:10:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YqU0MXfxzuIuT1iao19eaWfeT9w",
+            "id": "Ugx4YHLNY75UGVoVwmR4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YL88t9NlUZgv3QqoToCkOJEw_3I",
+                    "id": "Ugx4YHLNY75UGVoVwmR4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Die Stimmung oder der Umgang untereinander ist nicht toxisch &#39;geworden&#39;, ich erinnere mich noch gut an meine Anfangszeit an der Börse 2004, und wie sich Leute wegen nichts in den Foren von wallstreet:online verbal die Köpfe eingehauen haben. <br><br>Mein größter Fehler war, dass ich nach anfänglicher Bruchlandung der Börse einige Jahre den Rücken gekehrt habe, in der Retrospektive war mein damaliges Scheitern eine wichtige Erfahrung und beeinflusst meine Entscheidungen noch heute.",
+                        "textOriginal": "Die Stimmung oder der Umgang untereinander ist nicht toxisch 'geworden', ich erinnere mich noch gut an meine Anfangszeit an der Börse 2004, und wie sich Leute wegen nichts in den Foren von wallstreet:online verbal die Köpfe eingehauen haben. \n\nMein größter Fehler war, dass ich nach anfänglicher Bruchlandung der Börse einige Jahre den Rücken gekehrt habe, in der Retrospektive war mein damaliges Scheitern eine wichtige Erfahrung und beeinflusst meine Entscheidungen noch heute.",
+                        "authorDisplayName": "Henry . B .",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8T8Csm4bEAjJEvfs9nu1A6g4Z6g3QHsBb2UrTb=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCtcJMQyOJmKRt2c2J5Md6lg",
+                        "authorChannelId": {
+                            "value": "UCtcJMQyOJmKRt2c2J5Md6lg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T08:02:36Z",
+                        "updatedAt": "2022-09-04T08:02:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "dAgtmmns0CJ3AI5rSVWkFjfAfIk",
+                        "id": "Ugx4YHLNY75UGVoVwmR4AaABAg.9fYSq35J6VP9fZHRyICl_Z",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "&quot;Mein größter Fehler war, dass ich nach anfänglicher Bruchlandung der Börse einige Jahre den Rücken gekehrt habe, in der Retrospektive war mein damaliges Scheitern eine wichtige Erfahrung und beeinflusst meine Entscheidungen noch heute.&quot; Dem kann ich mich voll und ganz anschließen. Wobei ich damals noch nicht einmal wirklich so richtig gescheitert bin.",
+                            "textOriginal": "\"Mein größter Fehler war, dass ich nach anfänglicher Bruchlandung der Börse einige Jahre den Rücken gekehrt habe, in der Retrospektive war mein damaliges Scheitern eine wichtige Erfahrung und beeinflusst meine Entscheidungen noch heute.\" Dem kann ich mich voll und ganz anschließen. Wobei ich damals noch nicht einmal wirklich so richtig gescheitert bin.",
+                            "parentId": "Ugx4YHLNY75UGVoVwmR4AaABAg",
+                            "authorDisplayName": "Torsten",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-oNqFbK4kk84VEV56xGJrew3hZAKrQekaIs7we=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCulbj8tG38aNG01XSwpXxng",
+                            "authorChannelId": {
+                                "value": "UCulbj8tG38aNG01XSwpXxng"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T15:42:17Z",
+                            "updatedAt": "2022-09-04T15:42:17Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8SxJYDDmBw5Pe2F_ix_Iv1fw4yg",
+            "id": "UgxPfHvls1jeox11Kmp4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4VmYbc0FJXnYyvptf43obzCiyvI",
+                    "id": "UgxPfHvls1jeox11Kmp4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Danke für die Vorstellung von Bondora, hätte ich ohne dich nicht am Schirm gehabt!",
+                        "textOriginal": "Danke für die Vorstellung von Bondora, hätte ich ohne dich nicht am Schirm gehabt!",
+                        "authorDisplayName": "eigensinniger Franke",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_in--FOdfjpt5ZUerqHYaSMtgPaLzisLu_9eMlOQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC9oSMhD-X260atgpWQ8jZhw",
+                        "authorChannelId": {
+                            "value": "UC9oSMhD-X260atgpWQ8jZhw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T07:58:02Z",
+                        "updatedAt": "2022-09-04T07:58:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "X9_lwxiYybo36ncTpbPtqSPBjAE",
+            "id": "Ugxn_CrYU1mPRTECceJ4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "W9QGEL6ECS1xOyGLRh_f3yYPflg",
+                    "id": "Ugxn_CrYU1mPRTECceJ4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Danke für dieses informatives Video und gut das du zu deine eigenen Fehlern stehst.<br><br>Ich würde mich sehr über eine Video über Firerfinch, wie du dazu stehst.",
+                        "textOriginal": "Danke für dieses informatives Video und gut das du zu deine eigenen Fehlern stehst.\n\nIch würde mich sehr über eine Video über Firerfinch, wie du dazu stehst.",
+                        "authorDisplayName": "Michael Kranz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9XwF9kG7E_OXLO4qlyKVNHEstlf5g4EZtbgw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC4mtAKkZ1jkMsB7pOjV2apg",
+                        "authorChannelId": {
+                            "value": "UC4mtAKkZ1jkMsB7pOjV2apg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2022-09-04T07:55:39Z",
+                        "updatedAt": "2022-09-04T07:55:39Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "X1FYUOXBwbwtlw1gc0pf8cdE4K4",
+            "id": "Ugxj9eNKjHbH-jN9GNV4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fmiu99QDzqJHYLDOpsJ-6_2wKPQ",
+                    "id": "Ugxj9eNKjHbH-jN9GNV4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Wichtiges Video! Man findet sich selbst in dem ein oder anderen Punkt.",
+                        "textOriginal": "Wichtiges Video! Man findet sich selbst in dem ein oder anderen Punkt.",
+                        "authorDisplayName": "Farfan20",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8lrdCTyd9U1b5wq9L478My6j2cCwBnqTeHOlJ-=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCWLl4E9x5JH9ZMa3Gs_qEyA",
+                        "authorChannelId": {
+                            "value": "UCWLl4E9x5JH9ZMa3Gs_qEyA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T07:54:30Z",
+                        "updatedAt": "2022-09-04T07:54:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "aKKHGeEWBoXMiEyt3E5bJZbmItQ",
+            "id": "UgxF3-u_mBgOPRTc3kd4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MxCj0C_GjOz02iBSx5Z_4yA4P6E",
+                    "id": "UgxF3-u_mBgOPRTc3kd4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Fehler meinerseits:\r<br>Trading versucht (Sehr langes Zeitfenster + niedriger Hebel)\r<br>NFTs gekauft\r<br>\r<br>Insgesamt leider 9-10k damit in den Wind geschossen\r<br>\r<br>Was ich bei beidem gelernt habe? Das Risiko beim Investieren real ist und dass man nur in Märkten investieren sollte, in denen man im besten Fall keinen Abnehmer suchen muss, sondern einfach per Order verkaufen kann. Egal wie klein die Wahrscheinlichkeit ist, dass etwas in Kraft tritt. Es kann passieren und wenn du das Risiko nicht richtig einkalkuliert hast, wird es dich hochnehmen.\r<br>\r<br>Mittlerweile investiere ich in MSCI World (70%), 5 Cryptos (15%), 5 Einzelaktien (10%) und CSGO Items (5%) (Ja hört sich witzig an, aber ist ein krass Unterschätzer Markt)\r<br>\r<br>Allerdings waren die Fehler, die ich gemacht, habe das, aufschlussreichste, was ich im Thema Finanzen gelernt habe. Sie haben meine Sichtweise und Einstellung um 180Grad von Kurzfristig auf Langfristig geändert. Fehler sind wichtig und man muss nur aus ihnen lernen!",
+                        "textOriginal": "Fehler meinerseits:\r\nTrading versucht (Sehr langes Zeitfenster + niedriger Hebel)\r\nNFTs gekauft\r\n\r\nInsgesamt leider 9-10k damit in den Wind geschossen\r\n\r\nWas ich bei beidem gelernt habe? Das Risiko beim Investieren real ist und dass man nur in Märkten investieren sollte, in denen man im besten Fall keinen Abnehmer suchen muss, sondern einfach per Order verkaufen kann. Egal wie klein die Wahrscheinlichkeit ist, dass etwas in Kraft tritt. Es kann passieren und wenn du das Risiko nicht richtig einkalkuliert hast, wird es dich hochnehmen.\r\n\r\nMittlerweile investiere ich in MSCI World (70%), 5 Cryptos (15%), 5 Einzelaktien (10%) und CSGO Items (5%) (Ja hört sich witzig an, aber ist ein krass Unterschätzer Markt)\r\n\r\nAllerdings waren die Fehler, die ich gemacht, habe das, aufschlussreichste, was ich im Thema Finanzen gelernt habe. Sie haben meine Sichtweise und Einstellung um 180Grad von Kurzfristig auf Langfristig geändert. Fehler sind wichtig und man muss nur aus ihnen lernen!",
+                        "authorDisplayName": "maxxlanger",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Eu08_NymQiFuDP1E4GVKqQN2LG7ZnwpcXh2-eD6QOIuonshkkzPN4_CX0LOFvklx6vmBEAI7YA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzuahHuTRZLLx9CEWxAtnpw",
+                        "authorChannelId": {
+                            "value": "UCzuahHuTRZLLx9CEWxAtnpw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 7,
+                        "publishedAt": "2022-09-04T07:51:00Z",
+                        "updatedAt": "2022-09-04T07:51:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "GtBn2XACa3FZykqJIJGQEH7eDQs",
+                        "id": "UgxF3-u_mBgOPRTc3kd4AaABAg.9fYRW74kUk59fZRiXKPc7X",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "@Josh Frosch Freshpet, Nvidia, Zuora, Hims&amp;Hers und Niu :)",
+                            "textOriginal": "@Josh Frosch Freshpet, Nvidia, Zuora, Hims&Hers und Niu :)",
+                            "parentId": "UgxF3-u_mBgOPRTc3kd4AaABAg",
+                            "authorDisplayName": "maxxlanger",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/Eu08_NymQiFuDP1E4GVKqQN2LG7ZnwpcXh2-eD6QOIuonshkkzPN4_CX0LOFvklx6vmBEAI7YA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCzuahHuTRZLLx9CEWxAtnpw",
+                            "authorChannelId": {
+                                "value": "UCzuahHuTRZLLx9CEWxAtnpw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T17:12:04Z",
+                            "updatedAt": "2022-09-04T17:12:04Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "7aKLy0uvW8h7U5fMQkLyYLsp-RA",
+                        "id": "UgxF3-u_mBgOPRTc3kd4AaABAg.9fYRW74kUk59fZLeknHbcX",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Welche Einzelaktien? So aus Interesse... Falls du es offenlegen möchtest.",
+                            "textOriginal": "Welche Einzelaktien? So aus Interesse... Falls du es offenlegen möchtest.",
+                            "parentId": "UgxF3-u_mBgOPRTc3kd4AaABAg",
+                            "authorDisplayName": "Josh Frosch",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8LdHk2LZugKPLZPotz3nf04z9H9avHOXpJTA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCd2n0ZpGUObIPKiPyhPL7WA",
+                            "authorChannelId": {
+                                "value": "UCd2n0ZpGUObIPKiPyhPL7WA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T16:19:07Z",
+                            "updatedAt": "2022-09-04T16:19:07Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "k97D9TSHC5q-D48BZSS6MPufNag",
+                        "id": "UgxF3-u_mBgOPRTc3kd4AaABAg.9fYRW74kUk59fYsLjpCHM3",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Das mit CSGO Kenne ich. Hatte vor Ewigkeiten mal ein Messer gezogen und das sofort für 250€ verkauft. Heute wäre es 700€ Wert gewesen.",
+                            "textOriginal": "Das mit CSGO Kenne ich. Hatte vor Ewigkeiten mal ein Messer gezogen und das sofort für 250€ verkauft. Heute wäre es 700€ Wert gewesen.",
+                            "parentId": "UgxF3-u_mBgOPRTc3kd4AaABAg",
+                            "authorDisplayName": "Torben Rabe",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_c6rbj7jXXGJyH3uXMze9MsubVRJHNeitEeA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCsKm4fX-eTVpsPoCkAEAmbQ",
+                            "authorChannelId": {
+                                "value": "UCsKm4fX-eTVpsPoCkAEAmbQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-09-04T11:54:15Z",
+                            "updatedAt": "2022-09-04T11:54:15Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "rkSbZAbkw09d-2Q_LvCchT-VCYY",
+            "id": "UgzLFUzzMcp2W5JRmzB4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_7_CU4fkNHYk5HU8Htz-G8b3h6I",
+                    "id": "UgzLFUzzMcp2W5JRmzB4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "wo hast du den die 40k verlust gemacht?",
+                        "textOriginal": "wo hast du den die 40k verlust gemacht?",
+                        "authorDisplayName": "M Z",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8J1t2veUZZIMrSkFTLrk260UXRTvQ6KJZiTw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCwxHuNW4wM1skyFpWhycRmg",
+                        "authorChannelId": {
+                            "value": "UCwxHuNW4wM1skyFpWhycRmg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T07:45:46Z",
+                        "updatedAt": "2022-09-04T07:45:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "ClF2hUitd0YUwehxnTxPc9V5xJY",
+                        "id": "UgzLFUzzMcp2W5JRmzB4AaABAg.9fYQulX78R79fYRWxnXek7",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Moin, wie im Video gezeigt aufsummiert durch verschiedene Themen wie wirecard, altura etc ✋",
+                            "textOriginal": "Moin, wie im Video gezeigt aufsummiert durch verschiedene Themen wie wirecard, altura etc ✋",
+                            "parentId": "UgzLFUzzMcp2W5JRmzB4AaABAg",
+                            "authorDisplayName": "Finanzbär",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_-RAxADorQKaA_OoPHUlbLSl2fMIuAayjOy3Yd=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCFxPUPyzQQYaNfj0El4Ccqg",
+                            "authorChannelId": {
+                                "value": "UCFxPUPyzQQYaNfj0El4Ccqg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2022-09-04T07:51:07Z",
+                            "updatedAt": "2022-09-04T07:51:07Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "iv8Q9nZ8vcV71m8Fui11sFEh6-o",
+            "id": "UgwZsiw5ax0EJN_RBqx4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "f1C87JL1CFw0gV3Jh18M4pWuwAE",
+                    "id": "UgwZsiw5ax0EJN_RBqx4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Mein größter Fehler,  erst mit 34 anzufangen  ....vor 10 Jahren hätte ich 15 k gehabt die ich im etf reinbalöern hätte können 😅",
+                        "textOriginal": "Mein größter Fehler,  erst mit 34 anzufangen  ....vor 10 Jahren hätte ich 15 k gehabt die ich im etf reinbalöern hätte können 😅",
+                        "authorDisplayName": "MrHadkn",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/QOuS80mBc0FvfiCubrRztnGX57jBD4vSShYgLSNrTTE7ZPisehUnEN6pZc5KAmYbGUzRAA1YGg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC7K26X0WRZoPG5Yo9upWV9g",
+                        "authorChannelId": {
+                            "value": "UC7K26X0WRZoPG5Yo9upWV9g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2022-09-04T07:43:52Z",
+                        "updatedAt": "2022-09-04T07:43:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "9jvpd4hP41LLaNKhC5Pv9TqHHJU",
+                        "id": "UgwZsiw5ax0EJN_RBqx4AaABAg.9fYQgt4g1cx9fYR5p6GiLD",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "War noch nie verschuldet , habe bis jetzt alles bar bezahlt wenn es um Anschaffungen geht,  ken e massenweise leute die ganz knapp ihre Kredite bezahlen können um immer was neues zu haben",
+                            "textOriginal": "War noch nie verschuldet , habe bis jetzt alles bar bezahlt wenn es um Anschaffungen geht,  ken e massenweise leute die ganz knapp ihre Kredite bezahlen können um immer was neues zu haben",
+                            "parentId": "UgwZsiw5ax0EJN_RBqx4AaABAg",
+                            "authorDisplayName": "MrHadkn",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/QOuS80mBc0FvfiCubrRztnGX57jBD4vSShYgLSNrTTE7ZPisehUnEN6pZc5KAmYbGUzRAA1YGg=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC7K26X0WRZoPG5Yo9upWV9g",
+                            "authorChannelId": {
+                                "value": "UC7K26X0WRZoPG5Yo9upWV9g"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T07:47:24Z",
+                            "updatedAt": "2022-09-04T07:47:24Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-fXN89kwgB0135IiQFPnSyELjjk",
+            "id": "UgyVI0-TtyLpOGy1Gix4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5zsnavbHmk5hjfOaNiy5H7i4YEw",
+                    "id": "UgyVI0-TtyLpOGy1Gix4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Vielen Dank dafür:)",
+                        "textOriginal": "Vielen Dank dafür:)",
+                        "authorDisplayName": "Tenner20",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_q4y1cGEjXJuVDT_vYC5OJIOWtvhDHmUw6kw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCfsNA7zKcnFLmxAR9QnVKNg",
+                        "authorChannelId": {
+                            "value": "UCfsNA7zKcnFLmxAR9QnVKNg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T07:27:55Z",
+                        "updatedAt": "2022-09-04T07:27:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "jIXsECyeTo2RAunE9MZ82Kotodc",
+                        "id": "UgyVI0-TtyLpOGy1Gix4AaABAg.9fYOs4WNIsz9fYOxxrcZGc",
+                        "snippet": {
+                            "videoId": "K-QVM91VP2U",
+                            "textDisplay": "Man muss Fehlschläge auch aushalten können das stimmt, gleiches bei 20% Depot Verlust den Finger bei sich zu behalten und nicht in Panik zu verfallen",
+                            "textOriginal": "Man muss Fehlschläge auch aushalten können das stimmt, gleiches bei 20% Depot Verlust den Finger bei sich zu behalten und nicht in Panik zu verfallen",
+                            "parentId": "UgyVI0-TtyLpOGy1Gix4AaABAg",
+                            "authorDisplayName": "Tenner20",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_q4y1cGEjXJuVDT_vYC5OJIOWtvhDHmUw6kw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCfsNA7zKcnFLmxAR9QnVKNg",
+                            "authorChannelId": {
+                                "value": "UCfsNA7zKcnFLmxAR9QnVKNg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-09-04T07:28:43Z",
+                            "updatedAt": "2022-09-04T07:28:43Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZLBCYdj9AtzfeTU8xkD6wnwadY4",
+            "id": "UgyWwck9Y7b3gfaSatp4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "WZA2mpnu0lUGn1BAdvXOQozy34Q",
+                    "id": "UgyWwck9Y7b3gfaSatp4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Moin",
+                        "textOriginal": "Moin",
+                        "authorDisplayName": "Mimigma _82",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8fikAu3cnv_DtiruMu-bSUXoSYiNhxiRpAY9Ar=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC6MKvz8pYIFktGBflsMgWdw",
+                        "authorChannelId": {
+                            "value": "UC6MKvz8pYIFktGBflsMgWdw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-09-04T07:15:31Z",
+                        "updatedAt": "2022-09-04T07:15:31Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1WCfqtyqapEad4bGh53JfG0IX2U",
+            "id": "Ugzm_BfAOiLnKTToD1J4AaABAg",
+            "snippet": {
+                "videoId": "K-QVM91VP2U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "F5DixpKwy-gFDR-svOGO8FLGSjY",
+                    "id": "Ugzm_BfAOiLnKTToD1J4AaABAg",
+                    "snippet": {
+                        "videoId": "K-QVM91VP2U",
+                        "textDisplay": "Sehr sympatisch, dass du auch deine Fehltritte zeigst. Das würden nicht viele machen",
+                        "textOriginal": "Sehr sympatisch, dass du auch deine Fehltritte zeigst. Das würden nicht viele machen",
+                        "authorDisplayName": "Investori",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8GRSXFCEOzoha4Ph1kqbhLYoEYnbUpN4rFxw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCbuCc__UE2XrxldHMvetBWQ",
+                        "authorChannelId": {
+                            "value": "UCbuCc__UE2XrxldHMvetBWQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 40,
+                        "publishedAt": "2022-08-29T14:59:13Z",
+                        "updatedAt": "2022-08-29T14:59:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
