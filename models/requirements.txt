@@ -1,6 +1,7 @@
 matplotlib
 numpy
 pandas
-tensorflow0
+tensorflow
 nltk
 scikit-learn
+ipykernel

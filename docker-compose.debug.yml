@@ -181,6 +181,15 @@ services:
     networks:
       - ytScannerNetwork
 
+  models:
+    container_name: models
+    build:
+      context: models/
+      dockerfile: Dockerfile
+    image: models 
+    networks:
+      - ytScannerNetwork
+
 
 
 volumes:
