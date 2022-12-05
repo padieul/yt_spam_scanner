@@ -1,7 +1,13 @@
 fastapi[all]
 pandas
 matplotlib
-tensorflow
 pymongo
 requests
 uvicorn
+matplotlib
+numpy
+pandas
+nltk
+scikit-learn
+ipykernel
+joblib

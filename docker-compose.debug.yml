@@ -158,7 +158,7 @@ services:
       context: ./middleware # context for building
       dockerfile: Dockerfile
     environment:
-      - API_DEBUG=1 # setting debug state
+      - API_DEBUG=0 # setting debug state
     env_file:
       - .env # for inserting the ES password
     ports:
@@ -166,6 +166,8 @@ services:
       - 5678:5678 # for remote debugger when DEBUG=1
     volumes:
       - ./middleware/app:/code/app # for code changes
+      - ./models/data:/code/data
+      - ./models/saved_models:/code/saved_models
     networks:
       - ytScannerNetwork
 
