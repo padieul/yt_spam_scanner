@@ -34,16 +34,16 @@ def read_root():
 def predict_params(model_id: int = 0):
     if model_id == 0:
         # apply svm 
-        svm_clf = joblib.load("saved_models/svc_42-1.joblib")
+        svm_clf = joblib.load("saved_models/svc_35-37.joblib")
         prediction = test_data(svm_clf).tolist()
         return {"svc_prediction": prediction}
     elif model_id == 1:
         # apply naive_bayes
-        nb_clf = joblib.load("saved_models/multinomialnb_32-23.joblib")
+        nb_clf = joblib.load("saved_models/multinomialnb_32-21.joblib")
         prediction = test_data(nb_clf).tolist()
         return {"nbc_prediction": prediction}
     elif model_id == 2:
-        lr_clf = joblib.load("saved_models/logisticregression_34-30.joblib")
+        lr_clf = joblib.load("saved_models/logisticregression_34-12.joblib")
         prediction = test_data(lr_clf).tolist()
         return {"lr_prediction": prediction}
         # apply logistic regression 
@@ -83,30 +83,32 @@ def preprocess_data(corpus,
                     irrelevant_features=["COMMENT_ID", "AUTHOR", "DATE"],
                     #rename_colunms={"CONTENT":"COMMENT"}
                    ):
-    #for column in columns:
-        # remove blank rows if any
-        #corpus[column].dropna(inplace=True)
-        # lower case
-        #corpus[column] = [entry.lower() for entry in corpus[column]]
-
+    
     # drop irrelevant features
     corpus.drop(irrelevant_features, inplace=True, axis=1)
+
+    # remove blank rows if any
+    corpus.dropna()
+    
+    # add column for representation
+    corpus['REPR'] = corpus.loc[:, 'CONTENT']
+        
+    # lower case
+    corpus['REPR'] = corpus['REPR'].str.lower()
 
     # change column name
     #for old, new in rename_columns:
         #corpus.rename({old : new}, axis=1, inplace=True)
 
-    cleaned_data = []
-    lemma = WordNetLemmatizer()
+    lemmatizer = WordNetLemmatizer()
     stop_words = stopwords.words("english")
-    for comment in corpus["CONTENT"]:
-        comment = nltk.word_tokenize(comment.lower()) # tokenizing
-        comment = [lemma.lemmatize(word) for word in comment] # lemmatizing
+    
+    for comment in corpus["REPR"]:    
+        comment = nltk.word_tokenize(comment) # tokenizing nltk.WordPunctTokenizer().tokenize(comment.lower())?
+        comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
         comment = [word for word in comment if word not in stop_words] # removing stopwords
         comment = " ".join(comment)
-        cleaned_data.append(comment)
-    
-    return cleaned_data
+
 
 def split_data(BOW, corpus):
     return train_test_split(BOW, np.asarray(corpus["CLASS"]), test_size=0.3, random_state=42, shuffle=True)
@@ -116,9 +118,13 @@ def test_data(clf):
     corpus = load_data(path)
     download()
 
-    cleaned_corpus = preprocess_data(corpus)
-    vectorizer = CountVectorizer(max_features=10000)
-    BOW = vectorizer.fit_transform(cleaned_corpus)
+    preprocess_data(corpus)
+
+    vectorizer = CountVectorizer(binary=True, max_df=0.95) #max_features=10000, tokenizer=lambda doc: doc)
+    BOW = vectorizer.fit_transform(corpus["REPR"])
+
+    #vectorizer = CountVectorizer(max_features=10000)
+    #BOW = vectorizer.fit_transform(cleaned_corpus)
 
     X_train, X_test, y_train, y_test = split_data(BOW, corpus)
 
