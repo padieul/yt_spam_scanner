@@ -30,6 +30,26 @@ def read_root():
         print(elem)
     return {"Hello": "World"}
 
+@app.get("/predict/{model_id}")
+def predict_params(model_id: int = 0):
+    if model_id == 0:
+        # apply svm 
+        svm_clf = joblib.load("saved_models/svc_42-1.joblib")
+        prediction = test_data(svm_clf).tolist()
+        return {"svc_prediction": prediction}
+    elif model_id == 1:
+        # apply naive_bayes
+        nb_clf = joblib.load("saved_models/multinomialnb_32-23.joblib")
+        prediction = test_data(nb_clf).tolist()
+        return {"nbc_prediction": prediction}
+    elif model_id == 2:
+        lr_clf = joblib.load("saved_models/logisticregression_34-30.joblib")
+        prediction = test_data(lr_clf).tolist()
+        return {"lr_prediction": prediction}
+        # apply logistic regression 
+    elif model_id == 100:
+        ... # apply ensemble model
+
 
 @app.get("/predict/")
 def predict():
