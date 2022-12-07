@@ -177,6 +177,8 @@ services:
       context: frontend/
       dockerfile: Dockerfile
     image: frontend
+    volumes:
+      - ./frontend:/usr/source/app
     ports:
       - 5000:5000
     depends_on: ["middleware"]
