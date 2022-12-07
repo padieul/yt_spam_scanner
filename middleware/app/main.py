@@ -50,6 +50,17 @@ def predict_params(model_id: int = 0):
     elif model_id == 100:
         ... # apply ensemble model
 
+@app.post("/retrieve_comments/{vid_id}")
+def retrieve_comments(vid_id: str = ""):
+    if vid_id == "":
+        print("******************************************")
+        print("No video ID received!")
+    else:
+        print("******************************************")
+        print("The ID is {} !".format(vid_id))
+
+    return {"answer": "everything fine!"}
+
 
 @app.get("/predict/")
 def predict():

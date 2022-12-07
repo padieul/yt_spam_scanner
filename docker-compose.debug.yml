@@ -158,7 +158,7 @@ services:
       context: ./middleware # context for building
       dockerfile: Dockerfile
     environment:
-      - API_DEBUG=0 # setting debug state
+      - API_DEBUG=1 # setting debug state
     env_file:
       - .env # for inserting the ES password
     ports:
