@@ -20,6 +20,8 @@ from nltk.corpus import wordnet as wn
 from fastapi import FastAPI
 import requests
 
+from app.data_retriever import YtDataRetriever, ES_Connect
+
 
 app = FastAPI()
 
@@ -58,6 +60,15 @@ def retrieve_comments(vid_id: str = ""):
     else:
         print("******************************************")
         print("The ID is {} !".format(vid_id))
+        yt = YtDataRetriever()
+        data = yt.get_video_data(vid_id)
+        print(data)
+        es = ES_Connect()
+        es.store_video_data(data, vid_id)
+        """
+        yt_retriever = YtDataRetriever()
+        yt_retriever.get_data()
+        """
 
     return {"answer": "everything fine!"}
 
