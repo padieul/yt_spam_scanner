@@ -3,23 +3,31 @@
 
 ## General Information
 Task: Text Analytics project
+
 Team Members:  Angelina Basova, Abdulghani Almasri, Paul Dietze, Vivian Kazakova
+
 Mail Addresses: angelina.basova@stud.uni-heidelberg.de,  abdulghani.almasri@stud.uni-heidelberg.de, cl250@uni-heidelberg.de, vivian.kazakova@stud.uni-heidelberg.de
+
 Existing Code Fragments: sklearn models ([SVM](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html))
+
 Utilized libraries: [requirements.txt]()
+
 Contributions: see table below
 
 ## Project State
 Planning State:
- - finished tasks:
- - still in process:
+ - finished tasks: obtain datasets, setup ES and Kibana, setup containers and debug configurations, implement and store models (SVM, LG, NB), develop prototyp of the interface, add FastAPI functions
+ - still in process: implement and store Ensemble model, select/choose the optimal spam classifier (evaluation of the four classifiers), further development (preprocess pipeline, improvements on frontend, additional features, visualizations and analysis)
 
-Furure Planning:
+Future Planning:
 <!--timeline for second part of project, future time schedules-->
+ - in mid-January:
+ - in mid-February: 
+ - end of February: video presentation + final code
 
 High-level Architecture Description:
- - module structure:
- - process pipeline:
+ - module structure: ES - FastAPI - Svelte; dataset, middleware, models, frontend
+ - process pipeline: <!--(tokenization, lemmatization/stemming, NER, etc.)-->
 
 Data Analysis: see next section
 
@@ -30,24 +38,24 @@ Experiments:
 ## Data Analysis
 Data Sources: 
  - [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
- - 
+ - Extracted comments using YouTube Data API
 
 Preprocessing: 
 <!--preprocessing steps - unicode normalization, length normalization, text sanitizing, etc-->
  
 Basic Statistics: 
-<!--number of samples, mean, median & standard deviation,  
-etc., class distribution, plots-->
+<!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
+- The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
 
 Examples:
 <!--example of data sample from our collection, eventually edge cases-->
 
 ## Current Code State
 Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"
+
 Screenshots?:
 
-## Usage
-How to run and debug?
+## How to run and debug?
 
 #### Frontend
  1. If container not already running:
