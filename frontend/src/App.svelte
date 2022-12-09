@@ -9,7 +9,7 @@
 		alert('clicked')
   }
 
-  function youtube_parser(){
+  function youtube_parser() {
     var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
     var match = url_str.match(regExp);
     
@@ -20,8 +20,8 @@
     else {
       video_id_str = ""
       text_output = ""
-			url_str = ""
-			active = false
+      url_str = ""
+      active = false
       //text_output = "Video ID could not be extracted";
       alert('Video ID could not be extracted! Please enter a valid URL!')
     }
