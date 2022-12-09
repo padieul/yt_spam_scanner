@@ -1,10 +1,8 @@
-from typing import Union
 import os
 import glob
+import joblib
 import pandas as pd
 import numpy as np
-
-import joblib
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.model_selection import train_test_split
@@ -16,11 +14,10 @@ from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet as wn
 
-
 from fastapi import FastAPI
 import requests
 
-from app.data_retriever import YtDataRetriever, ES_Connect
+from app.data_retriever import YtDataRetriever, ESConnect
 
 
 app = FastAPI()
@@ -56,29 +53,8 @@ def predict_params(model_id: int = 0):
         lr_clf = joblib.load("saved_models/logisticregression_34-12.joblib")
         prediction = make_pred(lr_clf).tolist()
         return {"lr_prediction": prediction}
-        # apply logistic regression 
-    elif model_id == 100:
+    if model_id == 3:
         ... # apply ensemble model
-
-@app.post("/retrieve_comments/{vid_id}")
-def retrieve_comments(vid_id: str = ""):
-    if vid_id == "":
-        print("******************************************")
-        print("No video ID received!")
-    else:
-        print("******************************************")
-        print("The ID is {} !".format(vid_id))
-        yt = YtDataRetriever()
-        data = yt.get_video_data(vid_id)
-        print(data)
-        es = ES_Connect()
-        es.store_video_data(data, vid_id)
-        """
-        yt_retriever = YtDataRetriever()
-        yt_retriever.get_data()
-        """
-
-    return {"answer": "everything fine!"}
 
 
 @app.get("/predict/")
@@ -113,6 +89,11 @@ def retrieve_comments(video_id: str = ""):
     else:
         print("******************************************")
         print(f"The ID is {video_id}")
+        yt = YtDataRetriever()
+        data = yt.get_video_data(video_id)
+        print(data)
+        es = ESConnect()
+        es.store_video_data(data, video_id)
 
     return {"answer": "everything fine!"}
 
