@@ -13,6 +13,7 @@ RUN pip install --upgrade pip
 # Setup hosts so that requirements can be installed
 RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pip setuptools
 RUN pip install --no-cache-dir -r requirements.txt
+RUN python -m spacy download en_core_web_sm
 
 # alternatively: 
 #CMD uvicorn app.main:app --reload --host 0.0.0.0 --port 5000

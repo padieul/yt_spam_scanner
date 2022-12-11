@@ -4,30 +4,30 @@
 ## General Information
 Task: Text Analytics project
 
-Team Members:  Angelina Basova, Abdulghani Almasri, Paul Dietze, Vivian Kazakova
+Team Members: Angelina Basova, Abdulghani Almasri, Paul Dietze, Vivian Kazakova
 
 Mail Addresses: angelina.basova@stud.uni-heidelberg.de,  abdulghani.almasri@stud.uni-heidelberg.de, cl250@uni-heidelberg.de, vivian.kazakova@stud.uni-heidelberg.de
 
-Existing Code Fragments: sklearn models ([SVM](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html))
+Existing Code Fragments: sklearn models ([SVM](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)), [spaCy](https://spacy.io/)
 
-Utilized libraries: [requirements.txt]()
+Utilized libraries: [models-requirements](./models/requirements.txt), [middleware-requirements](./middleware/requirements.txt)
 
 Contributions: see table below
 
 ## Project State
 Planning State:
- - finished tasks: obtain datasets, setup ES and Kibana, setup containers and debug configurations, implement and store models (SVM, LG, NB), develop prototyp of the interface, add FastAPI functions
- - still in process: implement and store Ensemble model, select/choose the optimal spam classifier (evaluation of the four classifiers), further development (preprocess pipeline, improvements on frontend, additional features, visualizations and analysis)
+ - finished tasks: obtain datasets, setup ES and Kibana, setup containers and debug configurations, implement and store models (SVM, LG, NB), develop prototyp of the interface, add FastAPI functions, pipeline for loading and storing data in ES, create first dashboards
+ - still in process: implement and store Ensemble model, select/choose the optimal spam classifier (evaluation of the four classifiers), further development (preprocess pipeline, improvements on frontend, additional features, more visualizations and analysis)
 
 Future Planning:
 <!--timeline for second part of project, future time schedules-->
- - in mid-January:
- - in mid-February: 
- - end of February: video presentation + final code
+ - in mid/end-January: decide on spam classifier, improve preprocessing pipeline and frontend
+ - in mid-February: last updates and fixes - finish further development
+ - end of February: create video presentation and merge final code
 
 High-level Architecture Description:
  - module structure: ES - FastAPI - Svelte; dataset, middleware, models, frontend
- - process pipeline: <!--(tokenization, lemmatization/stemming, NER, etc.)-->
+ - preprocess pipeline: drop irrelevant features, remove empty entries, lowercase, tokenization, lemmatization, [-remove stop words?-]
 
 Data Analysis: see next section
 
@@ -40,15 +40,20 @@ Data Sources:
  - [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
  - Extracted comments using YouTube Data API
 
-Preprocessing: 
+Preprocessing:
 <!--preprocessing steps - unicode normalization, length normalization, text sanitizing, etc-->
  
 Basic Statistics: 
 <!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
 - The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
+<p align="center">
+<img src="./images/spam-collection_distribution.png" />
+</p>
 
-Examples:
-<!--example of data sample from our collection, eventually edge cases-->
+Examples: <!--example of data sample from our collection, eventually edge cases-->
+<p align="center">
+<img src="./images/example_data-sample.png" />
+</p>
 
 ## Current Code State
 Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"

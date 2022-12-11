@@ -1,5 +1,7 @@
 import os
 import httplib2
+import joblib
+import spacy
 import googleapiclient
 import googleapiclient.discovery
 from oauth2client import client, GOOGLE_TOKEN_URI
@@ -7,11 +9,17 @@ from oauth2client import client, GOOGLE_TOKEN_URI
 from elasticsearch import helpers
 from elasticsearch import Elasticsearch
 
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+import nltk
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
+
 
 CLIENT_ID = "737324637694-b6ngjvspqdgv9cbkto3li52ljcl09k4h.apps.googleusercontent.com"
 CLIENT_SECRET = "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"
 REFRESH_TOKEN = "refresh_token"
 DEVELOPER_KEY = "AIzaSyB3pX9aY3rmP8xZSngxxX14NseZ6KCxb0U"
+nlp = spacy.load("en_core_web_sm", disable=["ner"]) #TODO decide on arguments
 
 
 class YtDataRetriever:
@@ -103,6 +111,181 @@ class YtDataRetriever:
 
         return data
 
+class YtComment:
+
+    def __init__(self, data_item = None):
+        if data_item is None: # reply
+            self._id = None
+            self._text_original = None
+            self._author_name = None
+            self._author_channel_url = None
+            self._author_channel_id = None
+            self._like_count = None
+            self._publish_date = None
+
+            self._is_reply = None
+            self._parent_id = None
+
+        else: # comment
+            self._id = data_item["snippet"]["topLevelComment"]["id"]
+            self._text_original = data_item['snippet']['topLevelComment']['snippet']['textOriginal'].replace("\n", "")
+            self._author_name = data_item['snippet']['topLevelComment']['snippet']['authorDisplayName']
+            self._author_channel_url = data_item["snippet"]["topLevelComment"]["snippet"]["authorChannelUrl"]
+            self._author_channel_id = data_item["snippet"]["topLevelComment"]["snippet"]["authorChannelId"]["value"]
+            self._like_count = data_item['snippet']['topLevelComment']['snippet']['likeCount']
+            self._publish_date = data_item['snippet']['topLevelComment']['snippet']['publishedAt']
+
+            self._is_reply = False
+            self._parent_id = self._id
+
+
+    def load_data():
+        """
+        Load spam collection from given path
+        """
+        data_path = r"../../models/data/YouTube-Spam-Collection/"
+        files = glob.glob(os.path.join(data_path, "*.csv"))
+        return pd.concat((pd.read_csv(file) for file in files), ignore_index=True)
+
+    def preprocess_data(corpus,
+                    irrelevant_features=["COMMENT_ID", "AUTHOR", "DATE"],
+                    rename_columns={"CONTENT":"COMMENT"}
+                   ):
+        """
+        Preprocessing pipeline
+        """
+        # drop irrelevant features
+        corpus.drop(irrelevant_features, inplace=True, axis=1)
+
+        # remove blank rows
+        corpus.dropna()
+
+        # add column for representation
+        corpus['REPR'] = corpus.loc[:, 'CONTENT']
+
+        # lower case
+        corpus['REPR'] = corpus['REPR'].str.lower()
+
+        # change column name
+        #for old, new in rename_columns:
+        #    corpus.rename({old : new}, axis=1, inplace=True)
+
+        lemmatizer = WordNetLemmatizer()
+        stop_words = stopwords.words("english")
+
+        for comment in corpus["REPR"]:
+            comment = nltk.word_tokenize(comment) # tokenizing
+            comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
+            comment = [word for word in comment if word not in stop_words] # removing stopwords #TODO decide whether to remove them
+            comment = " ".join(comment)
+
+    def preprocess_comment_text(self):
+        lemmatizer = WordNetLemmatizer()
+        stop_words = stopwords.words("english")
+        comment = nltk.word_tokenize(self._text_original) # tokenizing
+        comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
+        comment = [word for word in comment if word not in stop_words] # removing stopwords #TODO decide whether to remove them
+        comment = " ".join(comment)
+        return comment
+        
+    def get_embeddings(self):
+        comment = self.preprocess_comment_text()
+        vectorizer = CountVectorizer(binary=True, max_df=0.95) #TODO decide on arguments
+        return vectorizer.fit_transform(comment)
+
+    def apply_classifier(self):
+        """
+        Classify the comment using the SVM classifier
+        """
+        corpus = load_data(path)
+        clf = joblib.load("../../models/saved_models/svc_35-37.joblib")
+        return { "svc_prediction": clf.predict(self.get_embeddings()) }
+
+    def set_id(self, arg):
+        self._id = arg
+
+    def set_text_original(self, arg):
+        self._text_original = arg
+
+    def set_author_name(self, arg):
+        self._author_name = arg
+
+    def set_author_chan_url(self, arg):
+        self._author_channel_url = arg
+
+    def set_author_chan_id(self, arg):
+        self._author_channel_id = arg
+
+    def set_like_count(self, arg):
+        self._like_count = arg
+
+    def set_publish_date(self, arg):
+        self._publish_date = arg
+
+    def set_is_reply(self, arg):
+        self._is_reply = arg
+
+    def set_parent_id(self, arg):
+        self._parent_id = arg
+
+    def get_text_original(self):
+        return self._text_original
+
+    def get_author_name(self):
+        return self._author_name
+
+    def get_author_chan_url(self):
+        return self._author_channel_url
+
+    def get_author_chan_id(self):
+        return self._author_channel_id
+
+    def get_like_count(self):
+        return self._like_count
+
+    def get_publish_date(self):
+        return self._publish_date
+
+    def get_is_reply(self):
+        return self._is_reply
+
+    def get_parent_id(self):
+        return self._parent_id
+
+    def get_id(self):
+        return self._id
+
+
+class YtCommentReply:
+
+    def __init__(self, data_item):
+        self._id = data_item["id"]
+        self._text_original = data_item['snippet']['textOriginal'].replace("\n", "")
+        self._author_name = data_item["snippet"]["authorDisplayName"]
+        self._author_channel_url = data_item["snippet"]["authorChannelUrl"]
+        self._author_channel_id = data_item["snippet"]["authorChannelId"]["value"]
+        self._like_count = data_item['snippet']['likeCount']
+        self._publish_date = data_item['snippet']['publishedAt']
+
+        self._is_reply = True
+        self._parent_id = data_item["snippet"]["parentId"]
+
+    def to_yt_comment(self):
+        yt_comment = YtComment()
+        yt_comment.set_id(self._id)
+        yt_comment.set_text_original(self._text_original)
+        yt_comment.set_author_name(self._author_name)
+        yt_comment.set_author_chan_url(self._author_channel_url)
+        yt_comment.set_author_chan_id(self._author_channel_id)
+        yt_comment.set_like_count(self._like_count)
+        yt_comment.set_publish_date(self._publish_date)
+
+        yt_comment.set_is_reply(self._is_reply)
+        yt_comment.set_parent_id(self._parent_id)
+
+        return yt_comment
+
+
 
 class ESConnect:
 
@@ -113,38 +296,39 @@ class ESConnect:
         self._es_index_name = ""
 
     def store_video_data(self, video_comments_data, video_id):
+        
         comments = []
         for item in video_comments_data["items"]:
-            text_original = item['snippet']['topLevelComment']['snippet']['textOriginal']
-            text_original = text_original.replace("\n", "")
-            comments.append(text_original)
+
+            comment = YtComment(item)
+            comments.append(comment)
+            
+            if "replies" in item.keys():
+                for reply in item["replies"]["comments"]:
+                    comment_reply = YtCommentReply(reply)
+                    comments.append(comment_reply.to_yt_comment())
+                # TODO replies of reply
 
         actions = []
         self._es_index_name = str(self._es_index) + "_" + str(video_id)
 
-        for i, line in enumerate(comments):
-            source = {'content': line}
+        for i, comment in enumerate(comments):
+            source = { 'id': comment.get_id(),
+                       'content': comment.get_text_original(),
+                       'author_name': comment.get_author_name(),
+                       'author_channel_url': comment.get_author_chan_url(),
+                       'author_channel_id': comment.get_author_chan_id(),
+                       'like_count': comment.get_like_count(),
+                       'comment_length': len(nlp(comment.get_text_original())), #TODO by spacy sind PUNCT auch separate tokens
+                       'publish_date': comment.get_publish_date(),
+                       'is_reply': comment.get_is_reply(),
+                       'parent_id': comment. get_parent_id(),
+                       "spam_label": [0, 0, 1],
+                       "classifier": ["naive_bayes", "support_vector_machine", "logistic_regression"]
+                     }
 
-
-            """
-            index: -> youtube video id
-                _id: default unique
-                _type: _doc
-                _source: comment data
-                _op_type: ?
-                _token_number: # count number of tokens in a comment 
-
-                _author: author name 
-                _date: publication date
-                _likes_count: number of likes
-                _num_of_replies: replies
-
-                _is_reply: false
-                _parent_id: _id 
-
-
-
-            """
+            #comment_len = len(comment.get_text_original().split(" ") # number words
+            
             # hallo                 is_reply: false parent_d
                 # hallo auch        is_reply: true
                 # tschuess          is_reply: true
@@ -154,12 +338,12 @@ class ESConnect:
                 "_index": self._es_index_name.lower(),
                 '_op_type': 'index',
                 "_type": '_doc',
-                "_id": i,
                 "_source": source
             }
             actions.append(action)
 
-        helpers.bulk(self._es_client, actions)
+        #helpers.bulk(self._es_client, actions)
+        return helpers.bulk(self._es_client, actions) # TODO return status of action
 
 
 if __name__ == "__main__":
@@ -168,4 +352,4 @@ if __name__ == "__main__":
     VIDEO_ID = "kdcvyfjuKCw"
     data = yt.get_video_data(VIDEO_ID)
     print(data)
-    es.store_video_data(data, VIDEO_ID)
+    print(es.store_video_data(data, VIDEO_ID))

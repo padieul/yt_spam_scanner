@@ -54,7 +54,8 @@ def predict_params(model_id: int = 0):
         prediction = make_pred(lr_clf).tolist()
         return {"lr_prediction": prediction}
     if model_id == 3:
-        ... # apply ensemble model
+        ... # apply ensemble model # TODO to be implemented
+    return {"lr_prediction": [] } # TODO default
 
 
 @app.get("/predict/")
@@ -93,9 +94,9 @@ def retrieve_comments(video_id: str = ""):
         data = yt.get_video_data(video_id)
         print(data)
         es = ESConnect()
-        es.store_video_data(data, video_id)
+        status = es.store_video_data(data, video_id)
 
-    return {"answer": "everything fine!"}
+    return { "answer": status } #"everything fine!"} # TODO handle status
 
 
 def nltk_download():
@@ -137,8 +138,8 @@ def preprocess_data(corpus,
     corpus['REPR'] = corpus['REPR'].str.lower()
 
     # change column name
-    for old, new in rename_columns:
-        corpus.rename({old : new}, axis=1, inplace=True)
+    #for old, new in rename_columns:
+    #    corpus.rename({old : new}, axis=1, inplace=True)
 
     lemmatizer = WordNetLemmatizer()
     stop_words = stopwords.words("english")
@@ -146,7 +147,7 @@ def preprocess_data(corpus,
     for comment in corpus["REPR"]:
         comment = nltk.word_tokenize(comment) # tokenizing
         comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
-        comment = [word for word in comment if word not in stop_words] # removing stopwords
+        comment = [word for word in comment if word not in stop_words] # removing stopwords #TODO decide whether to remove them
         comment = " ".join(comment)
 
 
