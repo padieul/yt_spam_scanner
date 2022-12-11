@@ -47,7 +47,7 @@ class YtDataRetriever:
         request = youtube.commentThreads().list(
             part="id, replies, snippet",
             videoId=video_id,
-            maxResults= 500)
+            maxResults= 100)
 
         self._data_response = request.execute()
         return self._data_response
@@ -57,7 +57,7 @@ class ESConnect:
 
     def __init__(self):
         #self._es_client = Elasticsearch("http://es01:9200", auth=("elastic", "1234"))
-        self._es_client = Elasticsearch("http://localhost:9200")
+        self._es_client = Elasticsearch("http://es01:9200")
         self._es_index = "yt_video"
         self._es_index_name = ""
 
@@ -74,6 +74,30 @@ class ESConnect:
 
         for i, line in enumerate(comments):
             source = {'content' : line}
+
+
+            """
+            index: -> youtube video id
+                _id: default unique
+                _type: _doc
+                _source: comment data
+                _op_type: ?
+                _token_number: # count number of tokens in a comment 
+
+                _author: author name 
+                _date: publication date
+                _likes_count: number of likes
+                _num_of_replies: replies
+
+                _is_reply: false
+                _parent_id: _id 
+
+
+
+            """
+            # hallo                 is_reply: false parent_d
+                # hallo auch        is_reply: true
+                # tschuess          is_reply: true
 
             print(self._es_index_name)
             action = {
