@@ -31,7 +31,7 @@ class YtDataRetriever:
 
         self.http = credentials.authorize(httplib2.Http())
 
-
+    # old method that will be deleted soon
     def get_video_data(self, video_id: str):
 
         # Disable OAuthlib's HTTPS verification when running locally.
@@ -42,15 +42,66 @@ class YtDataRetriever:
         api_service_name = "youtube"
         api_version = "v3"
 
-        youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=DEVELOPER_KEY)
+        youtube = googleapiclient.discovery.build(
+            api_service_name, api_version, developerKey=DEVELOPER_KEY)
 
-        request = youtube.commentThreads().list(
-            part="id, replies, snippet",
-            videoId=video_id,
-            maxResults= 500)
-
-        self._data_response = request.execute()
+        self._data_response = self.get_video_comments(youtube, video_id)
         return self._data_response
+
+    def get_comment_replies(self, service, comment_id):
+        request = service.comments().list(
+            parentId=comment_id,
+            part='id,snippet',
+            maxResults=100
+        )
+        replies = []
+
+        while request:
+            response = request.execute()
+            replies.extend(response['items'])
+            request = service.comments().list_next(
+                request, response)
+
+        return replies
+
+    def get_video_comments(self, service, video_id):
+        request = service.commentThreads().list(
+            videoId=video_id,
+            part='id,snippet,replies',
+            maxResults=100
+        )
+
+        data = {}
+        comments = []
+
+        while request:
+            response = request.execute()
+
+            data['kind'] = response['kind']
+            data['etag'] = response['etag']
+            data['pageInfo'] = response['pageInfo']
+
+            for comment in response['items']:
+                reply_count = comment['snippet']['totalReplyCount']
+                replies = comment.get('replies')
+                if replies is not None and \
+                        reply_count != len(replies['comments']):
+                    replies['comments'] = self.get_comment_replies(
+                        service, comment['id'])
+
+                # 'comment' is a 'CommentThreads Resource' that has it's
+                # 'replies.comments' an array of 'Comments Resource'
+
+                # Do fill in the 'comments' data structure
+                # to be provided by this function:
+                comments.append(comment)
+
+            data['items'] = comments
+
+            request = service.commentThreads().list_next(
+                request, response)
+
+        return data
 
 
 class ESConnect:
@@ -60,7 +111,6 @@ class ESConnect:
         self._es_client = Elasticsearch("http://localhost:9200")
         self._es_index = "yt_video"
         self._es_index_name = ""
-
 
     def store_video_data(self, video_comments_data, video_id):
         comments = []
@@ -73,16 +123,16 @@ class ESConnect:
         self._es_index_name = str(self._es_index) + "_" + str(video_id)
 
         for i, line in enumerate(comments):
-            source = {'content' : line}
+            source = {'content': line}
 
             print(self._es_index_name)
             action = {
-                        "_index": self._es_index_name.lower(),
-                        '_op_type': 'index',
-                        "_type": '_doc',
-                        "_id": i,
-                        "_source": source
-                    }
+                "_index": self._es_index_name.lower(),
+                '_op_type': 'index',
+                "_type": '_doc',
+                "_id": i,
+                "_source": source
+            }
             actions.append(action)
 
         helpers.bulk(self._es_client, actions)
