@@ -47,18 +47,41 @@ Basic Statistics:
 <!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
 - The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
 <p align="center">
-<img src="./images/spam-collection_distribution.png" />
+<img src="/images/spam-collection_distribution.png" />
 </p>
 
 Examples: <!--example of data sample from our collection, eventually edge cases-->
 <p align="center">
-<img src="./images/example_data-sample.png" />
+<img src="/images/example_data-sample.png" />
 </p>
 
 ## Current Code State
 Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"
 
-Screenshots?:
+Screenshots:
+
+Default Page             |  Link entered
+:-------------------------:|:-------------------------:
+![](/images/frontend2.png)  |  ![](/images/frontend.png)
+
+<p align="center">
+<img src="./images/dashboard1.png" />
+</p>
+
+<p align="center">
+<img src="./images/dashboard2.png" />
+</p>
+
+
+## Contributions
+
+Timeframe  | Angelina   | Vivian     | Abdulghani | Paul 
+--------   | --------   | --------   | --------   | --------  |
+10.11 - 25.11   |  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
+26.11 - 02.12   |  | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
+03.12 - 11.12   |  | working on middleware and frontend |  |  working on middleware and frontend
+
+
 
 ## How to run and debug?
 
@@ -81,12 +104,3 @@ Screenshots?:
 > <img src="./images/LF_settings.jpg" />
 > </p>
 > <!-- ![alt text](./images/LF_settings.jpg) -->
-
-
-## Contributions
-
-Timeframe  | Angelina   | Vivian     | Abdulghani | Paul 
---------   | --------   | --------   | --------   | --------  |
-10.11 - 25.11   |  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
-26.11 - 02.12   |  | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
-03.12 - 11.12   |  | working on middleware and frontend |  |  working on middleware and frontend

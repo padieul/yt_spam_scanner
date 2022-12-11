@@ -96,7 +96,7 @@ def retrieve_comments(video_id: str = ""):
         es = ESConnect()
         status = es.store_video_data(data, video_id)
 
-    return { "answer": status } #"everything fine!"} # TODO handle status
+    return { "answer": status } # TODO handle status
 
 
 def nltk_download():

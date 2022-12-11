@@ -9,10 +9,7 @@ from oauth2client import client, GOOGLE_TOKEN_URI
 from elasticsearch import helpers
 from elasticsearch import Elasticsearch
 
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-import nltk
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords
+from app.classifier import GenericClassifier
 
 
 CLIENT_ID = "737324637694-b6ngjvspqdgv9cbkto3li52ljcl09k4h.apps.googleusercontent.com"
@@ -38,6 +35,7 @@ class YtDataRetriever:
             revoke_uri=None)
 
         self.http = credentials.authorize(httplib2.Http())
+        
 
     # old method that will be deleted soon
     def get_video_data(self, video_id: str):
@@ -138,69 +136,6 @@ class YtComment:
             self._is_reply = False
             self._parent_id = self._id
 
-
-    def load_data():
-        """
-        Load spam collection from given path
-        """
-        data_path = r"../../models/data/YouTube-Spam-Collection/"
-        files = glob.glob(os.path.join(data_path, "*.csv"))
-        return pd.concat((pd.read_csv(file) for file in files), ignore_index=True)
-
-    def preprocess_data(corpus,
-                    irrelevant_features=["COMMENT_ID", "AUTHOR", "DATE"],
-                    rename_columns={"CONTENT":"COMMENT"}
-                   ):
-        """
-        Preprocessing pipeline
-        """
-        # drop irrelevant features
-        corpus.drop(irrelevant_features, inplace=True, axis=1)
-
-        # remove blank rows
-        corpus.dropna()
-
-        # add column for representation
-        corpus['REPR'] = corpus.loc[:, 'CONTENT']
-
-        # lower case
-        corpus['REPR'] = corpus['REPR'].str.lower()
-
-        # change column name
-        #for old, new in rename_columns:
-        #    corpus.rename({old : new}, axis=1, inplace=True)
-
-        lemmatizer = WordNetLemmatizer()
-        stop_words = stopwords.words("english")
-
-        for comment in corpus["REPR"]:
-            comment = nltk.word_tokenize(comment) # tokenizing
-            comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
-            comment = [word for word in comment if word not in stop_words] # removing stopwords #TODO decide whether to remove them
-            comment = " ".join(comment)
-
-    def preprocess_comment_text(self):
-        lemmatizer = WordNetLemmatizer()
-        stop_words = stopwords.words("english")
-        comment = nltk.word_tokenize(self._text_original) # tokenizing
-        comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
-        comment = [word for word in comment if word not in stop_words] # removing stopwords #TODO decide whether to remove them
-        comment = " ".join(comment)
-        return comment
-        
-    def get_embeddings(self):
-        comment = self.preprocess_comment_text()
-        vectorizer = CountVectorizer(binary=True, max_df=0.95) #TODO decide on arguments
-        return vectorizer.fit_transform(comment)
-
-    def apply_classifier(self):
-        """
-        Classify the comment using the SVM classifier
-        """
-        corpus = load_data(path)
-        clf = joblib.load("../../models/saved_models/svc_35-37.joblib")
-        return { "svc_prediction": clf.predict(self.get_embeddings()) }
-
     def set_id(self, arg):
         self._id = arg
 
@@ -286,12 +221,12 @@ class YtCommentReply:
         return yt_comment
 
 
-
 class ESConnect:
 
     def __init__(self):
         #self._es_client = Elasticsearch("http://es01:9200", auth=("elastic", "1234"))
         self._es_client = Elasticsearch("http://es01:9200")
+        self._classifier = GenericClassifier()
         self._es_index = "yt_video"
         self._es_index_name = ""
 
@@ -299,14 +234,20 @@ class ESConnect:
         
         comments = []
         for item in video_comments_data["items"]:
-
-            comment = YtComment(item)
-            comments.append(comment)
-            
+            try:
+                comment = YtComment(item)
+                comments.append(comment)
+            except:
+                continue
+            # except Exception as e:
+            #    print(e)
             if "replies" in item.keys():
                 for reply in item["replies"]["comments"]:
-                    comment_reply = YtCommentReply(reply)
-                    comments.append(comment_reply.to_yt_comment())
+                    try:
+                        comment_reply = YtCommentReply(reply)
+                        comments.append(comment_reply.to_yt_comment())
+                    except:
+                        continue
                 # TODO replies of reply
 
         actions = []
@@ -323,17 +264,10 @@ class ESConnect:
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment. get_parent_id(),
-                       "spam_label": [0, 0, 1],
-                       "classifier": ["naive_bayes", "support_vector_machine", "logistic_regression"]
+                       "spam_label": self._classifier.make_prediction(comment.get_text_original()), #, 3,3 ],
+                       "classifier": "support_vector_machine" #, "naive_bayes", "logistic_regression"]
                      }
 
-            #comment_len = len(comment.get_text_original().split(" ") # number words
-            
-            # hallo                 is_reply: false parent_d
-                # hallo auch        is_reply: true
-                # tschuess          is_reply: true
-
-            print(self._es_index_name)
             action = {
                 "_index": self._es_index_name.lower(),
                 '_op_type': 'index',
