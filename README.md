@@ -58,18 +58,21 @@ Examples: <!--example of data sample from our collection, eventually edge cases-
 ## Current Code State
 Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"
 
-Screenshots:
+## Web App Frontend:
 
 Default Page             |  Link entered
 :-------------------------:|:-------------------------:
 ![](/images/frontend2.png)  |  ![](/images/frontend.png)
+
+
+## Kibana Dashboard
 
 <p align="center">
 <img src="./images/dashboard1.png" />
 </p>
 
 <p align="center">
-<img src="./images/dashboard2.png" />
+<img src="./images/dashboard1_2.png" />
 </p>
 
 
