@@ -88,7 +88,7 @@ Timeframe  | Angelina   | Vivian     | Abdulghani | Paul
 --------   | --------   | --------   | --------   | --------  |
 10.11 - 25.11   |  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
 26.11 - 02.12   |  | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
-03.12 - 11.12   |  | working on middleware and frontend |  |  working on middleware and frontend
+03.12 - 11.12   |  | working on middleware and frontend | reformating ES data and working on data visualization |  working on middleware and frontend
 
 
 ## How to run and debug?
