@@ -47,8 +47,14 @@ Preprocessing:
 Basic Statistics: 
 <!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
 - The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
+<<<<<<< HEAD
+
+<p align="center">
+<img src="/images/spam-collection_distribution.png" />
+=======
 <p align="left">
 <img src="./images/spam-collection.png" alt="spam-collection" width="500" />
+>>>>>>> d13c7838e241b59f46bebfd6840b636fe1bb6c58
 </p>
 
 Examples: <!--example of data sample from our collection, eventually edge cases-->
