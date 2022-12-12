@@ -16,8 +16,8 @@ Contributions: see table below
 
 ## Project State
 Planning State:
- - finished tasks: setup ES and Kibana, setup containers and debug configurations, obtain existing spam collection dataset, implement pipeline fro extracting video comments using YouTube Data API, implement and store models (SVM, LG, NB), develop first prototyp of the interface, implement pipeline for loading and storing data in ES, create FastAPI functions, create example dashboards
- - still in process: implement and store Ensemble model, choose the optimal spam classifier (i.e. evaluation of the four classifiers), further development (improve preprocess pipeline, frontend; add more features, visualizations and analysis)
+ - finished tasks: setup ES and Kibana, setup containers and debug configurations, obtain existing spam collection dataset, implement pipeline for extracting video comments using YouTube Data API, implement and store models (SVM, LG, NB), develop first prototyp of the interface, implement pipeline for loading and storing data in ES, create FastAPI functions, create example dashboards
+ - still in process: implement and store Ensemble model, choose the optimal spam classifier (i.e. evaluation of the four classifiers), further development (improve preprocess pipeline, frontend; add more features, visualizations and analysis), predicted spam labels not included in dashboard yet
 
 Future Planning:
 <!--timeline for second part of project, future time schedules-->
@@ -26,8 +26,23 @@ Future Planning:
  - end of February: create video presentation and merge final code
 
 High-level Architecture Description:
- - module structure: ES - FastAPI - Svelte; dataset, middleware, models, frontend
- - preprocess pipeline: removal of irrelevant features and empty entries, lowercase, tokenization, lemmatization, removal of stop words
+
+- Containers:
+    - **frontend** - simple Svelte frontend that takes a video link and extracts the Video ID
+    - **middleware** - contains both an api implemented with FastAPI and main application functionality: retrieving raw data from Youtube API, reformatting, applying classifier and storing final data in Elasticsearch
+    - **elasticsearch** - an ES instance
+    - **kibana** - a Kibana container
+    - **elasticvue** - an Elasticvue component for elasticsearch administration
+    - **setup** - an additional container that runs scripts that help with configuring security credentials for ES and Kibana communication
+
+- Code Structure in Middleware:
+    - **main** - includes the api functions 
+    - **data_retriever** - comprised of 4 clases
+        - 2 data classes: YtComment and YtCommentReply that store comment data for initial comments and reply comments respectively 
+        - 2 interface/connection classes: YtDataRetriever allows comment retrieval from the official Youtube API, ESConnect takes care of storing comments in elasticsearch
+
+
+- Preprocessing pipeline: removal of irrelevant features and empty entries, lowercase, tokenization, lemmatization, removal of stop words
 
 Data Analysis: see next section
 
@@ -37,12 +52,15 @@ Experiments:
 
 ## Data Analysis
 Data Sources: 
- - [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
- - Comments extracted using YouTube Data API (stored beforehead)
- - Comments extracted using YouTube Data API (live, from the input video)
+ - **Reference dataset:** [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
+ - **Manually extracted dataset:** Comments extracted using YouTube Data API (stored beforehead) - not assembled yet
+ - **User selected data**: (* up until 12.12.2022) Comments extracted using YouTube Data API (live, from the input video) for 4 random videos(see Dashboard)
 
 Preprocessing:
 <!--preprocessing steps - unicode normalization, length normalization, text sanitizing, etc-->
+- see reference dataset description
+- see DataRetriever and ESConnect classes in data_retriever.py
+- see DataRetriever and ESConnect classes in data_retriever.py
  
 Basic Statistics: 
 <!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
@@ -51,7 +69,10 @@ Basic Statistics:
 <img src="./images/spam-collection.png" alt="spam-collection" width="500" />
 </p>
 
-Examples: <!--example of data sample from our collection, eventually edge cases-->
+- Eventually through a separate Kibana Dashboard
+- See Dashboard section for visualization and basic statistics
+
+Example comment stored in Elasticsearch: <!--example of data sample from our collection, eventually edge cases-->
 <p align="left">
 <img src="./images/example-data.png" />
 </p>
@@ -86,9 +107,9 @@ Default Page             |  Link entered
 
 Timeframe  | Angelina   | Vivian     | Abdulghani | Paul 
 --------   | --------   | --------   | --------   | --------  |
-10.11 - 25.11   |  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
-26.11 - 02.12   |  | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
-03.12 - 11.12   |  | working on middleware and frontend | reformating ES data and working on data visualization |  working on middleware and frontend
+10.11 - 25.11   | Accessing Youtube API  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
+26.11 - 02.12   | Sample Youtube data exploration analysis and processing | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
+03.12 - 11.12   | Extending YtDataRetriever class | working on middleware and frontend | reformating ES data and working on data visualization |  working on middleware and frontend, Kibana dashboard creation
 
 
 ## How to run and debug?

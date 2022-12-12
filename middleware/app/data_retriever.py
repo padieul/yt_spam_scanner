@@ -190,7 +190,6 @@ class YtComment:
     def get_id(self):
         return self._id
 
-
 class YtCommentReply:
 
     def __init__(self, data_item):
@@ -219,7 +218,6 @@ class YtCommentReply:
         yt_comment.set_parent_id(self._parent_id)
 
         return yt_comment
-
 
 class ESConnect:
 
