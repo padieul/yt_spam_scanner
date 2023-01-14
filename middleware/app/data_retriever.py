@@ -228,8 +228,12 @@ class ESConnect:
         self._es_index = "yt_video"
         self._es_index_name = ""
 
+
+    def _set_es_index_name(self, video_id):
+        self._es_index_name = (str(self._es_index) + "_" + str(video_id)).lower()
+
+
     def store_video_data(self, video_comments_data, video_id):
-        
         comments = []
         for item in video_comments_data["items"]:
             try:
@@ -250,6 +254,7 @@ class ESConnect:
 
         actions = []
         self._es_index_name = str(self._es_index) + "_" + str(video_id)
+        #self._set_es_index_name(video_id)
 
         for i, comment in enumerate(comments):
             source = { 'id': comment.get_id(),
@@ -261,8 +266,8 @@ class ESConnect:
                        'comment_length': len(nlp(comment.get_text_original())), #TODO by spacy sind PUNCT auch separate tokens
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
-                       'parent_id': comment. get_parent_id(),
-                       "spam_label": self._classifier.make_prediction(comment.get_text_original()), #, 3,3 ],
+                       'parent_id': comment.get_parent_id(),
+                       "spam_label": self._classifier.predict_comment(comment.get_text_original()), #, 3,3 ],
                        "classifier": "support_vector_machine" #, "naive_bayes", "logistic_regression"]
                      }
 
@@ -276,6 +281,20 @@ class ESConnect:
 
         #helpers.bulk(self._es_client, actions)
         return helpers.bulk(self._es_client, actions) # TODO return status of action
+
+
+    def get_spam_comments(self, video_id):
+        """return the spam comments found/predicted in the given video"""
+        self._set_es_index_name(video_id)
+
+        search_query = {"term": {
+                                "spam_label": [1]
+                                }
+                        }
+
+        search_result = self._es_client.search(index=self._es_index_name, query=search_query)
+        spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
+        return spam_comments
 
 
 if __name__ == "__main__":

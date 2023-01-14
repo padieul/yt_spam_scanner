@@ -87,22 +87,25 @@ class GenericClassifier:
         comment = nltk.word_tokenize(comment) # tokenizing
         comment = [lemmatizer.lemmatize(word) for word in comment] # lemmatizing
         comment = [word for word in comment if word not in stop_words] # removing stopwords #TODO decide whether to remove them
-        return list(" ".join(comment))
+        return " ".join(comment)
 
         
     def _get_comment_embedding(self, comment):
-        return self.vectorizer.transform(self._preprocess_single_comment(comment)).toarray()
+        return self.vectorizer.transform([self._preprocess_single_comment(comment)])
 
 
-    def make_prediction(self, comment):
+    def predict_comment(self, comment):
         """
         Classify the comment using the SVM classifier
         """
-        try:
+        """try:
             prediction_label = self.model.predict(self._get_comment_embedding(comment))
+            print("length comment: ", len(comment))
+            print("comment: ", str(comment))
             print("working: ", prediction_label)
         except:
             print("TERRIBLE !!!!: ", comment)
-            prediction_label = 3
+            prediction_label = 3"""
 
+        prediction_label = self.model.predict(self._get_comment_embedding(comment))
         return { "svc_prediction": prediction_label }
