@@ -27,6 +27,7 @@
       alert('Video ID could not be extracted! Please enter a valid URL!')
     }
     postVideoId()
+    //obtain_spam_comments()
   }
 
   async function postVideoId() {
@@ -86,7 +87,7 @@
   </div>
 
   <!--
-    <h1>We classified the following comments as spam:</h1>
+    <h1>The following comments were classified as spam:</h1>
     <ul>
       {#each spam_comments as comment}
         <li>{comment}</li>
