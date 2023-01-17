@@ -37,7 +37,7 @@ class YtDataRetriever:
         self.http = credentials.authorize(httplib2.Http())
         
 
-    # old method that will be deleted soon
+    # TODO old method that will be deleted soon (BUT still used)
     def get_video_data(self, video_id: str):
 
         # Disable OAuthlib's HTTPS verification when running locally.
@@ -228,12 +228,14 @@ class ESConnect:
         self._es_index = "yt_video"
         self._es_index_name = ""
 
-
     def _set_es_index_name(self, video_id):
         self._es_index_name = (str(self._es_index) + "_" + str(video_id)).lower()
 
 
     def store_video_data(self, video_comments_data, video_id):
+        """
+        Loading data into elasticsearch
+        """
         comments = []
         for item in video_comments_data["items"]:
             try:
@@ -253,8 +255,7 @@ class ESConnect:
                 # TODO replies of reply
 
         actions = []
-        self._es_index_name = str(self._es_index) + "_" + str(video_id)
-        #self._set_es_index_name(video_id)
+        self._set_es_index_name(video_id) # self._es_index_name = str(self._es_index) + "_" + str(video_id)
 
         for i, comment in enumerate(comments):
             source = { 'id': comment.get_id(),
@@ -263,37 +264,42 @@ class ESConnect:
                        'author_channel_url': comment.get_author_chan_url(),
                        'author_channel_id': comment.get_author_chan_id(),
                        'like_count': comment.get_like_count(),
-                       'comment_length': len(nlp(comment.get_text_original())), #TODO by spacy sind PUNCT auch separate tokens
+                       'comment_length': len(nlp(comment.get_text_original())), # TODO by spacy sind PUNCT auch separate tokens -> len(comment.get_text_original().split(" ")) ?
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
-                       "spam_label": self._classifier.predict_comment(comment.get_text_original()), #, 3,3 ],
-                       "classifier": "support_vector_machine" #, "naive_bayes", "logistic_regression"]
+                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
+                       "classifier": "support_vector_machine" # TODO "naive_bayes", "logistic_regression" ?
                      }
 
             action = {
-                "_index": self._es_index_name.lower(),
+                "_index": self._es_index_name, #.lower(),
                 '_op_type': 'index',
                 "_type": '_doc',
                 "_source": source
             }
             actions.append(action)
 
-        #helpers.bulk(self._es_client, actions)
-        return helpers.bulk(self._es_client, actions) # TODO return status of action
+        helpers.bulk(self._es_client, actions)
+        return "OK" #return "Data is obtained and stored successfully" # TODO return statement? status of the action to be shown in frontend?
 
 
     def get_spam_comments(self, video_id):
-        """return the spam comments found/predicted in the given video"""
+        """
+        return the spam comments found/predicted in the given video
+        """
         self._set_es_index_name(video_id)
 
         search_query = {"term": {
-                                "spam_label": [1]
+                                "spam_label": {
+                                    "value": [1] # TODO list or single char?
+                                    }
                                 }
                         }
 
         search_result = self._es_client.search(index=self._es_index_name, query=search_query)
         spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
+        
         return spam_comments
 
 

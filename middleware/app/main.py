@@ -1,3 +1,4 @@
+from collections import Counter
 import os
 import glob
 import joblib
@@ -18,7 +19,9 @@ from fastapi import FastAPI
 import requests
 
 from app.data_retriever import YtDataRetriever, ESConnect
-#from classifier import GenericClassifier
+from app.classifier import GenericClassifier
+
+# TODO remove unused imports
 
 
 app = FastAPI()
@@ -34,14 +37,27 @@ def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/es-status/")
+@app.get("/predict/")
+def test_predict():
+    """
+    For testing purpose
+    """
+    clf = GenericClassifier() # default SVM
+    comments = ["Nice song! I love it!", "Come on.. Visit my page"]
+
+    predictions = [ clf.predict_single_comment(comments) for comment in comments ]
+    
+    #return { "spam comments": [ comment for comment, prediction in zip(comments, predictions) if prediction == [1] ] }
+    return { "predictions": list(zip(comments, predictions)) }
+
+
+@app.get("/es-status/") # TODO stay consistent (- or _ -> retrieve_comments)
 def get_es_status():
     """
     Make a request for ElasticSearch and return the status code
     """
-    es_status = requests.get(
-        "http://es01:9200/", auth=("elastic", os.environ["ELASTIC_PASSWORD"]), timeout=10
-        )
+    es_status = requests.get("http://es01:9200/", auth=("elastic", os.environ["ELASTIC_PASSWORD"]), timeout=10)
+
     return es_status.json()
 
 
@@ -52,40 +68,48 @@ def retrieve_comments(video_id: str = ""):
     """
     if video_id == "":
         print("******************************************")
-        print("No video ID received!")
+        print("No video ID received")
     else:
         print("******************************************")
-        print(f"The ID {video_id} is received")
+        print(f"Video ID received: {video_id}")
+        
         yt = YtDataRetriever()
-        data = yt.get_video_data(video_id)
+        data = yt.get_video_data(video_id) # TODO which function is to be used? (get_video_comments)
         es = ESConnect()
         status = es.store_video_data(data, video_id)
 
     return { "answer": status } # TODO handle status
 
 
-@app.get("/predict/{video_id}")#{model_id}")
-def predict_comments(video_id):#model_id: int = 0):
+@app.get("/predict/{video_id}") #{model_id}") # TODO prediction is performed by storing the comments in ES
+def predict_comments(video_id): #model_id: int = 0):
     """
     Output predictions made using certain model
     """
-    """if model_id == 0:
-        # apply svm
-        svm_clf = joblib.load("saved_models/svc_35-37.joblib")
-        prediction = make_prediction(svm_clf).tolist()
-    if model_id == 1:
-        # apply naive bayes
-        nb_clf = joblib.load("saved_models/multinomialnb_32-21.joblib")
-        prediction = make_prediction(nb_clf).tolist()
-        return {"nb_prediction": prediction}
-    if model_id == 2:
-        # apply logistic regression
-        lr_clf = joblib.load("saved_models/logisticregression_34-12.joblib")
-        prediction = make_prediction(lr_clf).tolist()
-        return {"lr_prediction": prediction}
-    if model_id == 3:
-        ... # apply ensemble model # TODO to be implemented
-    return {"lr_prediction": [] } # TODO default"""
+    # TODO train models again with the same preprocessing and vectorizer
+    predictions = []
+    ensemble_predictions = [] # TODO ensemble
+
+    svm_clf = GenericClassifier("saved_models/svc_35-37.joblib")
+    nb_clf = GenericClassifier("saved_models/multinomialnb_32-21.joblib")
+    lr_clf = GenericClassifier("saved_models/logisticregression_34-12.joblib")
+
+    yt = YtDataRetriever()
+    data = yt.get_video_data(video_id)
+
+    for item in data["items"]: # observe only comments and not replies
+        comment = item['snippet']['topLevelComment']['snippet']['textOriginal'].replace("\n", "")
+        predictions.extend([svm_clf.predict_single_comment(comment),
+                            nb_clf.predict_single_comment(comment),
+                            lr_clf.predict_single_comment(comment)
+                            ])
+        ensemble_predictions.append(Counter(svm_clf.predict_single_comment(comment),
+                                            nb_clf.predict_single_comment(comment),
+                                            lr_clf.predict_single_comment(comment)
+                                            ).most_common()[0])
+
+    return { "svm, nb and lr predictions": predictions }
+    # return { "ensemble predictions": ensemble_predictions }
 
 
 @app.get("/spam/{video_id}")
@@ -97,27 +121,7 @@ def return_spam_comments(video_id):
     return { "spam comments": es.get_spam_comments(video_id) }
 
 
-"""
-@app.get("/predict/")
-def predict():
-    
-    #Make predictions for the comments using default model (here: SVM) and return the spam comments
-
-    # TODO make predictions for the given yt video
-    comments = ["nice song!", "Go to my page"]
-    predictions = make_prediction(comments)
-    return { "spam comments": [comment for comment, prediction in zip(comments, predictions) if prediction==[1]] }
-
-def make_prediction(comments):
-    
-    #Make predictions for given yt comments using the generic classifier class
-    
-    clf = GenericClassifier()
-    predictions = [clf.predict_comment(comment) for comment in comments]
-
-    return predictions
-"""
-
 
 if __name__ == "__main__":
     print("main.py")
+    print(test_predict())
