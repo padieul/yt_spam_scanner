@@ -136,15 +136,15 @@
 <style>
 	main {
     text-align: center;
-    /*padding: 25px; */
-    /*max-width: 100%;*/
     width: 100%;
-    min-width: 1400px;
+    /*padding: 25px;*/
+    /*max-width: 100%;*/
+    /*min-width: 1400px;*/
     /*margin: 0 auto;*/
     background-color: red;
   }
   input {
-    width: 20%;
+    width: 500px;
     min-width: 500px;
     height: 30px;
     box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
@@ -157,7 +157,6 @@
     height: 65px;
     line-height: 65px;
     color: white;
-    /*padding-left: 16px;*/
     font-size: 2.5em;
   }
   .responsive-iframe {
@@ -167,8 +166,9 @@
   }
   .container {
     position: relative;
-    overflow: hidden;
-    /*padding-top: 2em; 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    /*overflow: hidden;*/
+    /*padding-top: 2em;*/
+    width: 100%;
     background-color: red;
   }
   .shadow { box-shadow: 0px 2px 8px #00000088; }
@@ -208,13 +208,12 @@
 	}
 	.help {
 		width: 40px;
-		/*margin: 0 auto;*/
+		margin: 0 auto;
 	}
 	.help .question {
 		font-size: 25px;
 		cursor: pointer;
 	}
-  /*
   .help .popup {
     width: 400px;
     height: 0px;
@@ -234,8 +233,7 @@
     height: 110px;
   }
   .help .popup h3 {
-    /*margin: 0;*/
-  /*
+    margin: 0;
     padding: 10px 0 0 10px;
     height: 30px;
     background: #555;
@@ -246,8 +244,8 @@
   .help .popup p {
     font-size: 14px;
     padding: 10px;
-    /*margin: 0;*/
-    /*color: #555;
-}
-*/
+    margin: 0;
+    color: #555;
+  }
+
 </style>
