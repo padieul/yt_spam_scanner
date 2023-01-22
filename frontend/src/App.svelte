@@ -8,7 +8,7 @@
   var active = false;
   var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
 
-  var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-15m%2Cto%3Anow))";
+  var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2023-01-14T06:43:19.849Z',to:now))&_a=(description:'',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,syncColors:!f,useMargins:!t),panels:!((embeddableConfig:(attributes:(references:!((id:d9c60ca0-98f8-11ed-8c04-a96741ae86bb,name:indexpattern-datasource-current-indexpattern,type:index-pattern),(id:d9c60ca0-98f8-11ed-8c04-a96741ae86bb,name:indexpattern-datasource-layer-57bae6dc-841f-49e9-85a4-c44b568d8400,type:index-pattern)),state:(datasourceStates:(indexpattern:(layers:('57bae6dc-841f-49e9-85a4-c44b568d8400':(columnOrder:!('0b5a3122-8fc6-47b4-9a61-b5063414683d'),columns:('0b5a3122-8fc6-47b4-9a61-b5063414683d':(dataType:number,isBucketed:!f,label:'Median%20of%20comment_length',operationType:median,scale:ratio,sourceField:comment_length)),incompleteColumns:())))),filters:!(),query:(language:kuery,query:''),visualization:(layers:!((accessors:!('0b5a3122-8fc6-47b4-9a61-b5063414683d'),layerId:'57bae6dc-841f-49e9-85a4-c44b568d8400',layerType:data,position:top,seriesType:bar_stacked,showGridlines:!f)),legend:(isVisible:!t,position:right),preferredSeriesType:bar_stacked,title:'Empty%20XY%20chart',valueLabels:hide,yLeftExtent:(mode:full),yRightExtent:(mode:full))),title:'',type:lens,visualizationType:lnsXY),enhancements:()),gridData:(h:15,i:'6fd55481-beed-40ff-8c3a-b79d4954c081',w:24,x:0,y:0),panelIndex:'6fd55481-beed-40ff-8c3a-b79d4954c081',type:lens,version:'7.17.6')),query:(language:kuery,query:''),tags:!(),timeRestore:!f,title:'YT%20Spam%20Comments',viewMode:edit)&show-query-input=true&show-time-filter=true";
   //document.getElementById("dashboard_frame").setAttribute("src", dashboard_src)
 
   function handleClick() {
@@ -77,7 +77,7 @@
   <div slot="header">
     <div class="header" class:shadow={!!scroller.scroll}>YouTube Spam Scanner</div>
   </div>
-  <p>Dear user, welcome to the YouTube Spam Scanner! <span class="wave">👋</span></p>
+  <p class="p">Dear user, welcome to the YouTube Spam Scanner! <span class="wave">👋</span></p>
 
   <div class="help">
     <div class="question"><i class="mi mi-circle-help"><span class="u-sr-only"></span></i></div>
@@ -102,7 +102,7 @@
   <div class="container">
     <iframe
     title="dashboard"
-    class = "responsive-iframe" src={dashboard_src} frameBorder="0"></iframe>
+    class = "responsive-iframe" src={dashboard_src} frameBorder="0" alt="Kibana is not accessible!!!"></iframe>
   </div>
 
   <!--
@@ -136,12 +136,12 @@
 <style>
 	main {
     text-align: center;
-    width: 100%;
+    /*width: 100%;*/
     /*padding: 25px;*/
     /*max-width: 100%;*/
     /*min-width: 1400px;*/
     /*margin: 0 auto;*/
-    background-color: red;
+    background-color: white;
   }
   input {
     width: 500px;
@@ -151,7 +151,7 @@
 		margin-top: 70px;
 		margin-bottom: 50px;
   }
-  .internal_div {width: 100%; height: 400px}
+  .internal_div { width: 100%; height: 400px }
   .header {
     background-color: #5ac8fa;
     height: 65px;
@@ -161,15 +161,16 @@
   }
   .responsive-iframe {
     position: relative;
-    width: 100%;
-    height: 100%;
+    width: 1500px;
+    height: 1800px;
+    /*height: 100%;*/
   }
   .container {
     position: relative;
     /*overflow: hidden;*/
     /*padding-top: 2em;*/
-    width: 100%;
-    background-color: red;
+    width: auto;
+    height: auto;
   }
   .shadow { box-shadow: 0px 2px 8px #00000088; }
 	.active {
