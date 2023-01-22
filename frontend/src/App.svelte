@@ -1,6 +1,6 @@
 <script>
   import Layout from "./lib/Layout.svelte";
-	//import { Tabs, TabItem } from 'flowbite-svelte'; // TODO test if working 
+  import { Tabs, TabList, TabPanel, Tab } from './lib/tabs.js'; //TODO gehört das in lib
 
   var url_str = "";
   var text_output = "";
@@ -8,9 +8,7 @@
   var active = false;
   var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
 
-  var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2023-01-14T06:43:19.849Z',to:now))&_a=(description:'',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,syncColors:!f,useMargins:!t),panels:!((embeddableConfig:(attributes:(references:!((id:d9c60ca0-98f8-11ed-8c04-a96741ae86bb,name:indexpattern-datasource-current-indexpattern,type:index-pattern),(id:d9c60ca0-98f8-11ed-8c04-a96741ae86bb,name:indexpattern-datasource-layer-57bae6dc-841f-49e9-85a4-c44b568d8400,type:index-pattern)),state:(datasourceStates:(indexpattern:(layers:('57bae6dc-841f-49e9-85a4-c44b568d8400':(columnOrder:!('0b5a3122-8fc6-47b4-9a61-b5063414683d'),columns:('0b5a3122-8fc6-47b4-9a61-b5063414683d':(dataType:number,isBucketed:!f,label:'Median%20of%20comment_length',operationType:median,scale:ratio,sourceField:comment_length)),incompleteColumns:())))),filters:!(),query:(language:kuery,query:''),visualization:(layers:!((accessors:!('0b5a3122-8fc6-47b4-9a61-b5063414683d'),layerId:'57bae6dc-841f-49e9-85a4-c44b568d8400',layerType:data,position:top,seriesType:bar_stacked,showGridlines:!f)),legend:(isVisible:!t,position:right),preferredSeriesType:bar_stacked,title:'Empty%20XY%20chart',valueLabels:hide,yLeftExtent:(mode:full),yRightExtent:(mode:full))),title:'',type:lens,visualizationType:lnsXY),enhancements:()),gridData:(h:15,i:'6fd55481-beed-40ff-8c3a-b79d4954c081',w:24,x:0,y:0),panelIndex:'6fd55481-beed-40ff-8c3a-b79d4954c081',type:lens,version:'7.17.6')),query:(language:kuery,query:''),tags:!(),timeRestore:!f,title:'YT%20Spam%20Comments',viewMode:edit)&show-query-input=true&show-time-filter=true";
-  //document.getElementById("dashboard_frame").setAttribute("src", dashboard_src)
-
+  var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
   function handleClick() {
 		alert('clicked')
   }
@@ -28,7 +26,6 @@
       text_output = ""
       url_str = ""
       active = false
-      //text_output = "Video ID could not be extracted";
       alert('Video ID could not be extracted! Please enter a valid URL!')
     }
     postVideoId()
@@ -57,14 +54,6 @@
     spam_comments = await response;
   }
   */
-
-  // TODO delete?
-  /*
-  window.setInterval("reloadIFrame();", 30000);
-  function reloadIFrame() {
-    var frameHolder=document.getElementById('k_dashboard');
-    //frameHolder.src=dashboard_src
-  }*/
 
 </script>
 
@@ -99,35 +88,31 @@
     <div class="output"><p>{text_output}</p></div>
   </div>
 
-  <div class="container">
-    <iframe
-    title="dashboard"
-    class = "responsive-iframe" src={dashboard_src} frameBorder="0" alt="Kibana is not accessible!!!"></iframe>
-  </div>
 
-  <!--
-    <h1>The following comments were classified as spam:</h1>
-    <ul>
-      {#each spam_comments as comment}
-        <li>{comment}</li>
-      {/each}
-    </ul>
-  -->
-
-  <!-- <Tabs>
-    <TabItem title="Show spam comments">
-      <p class="text-sm text-gray-500 dark:text-gray-400"><b>The following comments were classified as spam:</b></p>
+  <Tabs>
+    <TabList>
+      <Tab>Show spam comments</Tab>
+      <Tab>Show dashboards</Tab>
+    </TabList>
+  
+    <TabPanel>
+      <p class="p">The following comments were classified as spam:</p>
       <ul>
         {#each spam_comments as comment}
           <li>{comment}</li>
         {/each}
       </ul>
-    </TabItem>
-    <TabItem title="Show dashboards">
-      <p class="text-sm text-gray-500 dark:text-gray-400"><b>The following dashboards were created:</b> </p> ...
-    </TabItem>
-  </Tabs> -->
+    </TabPanel>
   
+    <TabPanel>
+      <p class="p">The following dashboards were created:</p>
+      <div class="container">
+        <iframe
+        title="dashboard"
+        class = "responsive-iframe" src={dashboard_src} frameBorder="0" loading="lazy" allowfullscreen></iframe> <!--alt="Kibana is not accessible!""-->
+      </div>
+    </TabPanel>
+  </Tabs>  
 
 </Layout>
 </main>
@@ -136,11 +121,6 @@
 <style>
 	main {
     text-align: center;
-    /*width: 100%;*/
-    /*padding: 25px;*/
-    /*max-width: 100%;*/
-    /*min-width: 1400px;*/
-    /*margin: 0 auto;*/
     background-color: white;
   }
   input {
@@ -163,12 +143,9 @@
     position: relative;
     width: 1500px;
     height: 1800px;
-    /*height: 100%;*/
   }
   .container {
     position: relative;
-    /*overflow: hidden;*/
-    /*padding-top: 2em;*/
     width: auto;
     height: auto;
   }
@@ -248,5 +225,4 @@
     margin: 0;
     color: #555;
   }
-
 </style>
