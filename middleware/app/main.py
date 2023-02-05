@@ -1,27 +1,11 @@
 from collections import Counter
 import os
-import glob
-import joblib
-import pandas as pd
-import numpy as np
-
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from sklearn.model_selection import train_test_split
-
-import nltk
-from nltk import pos_tag
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords
-from nltk.corpus import wordnet as wn
 
 from fastapi import FastAPI
 import requests
 
 from app.data_retriever import YtDataRetriever, ESConnect
 from app.classifier import GenericClassifier
-
-# TODO remove unused imports
 
 
 app = FastAPI()
@@ -45,13 +29,13 @@ def test_predict():
     clf = GenericClassifier() # default SVM
     comments = ["Nice song! I love it!", "Come on.. Visit my page"]
 
-    predictions = [ clf.predict_single_comment(comments) for comment in comments ]
-    
+    predictions = [ clf.predict_single_comment(comment) for comment in comments ]
+
     #return { "spam comments": [ comment for comment, prediction in zip(comments, predictions) if prediction == [1] ] }
     return { "predictions": list(zip(comments, predictions)) }
 
 
-@app.get("/es-status/") # TODO stay consistent (- or _ -> retrieve_comments)
+@app.get("/es-status/") # TODO stay consistent (- or _ -> e.g. retrieve_comments)
 def get_es_status():
     """
     Make a request for ElasticSearch and return the status code
@@ -66,13 +50,13 @@ def retrieve_comments(video_id: str = ""):
     """
     Retrieve the comments from a given YouTube video using the ID
     """
-    if video_id == "":
+    if not video_id: # empty string
         print("******************************************")
         print("No video ID received")
     else:
         print("******************************************")
         print(f"Video ID received: {video_id}")
-        
+
         yt = YtDataRetriever()
         data = yt.get_video_data(video_id) # TODO which function is to be used? (get_video_comments)
         es = ESConnect()
@@ -103,12 +87,12 @@ def predict_comments(video_id): #model_id: int = 0):
                             nb_clf.predict_single_comment(comment),
                             lr_clf.predict_single_comment(comment)
                             ])
-        ensemble_predictions.append(Counter(svm_clf.predict_single_comment(comment),
+        ensemble_predictions.append(Counter([svm_clf.predict_single_comment(comment),
                                             nb_clf.predict_single_comment(comment),
-                                            lr_clf.predict_single_comment(comment)
+                                            lr_clf.predict_single_comment(comment)]
                                             ).most_common()[0])
 
-    return { "svm, nb and lr predictions": predictions }
+    return { f"{svm_clf.model_name}, {nb_clf.model_name} and {lr_clf.model_name} predictions": predictions }
     # return { "ensemble predictions": ensemble_predictions }
 
 

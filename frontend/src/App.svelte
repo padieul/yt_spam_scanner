@@ -1,6 +1,6 @@
 <script>
   import Layout from "./lib/Layout.svelte";
-  import { Tabs, TabList, TabPanel, Tab } from './lib/tabs.js'; //TODO gehört das in lib
+  import { Tabs, TabList, TabPanel, Tab } from './lib/tabs.js'; //TODO gehoert das in lib oder in frontend oder in src?
 
   var url_str = "";
   var text_output = "";
@@ -9,9 +9,7 @@
   var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
 
   var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
-  function handleClick() {
-		alert('clicked')
-  }
+  
 
   function youtube_parser() {
     var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
@@ -48,7 +46,7 @@
   function obtain_spam_comments() {
     const response = await fetch("http://localhost:8000/spam/" + video_id_str,
                                 {
-                                    method: 'POST',
+                                    method: 'GET',
                                     body: JSON.stringify(video_id_str)
                                 })
     spam_comments = await response;
@@ -58,7 +56,7 @@
 </script>
 
 <svelte:head>
-	<link rel="stylesheet" href="https://unpkg.com/mono-icons@1.0.5/iconfont/icons.css" > //for the help icon
+	<link rel="stylesheet" href="https://unpkg.com/mono-icons@1.0.5/iconfont/icons.css" > <!--for the help icon-->
 </svelte:head>
 
 <main>
