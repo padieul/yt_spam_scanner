@@ -185,6 +185,17 @@ services:
     networks:
       - ytScannerNetwork
 
+  yt-spammer-purge: # A third-part spam filter to build a data set
+    image: ghcr.io/thiojoe/yt-spammer-purge:latest
+    volumes:
+      - ./yt-spammer-purge/SpamPurgeConfig.ini:/usr/src/app/SpamPurgeConfig.ini # Config file
+      - ./yt-spammer-purge/client_secrets.json:/usr/src/app/client_secrets.json # Client secret for Google API login
+      - ./yt-spammer-purge/token.pickle:/usr/src/app/token.pickle # Tocken file for Google API login
+      - ./yt-spammer-purge/SpamPurge_Resources:/usr/src/app/SpamPurge_Resources # Resources used by the third-part filter
+      - type: bind
+        source: ./yt-spammer-purge/logs # Map the results
+        target: /usr/src/app/logs
+
   models:
     container_name: models
     build:

@@ -1,0 +1,5 @@
+# Commenters whose channel IDs are in this list will always be ignored. You can add or remove IDs (one per line) from this list as you wish.
+# Channel IDs for a channel can be found in the URL after clicking a channel's name while on the watch page or where they've left a comment.
+# - Channels that were 'excluded' will also appear in this list.
+# - Lines beginning with a '#' are comments and aren't read by the program. (But do not put a '#' on the same line as actual data)
+

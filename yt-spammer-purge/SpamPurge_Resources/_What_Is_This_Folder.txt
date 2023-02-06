@@ -1,0 +1,4 @@
+# This Resources folder is used to store resources required for the YT Spammer Purge program.
+# Note: If you had a previous spam_lists folder that was created in the same folder as 
+# the .exe file, you can delete that old spam_lists folder. The resources folder is the 
+# new location they will be stored.
