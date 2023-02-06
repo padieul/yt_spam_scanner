@@ -1,4 +1,4 @@
-version: "2.2"
+version: "3.7"
 
 # USEFUL! 
 # https://www.elastic.co/guide/en/elasticsearch/reference/8.3/docker.html#docker-compose-file
@@ -196,6 +196,8 @@ services:
       - type: bind
         source: ./yt-spammer-purge/logs # Map the results
         target: /usr/src/app/logs
+    stdin_open: true # Force the interactive mode
+    tty: true # Force the interactive mode
 
   models:
     container_name: models
