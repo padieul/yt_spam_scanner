@@ -1,0 +1,37 @@
+
+
+
+<div>
+    <p> Hallo </p>
+    <div>
+        <h1>Hello again</h1>
+    </div>
+    <div class="container">
+        <iframe
+        class = "responsive-iframe" src="http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-15m%2Cto%3Anow))" frameBorder="0"></iframe>
+    </div>
+</div>
+
+
+<style>
+    .responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  }
+  .container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+</style>
+
+
+  
+

@@ -139,6 +139,7 @@ services:
     volumes:
       - certs:/usr/share/kibana/config/certs
       - kibanadata:/usr/share/kibana/data
+      - ./frontend/kibana_data:/usr/share/kibana/data
     networks:
       - ytScannerNetwork
     mem_limit: ${MEM_LIMIT}

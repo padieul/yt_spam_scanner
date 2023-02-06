@@ -1,6 +1,5 @@
 import os
 import httplib2
-import joblib
 import spacy
 import googleapiclient
 import googleapiclient.discovery
@@ -35,9 +34,9 @@ class YtDataRetriever:
             revoke_uri=None)
 
         self.http = credentials.authorize(httplib2.Http())
-        
 
-    # TODO old method that will be deleted soon (BUT still used)
+
+    # TODO old method that will be deleted soon (ok BUT still used!?)
     def get_video_data(self, video_id: str):
 
         # Disable OAuthlib's HTTPS verification when running locally.
@@ -92,8 +91,7 @@ class YtDataRetriever:
                 replies = comment.get('replies')
                 if replies is not None and \
                         reply_count != len(replies['comments']):
-                    replies['comments'] = self.get_comment_replies(
-                        service, comment['id'])
+                    replies['comments'] = self.get_comment_replies(service, comment['id'])
 
                 # 'comment' is a 'CommentThreads Resource' that has it's
                 # 'replies.comments' an array of 'Comments Resource'
@@ -104,8 +102,7 @@ class YtDataRetriever:
 
             data['items'] = comments
 
-            request = service.commentThreads().list_next(
-                request, response)
+            request = service.commentThreads().list_next(request, response)
 
         return data
 
@@ -231,7 +228,6 @@ class ESConnect:
     def _set_es_index_name(self, video_id):
         self._es_index_name = (str(self._es_index) + "_" + str(video_id)).lower()
 
-
     def store_video_data(self, video_comments_data, video_id):
         """
         Loading data into elasticsearch
@@ -242,7 +238,7 @@ class ESConnect:
                 comment = YtComment(item)
                 comments.append(comment)
             except:
-                continue
+                continue #TODO
             # except Exception as e:
             #    print(e)
             if "replies" in item.keys():
@@ -251,8 +247,8 @@ class ESConnect:
                         comment_reply = YtCommentReply(reply)
                         comments.append(comment_reply.to_yt_comment())
                     except:
-                        continue
-                # TODO replies of reply
+                        continue #TODO
+                # TODO replies of reply?
 
         actions = []
         self._set_es_index_name(video_id) # self._es_index_name = str(self._es_index) + "_" + str(video_id)
@@ -284,7 +280,7 @@ class ESConnect:
         return "OK" #return "Data is obtained and stored successfully" # TODO return statement? status of the action to be shown in frontend?
 
 
-    def get_spam_comments(self, video_id):
+    def get_spam_comments(self, video_id): #TODO test
         """
         return the spam comments found/predicted in the given video
         """
@@ -292,7 +288,7 @@ class ESConnect:
 
         search_query = {"term": {
                                 "spam_label": {
-                                    "value": [1] # TODO list or single char?
+                                    "value": [1] # TODO list or single char? depends on how we store the comments in store_video_data()
                                     }
                                 }
                         }
