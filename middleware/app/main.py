@@ -95,13 +95,16 @@ def predict_comments(video_id): #model_id: int = 0):
     return { f"{svm_clf.model_name}, {nb_clf.model_name} and {lr_clf.model_name} predictions": predictions }
     # return { "ensemble predictions": ensemble_predictions }
 
+# https://www.youtube.com/watch?v=OXEteCPQcGc
 
-@app.get("/spam/{video_id}")
-def return_spam_comments(video_id):
+@app.post("/spam/{video_id}")
+async def return_spam_comments(video_id):
     """"
     Output spam comments from given video
     """
     es = ESConnect()
+    print("------------------------------------------------------")
+    print("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
     return { "spam comments": es.get_spam_comments(video_id) }
 
 

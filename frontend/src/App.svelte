@@ -4,8 +4,10 @@
 
   var url_str = "";
   var text_output = "";
+  var test_finish = ""
   var video_id_str = "";
   var active = false;
+  var disabled = false;
   var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
 
   var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
@@ -27,7 +29,7 @@
       alert('Video ID could not be extracted! Please enter a valid URL!')
     }
     postVideoId()
-    //obtain_spam_comments()
+    post_obtain_spam_comments()
   }
 
   async function postVideoId() {
@@ -38,20 +40,24 @@
                                     body: JSON.stringify(video_id_str)
                                 })
     message = await response.json();
+    console.log(message)
     text_output = message
+    test_finish = "YES, postVideoID() finished"
   }
 
   // TODO finish and test
-  /*
-  function obtain_spam_comments() {
+  async function post_obtain_spam_comments() {
     const response = await fetch("http://localhost:8000/spam/" + video_id_str,
                                 {
-                                    method: 'GET',
-                                    body: JSON.stringify(video_id_str)
+                                    method: 'POST',
+                                    body: JSON.stringify(video_id_str),
+                                    headers: {'Content-Type': 'content/type'}
                                 })
-    spam_comments = await response;
+    spam_comments = await response.json();
+    console.log(spam_comments)
+    disabled = true;
   }
-  */
+  
 
 </script>
 
@@ -64,7 +70,7 @@
   <div slot="header">
     <div class="header" class:shadow={!!scroller.scroll}>YouTube Spam Scanner</div>
   </div>
-  <p class="p">Dear user, welcome to the YouTube Spam Scanner! <span class="wave">👋</span></p>
+  <p class="p">Dear user, welcome to the YouTube Spam Scanner! <span class="wave">đź‘‹</span></p>
 
   <div class="help">
     <div class="question"><i class="mi mi-circle-help"><span class="u-sr-only"></span></i></div>
@@ -84,9 +90,10 @@
         on:click={youtube_parser}>Scan</button>
     </div>
     <div class="output"><p>{text_output}</p></div>
+    <div class="output"><p>{test_finish}</p></div>
   </div>
 
-
+  {#if disabled}
   <Tabs>
     <TabList>
       <Tab>Show spam comments</Tab>
@@ -110,7 +117,24 @@
         class = "responsive-iframe" src={dashboard_src} frameBorder="0" loading="lazy" allowfullscreen></iframe> <!--alt="Kibana is not accessible!""-->
       </div>
     </TabPanel>
-  </Tabs>  
+  </Tabs>
+  
+  {:else}
+  <Tabs>
+    <TabList>
+      <Tab>Show spam comments</Tab>
+      <Tab>Show dashboards</Tab>
+    </TabList>
+  
+    <TabPanel>
+      <p class="p">The following comments were classified as spam:</p>
+    </TabPanel>
+  
+    <TabPanel>
+      <p class="p">The following dashboards were created:</p>
+    </TabPanel>
+  </Tabs>
+  {/if}
 
 </Layout>
 </main>
