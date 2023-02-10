@@ -1,0 +1,1720 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: OXEteCPQcGc
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 120
+
+Number of Spam Bot Threads Found: 0
+
+Number of Non-Matched, but Duplicate Comments Found: 66
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched & Duplicate Comments Found: 
+[ UgzG-uglKmcJd3C2CHV4AaABAg, UgxUUlsxgYioiq7GaBd4AaABAg.9lfg1oPv9kK9lfgHTeUyy0, UgzmzlNkY0RrLDWVmXh4AaABAg.9lffvwgJ9rt9lfg78NMaUn, UgziaHoY8CBk4Kt7gAN4AaABAg.9lffoIwrGyB9lfg7m1KAsp, UgxPqyTTu74C9-H25-J4AaABAg.9lffnBxvT9J9lfg8Qnq8jj, Ugw16b-ajF-548VyBu54AaABAg.9lffWgZ20WZ9lffffR2uRr, UgwAKS9xEUk-9oY8hbZ4AaABAg.9lffASj2ytM9lffHEOQiWj, Ugy8ihjx-rTwJqHWdGR4AaABAg.9lff2KExJ0E9lffDhTqwLs, UgwcV0B_9BFDYMx_17d4AaABAg.9lfehmifHxf9lfexB6DENF, Ugx3Ndo0XC8_zSz4_V14AaABAg.9lfecmQxf839lfeyD-bTV7, UgxDwCTKnLjfKLTBRT94AaABAg.9lfec9p66qh9lfeylu4NQ7, UgyZlmJumAjbgX44bcR4AaABAg.9lfebZfC40j9lfezKbXqQK, UgwL0lEJ0HxKUg6jp3x4AaABAg.9lfeQQlYhap9lfezqxvvWp, Ugz7U5MtbiBAGMMsX3l4AaABAg.9lfeIP1hWjz9lff-QMwLvt, UgwJyJHxnX04OHKcHv14AaABAg.9lfeCWwnYsW9lff00yg8hU, UgwlZPxFKPXs81iO5W14AaABAg.9lfeBjxOU4v9lff0aC-x0P, UgyMNhBPPfgP922o7Xh4AaABAg.9lfeASu7q6u9lff1DCoW1p, UgxHZx9YLUY2LSUUO1t4AaABAg.9lfe6kx3wcK9lff1uaiJfI, UgwJRQnAaC2R2laGsh94AaABAg.9lfe6RyCv2L9lff2ZSz1Wk, UgztfQARGBSgcjgdMit4AaABAg.9lfdwH2OS8J9lff375M3o-, UgzN_6k92pXqiKAzGX14AaABAg.9lfdvjzXA_z9lff7FhpJ4u, UgwTBPB06T3d99lom9d4AaABAg.9lfdsn3y2Sw9lff8U6Y7lX, UgwbNx_ZKOkb9LwW9kl4AaABAg.9lfds9K0LJb9lff9EFb1wJ, UgwH9kkaFHaVA8OqkNR4AaABAg.9lfdqouGJvh9lff9nMveYP, UgzOPGjXfh8oQx3Z0q54AaABAg.9lfdoc24q6h9lffAOqNbV9, UgypCTLdZnJc9zNl6z54AaABAg.9lfdnWq_K_99lffAvMS5XQ, Ugyt7fpNmj4-21FXt8N4AaABAg.9lfdlSfp5On9lffC6Phahs, Ugww6yZeVymlx_Nys_54AaABAg.9lfdim-1BpM9lffChcTfPc, UgwvyA6kr9F193WWcd54AaABAg.9lfdiFuvboH9lffEajqWXz, Ugx2PC2etH4p_JzQU7t4AaABAg.9lfdh5nQj_z9lffFAL-yGx, UgyVz4e8rB_MpMS2Z3p4AaABAg.9lfdcyYAvQj9lffFpnjzfB, UgwVeZriHd0LswqxaF94AaABAg.9lfda6eHtjA9lffG_ojDk9, UgycgZWX8oMZlB-JLwt4AaABAg.9lfdVG9LK-N9lffIKH0wVf, UgzinQESMyzPQ1sUAj14AaABAg.9lfdUNIzHXo9lffIrQg7_G, UgwFPLQTagLg_IjCS6d4AaABAg.9lfdR3w26dw9lffJYWLQ6I, UgyCafLs7s1_vG15diR4AaABAg.9lfdPLpTUXe9lffN93BVJN, UgypGfwxwfWbBjEpzKp4AaABAg.9lfdI3hQqDj9lffNnmrpZq, UgxyJ-D05QJrIAiUewF4AaABAg.9lfdFxktKwp9lffZYO5Ho_, UgySmM1Luq4XK50y9sl4AaABAg.9lfct2RqF7H9lff_ew17Sv, Ugz18ohxho1OVTJc9Ph4AaABAg.9lfcrTPpJob9lffaMRvFiL, UgxUdF0MaqtWcdig-H94AaABAg.9lfco43cvZu9lffb2iks67, UgzV0hv-hRBFT-NGXTB4AaABAg.9lfciBK-6MB9lffbkSw1ov, UgyRWUExmyv1rd326El4AaABAg.9lfcc1YdRqK9lffcINeXAv, UgzD2-m9mgp0beS-jOJ4AaABAg.9lfc_y_FMFv9lffcpJM7me, UgzyqkrO3bEx7SUO29R4AaABAg.9lfcKVQsNhV9lfcSfaQSW2, Ugz5MjgKhy400rl10WV4AaABAg.9lfcJlPB3dF9lfcc4BAIvm, Ugx_qo75H_eLEfq3rGZ4AaABAg.9lfcJN1ztj_9lfck_ZToyo, UgylaSt3QG7BKl1kb-x4AaABAg.9lfcD3VmpG09lfclo4kEth, UgxOY1_q6SWbbCOV3Ll4AaABAg.9lfcBZFaNBd9lfcuRDCw1u, UgxeVxzitmtvtYcoL_l4AaABAg.9lfc6Jc5uOD9lfcv8KCW-K, UgzZpfKKAzMemfNeXkN4AaABAg.9lfc5jFiWjG9lfcvhLn26z, UgwYCp1Dz0LW3cxeDph4AaABAg.9lfc57tBEDS9lfd-E8SlZJ, UgyQ_KxvyvsoVjmsPlp4AaABAg.9lfc3QzskVl9lfd0P0EYjK, UgwecIHxcISI27Apn4d4AaABAg.9lfbahR3WJQ9lfbsRtmASx, Ugz3XDwRpN8OqsyxBa54AaABAg.9lfbMVpsjgU9lfbtDqfto2, Ugwxegrgxtid5zKKDt54AaABAg.9lfbMJ7L2A69lfbtopH1eR, Ugy281-jJxIbnVTkexR4AaABAg.9lfbI_AwJHz9lfbuPfc2va, Ugx53fZXRpjW_YPGsDp4AaABAg.9lfbHOakxSl9lfbuzpw6mw, UgzNttCT6FZIMV6L4w54AaABAg.9lfb1kOFhOr9lfbw7jNGGa, UgwOZHsibbyCkE-ko0B4AaABAg.9lfb-cqWZKf9lfbwiersWR, UgzsrfQQyiYILMt9goV4AaABAg.9lfaxmc2_WG9lfbxHPVryk, Ugz4_ZPFc1RJfQXsTGF4AaABAg.9lfauH_berT9lfbxuyKFoK, UgyXoZcMJDlfi8exKg14AaABAg.9lfajs9C3mD9lfby_60o3Z, UgzAlCVoYdZ8bb-VyIR4AaABAg.9lfaUmQXPXn9lfbzDWKkmV, Ugw0xwRvWxUmaRalClB4AaABAg.9lfaJPA-pkG9lfc34x_PKb, UgzUmqenLDRT1NjxFuJ4AaABAg.9lfaJNi-4g79lfc3gXjKye, UgzHRArJylOmr16lCXV4AaABAg.9lfaFlYm1ud9lfevbMsD9P, UgyhKRpmQjPvdVGkgeJ4AaABAg.9lfaBBqXNLd9lfc4w8NH_L, Ugx872PFmfrDEGOOSX54AaABAg.9lfa6GXapt29lfc6bM1bty, UgwDO6P7DjDW7p8PpcN4AaABAg.9lfa4YfCWa99lfc5qlnft2, UgzSydmswMB_BsM1Tf94AaABAg.9lf_udPzwuB9lfc8zVwJDC, UgzdTxdKTQ_nmMXKpUB4AaABAg.9lf_qvW3kDY9lfc9Th00a_, Ugxi3j-cx_HQChtyOuN4AaABAg.9lf_el6BdbW9lfcEJrCx2m, UgwiewHbbjzXg9dEjMB4AaABAg.9lf_WHOZPIt9lfcFE5n49H, UgycnVbXztoJhI3wIHJ4AaABAg.9lf_SpMMbA89lfcH6Qjb35, UgynAufYS9GQ5HOLjeJ4AaABAg.9lf_NM8Qisw9lfcHkRtbFh, Ugwtz7qz0kCWM-ogfrh4AaABAg.9lf_JYUbmeA9lfcK-arDc6, Ugz0yGnsKBv2YPIvOIF4AaABAg.9lf_Hyr40U19lfcKliG7sG, Ugzu7kMsTjSLq0ynN814AaABAg.9lf_FZehHzC9lfcLrp9olv, Ugy4KDhyKujVOhXlUsV4AaABAg.9lf_B56dM869lfcN24zQ5H, UgwbbjY8YPrfIqudsld4AaABAg.9lf_AMuXnb59lfcNx2xcWg, Ugzshu7EsECtdJiavhV4AaABAg.9lf_8Wcd1Qv9lfcOhetVxD, Ugxze_HfH6bRrV_JMl54AaABAg.9lf_5JciS_i9lfcPQPsmd9, UgwJizocsEAxaz_xkyF4AaABAg.9lf_448VGbV9lfcQ66V3uj, Ugxvu12jR1_5fpzNM8Z4AaABAg.9lfZr246Tua9lfcRBnJ5nk, Ugz8Qa3j9kvcqZ5jOFp4AaABAg.9lfZm6QniG-9lfcRvCssus, UgyQ6YVCU721kkgYEGd4AaABAg.9lfZaHn7VlW9lffi0W8Mhm, UgzNekx5xE9yDEMA7-J4AaABAg.9lfZO4x-4fc9lffih4Oban, UgyfMZTk9SyS_mWlTJF4AaABAg.9lfZLvzyIO69lffjG6afX9, UgxddjvDaF4R_GHBAaR4AaABAg.9lfZFRl-XHI9lfflpttBI2, Ugzp3EpBK6p7DPjEAU54AaABAg.9lfZ5osT5ak9lffmOKKpFD, UgzoLhFoUd2udZY75_t4AaABAg.9lfZ17rPBwm9lffmxOiY5d, UgydcA-TEttKuRLydGl4AaABAg.9lfYuxLKv_Y9lffnd5CUbx, Ugyw7kUTjNXE38ZKZlV4AaABAg.9lfYSRwcqUf9lffydB5Vgv, UgzfRxNcN8OtG4piC0Z4AaABAg.9lfYMV9B51S9lffzAyGE-I, UgxK7y_gPsiGn8TKypd4AaABAg.9lfYF349HBy9lfg-LyfoIC, Ugymermy_r10abwWqDt4AaABAg.9lfYBQuSuor9lfg1oAUJdk, Ugza-nvThemXM0SI-R54AaABAg.9lfY9AqPYdS9lfg2YlGawE, UgytGyuVE7WHGduwdiB4AaABAg.9lfY5eg0aSw9lfg37_2uBO, Ugy2gUk4iaSTPVT2pGV4AaABAg.9lfXmt8aJ6K9lfgF3U7jON, UgzDepgAc_llioXW0sZ4AaABAg.9lfXiS0oaOW9lfgFaq22Ga, Ugw4tp6QJ2AD_OHkszN4AaABAg.9lfXXw5tsjR9lfgG8qWwt0, Ugxs1obHIyxAtOpYXO14AaABAg.9lfXRE7mjh29lfgJO9QJof, UgzlF7a7lsQM6zAVUXh4AaABAg.9lfXPNE6L5q9lfgK-TJYDV, UgyoduVBDOBTW-GciCF4AaABAg.9lfXN9ukGmV9lfgKo43cIL, UgzGUgWuAh1ePIE3Un94AaABAg.9lfXHOyv6pt9lfgLMxme9d, UgyaNAlGL4Bt96IeFcR4AaABAg.9lfXH8AhuOh9lfgLzoj8g_, Ugwr5p9c2osrWRvCm0V4AaABAg.9lfXAfIcLoX9lfgN4uDcHT, UgyWPYQL-31UrhrOtJ94AaABAg.9lfX-qFadRU9lfgOCG3I2O, UgwN1OSTDx_xuN_UIrZ4AaABAg.9lfWqKbqP-E9lfgOpWi9ec, Ugykiphk7889oLElykN4AaABAg.9lfWjiZal8L9lfgPfjRHJn, Ugx_8hXFj5pxvKjS1nl4AaABAg.9lfWh_TLkdl9lfgQODzaF5, UgzoslpACxpyv0whkyZ4AaABAg.9lfWcK_9pPO9lfgQy0zp0t, UgwEFQNHG5najKkuTIV4AaABAg.9lfWWhemPYU9lfgRVzBWe0, UgxuY3m1Nz8W2Ktz3td4AaABAg.9lfWVub5sb49lfgS4bmvhd, UgzN9jOcn91SjZY72Ix4AaABAg, UgxPacPW_5hH5H9CYAV4AaABAg, UgzsNSZSqqxKCMFjQIp4AaABAg, UgzwTvr1bZfNvk3YppB4AaABAg.9ld7ga8YwQn9ldAml72kCU, Ugy9F50LIXb4eE9Lfxp4AaABAg.9ld7g1uFLKm9ld7z3szUtK, UgzOcmaE_aEYiLaS_ud4AaABAg, UgyahswatS8xeGCNjwV4AaABAg, UgwumF3VoK_DDhsDyu54AaABAg, UgwPRZt1-x9i5AY7wxp4AaABAg, Ugw-w2dv2BanmSsW0ah4AaABAg, Ugxc6W9jdXTTk7ZsYBV4AaABAg, UgzewmXqkSM_KCYc7h14AaABAg, UgwfsmKfPkhZiIXSjrF4AaABAg, Ugx218yduL62vQHqqWN4AaABAg, UgxFOuZZpfC6f2rg-6t4AaABAg, UgxjDGptJnfR5WqStox4AaABAg, UgybIzzwAXn9NCCfIRN4AaABAg, UgxM1iABpRJgMfTbp1d4AaABAg, UgydNZJJJZ8SQVorDbx4AaABAg, UgxwTexKUNjqmKRLZqJ4AaABAg, UgxtVKqeca2_nYd3kXt4AaABAg, UgzAAB1tJqFcGkCVh1B4AaABAg, UgxzqwZfA22v8X2upxx4AaABAg, UgyrLfj4wHPuKOPoFll4AaABAg, UgxZ4YJ0wGHDpgnfQ594AaABAg, Ugz3u9DlMR2MHdUjqQl4AaABAg, Ugx4YzVFIyVg39okQIl4AaABAg, UgyHpFNq6pNBp4RAjsR4AaABAg, Ugzz9uj5hDu0gKWkNix4AaABAg, UgzVZ4ptZDjd8VVQQk54AaABAg, UgwnJE0GiO3Iuk7yNrd4AaABAg, UgzJszQkLA1Z4qDl61Z4AaABAg, Ugym6ZE_-goRV4rEX-x4AaABAg, UgxE8-tkOL-BD4POtvB4AaABAg, Ugy2LpvF3sxNciqkIb94AaABAg, UgyRni6pKGznL3vfwyh4AaABAg, UgyKS2f6CatdqXOhkqp4AaABAg, UgzJeaLZYVju0wIISSV4AaABAg, UgxSScAl79GBR7QHG7Z4AaABAg, UgynSIJ9-kn-4eqrMGh4AaABAg, Ugydsl_mIdHtb2Nh-M54AaABAg, Ugy0jpYoMY9R7ZUl1qZ4AaABAg, UgySiugiri__0oGEYpp4AaABAg, Ugy8xMxGwF_pMJxmGCl4AaABAg, UgxkWMrSMAEvFc4IF094AaABAg, Ugx7BGueha5qRcq8Kwp4AaABAg, UgzspZpngnXiMiKzK314AaABAg.9lfEY8rIDia9lfEbhzpir9, UgyAcN8de2fLZ5OhBNd4AaABAg.9lfERQgF5w49lfEax8knrk, UgyxiDJ-SiLEccwb1qR4AaABAg.9lfEAZck3cR9lfEOTMgeR2, UgzHHda2Y-4-tvf4WKd4AaABAg.9lfE5XRSf8s9lfEPHbXsCm, UgzkEW-enTj_LpNq_It4AaABAg.9lfE2qNjLDm9lfEQ6bPq5N, Ugxw9LhsfEGqknLtvTx4AaABAg.9lfDzJcEX4F9lfERbd7evz, UgzKPBF5Shq_RRa2owN4AaABAg.9lfDoyGpHoy9lfETELkaUo, UgzI4iooILyH1nCKQ6x4AaABAg.9lfDiOB_8Q29lfEU8gn84y, UgxKrk7TVUwgjMcRvgN4AaABAg.9lfDgyKiX1X9lfEUs8WDlc, Ugygcsxmc6NmNWbdWX94AaABAg.9lfDgLtQmkB9lfEVm-nAqv, UgwkvVeVqn1F-tLa3id4AaABAg.9lfDZGxut-M9lfEWbmwHB1, Ugx7MJbCGuxRVWYk7AZ4AaABAg.9lfDUHU7fNR9lfEXNiHVJH, UgxYFlDM4EiHKPFGdGR4AaABAg.9lfDIq9IClk9lfEYFj42St, UgxucJiqoXEwdUcUBgd4AaABAg.9lfCQG6faS_9lfEZP96lAo, UgxebugCkMxaGBSBbFB4AaABAg, UgzuNPokjZIXlZrZJF94AaABAg.9ldw2di69lw9le9cssbUP0, Ugzzph6TvUsXvnh29mt4AaABAg.9ldvq5rCelv9le9c4b_IGW, UgyY2PZag_R9LDGqL8V4AaABAg.9ldtfQGhYAS9le9bLCPjNE, UgyE8EOgXje4U0c4cNd4AaABAg.9ldoUzE-PVs9le9d_Dg05E, UgwBwIHfZIHF8PK84fR4AaABAg.9ldlZpNPsza9le9cYWAeeD, Ugyc4dAPPOHulu8dAS54AaABAg.9ldfeBek01E9le9eXlvIWF, UgyMkr67MCgDh_4PHgl4AaABAg.9ldZSYKruPf9le9dyhGdqZ, Ugz0EBvyN2wRzP5k_Tt4AaABAg.9ldPRHwAcJy9le9jNpPYRH, UgzUPZbg1p4r3lwYwKN4AaABAg.9ldNT286xTy9le9fh7b2B0, UgzGFA9NB4qAFXdoX_F4AaABAg.9ldDZ70uvyy9le9i255HwY ] 
+
+
+1. 🍑Loiza C̴h̴a̴t̴ ̴ Me̴ n̴Ow̴- CHECK MY PROFILE:  Heisenberg returns! Thumbs up if Breaking Bad is in your TV Mount Rushmore.
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 05, 2023 @ 05:39:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzG-uglKmcJd3C2CHV4AaABAg
+     > Author Channel ID: UCiMDHZME0OMGc5Z_y5OlrFA
+=============================================================================================
+
+
+2. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxUUlsxgYioiq7GaBd4AaABAg.9lfg1oPv9kK9lfgHTeUyy0
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+3. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:49:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzmzlNkY0RrLDWVmXh4AaABAg.9lffvwgJ9rt9lfg78NMaUn
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+4. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:49:46 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgziaHoY8CBk4Kt7gAN4AaABAg.9lffoIwrGyB9lfg7m1KAsp
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+5. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:49:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxPqyTTu74C9-H25-J4AaABAg.9lffnBxvT9J9lfg8Qnq8jj
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+6. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:45:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugw16b-ajF-548VyBu54AaABAg.9lffWgZ20WZ9lffffR2uRr
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+7. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwAKS9xEUk-9oY8hbZ4AaABAg.9lffASj2ytM9lffHEOQiWj
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+8. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy8ihjx-rTwJqHWdGR4AaABAg.9lff2KExJ0E9lffDhTqwLs
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+9. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwcV0B_9BFDYMx_17d4AaABAg.9lfehmifHxf9lfexB6DENF
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+10. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx3Ndo0XC8_zSz4_V14AaABAg.9lfecmQxf839lfeyD-bTV7
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+11. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxDwCTKnLjfKLTBRT94AaABAg.9lfec9p66qh9lfeylu4NQ7
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+12. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyZlmJumAjbgX44bcR4AaABAg.9lfebZfC40j9lfezKbXqQK
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+13. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwL0lEJ0HxKUg6jp3x4AaABAg.9lfeQQlYhap9lfezqxvvWp
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+14. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz7U5MtbiBAGMMsX3l4AaABAg.9lfeIP1hWjz9lff-QMwLvt
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+15. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwJyJHxnX04OHKcHv14AaABAg.9lfeCWwnYsW9lff00yg8hU
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+16. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:40:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwlZPxFKPXs81iO5W14AaABAg.9lfeBjxOU4v9lff0aC-x0P
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+17. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:40:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyMNhBPPfgP922o7Xh4AaABAg.9lfeASu7q6u9lff1DCoW1p
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+18. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:40:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxHZx9YLUY2LSUUO1t4AaABAg.9lfe6kx3wcK9lff1uaiJfI
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+19. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:40:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwJRQnAaC2R2laGsh94AaABAg.9lfe6RyCv2L9lff2ZSz1Wk
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+20. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:40:24 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgztfQARGBSgcjgdMit4AaABAg.9lfdwH2OS8J9lff375M3o-
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+21. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:40:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzN_6k92pXqiKAzGX14AaABAg.9lfdvjzXA_z9lff7FhpJ4u
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+22. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwTBPB06T3d99lom9d4AaABAg.9lfdsn3y2Sw9lff8U6Y7lX
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+23. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwbNx_ZKOkb9LwW9kl4AaABAg.9lfds9K0LJb9lff9EFb1wJ
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+24. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwH9kkaFHaVA8OqkNR4AaABAg.9lfdqouGJvh9lff9nMveYP
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+25. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzOPGjXfh8oQx3Z0q54AaABAg.9lfdoc24q6h9lffAOqNbV9
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+26. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgypCTLdZnJc9zNl6z54AaABAg.9lfdnWq_K_99lffAvMS5XQ
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+27. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugyt7fpNmj4-21FXt8N4AaABAg.9lfdlSfp5On9lffC6Phahs
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+28. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugww6yZeVymlx_Nys_54AaABAg.9lfdim-1BpM9lffChcTfPc
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+29. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:41:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwvyA6kr9F193WWcd54AaABAg.9lfdiFuvboH9lffEajqWXz
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+30. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx2PC2etH4p_JzQU7t4AaABAg.9lfdh5nQj_z9lffFAL-yGx
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+31. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyVz4e8rB_MpMS2Z3p4AaABAg.9lfdcyYAvQj9lffFpnjzfB
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+32. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwVeZriHd0LswqxaF94AaABAg.9lfda6eHtjA9lffG_ojDk9
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+33. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgycgZWX8oMZlB-JLwt4AaABAg.9lfdVG9LK-N9lffIKH0wVf
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+34. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzinQESMyzPQ1sUAj14AaABAg.9lfdUNIzHXo9lffIrQg7_G
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+35. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:42:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwFPLQTagLg_IjCS6d4AaABAg.9lfdR3w26dw9lffJYWLQ6I
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+36. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:43:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyCafLs7s1_vG15diR4AaABAg.9lfdPLpTUXe9lffN93BVJN
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+37. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:43:13 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgypGfwxwfWbBjEpzKp4AaABAg.9lfdI3hQqDj9lffNnmrpZq
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+38. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:44:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxyJ-D05QJrIAiUewF4AaABAg.9lfdFxktKwp9lffZYO5Ho_
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+39. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:44:59 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgySmM1Luq4XK50y9sl4AaABAg.9lfct2RqF7H9lff_ew17Sv
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+40. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:45:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz18ohxho1OVTJc9Ph4AaABAg.9lfcrTPpJob9lffaMRvFiL
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+41. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:45:10 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxUdF0MaqtWcdig-H94AaABAg.9lfco43cvZu9lffb2iks67
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+42. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:45:16 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzV0hv-hRBFT-NGXTB4AaABAg.9lfciBK-6MB9lffbkSw1ov
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+43. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:45:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyRWUExmyv1rd326El4AaABAg.9lfcc1YdRqK9lffcINeXAv
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+44. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:45:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzD2-m9mgp0beS-jOJ4AaABAg.9lfc_y_FMFv9lffcpJM7me
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+45. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzyqkrO3bEx7SUO29R4AaABAg.9lfcKVQsNhV9lfcSfaQSW2
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+46. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:19:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz5MjgKhy400rl10WV4AaABAg.9lfcJlPB3dF9lfcc4BAIvm
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+47. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:20:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx_qo75H_eLEfq3rGZ4AaABAg.9lfcJN1ztj_9lfck_ZToyo
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+48. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:20:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgylaSt3QG7BKl1kb-x4AaABAg.9lfcD3VmpG09lfclo4kEth
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+49. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:21:36 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxOY1_q6SWbbCOV3Ll4AaABAg.9lfcBZFaNBd9lfcuRDCw1u
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+50. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:21:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxeVxzitmtvtYcoL_l4AaABAg.9lfc6Jc5uOD9lfcv8KCW-K
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+51. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:21:46 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzZpfKKAzMemfNeXkN4AaABAg.9lfc5jFiWjG9lfcvhLn26z
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+52. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:22:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwYCp1Dz0LW3cxeDph4AaABAg.9lfc57tBEDS9lfd-E8SlZJ
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+53. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:22:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyQ_KxvyvsoVjmsPlp4AaABAg.9lfc3QzskVl9lfd0P0EYjK
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+54. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:12:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwecIHxcISI27Apn4d4AaABAg.9lfbahR3WJQ9lfbsRtmASx
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+55. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:12:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz3XDwRpN8OqsyxBa54AaABAg.9lfbMVpsjgU9lfbtDqfto2
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+56. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:12:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugwxegrgxtid5zKKDt54AaABAg.9lfbMJ7L2A69lfbtopH1eR
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+57. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:12:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy281-jJxIbnVTkexR4AaABAg.9lfbI_AwJHz9lfbuPfc2va
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+58. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:12:56 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx53fZXRpjW_YPGsDp4AaABAg.9lfbHOakxSl9lfbuzpw6mw
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+59. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:13:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzNttCT6FZIMV6L4w54AaABAg.9lfb1kOFhOr9lfbw7jNGGa
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+60. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:13:10 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwOZHsibbyCkE-ko0B4AaABAg.9lfb-cqWZKf9lfbwiersWR
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+61. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:13:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzsrfQQyiYILMt9goV4AaABAg.9lfaxmc2_WG9lfbxHPVryk
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+62. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:13:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz4_ZPFc1RJfQXsTGF4AaABAg.9lfauH_berT9lfbxuyKFoK
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+63. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:13:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyXoZcMJDlfi8exKg14AaABAg.9lfajs9C3mD9lfby_60o3Z
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+64. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:13:31 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzAlCVoYdZ8bb-VyIR4AaABAg.9lfaUmQXPXn9lfbzDWKkmV
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+65. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:14:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugw0xwRvWxUmaRalClB4AaABAg.9lfaJPA-pkG9lfc34x_PKb
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+66. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:14:16 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzUmqenLDRT1NjxFuJ4AaABAg.9lfaJNi-4g79lfc3gXjKye
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+67. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇💫
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:39:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzHRArJylOmr16lCXV4AaABAg.9lfaFlYm1ud9lfevbMsD9P
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+68. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:14:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyhKRpmQjPvdVGkgeJ4AaABAg.9lfaBBqXNLd9lfc4w8NH_L
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+69. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:14:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx872PFmfrDEGOOSX54AaABAg.9lfa6GXapt29lfc6bM1bty
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+70. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:14:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwDO6P7DjDW7p8PpcN4AaABAg.9lfa4YfCWa99lfc5qlnft2
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+71. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:14:59 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzSydmswMB_BsM1Tf94AaABAg.9lf_udPzwuB9lfc8zVwJDC
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+72. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:15:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzdTxdKTQ_nmMXKpUB4AaABAg.9lf_qvW3kDY9lfc9Th00a_
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+73. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:15:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugxi3j-cx_HQChtyOuN4AaABAg.9lf_el6BdbW9lfcEJrCx2m
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+74. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:15:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwiewHbbjzXg9dEjMB4AaABAg.9lf_WHOZPIt9lfcFE5n49H
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+75. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:16:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgycnVbXztoJhI3wIHJ4AaABAg.9lf_SpMMbA89lfcH6Qjb35
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+76. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:16:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgynAufYS9GQ5HOLjeJ4AaABAg.9lf_NM8Qisw9lfcHkRtbFh
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+77. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:16:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugwtz7qz0kCWM-ogfrh4AaABAg.9lf_JYUbmeA9lfcK-arDc6
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+78. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:16:36 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz0yGnsKBv2YPIvOIF4AaABAg.9lf_Hyr40U19lfcKliG7sG
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+79. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:16:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugzu7kMsTjSLq0ynN814AaABAg.9lf_FZehHzC9lfcLrp9olv
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+80. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:16:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy4KDhyKujVOhXlUsV4AaABAg.9lf_B56dM869lfcN24zQ5H
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+81. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwbbjY8YPrfIqudsld4AaABAg.9lf_AMuXnb59lfcNx2xcWg
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+82. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugzshu7EsECtdJiavhV4AaABAg.9lf_8Wcd1Qv9lfcOhetVxD
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+83. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugxze_HfH6bRrV_JMl54AaABAg.9lf_5JciS_i9lfcPQPsmd9
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+84. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwJizocsEAxaz_xkyF4AaABAg.9lf_448VGbV9lfcQ66V3uj
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+85. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugxvu12jR1_5fpzNM8Z4AaABAg.9lfZr246Tua9lfcRBnJ5nk
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+86. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 😇
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:17:34 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz8Qa3j9kvcqZ5jOFp4AaABAg.9lfZm6QniG-9lfcRvCssus
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+87. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyQ6YVCU721kkgYEGd4AaABAg.9lfZaHn7VlW9lffi0W8Mhm
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+88. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:13 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzNekx5xE9yDEMA7-J4AaABAg.9lfZO4x-4fc9lffih4Oban
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+89. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:17 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyfMZTk9SyS_mWlTJF4AaABAg.9lfZLvzyIO69lffjG6afX9
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+90. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxddjvDaF4R_GHBAaR4AaABAg.9lfZFRl-XHI9lfflpttBI2
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+91. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugzp3EpBK6p7DPjEAU54AaABAg.9lfZ5osT5ak9lffmOKKpFD
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+92. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzoLhFoUd2udZY75_t4AaABAg.9lfZ17rPBwm9lffmxOiY5d
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+93. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:46:53 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgydcA-TEttKuRLydGl4AaABAg.9lfYuxLKv_Y9lffnd5CUbx
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+94. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:48:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugyw7kUTjNXE38ZKZlV4AaABAg.9lfYSRwcqUf9lffydB5Vgv
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+95. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:48:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzfRxNcN8OtG4piC0Z4AaABAg.9lfYMV9B51S9lffzAyGE-I
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+96. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:48:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxK7y_gPsiGn8TKypd4AaABAg.9lfYF349HBy9lfg-LyfoIC
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+97. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:48:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugymermy_r10abwWqDt4AaABAg.9lfYBQuSuor9lfg1oAUJdk
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+98. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:49:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugza-nvThemXM0SI-R54AaABAg.9lfY9AqPYdS9lfg2YlGawE
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+99. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:49:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgytGyuVE7WHGduwdiB4AaABAg.9lfY5eg0aSw9lfg37_2uBO
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+100. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:50:46 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy2gUk4iaSTPVT2pGV4AaABAg.9lfXmt8aJ6K9lfgF3U7jON
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+101. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:50:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzDepgAc_llioXW0sZ4AaABAg.9lfXiS0oaOW9lfgFaq22Ga
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+102. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:50:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugw4tp6QJ2AD_OHkszN4AaABAg.9lfXXw5tsjR9lfgG8qWwt0
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+103. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:21 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugxs1obHIyxAtOpYXO14AaABAg.9lfXRE7mjh29lfgJO9QJof
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+104. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzlF7a7lsQM6zAVUXh4AaABAg.9lfXPNE6L5q9lfgK-TJYDV
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+105. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyoduVBDOBTW-GciCF4AaABAg.9lfXN9ukGmV9lfgKo43cIL
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+106. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzGUgWuAh1ePIE3Un94AaABAg.9lfXHOyv6pt9lfgLMxme9d
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+107. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyaNAlGL4Bt96IeFcR4AaABAg.9lfXH8AhuOh9lfgLzoj8g_
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+108. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:51:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugwr5p9c2osrWRvCm0V4AaABAg.9lfXAfIcLoX9lfgN4uDcHT
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+109. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:01 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyWPYQL-31UrhrOtJ94AaABAg.9lfX-qFadRU9lfgOCG3I2O
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+110. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwN1OSTDx_xuN_UIrZ4AaABAg.9lfWqKbqP-E9lfgOpWi9ec
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+111. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:13 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugykiphk7889oLElykN4AaABAg.9lfWjiZal8L9lfgPfjRHJn
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+112. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx_8hXFj5pxvKjS1nl4AaABAg.9lfWh_TLkdl9lfgQODzaF5
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+113. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzoslpACxpyv0whkyZ4AaABAg.9lfWcK_9pPO9lfgQy0zp0t
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+114. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwEFQNHG5najKkuTIV4AaABAg.9lfWWhemPYU9lfgRVzBWe0
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+115. ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ👉 @Chris_Schonberger:  👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 03, 2023 @ 03:52:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxuY3m1Nz8W2Ktz3td4AaABAg.9lfWVub5sb49lfgS4bmvhd
+     > Author Channel ID: UC1XnhVtVMOU9mUfBwbEfrXQ
+=============================================================================================
+
+
+116. Tinkle Me 4 [S]E.X:  You are brave.
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 02, 2023 @ 04:59:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzN9jOcn91SjZY72Ix4AaABAg
+     > Author Channel ID: UCTH0EIuNPbWyobj79y5EsHQ
+=============================================================================================
+
+
+117. Saylor T[A]P Me!! To Have [S]EX With Me:  What's funny, I just got done watching the Hot Ones for "James Franco and Bryan Cranston!" It's cool to have him back!
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 02, 2023 @ 04:38:30 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxPacPW_5hH5H9CYAV4AaABAg
+     > Author Channel ID: UCS5rLZdunFsKyvTTN6bl2Ug
+=============================================================================================
+
+
+118. Evie! 25 y.o - check my vidéó:  One of my favorite people in the acting world ❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 02, 2023 @ 04:16:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzsNSZSqqxKCMFjQIp4AaABAg
+     > Author Channel ID: UCMBlo7KJJcY-sntlParX8fw
+=============================================================================================
+
+
+119. Don't Read My Profile Picture:  Don't read my name..!!!!!!!!!!!!!!!!!!
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 02, 2023 @ 04:28:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzwTvr1bZfNvk3YppB4AaABAg.9ld7ga8YwQn9ldAml72kCU
+     > Author Channel ID: UCyzNT3GjTNNrbgSNqbRs_hA
+=============================================================================================
+
+
+120. Don't Read My Profile Picture:  Don't read my name..!!!!!!!!!!!!!!!!!!
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 02, 2023 @ 04:04:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy9F50LIXb4eE9Lfxp4AaABAg.9ld7g1uFLKm9ld7z3szUtK
+     > Author Channel ID: UCyzNT3GjTNNrbgSNqbRs_hA
+=============================================================================================
+
+
+
+
+============================================================================================
+=========================== Non-Matched, But Duplicate Comments ===========================
+============================================================================================
+
+121. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:31 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzOcmaE_aEYiLaS_ud4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+122. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyahswatS8xeGCNjwV4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+123. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:24 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwumF3VoK_DDhsDyu54AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+124. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwPRZt1-x9i5AY7wxp4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+125. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:16 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugw-w2dv2BanmSsW0ah4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+126. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugxc6W9jdXTTk7ZsYBV4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+127. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzewmXqkSM_KCYc7h14AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+128. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwfsmKfPkhZiIXSjrF4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+129. Smoking with dez:  New vid up (channel: smoking with dez)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 07:55:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx218yduL62vQHqqWN4AaABAg
+     > Author Channel ID: UCW3V-xOHobWzxbeclFBJS3g
+=============================================================================================
+
+
+130. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:32:05 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxFOuZZpfC6f2rg-6t4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+131. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxjDGptJnfR5WqStox4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+132. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgybIzzwAXn9NCCfIRN4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+133. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxM1iABpRJgMfTbp1d4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+134. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgydNZJJJZ8SQVorDbx4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+135. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxwTexKUNjqmKRLZqJ4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+136. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxtVKqeca2_nYd3kXt4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+137. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzAAB1tJqFcGkCVh1B4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+138. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxzqwZfA22v8X2upxx4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+139. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyrLfj4wHPuKOPoFll4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+140. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxZ4YJ0wGHDpgnfQ594AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+141. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz3u9DlMR2MHdUjqQl4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+142. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:18 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx4YzVFIyVg39okQIl4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+143. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyHpFNq6pNBp4RAjsR4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+144. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugzz9uj5hDu0gKWkNix4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+145. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:10 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzVZ4ptZDjd8VVQQk54AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+146. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwnJE0GiO3Iuk7yNrd4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+147. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzJszQkLA1Z4qDl61Z4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+148. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugym6ZE_-goRV4rEX-x4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+149. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:31:01 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxE8-tkOL-BD4POtvB4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+150. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy2LpvF3sxNciqkIb94AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+151. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyRni6pKGznL3vfwyh4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+152. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyKS2f6CatdqXOhkqp4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+153. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzJeaLZYVju0wIISSV4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+154. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxSScAl79GBR7QHG7Z4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+155. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgynSIJ9-kn-4eqrMGh4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+156. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugydsl_mIdHtb2Nh-M54AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+157. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy0jpYoMY9R7ZUl1qZ4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+158. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgySiugiri__0oGEYpp4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+159. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugy8xMxGwF_pMJxmGCl4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+160. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxkWMrSMAEvFc4IF094AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+161. lol:  he looks less intimidating with hair lol
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 12:30:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx7BGueha5qRcq8Kwp4AaABAg
+     > Author Channel ID: UCTY3LHGEaSVQINe1_7ERDbg
+=============================================================================================
+
+
+162. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:40:35 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzspZpngnXiMiKzK314AaABAg.9lfEY8rIDia9lfEbhzpir9
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+163. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:40:29 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyAcN8de2fLZ5OhBNd4AaABAg.9lfERQgF5w49lfEax8knrk
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+164. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:38:39 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyxiDJ-SiLEccwb1qR4AaABAg.9lfEAZck3cR9lfEOTMgeR2
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+165. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:38:45 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzHHda2Y-4-tvf4WKd4AaABAg.9lfE5XRSf8s9lfEPHbXsCm
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+166. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:38:52 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzkEW-enTj_LpNq_It4AaABAg.9lfE2qNjLDm9lfEQ6bPq5N
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+167. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:05 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugxw9LhsfEGqknLtvTx4AaABAg.9lfDzJcEX4F9lfERbd7evz
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+168. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:18 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzKPBF5Shq_RRa2owN4AaABAg.9lfDoyGpHoy9lfETELkaUo
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+169. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:25 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzI4iooILyH1nCKQ6x4AaABAg.9lfDiOB_8Q29lfEU8gn84y
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+170. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:31 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxKrk7TVUwgjMcRvgN4AaABAg.9lfDgyKiX1X9lfEUs8WDlc
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+171. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:39 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugygcsxmc6NmNWbdWX94AaABAg.9lfDgLtQmkB9lfEVm-nAqv
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+172. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:45 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwkvVeVqn1F-tLa3id4AaABAg.9lfDZGxut-M9lfEWbmwHB1
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+173. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:52 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugx7MJbCGuxRVWYk7AZ4AaABAg.9lfDUHU7fNR9lfEXNiHVJH
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+174. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:39:59 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxYFlDM4EiHKPFGdGR4AaABAg.9lfDIq9IClk9lfEYFj42St
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+175. Brea:  Jesus died and rose again for your sins. Believe in him and you will be saved and go to heaven!
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 11:40:08 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxucJiqoXEwdUcUBgd4AaABAg.9lfCQG6faS_9lfEZP96lAo
+     > Author Channel ID: UCtdrtYNNoe-dH4Q8yZdAcPw
+=============================================================================================
+
+
+176. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:12 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgxebugCkMxaGBSBbFB4AaABAg
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+177. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:49 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzuNPokjZIXlZrZJF94AaABAg.9ldw2di69lw9le9cssbUP0
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+178. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:43 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugzzph6TvUsXvnh29mt4AaABAg.9ldvq5rCelv9le9c4b_IGW
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+179. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:37 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyY2PZag_R9LDGqL8V4AaABAg.9ldtfQGhYAS9le9bLCPjNE
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+180. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:55 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyE8EOgXje4U0c4cNd4AaABAg.9ldoUzE-PVs9le9d_Dg05E
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+181. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:46 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgwBwIHfZIHF8PK84fR4AaABAg.9ldlZpNPsza9le9cYWAeeD
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+182. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:38:03 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugyc4dAPPOHulu8dAS54AaABAg.9ldfeBek01E9le9eXlvIWF
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+183. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:37:58 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgyMkr67MCgDh_4PHgl4AaABAg.9ldZSYKruPf9le9dyhGdqZ
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+184. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:38:42 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=Ugz0EBvyN2wRzP5k_Tt4AaABAg.9ldPRHwAcJy9le9jNpPYRH
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+185. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:38:12 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzUPZbg1p4r3lwYwKN4AaABAg.9ldNT286xTy9le9fh7b2B0
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+186. mini pz9 the bast fiiter:  *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 03, 2023 @ 01:38:31 AM
+     > Direct Link: https://www.youtube.com/watch?v=OXEteCPQcGc&lc=UgzGFA9NB4qAFXdoX_F4AaABAg.9ldDZ70uvyy9le9i255HwY
+     > Author Channel ID: UC9CfNKHhOh38bpRIYY_7v7g
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+ 1.  [x114] UC1XnhVtVMOU9mUfBwbEfrXQ | ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴏɴ ᴛᴇʟ...: 👆Hey fan thanks 😊 for your comments   You have won  a prize text me on Telegram 🤎💜
+ 2.  [x2]   UCyzNT3GjTNNrbgSNqbRs_hA | Don't Read My Pro...: Don't read my name..!!!!!!!!!!!!!!!!!!                                            
+ 3.  [x1]   UCiMDHZME0OMGc5Z_y5OlrFA | 🍑Loiza Chat  Me n...: Heisenberg returns! Thumbs up if Breaking Bad is in your TV Mount Rushmore.       
+ 4.  [x1]   UCTH0EIuNPbWyobj79y5EsHQ | Tinkle Me 4 [S]E.X  : You are brave.                                                                    
+ 5.  [x1]   UCS5rLZdunFsKyvTTN6bl2Ug | Saylor T[A]P Me!!...: What's funny, I just got done watching the Hot Ones for "James Franco and Bryan...
+ 6.  [x1]   UCMBlo7KJJcY-sntlParX8fw | Evie! 25 y.o - ch...: One of my favorite people in the acting world ❤                                   
+
+-------------------- Non-Matched Commenters, but who wrote many similar comments --------------------
+---------------------- ( Similarity Threshold: 90%  |  Minimum Duplicates: 8 ) ----------------------
+ 7.  [x32]  UCTY3LHGEaSVQINe1_7ERDbg | lol                 : he looks less intimidating with hair lol                                          
+ 8.  [x14]  UCtdrtYNNoe-dH4Q8yZdAcPw | Brea                : Jesus died and rose again for your sins. Believe in him and you will be saved a...
+ 9.  [x11]  UC9CfNKHhOh38bpRIYY_7v7g | mini pz9 the bast...: *waltuh u got #1 on treading waltuh! me finger "trending lightly" now walteh*     
+ 10. [x9]   UCW3V-xOHobWzxbeclFBJS3g | Smoking with dez    : New vid up (channel: smoking with dez)                                            
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+

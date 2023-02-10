@@ -287,15 +287,19 @@ class ESConnect:
         self._set_es_index_name(video_id)
 
         search_query = {"term": {
-                                "spam_label": {
-                                    "value": [1] # TODO list or single char? depends on how we store the comments in store_video_data()
+                                "spam_label.svm_prediction": {
+                                    "value": 1
                                     }
                                 }
                         }
 
         search_result = self._es_client.search(index=self._es_index_name, query=search_query)
         spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
-        
+
+
+        print("------------------------------------------------------")
+        print("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
+        print(spam_comments)
         return spam_comments
 
 
