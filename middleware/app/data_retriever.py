@@ -296,9 +296,6 @@ class ESConnect:
         search_result = self._es_client.search(index=self._es_index_name, query=search_query)
         spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
 
-
-        print("------------------------------------------------------")
-        print("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
         print(spam_comments)
         return spam_comments
 

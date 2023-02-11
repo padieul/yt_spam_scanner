@@ -30,30 +30,46 @@
       alert('The video ID could not be extracted! Please enter a valid URL!')
     }
     text_post_request = await postVideoId()
-    text_get_request = await post_obtain_spam_comments()
+    //change_post_video_id() 
+    text_get_request = await obtain_spam_comments()
+  }
+
+  function change_post_video_id() {
+    text_post_request = "Hi, I am Paul"
   }
 
   async function postVideoId() {
     var message;
+    console.log("RETRIEVE COMMENTS!!!!!!!!!")
     const response = await fetch("http://localhost:8000/retrieve_comments/" + video_id_str,
                                 {
-                                    method: 'POST',
-                                    body: JSON.stringify({"id": video_id_str})
-                                })
+                                  method: 'POST',
+                                  mode: 'cors',
+                                  body: JSON.stringify(video_id_str)
+                                });
     message = await response.json();
+    console.log("MESSAGE RECEIVED !!!!!!!!")
     console.log(JSON.stringify(message))
     return "The comments has been successfully obtained."
   }
 
   // TODO finish and test
-  async function post_obtain_spam_comments() {
-    const response = await fetch("http://localhost:8000/spam/" + video_id_str)
-    spam_comments = await response.json();
-    console.log(spam_comments)
+  async function obtain_spam_comments() {
+    var message;
+    console.log("GET SPAMM COMMENTS!!!!!!!!!")
+    const response = await fetch("http://localhost:8000/spam/" + video_id_str,
+                                {
+                                  method: 'GET',
+                                  mode: 'cors'
+                                });
+    message = await response.json()
+    console.log("SPAM COMMENTS RECEIVED !!!!!!!!")
+    console.log(JSON.stringify(message))
+    spam_comments = message["spam"];
+    console.log("SPAM COMMENTS: ", spam_comments)
     active_result_board = true;
     return "The comments have been successfully classified. The spam comments (spomments) can be seen below."
-  }
-  
+  }  
 
 </script>
 
@@ -87,7 +103,7 @@
     </div>
     <div class="output"><p>{text_scanning_status}</p></div>
     <div class="output"><p>{text_post_request}</p></div>
-    <div class="output"><p>{text_get_request}</p></div>
+    <div class="output"><p>{text_get_request}</p></div> 
   </div>
 
   {#if active_result_board}
@@ -119,8 +135,8 @@
   {:else}
   <Tabs>
     <TabList>
-      <Tab>Show spam comments</Tab>
-      <Tab>Show dashboards</Tab>
+      <Tab>Spomments</Tab>
+      <Tab>Dashboard</Tab>
     </TabList>
   
     <TabPanel>

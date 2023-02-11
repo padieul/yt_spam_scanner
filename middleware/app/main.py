@@ -2,6 +2,8 @@ from collections import Counter
 import os
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
 import requests
 
 from app.data_retriever import YtDataRetriever, ESConnect
@@ -9,6 +11,20 @@ from app.classifier import GenericClassifier
 
 
 app = FastAPI()
+
+origins = [
+    "http://localhost",
+    "http://localhost:5000"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 
 @app.get("/")
@@ -46,7 +62,7 @@ def get_es_status():
 
 
 @app.post("/retrieve_comments/{video_id}")
-def retrieve_comments(video_id: str = ""):
+def retrieve_comments(video_id):
     """
     Retrieve the comments from a given YouTube video using the ID
     """
@@ -97,15 +113,13 @@ def predict_comments(video_id): #model_id: int = 0):
 
 # https://www.youtube.com/watch?v=OXEteCPQcGc
 
-@app.post("/spam/{video_id}")
+@app.get("/spam/{video_id}")
 async def return_spam_comments(video_id):
     """"
     Output spam comments from given video
     """
     es = ESConnect()
-    print("------------------------------------------------------")
-    print("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
-    return { "spam comments": es.get_spam_comments(video_id) }
+    return { "spam": es.get_spam_comments(video_id) }
 
 
 
