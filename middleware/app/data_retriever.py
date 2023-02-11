@@ -276,8 +276,8 @@ class ESConnect:
             }
             actions.append(action)
 
-        helpers.bulk(self._es_client, actions)
-        return "OK" #return "Data is obtained and stored successfully" # TODO return statement? status of the action to be shown in frontend?
+        res = helpers.bulk(self._es_client, actions)
+        return res # TODO return statement? status of the action to be shown in frontend?
 
 
     def get_spam_comments(self, video_id): #TODO test

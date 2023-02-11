@@ -3,33 +3,34 @@
   import { Tabs, TabList, TabPanel, Tab } from './lib/tabs.js'; //TODO gehoert das in lib oder in frontend oder in src?
 
   var url_str = "";
-  var text_output = "";
-  var test_finish = ""
   var video_id_str = "";
-  var active = false;
-  var disabled = false;
+  var active_button = false;
+  var active_result_board = false;
+  var text_scanning_status = "";
+  var text_post_request = "";
+  var text_get_request  = "";
   var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
 
   var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
   
 
-  function youtube_parser() {
+  async function youtube_parser() {
     var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
     var match = url_str.match(regExp);
     
     if (match&&match[7].length==11) {
       video_id_str = match[7];
-      text_output = "Comment section of YouTube video with ID " + video_id_str + " is being scanned for spam..."
+      text_scanning_status = "Please wait: The comment section of the YouTube video with ID " + video_id_str + " is being scanned for spam..."
     }
     else {
       video_id_str = ""
-      text_output = ""
+      text_scanning_status = ""
       url_str = ""
-      active = false
-      alert('Video ID could not be extracted! Please enter a valid URL!')
+      active_button = false
+      alert('The video ID could not be extracted! Please enter a valid URL!')
     }
-    postVideoId()
-    post_obtain_spam_comments()
+    text_post_request = await postVideoId()
+    text_get_request = await post_obtain_spam_comments()
   }
 
   async function postVideoId() {
@@ -37,25 +38,20 @@
     const response = await fetch("http://localhost:8000/retrieve_comments/" + video_id_str,
                                 {
                                     method: 'POST',
-                                    body: JSON.stringify(video_id_str)
+                                    body: JSON.stringify({"id": video_id_str})
                                 })
     message = await response.json();
-    console.log(message)
-    text_output = message
-    test_finish = "YES, postVideoID() finished"
+    console.log(JSON.stringify(message))
+    return "The comments has been successfully obtained."
   }
 
   // TODO finish and test
   async function post_obtain_spam_comments() {
-    const response = await fetch("http://localhost:8000/spam/" + video_id_str,
-                                {
-                                    method: 'POST',
-                                    body: JSON.stringify(video_id_str),
-                                    headers: {'Content-Type': 'content/type'}
-                                })
+    const response = await fetch("http://localhost:8000/spam/" + video_id_str)
     spam_comments = await response.json();
     console.log(spam_comments)
-    disabled = true;
+    active_result_board = true;
+    return "The comments have been successfully classified. The spam comments (spomments) can be seen below."
   }
   
 
@@ -76,32 +72,33 @@
     <div class="question"><i class="mi mi-circle-help"><span class="u-sr-only"></span></i></div>
     <div class="popup">
       <h3>Usage</h3>
-      <p>Enter the URL of a YouTube video whose comments you want to check for spam. Click the "Scan" button. Then navigate to the spam comments or dashboards and statistics using the tabs below.</p>
+      <p>Enter the URL of a YouTube video whose comments you want to check for spam. Click the "Scan" button. Then navigate to the spam comments (spomments) or dashboard and statistics using the tabs below.</p>
     </div>
   </div>
   
   <div class="internal_div">
     <div class="text_field">
-      <input bind:value={url_str} placeholder="Enter the URL of a YouTube video">
+      <input bind:value={url_str} placeholder="Enter the URL of your YouTube video">
     </div>
     <div class="button">
-      <button disabled={!url_str} class:active on:click={() => {active=!active}}
-        on:click={setTimeout(() => {active = false}, 2000)}
+      <button disabled={!url_str} class:active_button on:click={() => {active_button=!active_button}}
+        on:click={setTimeout(() => {active_button = false}, 2000)}
         on:click={youtube_parser}>Scan</button>
     </div>
-    <div class="output"><p>{text_output}</p></div>
-    <div class="output"><p>{test_finish}</p></div>
+    <div class="output"><p>{text_scanning_status}</p></div>
+    <div class="output"><p>{text_post_request}</p></div>
+    <div class="output"><p>{text_get_request}</p></div>
   </div>
 
-  {#if disabled}
+  {#if active_result_board}
   <Tabs>
     <TabList>
-      <Tab>Show spam comments</Tab>
-      <Tab>Show dashboards</Tab>
+      <Tab>Spomments</Tab>
+      <Tab>Dashboard</Tab>
     </TabList>
   
     <TabPanel>
-      <p class="p">The following comments were classified as spam:</p>
+      <p class="p">The following comments on your video have been classified as spam:</p>
       <ul>
         {#each spam_comments as comment}
           <li>{comment}</li>
@@ -110,11 +107,11 @@
     </TabPanel>
   
     <TabPanel>
-      <p class="p">The following dashboards were created:</p>
+      <p class="p">The following dashboards have been created for your video:</p>
       <div class="container">
         <iframe
         title="dashboard"
-        class = "responsive-iframe" src={dashboard_src} frameBorder="0" loading="lazy" allowfullscreen></iframe> <!--alt="Kibana is not accessible!""-->
+        class = "responsive_iframe" src={dashboard_src} frameBorder="0" loading="lazy" allowfullscreen></iframe>
       </div>
     </TabPanel>
   </Tabs>
@@ -161,7 +158,7 @@
     color: white;
     font-size: 2.5em;
   }
-  .responsive-iframe {
+  .responsive_iframe {
     position: relative;
     width: 1500px;
     height: 1800px;
@@ -172,7 +169,7 @@
     height: auto;
   }
   .shadow { box-shadow: 0px 2px 8px #00000088; }
-	.active {
+	.active_button {
     background-color: #009688;
     color: white;
   }
