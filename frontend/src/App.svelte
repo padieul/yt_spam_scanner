@@ -50,7 +50,7 @@
     message = await response.json();
     console.log("MESSAGE RECEIVED !!!!!!!!")
     console.log(JSON.stringify(message))
-    return "The comments has been successfully obtained."
+    return "The comments have been successfully obtained."
   }
 
   // TODO finish and test
@@ -68,7 +68,7 @@
     spam_comments = message["spam"];
     console.log("SPAM COMMENTS: ", spam_comments)
     active_result_board = true;
-    return "The comments have been successfully classified. The spam comments (spomments) can be seen below."
+    return "The comments have been successfully classified."
   }  
 
 </script>
@@ -101,9 +101,7 @@
         on:click={setTimeout(() => {active_button = false}, 2000)}
         on:click={youtube_parser}>Scan</button>
     </div>
-    <div class="output"><p>{text_scanning_status}</p></div>
-    <div class="output"><p>{text_post_request}</p></div>
-    <div class="output"><p>{text_get_request}</p></div> 
+    <output>{text_scanning_status}<br>{text_post_request}<br>{text_get_request}</output>
   </div>
 
   {#if active_result_board}
@@ -166,7 +164,16 @@
 		margin-top: 70px;
 		margin-bottom: 50px;
   }
-  .internal_div { width: 100%; height: 400px }
+  output {
+    color: #5ac8fa;
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 1.2em;
+		line-height: 2.5;
+	}
+  li {
+    text-align: left;
+  }
+  .internal_div { width: 100%; height: 450px }
   .header {
     background-color: #5ac8fa;
     height: 65px;
