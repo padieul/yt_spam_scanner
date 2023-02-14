@@ -8,7 +8,7 @@ from .utils import is_ascii
 
 
 # read confusable mappings from file, build 2-way map of the pairs
-with open(os.path.join(os.path.dirname(__file__), CONFUSABLE_MAPPING_PATH), "r") as mappings:
+with open(os.path.join(os.path.dirname(__file__), CONFUSABLE_MAPPING_PATH), "r") as mappings:    
     CONFUSABLE_MAP = json.loads(mappings.readline())
 
 
