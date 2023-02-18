@@ -42,7 +42,7 @@ def test_predict():
     """
     For testing purpose
     """
-    clf = GenericClassifier() # default SVM
+    clf = GenericClassifier() # default NB
     comments = ["Nice song! I love it!", "Come on.. Visit my page"]
 
     predictions = [ clf.predict_single_comment(comment) for comment in comments ]
@@ -90,8 +90,8 @@ def predict_comments(video_id): #model_id: int = 0):
     predictions = []
     ensemble_predictions = [] # TODO ensemble
 
-    svm_clf = GenericClassifier("saved_models/svc_35-37.joblib")
-    nb_clf = GenericClassifier("saved_models/multinomialnb_32-21.joblib")
+    nb_clf = GenericClassifier("saved_models/multinomialnb_33-38.joblib")
+    svm_clf = GenericClassifier("saved_models/svm_32-21.joblib")
     lr_clf = GenericClassifier("saved_models/logisticregression_34-12.joblib")
 
     yt = YtDataRetriever()
@@ -99,19 +99,18 @@ def predict_comments(video_id): #model_id: int = 0):
 
     for item in data["items"]: # observe only comments and not replies
         comment = item['snippet']['topLevelComment']['snippet']['textOriginal'].replace("\n", "")
-        predictions.extend([svm_clf.predict_single_comment(comment),
-                            nb_clf.predict_single_comment(comment),
+        predictions.extend([nb_clf.predict_single_comment(comment),
+                            svm_clf.predict_single_comment(comment),
                             lr_clf.predict_single_comment(comment)
                             ])
-        ensemble_predictions.append(Counter([svm_clf.predict_single_comment(comment),
-                                            nb_clf.predict_single_comment(comment),
-                                            lr_clf.predict_single_comment(comment)]
-                                            ).most_common()[0])
+        ensemble_predictions.append(Counter([nb_clf.predict_single_comment(comment),
+                                             svm_clf.predict_single_comment(comment),
+                                             lr_clf.predict_single_comment(comment)]
+                                             ).most_common()[0])
 
-    return { f"{svm_clf.model_name}, {nb_clf.model_name} and {lr_clf.model_name} predictions": predictions }
+    return { f"{nb_clf.model_name}, {svm_clf.model_name} and {lr_clf.model_name} predictions": predictions }
     # return { "ensemble predictions": ensemble_predictions }
 
-# https://www.youtube.com/watch?v=OXEteCPQcGc
 
 @app.get("/spam/{video_id}")
 async def return_spam_comments(video_id):

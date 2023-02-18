@@ -265,7 +265,7 @@ class ESConnect:
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
                        "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
-                       "classifier": "support_vector_machine" # TODO "naive_bayes", "logistic_regression" ?
+                       "classifier": "naive_bayes" # TODO "support_vector_machine", "logistic_regression" ?
                      }
 
             action = {
@@ -287,7 +287,7 @@ class ESConnect:
         self._set_es_index_name(video_id)
 
         search_query = {"term": {
-                                "spam_label.svm_prediction": {
+                                "spam_label.nb_prediction": {
                                     "value": 1
                                     }
                                 }
@@ -296,7 +296,6 @@ class ESConnect:
         search_result = self._es_client.search(index=self._es_index_name, query=search_query)
         spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
 
-        print(spam_comments)
         return spam_comments
 
 
