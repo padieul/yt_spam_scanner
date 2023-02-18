@@ -24,6 +24,7 @@ def filter_comment_text(text):
     #filtered = text.encode('utf-8').strip()
     filtered = text.replace("\n", "").replace("\"\"", "").replace("\"", "")
     filtered = filtered.replace("\"", "")
+    filtered = filtered.replace("\r", "")
     return filtered
 
 def create_dataset_json(directory_path, dataset_path):
@@ -75,9 +76,15 @@ def json_to_csv(filename, dataset_output_file):
     #COMMENT_ID,AUTHOR,DATE,CONTENT,CLASS
     df = pd.read_json(filename)
     df = df.rename(columns={"comment": "CONTENT", "label": "CLASS"})
+    df = resample_spam(df)
 
     df.to_csv(dataset_output_file, index=False, encoding='utf-8-sig')
     
+def resample_spam(data_f):
+    spam_data_f = data_f.loc[data_f["CLASS"] == 1]
+    spam_data_f_nine = pd.concat([spam_data_f]*9, ignore_index=True)
+    data_f = pd.concat([spam_data_f_nine, data_f])
+    return data_f
 
 
 
@@ -89,4 +96,3 @@ if __name__=='__main__':
     json_to_csv(dataset_json, dataset_csv)
 
     create_dataset_csv(directory, "../dataset/dataset2.csv")
-    
