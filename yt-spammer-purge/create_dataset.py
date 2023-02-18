@@ -1,5 +1,8 @@
+import csv
 import glob
 import json
+import os
+import pandas as pd
 
 import spacy
 from spacy.language import Language
@@ -17,15 +20,20 @@ nlp.add_pipe('language_detector', last=True)
 def get_label(label_str: str):
     return 0 if label_str == "False" else 1
 
+def filter_comment_text(text):
+    #filtered = text.encode('utf-8').strip()
+    filtered = text.replace("\n", "").replace("\"\"", "").replace("\"", "")
+    filtered = filtered.replace("\"", "")
+    return filtered
 
-def create_dataset(directory_path, dataset_path):
+def create_dataset_json(directory_path, dataset_path):
     dataset = []
     for filename in glob.iglob(f'{directory_path}*.json'):
         with open(filename, "r",encoding="utf8") as source:
             data = [json.loads(line) for line in source]
         
         for entry in data:
-            dataset.append({"comment": entry["commentText"], "label": get_label(entry["isSpam"])})
+            dataset.append({"comment": filter_comment_text(entry["commentText"]), "label": get_label(entry["isSpam"])})
             """doc = nlp(entry["commentText"])
             detect_language = doc._.language
             if detect_language["language"] == "en":
@@ -43,7 +51,42 @@ def create_dataset(directory_path, dataset_path):
         json.dump(dataset, file, indent=2)
 
 
+def create_dataset_csv(directory_path, dataset_path, header=["CONTENT,CLASS"]):
+    dataset = []
+    for filename in glob.iglob(f'{directory_path}*.json'):
+        with open(filename, "r",encoding="utf8") as source:
+            data = [json.loads(line) for line in source]
+
+        for entry in data:
+            dataset.append([entry["commentText"].strip().rstrip().replace("\u201d","\""), get_label(entry["isSpam"])])
+
+    spomments = len([comment for comment in dataset if comment[1]==1])
+    legitimate = len([comment for comment in dataset if comment[1]==0])
+    print(f"Dataset with {len(dataset)} comments (spam: {spomments}, legitimate: {legitimate}) was created in {dataset_path}")
+
+    with open(dataset_path, "a+", newline='', encoding="utf8") as file:
+        writer = csv.writer(file)
+        writer.writerow(header)
+        writer.writerow(dataset)
+
+
+
+def json_to_csv(filename, dataset_output_file):
+    #COMMENT_ID,AUTHOR,DATE,CONTENT,CLASS
+    df = pd.read_json(filename)
+    df = df.rename(columns={"comment": "CONTENT", "label": "CLASS"})
+
+    df.to_csv(dataset_output_file, index=False, encoding='utf-8-sig')
+    
+
+
+
 if __name__=='__main__':
     directory = "logs/"
-    dataset_file = "../dataset/dataset.json"
-    create_dataset(directory, dataset_file)
+    dataset_json = "../dataset/dataset.json"
+    dataset_csv = "../dataset/dataset.csv"
+    create_dataset_json(directory, dataset_json)
+    json_to_csv(dataset_json, dataset_csv)
+
+    create_dataset_csv(directory, "../dataset/dataset2.csv")
+    
