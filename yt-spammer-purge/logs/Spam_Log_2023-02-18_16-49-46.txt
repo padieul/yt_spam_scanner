@@ -1,0 +1,58 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: 69nNMuTqCR4
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 3
+
+Number of Spam Bot Threads Found: 0
+
+Number of Non-Matched, but Duplicate Comments Found: 0
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched Comments Found: 
+[ UgzQ-CLVCObDQseYyjh4AaABAg, Ugxb6mQIINKLW9EeyOd4AaABAg.9bIp_BD14oD9l0hMHwlIgh, UgxT2B0fDxJmEm0UmXR4AaABAg ] 
+
+
+1. Ya tú sabes Neta que sabe:  https://youtu.be/zZK4mg3PQH4
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Aug 06, 2022 @ 06:27:21 AM
+     > Direct Link: https://www.youtube.com/watch?v=69nNMuTqCR4&lc=UgzQ-CLVCObDQseYyjh4AaABAg
+     > Author Channel ID: UC35xKKbCKNTn00N3rCvQpNA
+=============================================================================================
+
+
+2. oeoeoeoeoeoeoeoe:  @Dante well the Messi had two great assists and one average assist. That is a good impact. Considering he also had more key passes and chances created compared to mbappe.  How is it a fair criteria? Every player will have bad seasons. Including the best. That doesn’t make his good seasons any worse considering how many of them he had.  “No players win games alone” He had the best influence in the game. If mbappe won the WC and Messi didn’t score that last goal, everyone would’ve said he carried the final.  Well that’s just wrong. He isn’t performing badly in 2022 season. In the 22/23 season, he hs a higher GA than games played (25 goals 18 assists in 31 games). That’s not terrible stats.  What is that supposed to mean? How do you know he didn’t dropcform after moving to PSG? And where the hell do you get that definition? He is playing at an age a lot of players retire at and you expect him to play at his best ? He’s played 15+ good years. That’s an arbitrary criteria.  Rooney peaked early? Messi at 22 won a ballondor and proceeded to win 4 in a row. Even before that people were saying he was going to be the best ever  Chemistry comes from playing with the player and team not both of them being great. Great players can not fit into a squad or not get along with some players and so on. That’s how football works, not just two good players being shoved into a team. That’s why PSG has great players but isn’t a great team. Chemistry and team work doesn’t come from buying 100 m play[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Jan 18, 2023 @ 08:32:23 AM
+     > Direct Link: https://www.youtube.com/watch?v=69nNMuTqCR4&lc=Ugxb6mQIINKLW9EeyOd4AaABAg.9bIp_BD14oD9l0hMHwlIgh
+     > Author Channel ID: UCUfLBsB8gykXwRGY1I0t_8g
+=============================================================================================
+
+
+3. INFO MACAM MACAM (IMAM:  https://youtu.be/q9DkntYQFkQ
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 21, 2022 @ 03:36:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=69nNMuTqCR4&lc=UgxT2B0fDxJmEm0UmXR4AaABAg
+     > Author Channel ID: UCFG2hytkTf8HVLaRBBzHXQw
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+====================  NOTE:  Possible false positives marked with * Check them extra well! ==================== 
+ 1.  [x1]   UCFG2hytkTf8HVLaRBBzHXQw | INFO MACAM MACAM ...: https://youtu.be/q9DkntYQFkQ                                                      
+*2. [x1]   UCUfLBsB8gykXwRGY1I0t_8g | oeoeoeoeoeoeoeoe    : @Dante well the Messi had two great assists and one average assist. That is a g...
+ 3.  [x1]   UC35xKKbCKNTn00N3rCvQpNA | Ya tú sabes Neta ...: https://youtu.be/zZK4mg3PQH4                                                      
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+

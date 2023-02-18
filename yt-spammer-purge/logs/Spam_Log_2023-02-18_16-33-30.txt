@@ -1,0 +1,87 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: dVmOvmH4dL4
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 6
+
+Number of Spam Bot Threads Found: 0
+
+Number of Non-Matched, but Duplicate Comments Found: 0
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched Comments Found: 
+[ Ugzu53PjRcQJUwIfPrd4AaABAg, UgzqH79B0QY_m51Chm94AaABAg, Ugyb7UTC-0AOsxRjiSl4AaABAg, Ugwqj2TXZVThKoEoYFN4AaABAg, UgxLAS9k-u7A3yKJdhx4AaABAg, UgxGtxFJnEGgt3IZmoZ4AaABAg ] 
+
+
+1. TELEBOOK:  https://www.youtube.com/channel/UCV5MK2uWCpZO4wZHwybZosA
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Oct 14, 2022 @ 02:09:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=dVmOvmH4dL4&lc=Ugzu53PjRcQJUwIfPrd4AaABAg
+     > Author Channel ID: UCV5MK2uWCpZO4wZHwybZosA
+=============================================================================================
+
+
+2. Sexy videos:  https://youtube.com/shorts/LLy-rE5xY3k?feature=share
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Sep 23, 2022 @ 11:47:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=dVmOvmH4dL4&lc=UgzqH79B0QY_m51Chm94AaABAg
+     > Author Channel ID: UCvS2j8Q3fjrd1OYjcI4XCvg
+=============================================================================================
+
+
+3. Ashleigh Elizabeth:  Not a single one of these made me laugh out loud.  In no particular order here are moments that I found a great deal funnier:  A. Sheldon getting drunk at Howard's mom's house on Thanksgiving and insulting Howard, Bernadette and slapping Amy on the ass.  B. Bernadette yelling back and forth at Howard's mom while taking care of Howard.  C. Penny standing up to the bully that stole the boy's money and Bat'leth.  D. The girls arguing about who can pick up Thor's hammer and the boys overhearing them.  E. The next morning AFTER Sheldon got drunk and gave his award speech where he had to watch Youtube to see what happened and realized he called Steven Hawkins and let a dozen messages.  F. Sheldon waking up with the Geology book after a drunken night.  G. Howard and Bernadette dressing up like Sheldon and Amy and Sheldon and Amy dressing up like Howard and Bernadette.  H. Amy and Bernadette joining the fight over Sheldon's parking space.  I. Amy finding out from the girls that Sheldon is finally ready to have sex with her and rushing off to get waxed.  J. Sheldon getting drunk on Long Island Ice Teas and going to Will Wheaton's house to defend Amy's honor.  And if I had to I could probably come up with 10 more that made me laugh out loud more than the ones in this video.
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Jul 26, 2022 @ 03:26:23 AM
+     > Direct Link: https://www.youtube.com/watch?v=dVmOvmH4dL4&lc=Ugyb7UTC-0AOsxRjiSl4AaABAg
+     > Author Channel ID: UCJ2zAYtNquwP_gV119E_IlA
+=============================================================================================
+
+
+4. Peter Rocc:  I tell you, Nay: but, except ye repent, ye shall all likewise perish. (Luke 13:5 [KJV]) And as it is appointed unto men once to die, but after this the judgment: (Hebrews 9:27) Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matthew 7:13-14) For whosoever shall call upon the name of the Lord shall be saved. (Romans 10:13)
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 19, 2022 @ 08:13:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=dVmOvmH4dL4&lc=Ugwqj2TXZVThKoEoYFN4AaABAg
+     > Author Channel ID: UCM0zM5KD0icdAMV3hF35FiQ
+=============================================================================================
+
+
+5. OBLIVIONIS CRO:  https://youtu.be/N6qtjVRTkL0
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 28, 2022 @ 06:16:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=dVmOvmH4dL4&lc=UgxLAS9k-u7A3yKJdhx4AaABAg
+     > Author Channel ID: UC4HxGuQupdQm1IYI2R0SNPw
+=============================================================================================
+
+
+6. 何智勇士官長:  https://youtu.be/kvCI2MZTct0
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Mar 28, 2022 @ 08:51:41 AM
+     > Direct Link: https://www.youtube.com/watch?v=dVmOvmH4dL4&lc=UgxGtxFJnEGgt3IZmoZ4AaABAg
+     > Author Channel ID: UCkaK1qQ1AdfgMuE_8xitGSQ
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+ 1.  [x1]   UCkaK1qQ1AdfgMuE_8xitGSQ | 何智勇士官長              : https://youtu.be/kvCI2MZTct0                                                      
+ 2.  [x1]   UC4HxGuQupdQm1IYI2R0SNPw | OBLIVIONIS CRO      : https://youtu.be/N6qtjVRTkL0                                                      
+ 3.  [x1]   UCM0zM5KD0icdAMV3hF35FiQ | Peter Rocc          : I tell you, Nay: but, except ye repent, ye shall all likewise perish. (Luke 13:...
+ 4.  [x1]   UCJ2zAYtNquwP_gV119E_IlA | Ashleigh Elizabeth  : Not a single one of these made me laugh out loud.  In no particular order here ...
+ 5.  [x1]   UCvS2j8Q3fjrd1OYjcI4XCvg | Sexy videos         : https://youtube.com/shorts/LLy-rE5xY3k?feature=share                              
+ 6.  [x1]   UCV5MK2uWCpZO4wZHwybZosA | TELEBOOK            : https://www.youtube.com/channel/UCV5MK2uWCpZO4wZHwybZosA                          
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+

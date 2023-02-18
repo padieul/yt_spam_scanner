@@ -1,0 +1,2273 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: oWv2_aqu2Vo
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 146
+
+Number of Spam Bot Threads Found: 1
+
+Number of Non-Matched, but Duplicate Comments Found: 99
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched & Duplicate Comments Found: 
+[ Ugx9Pn8ZYe8z9iHzA6R4AaABAg.9mFp2xrjKJz9mFvC0zuSpJ, Ugx9Pn8ZYe8z9iHzA6R4AaABAg.9mFp2xrjKJz9mFtM3GGvfl, UgwomYinIvS8TWD8vs14AaABAg, Ugz76To9pgol5vFsw_d4AaABAg.9mFVc3fb5dz9mFVnJF7tSn, UgxOrej4nYTLcsGnHZB4AaABAg.9mFVCsWuepk9mFVT0G4B2i, Ugyd7I17IE3YyKDDQOp4AaABAg.9mFV8Jbl7zb9mFVUOUpPtb, Ugx-a2rxY5jZs8SlNz94AaABAg.9mFV5f1L4Ns9mFVWJ4kek4, UgzVxuGF8P7eciw81694AaABAg.9mFV1hmn9UC9mFVXnbsVT_, UgzFJq3gIb6wML8Uegx4AaABAg.9mFV-H-ev_S9mFVZLAUWZV, Ugxnr0jjOary3CMNsR54AaABAg.9mFUlx9hcse9mFVaHQZHSK, Ugw5ne7W04ex-Ek5IXR4AaABAg.9mFUfiGhcj09mFVbpXIHS9, UgxMlnpCJ-fuEUp1wSR4AaABAg.9mFUbQyg0wk9mFVdp_AJsB, UgzGPJ4MlOQlGofY5ld4AaABAg.9mFUXdHy93q9mFVf8E_c-M, UgzXlV5r31vNeGX5vq94AaABAg.9mFUKxWUD-H9mFVj-KAZZM, UgzYpf4F5aaGRkgWtnl4AaABAg.9mFU7YoM2529mFUdbDeCkQ, UgwVZ1FQAQh0ygPupMx4AaABAg.9mFU7371RbP9mFUk4fgS2L, Ugxw-QBYSHzfgZVhtLd4AaABAg.9mFU4PhwQCM9mFUnAwhxlB, UgybsJd9HXAIqKBMqE54AaABAg.9mFTvWpp0l59mFUrY-rDqs, UgzuZtqrED4VS04ybwl4AaABAg.9mFTk8myqTo9mFTlq-taTV, Ugw8RE4xEI3bP1sDvJZ4AaABAg.9mFThVMApOu9mFTqDdz86B, UgwlNuZgTx8lxMaL2RZ4AaABAg.9mFT_tXfpFd9mFTsS7nVad, UgyfpMULTd3CsxDYTpZ4AaABAg.9mFTY1FbSHf9mFTuEs2Ziv, Ugx8J_3VdiNmqnU6ILF4AaABAg.9mFTUxYD4EH9mFTxyOw3ve, Ugwq32ukU6ckbM1GHPB4AaABAg.9mFTPBwquYy9mFU-nEl-pF, UgzlA0pRzvdq5lKl8TN4AaABAg.9mFTDjZCsTJ9mFU7WRiyGO, Ugzs8dMXvghcXVcXm7N4AaABAg.9mFT09oGgUm9mFUCJylE2X, UgyXTqVJowOfvEW3ToN4AaABAg.9mFSrCji9XQ9mFUOHjL4V-, UgyXTqVJowOfvEW3ToN4AaABAg.9mFSrCji9XQ9mFUJpKzjd2, UgzFY_NpGD5wIeXGvtR4AaABAg.9mFSqqBHU3N9mFURhIe_0-, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mFUUhif5RX, UgxaGEfMRuvKPqXL9EZ4AaABAg.9mFScRSVcQh9mFUXhPinLR, UgzOtbc2qNkFdV02b_R4AaABAg.9mFSZINGT6I9mFVATPw9DM, UgxBjef-kv-mArRXjqp4AaABAg.9mFSStOcb-M9mFVCQe4xIE, UgyO5n1J8v1t7Orvlit4AaABAg.9mFSMzEyZ8h9mFVDy5ivg9, UgzXIvuXzcQKUgoAJs54AaABAg.9mFRfFCx5CJ9mFRi3mNp0o, Ugw8nOeJbhNinCX2Qbd4AaABAg.9mFRVLsiT3W9mFRksw1dNW, UgwTNaF2VIcaMod5S2x4AaABAg.9mFRRwUJ5Mo9mFRnSemRTp, Ugz2q59iQ0K7tOoqVdJ4AaABAg.9mFRI2LkJ219mFVIHJ-O66, Ugz6DkETWkCqA3c-ZwN4AaABAg.9mFR438NnfX9mFRQ6M4myN, UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFVQOhcl89, Ugxj9m1w2Z_u25H0Abt4AaABAg.9mFR0lsM6-s9mFRToTNy9Y, UgxGaNgdTR85eza3yWB4AaABAg.9mFR-ISLO1r9mFRZTkBzDz, UgyjKX6tBYw-z2YJ39x4AaABAg.9mFQqtBnnY39mFQvfyngPK, UgwzxxiZjkzzSqVV52N4AaABAg.9mFQnGOnHEg9mFQyBClFi3, UgxMtBihRKjgfvaDMuV4AaABAg.9mFQkGNI0X99mFQzjvxilU, Ugzo6YzPIeayBgtkaTJ4AaABAg.9mFQh_Ev-rc9mFR0nQ-vjr, UgzJuYubKWV6wBtplUJ4AaABAg.9mFQeaZl1iO9mFR4Dqq-Gq, UgyocHln6AtVKq90T1x4AaABAg.9mFQasT28ty9mFR5jsh0La, UgzE5p_KJOEVeo0KtfJ4AaABAg.9mFQZU50vOC9mFR7HzpQiK, UgxzPeXEn2tRgqjrclZ4AaABAg.9mFQCzb885m9mFRB0Ab-di, Ugy36Pk56XqyuKu-F514AaABAg.9mFQCQhnYuB9mFRF-Ru7fG, UgxMnUBymnQqA4mQGi14AaABAg.9mFQ145_d4S9mFQGPX3sUG, UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mFQIF7h63C, UgyoLNhbXO-e5VzcAg94AaABAg.9mFPuPAgEST9mFQMOYJ7Jb, UgwHKVXNtGa6IVNbZcB4AaABAg.9mFPsAUWABy9mFQOJ3gQ0O, Ugzyshm_JDenf3rWiQN4AaABAg.9mFPjMhNTHE9mFQS7rkSlw, UgwlaY40hUlOp8eM2SJ4AaABAg.9mFPOV7pwvY9mFQVDQi8Q_, UgxcrNY48s3vComQfYB4AaABAg.9mFPFFBnL6-9mFQbvEroPj, Ugz_oe1EwU453uVcsAd4AaABAg.9mFPCNqgjlg9mFQhPhynAn, UgwLQzi5CjzjccYS7l54AaABAg.9mFPCKOYEqq9mFQjctjryN, UgzFsH24mnHQn1ye8WV4AaABAg.9mFPBCypyXG9mFQmw5X8Ie, UgxEbH3XfBNAyMn4n-14AaABAg.9mFP3DWagLN9mFPCoT7OAp, Ugy77b4e9i2P2Rz3O1F4AaABAg.9mFP-yKxS6z9mFQspEoAGX, Ugy77b4e9i2P2Rz3O1F4AaABAg.9mFP-yKxS6z9mFPIoPw6eL, UgyXrRCP90TOG-oBIt54AaABAg.9mFOu8VtOJw9mFPN00vFeq, UgxBydokr6tWChJfBfp4AaABAg.9mFOqPo0hR_9mFPQtbhAkv, UgyTS4MET6ttGOFyCEx4AaABAg, UgyTS4MET6ttGOFyCEx4AaABAg.9mFOpQMLIhI9mFPXaA6ifJ, UgwGfHMeyM5Le3mCFAF4AaABAg.9mFOlHB9uh29mFPdtxPyCZ, UgzZy4MXD2V-Sz-P7pJ4AaABAg.9mFOiBSPjdX9mFPjFZ7J33, UgxSwU75sacofeg6x7p4AaABAg.9mFOhjmJilw9mFPlBPYwHS, UgyEIlMYOLbRwmInwgJ4AaABAg.9mFOgknIKe59mFPnmWwtJg, UgxehT5LyvouGXINJjR4AaABAg.9mFObqxEE4T9mFPpsXFB8j, UgwVtrFG76nMwDtd0BB4AaABAg.9mFOawnTWvS9mFPtZPlEy4, Ugyqq0FEwuv9EzqKfwl4AaABAg.9mFOZF9YHO-9mFPzvYBmYM, UgzJ7DxLeUN_O-nseZl4AaABAg.9mFOELoYWhC9mFQ1su2P3E, UgzJ7DxLeUN_O-nseZl4AaABAg.9mFOELoYWhC9mFOScUBvRQ, UgwXTofkGEECZG-YKMN4AaABAg.9mFO4llye-29mFOYPFlMi2, UgyfJPMlXXSc0aV7ob14AaABAg.9mFO1drWFWT9mFO_lU6-Ek, UgzBoFzkE1nan-Iqw_h4AaABAg.9mFO0qvRWAD9mFQ5fzEMtY, UgzBoFzkE1nan-Iqw_h4AaABAg.9mFO0qvRWAD9mFOejovUHf, UgxxmKdYbSKIAy36aY94AaABAg.9mFNpy7E3vm9mFOkrNrVKA, UgwUOM5h1OBBuF1LJw54AaABAg.9mFNX9IDRPJ9mFOmwna16z, Ugx502hE4_EFQOE8Pxt4AaABAg.9mFNNyh342q9mFOof4pbCa, Ugxgz78nlXz3JrNWUEZ4AaABAg.9mFNDR58TNL9mFOvB2KdKA, UgwmO0P2PyxtA_ThdPt4AaABAg.9mFNCAfGdj89mFOx89linX, Ugy6-MxuRqrp2u0mhB94AaABAg.9mFNAZEB-Zg9mFRvaloMWx, UgyQdkUlj2XiUepDbVV4AaABAg.9mFN7M7KQRx9mFNNfRAetO, UgwQTKEQy5PTQnYodGN4AaABAg.9mFN71Rzxn89mFNSHokUxF, Ugz7oxmZ4MRMq2qa7gt4AaABAg.9mFN3xUjwiT9mFNTwLd8P6, UgyK739_8OAnurf63BB4AaABAg.9mFN3j4j1jz9mFNYDMwt2G, UgxCiC-U3uqhdP4Dny54AaABAg.9mFN3e0g3WC9mFN_FXxQjR, UgxCdq-x6d05QWwlCdF4AaABAg.9mFN2nngtco9mFNfljshZA, UgwpjNYu3Y5YaR6Wi_p4AaABAg.9mFMxtHqM5K9mFNifwMtGk, UgwuOwVHF7z1OEiAKIl4AaABAg.9mFMxN2-4x09mFNqYr_KSX, UgzpiWz9YaKnNYtA1dd4AaABAg.9mFMuWaP5q39mFNrzC1arL, Ugwg9HeuoXwf3F6YVPp4AaABAg.9mFMs7KzDPH9mFNvVdHtik, UgwIQlkjSdOqhGbgz-F4AaABAg.9mFMpX9riGf9mFNxhF-pst, UgwWYvlo-KxX7ME2ZTZ4AaABAg.9mFMo04hHiQ9mFO0kVLAlJ, Ugwr1KY-_vDBE3KAtSl4AaABAg.9mFMhGhFLr49mFO9JTu1TC, UgxFMEGwBlv6COEyS5d4AaABAg.9mFMfnYqHMh9mFS-F_3-Wa, UgxFMEGwBlv6COEyS5d4AaABAg.9mFMfnYqHMh9mFOEP1UlH7, UgzVU5_4AbbcObL3ZGR4AaABAg.9mFMe2NBdVm9mFOHhFhMJO, Ugwsr2IfmzgfVlAP6_d4AaABAg.9mFMYue-D8x9mFONINeLUH, UgwA5BpkrVUIBioGuOJ4AaABAg.9mFMVQKeFY69mFOP3nGQXU, UgwQPjow2-XaCHA260V4AaABAg.9mFMUXktHr-9mFOQjiMx9v, UgxU179IQazAhWFH5hd4AaABAg.9mFKst3e_1n9mFLVa-4PuX, UgyKsTndzapBgWHgCk14AaABAg.9mFKnL2LnSy9mFLYk58ku_, UgxrIoEl5ocFGkBc6o94AaABAg.9mFKgjHe-0M9mFL_bgeLol, Ugxa3VuCQazBjBe4sFV4AaABAg.9mFKdYlnYrH9mFLbytvIhL, Ugxu1vfkAs6qZVzkkFd4AaABAg.9mFK_g-7pNo9mFLor6iN-J, Ugyu8S-UDT19POzxWXd4AaABAg.9mFKZrhKXBP9mFMLuxrXSr, UgxljVsEGvhYjtwLQlp4AaABAg.9mFKZInIMaT9mFMQJJK_SJ, UgxHjsf1s-0YQvbE-sF4AaABAg.9mFKZCTnOiL9mFMSUL7z0i, UgyNH3efQ2M6btI-ORJ4AaABAg.9mFKY4eiLTU9mFMU5I9WS4, UgzRhKpFKygaFnLL5aN4AaABAg.9mFKXDByWYM9mFMdoBY7Yl, UgzxYT6QZiZt5-FKitB4AaABAg.9mFKS_omPC99mFMiXGsFaU, UgwY3AtQ9nxZbeSq51R4AaABAg.9mFKJzDb3gc9mFMlNhgNxv, Ugx8b7ftQjrurSNFyq14AaABAg.9mFKIRqb8xk9mFMr-O6vcP, UgykOBarUxNj9F03Lup4AaABAg.9mFKEgpI3U89mFMwWqfNZ1, UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mFN0NjOkO7, UgzRl6fdUj7G9wUf96Z4AaABAg.9mFK6hUs1IS9mFN8CZnPMZ, UgywZefZVrSX0n0_cMZ4AaABAg.9mFK2p3SIiz9mFNAocvkgR, Ugw2A7uF_2SxS5Dvjyt4AaABAg.9mFJxJsbTsW9mFNEJW_fyA, UgyKeQSKDtoH898MsJl4AaABAg.9mFJvaXlXjH9mFNGN6c5ro, UgzWZiJ4XVUvnsf94XR4AaABAg.9mFJiyMwXhj9mFNKE2l_Dl, UgzWZiJ4XVUvnsf94XR4AaABAg.9mFJiyMwXhj9mFJv3penxL, Ugw0qAGqzly68DExPcN4AaABAg.9mFJdBWMsgE9mFJyLX7Zub, UgxYhmCWuMRDfUdrsH94AaABAg.9mFJcdFq6UD9mFK-HcBiyi, UgxgzOq6nUKz1smG3H54AaABAg.9mFJc23c8RK9mFKE1wMesb, UgzkybkqJOKlOjGHgZJ4AaABAg.9mFJRWSxIdn9mFKaXmlpSE, UgyMda2qTOfdFZj0sIF4AaABAg.9mFJJqhNvIC9mFKdBUsZWh, UgxYf4W23pew9rnIZ354AaABAg.9mFJF8pfl5Q9mFKfq4SGRt, UgzN9CnRJBP7FfN4kWp4AaABAg.9mFJ4Zb0Q-t9mFKibmacs5, UgzUtCitfMgcPzUraAR4AaABAg.9mFJ4JoLE6v9mFKlIr0H02, Ugw2m-cezIaFLVsXKKh4AaABAg.9mFIx2tQjJb9mFKpzj4Mgc, UgzWg3XpfImhi6Kk6lR4AaABAg.9mFIsnnh-AN9mFKsfyBJeL, UgxMvUgrRTMpXFiUmSB4AaABAg.9mFIrf_vhJM9mFKwSNGZH1, UgxA-VW91HmnI8GXOhh4AaABAg.9mFIoI6aqBV9mFKymREFWf, UgzwNZ70uWpCbo5UGUh4AaABAg.9mFIn23zycc9mFL01cyinJ, Ugw50WehpTW_gNdar7J4AaABAg.9mFIkk_7nWf9mFL23duWIw, UgzuoJ3AqvXAw-aZocp4AaABAg.9mFIi3X_ioB9mFL4rZ3UCp, UgwipVc1rQpdezzCMZh4AaABAg.9mFIeyu-pp-9mFLJCce4lW, UgwipVc1rQpdezzCMZh4AaABAg.9mFIeyu-pp-9mFL6qrY3iC, Ugxua7B1hA1je6azf-d4AaABAg.9mFIXAPL5RF9mFLMYsgNES, Ugz8n_yxUWBNc22KLcV4AaABAg.9mFBux2bYF49mFD6Bq5fQf, Ugy2m-fA3Oc0haFxT894AaABAg, UgzNKU7WMhhJndn4S394AaABAg, UgyPgIgwRNLdNhBP-gJ4AaABAg.9mFuePP8d-C9mGStCv49I6, UgxN3iDcQ7bOLbizYEt4AaABAg.9mFWdOkLIJC9mGSs18UFPe, UgwTNaF2VIcaMod5S2x4AaABAg.9mFRRwUJ5Mo9mGT3mdSl79, UgyNH3efQ2M6btI-ORJ4AaABAg.9mFKY4eiLTU9mGSyzH4QXY, UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mGSwGnujEo, UgzIlskEyluARReHqU54AaABAg.9mFEMtRKNVk9mGSv7kSIyL, UgxMY5G7mve-p9NeOmp4AaABAg.9mFDmcm3gVf9mGT6-Tv3A3, Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mGT1y6q6xt, UgwIqs_Ne8RylmVU_Hp4AaABAg.9mFDZVPgR8O9mGT6sx5SUs, UgyPXXxAwqVjSPBxLyp4AaABAg.9mFC3N6R8839mGT9m1FnWA, Ugy3QzJIaIWsbF0U4Xh4AaABAg.9mGR5nU66y69mGeXvVnacy, Ugy3QzJIaIWsbF0U4Xh4AaABAg.9mGR5nU66y69mGcHQ-AgU7, UgzFOw9qn8PROjvSgW54AaABAg.9mFX3TkQq3P9mGcED7F21d, UgxN3iDcQ7bOLbizYEt4AaABAg.9mFWdOkLIJC9mGcCT9HM5m, Ugw5ne7W04ex-Ek5IXR4AaABAg.9mFUfiGhcj09mGcG4rtFFD, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mHK9anXEcG, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mHK0v7RrMG, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mHJXCqjQW4, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mGlFxMcJOq, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mGeN_9WhQ7, UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mGc8uhyWHt, UgwTNaF2VIcaMod5S2x4AaABAg.9mFRRwUJ5Mo9mGc9oydw7Z, UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mGjx0XFbjv, UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mGcDjfuVST, Ugz3nZe7muu1CrWfrld4AaABAg.9mFMR4kxPNr9mGcJ-FCKLp, UgwUWoM8i-6Nqh57Na54AaABAg.9mFM1QpeGxP9mHJkGWHx-Q, UgwUWoM8i-6Nqh57Na54AaABAg.9mFM1QpeGxP9mGcGcFncrs, UgyNH3efQ2M6btI-ORJ4AaABAg.9mFKY4eiLTU9mGcDNr94a6, UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mHJ-68Potl, UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mGjjNLI4xj, UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mGcFLvTNgI, UgzkybkqJOKlOjGHgZJ4AaABAg.9mFJRWSxIdn9mGcL5wA90a, Ugy_Ce3LNHfWDn0tWnx4AaABAg.9mFGoJBeNkG9mGcCxa-Nmi, UgwZppgdBgufiyRk2SR4AaABAg.9mFGU6bIRGI9mGcKEo0Evn, UgyET04EAZ6yQbA_83V4AaABAg.9mFEx0xdIWp9mGcKd6f9Mv, Ugzx74FeqKwokfS3EbV4AaABAg.9mFEli0hMCF9mGcIZpcj3a, UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mHJIancVQd, UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mGinNv5RtF, UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mGhFtb9gs-, UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mGc9RZt9kH, UgzIlskEyluARReHqU54AaABAg.9mFEMtRKNVk9mGcBPblGLx, Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mGcFgJsR2a, Ugyu4mj-MROpoepZrZB4AaABAg.9mFD91iEhGq9mGcHyW-_63, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mGcAjRLuFa, UgyPXXxAwqVjSPBxLyp4AaABAg.9mFC3N6R8839mGcGx2_mnh, UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mGcJZ11Bap, Ugy_NQBGJiZmbjsAuZR4AaABAg, Ugzkjnex3UKisDDi2F54AaABAg.9mFkiq8Higt9mFkpk9Ys4N, UgyeIZHjtRxnSVtRkpl4AaABAg.9mFj-3JJd5M9mFktRmLQFx, UgxPmP2ch9oT85cKhad4AaABAg, Ugz3D7a9DeUQBzoV7El4AaABAg, UgwyBywUtU4NJcjiWxR4AaABAg, UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFetXry7we, UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mFfO3YIzSz, UgzkybkqJOKlOjGHgZJ4AaABAg.9mFJRWSxIdn9mFeTFD0MuK, UgyrBI39TwUmbk8NRpJ4AaABAg.9mFIEABkZzK9mFerTGPXwU, UgyuAT20A1C1s6cUAV54AaABAg.9mFHw6kdCGi9mFeuYshfUp, UgzQDZgUUFLEjkLE91N4AaABAg.9mFGsdw_P7v9mFew5TNEOU, UgwIqs_Ne8RylmVU_Hp4AaABAg.9mFDZVPgR8O9mFexWYG8oc, Ugyu4mj-MROpoepZrZB4AaABAg.9mFD91iEhGq9mFeyQ_4rMg, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFezCu_j6M, Ugw9QJj2biryizU7iGV4AaABAg, UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mH2QDgnam7, UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFpMtPv_sN, UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFfRtXuR0V, UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFVWCg0OfS, Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mFpRq-aeuJ, Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mFfYy_P8MW, Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mFVXsAkXEb, Ugyu2WD_16y1gsYoL2F4AaABAg, UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFFyS0b-Pa, UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFFvQd0eQA, UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFCeq-Dxjq, UgwgAFvRcnXkRDLCaLF4AaABAg.9mF9o8WsVBM9mFG-n3gNZc, UgwgAFvRcnXkRDLCaLF4AaABAg.9mF9o8WsVBM9mFCj8XQbj6, UgwZppgdBgufiyRk2SR4AaABAg.9mFGU6bIRGI9mFH66a3rpD, UgyWJN4KokaPx2QoSB94AaABAg, UgxaCAi1dQkMA98wbNR4AaABAg, Ugx5Y1dCHJjfvQe3uGR4AaABAg.9mFF2NtZ3R49mFH91l9Zsg, UgylhjZK4XonciG_vZ94AaABAg.9mFEz8mEZYT9mFHALpbD3b, UgxhEMGNPAjkrAOT7Mh4AaABAg.9mFEfoBA2xs9mFHmL9ZtUn, Ugwodg_B7k1lyIGvxG14AaABAg.9mFEZZF2rGz9mFH3qYVjU2, UgyMdWf5wQz0e3Y0cvh4AaABAg.9mFEVB8RNO79mFOJi5huwG, UgyMdWf5wQz0e3Y0cvh4AaABAg.9mFEVB8RNO79mFGwYxuo6F, UgzF-In2gOxnO0AkAyd4AaABAg.9mFDKE5orcC9mFMWFCCbK3, UgzF-In2gOxnO0AkAyd4AaABAg.9mFDKE5orcC9mFHLLn775s, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFk137fPYn, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFjBDT18Vj, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFiGvJecsy, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFG8aH-vDR, UgxVhEs-dZwlwvUE-Lt4AaABAg, UgzIlskEyluARReHqU54AaABAg.9mFEMtRKNVk9mFH7oOkI6l, UgwIqs_Ne8RylmVU_Hp4AaABAg.9mFDZVPgR8O9mFH1cb9_qk, Ugyu4mj-MROpoepZrZB4AaABAg.9mFD91iEhGq9mFH9Xik7vQ, Ugzn7SHqIspTu-dGV954AaABAg.9mFClXRUVwC9mFEl4sY1xp, Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFFhaV_kSp, UgyPXXxAwqVjSPBxLyp4AaABAg.9mFC3N6R8839mFF69miIVe, UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFEsUwaYss ] 
+
+
+1. ISHAYA DOGO:  , Growing money is wisdom✙𝟭𝟵𝟳𝟬𝟯𝟲𝟯𝟴𝟱𝟮𝟬
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 18, 2023 @ 02:53:19 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx9Pn8ZYe8z9iHzA6R4AaABAg.9mFp2xrjKJz9mFvC0zuSpJ
+     > Author Channel ID: UClvj0IoZgLxVCeIJpeYanQA
+=============================================================================================
+
+
+2. Larsen Clara:  Growing money is wisdom✙𝟭𝟵𝟳𝟬𝟯𝟲𝟯𝟴𝟱𝟮𝟬
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 18, 2023 @ 02:37:13 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx9Pn8ZYe8z9iHzA6R4AaABAg.9mFp2xrjKJz9mFtM3GGvfl
+     > Author Channel ID: UC6sYg4-Iaf1iRXXv_aP36Bw
+=============================================================================================
+
+
+3. Serbia:  https://www.youtube.com/watch?v=_aNMOEQ0248&list=WL&index=40&t=8274s
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:50:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwomYinIvS8TWD8vs14AaABAg
+     > Author Channel ID: UCe4dI6hBKxaG0RzF3WGLA8g
+=============================================================================================
+
+
+4. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  😏✅💹✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:02:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz76To9pgol5vFsw_d4AaABAg.9mFVc3fb5dz9mFVnJF7tSn
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+5. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✅❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:59:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxOrej4nYTLcsGnHZB4AaABAg.9mFVCsWuepk9mFVT0G4B2i
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+6. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  💹⬆️✅✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:59:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyd7I17IE3YyKDDQOp4AaABAg.9mFV8Jbl7zb9mFVUOUpPtb
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+7. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️👍⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:00:10 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx-a2rxY5jZs8SlNz94AaABAg.9mFV5f1L4Ns9mFVWJ4kek4
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+8. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️👍✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:00:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzVxuGF8P7eciw81694AaABAg.9mFV1hmn9UC9mFVXnbsVT_
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+9. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️💙✔️👍
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:00:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzFJq3gIb6wML8Uegx4AaABAg.9mFV-H-ev_S9mFVZLAUWZV
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+10. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  💙✔️✍️👍
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:00:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxnr0jjOary3CMNsR54AaABAg.9mFUlx9hcse9mFVaHQZHSK
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+11. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  👆✔️✍️👍⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:01:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw5ne7W04ex-Ek5IXR4AaABAg.9mFUfiGhcj09mFVbpXIHS9
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+12. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️✔️👆⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:01:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxMlnpCJ-fuEUp1wSR4AaABAg.9mFUbQyg0wk9mFVdp_AJsB
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+13. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️👆⬆️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:01:30 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzGPJ4MlOQlGofY5ld4AaABAg.9mFUXdHy93q9mFVf8E_c-M
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+14. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  💹❤️💹✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 11:02:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzXlV5r31vNeGX5vq94AaABAg.9mFUKxWUD-H9mFVj-KAZZM
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+15. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️❤️💙✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:52:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzYpf4F5aaGRkgWtnl4AaABAg.9mFU7YoM2529mFUdbDeCkQ
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+16. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️✔️💙😏
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:53:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwVZ1FQAQh0ygPupMx4AaABAg.9mFU7371RbP9mFUk4fgS2L
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+17. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  💙✔️💙✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:53:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxw-QBYSHzfgZVhtLd4AaABAg.9mFU4PhwQCM9mFUnAwhxlB
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+18. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  💙✍️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:54:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgybsJd9HXAIqKBMqE54AaABAg.9mFTvWpp0l59mFUrY-rDqs
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+19. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  📝👆📝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:44:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzuZtqrED4VS04ybwl4AaABAg.9mFTk8myqTo9mFTlq-taTV
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+20. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  📝👆✔️👉
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:45:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw8RE4xEI3bP1sDvJZ4AaABAg.9mFThVMApOu9mFTqDdz86B
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+21. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️👆👉📝✅
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:45:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwlNuZgTx8lxMaL2RZ4AaABAg.9mFT_tXfpFd9mFTsS7nVad
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+22. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  📝👆📝✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:46:05 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyfpMULTd3CsxDYTpZ4AaABAg.9mFTY1FbSHf9mFTuEs2Ziv
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+23. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  📝👆✅✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:46:36 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx8J_3VdiNmqnU6ILF4AaABAg.9mFTUxYD4EH9mFTxyOw3ve
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+24. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✅📝✅📝✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:46:59 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugwq32ukU6ckbM1GHPB4AaABAg.9mFTPBwquYy9mFU-nEl-pF
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+25. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️📝✔️✅
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:48:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzlA0pRzvdq5lKl8TN4AaABAg.9mFTDjZCsTJ9mFU7WRiyGO
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+26. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✅✅❤️📝✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:48:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugzs8dMXvghcXVcXm7N4AaABAg.9mFT09oGgUm9mFUCJylE2X
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+27. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️👍❤️✅
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:50:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXTqVJowOfvEW3ToN4AaABAg.9mFSrCji9XQ9mFUOHjL4V-
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+28. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  📝✅❤️📝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:49:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXTqVJowOfvEW3ToN4AaABAg.9mFSrCji9XQ9mFUJpKzjd2
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+29. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️❤️✅💋👍
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:50:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzFY_NpGD5wIeXGvtR4AaABAg.9mFSqqBHU3N9mFURhIe_0-
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+30. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  👍👍✅❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:51:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mFUUhif5RX
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+31. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  👆👍❤️✔️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:51:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxaGEfMRuvKPqXL9EZ4AaABAg.9mFScRSVcQh9mFUXhPinLR
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+32. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️💙✍️💙✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:57:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzOtbc2qNkFdV02b_R4AaABAg.9mFSZINGT6I9mFVATPw9DM
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+33. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️💙😏✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:57:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxBjef-kv-mArRXjqp4AaABAg.9mFSStOcb-M9mFVCQe4xIE
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+34. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️💙✔️❤️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:57:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyO5n1J8v1t7Orvlit4AaABAg.9mFSMzEyZ8h9mFVDy5ivg9
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+35. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:26:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzXIvuXzcQKUgoAJs54AaABAg.9mFRfFCx5CJ9mFRi3mNp0o
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+36. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:27:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw8nOeJbhNinCX2Qbd4AaABAg.9mFRVLsiT3W9mFRksw1dNW
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+37. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:27:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwTNaF2VIcaMod5S2x4AaABAg.9mFRRwUJ5Mo9mFRnSemRTp
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+38. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:58:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz2q59iQ0K7tOoqVdJ4AaABAg.9mFRI2LkJ219mFVIHJ-O66
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+39. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:24:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz6DkETWkCqA3c-ZwN4AaABAg.9mFR438NnfX9mFRQ6M4myN
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+40. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:59:21 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFVQOhcl89
+     > Author Channel ID: UCXD6MDOozXDgN-jCxzv45zA
+=============================================================================================
+
+
+41. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:24:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxj9m1w2Z_u25H0Abt4AaABAg.9mFR0lsM6-s9mFRToTNy9Y
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+42. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:25:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxGaNgdTR85eza3yWB4AaABAg.9mFR-ISLO1r9mFRZTkBzDz
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+43. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:20:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyjKX6tBYw-z2YJ39x4AaABAg.9mFQqtBnnY39mFQvfyngPK
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+44. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:20:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwzxxiZjkzzSqVV52N4AaABAg.9mFQnGOnHEg9mFQyBClFi3
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+45. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:20:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxMtBihRKjgfvaDMuV4AaABAg.9mFQkGNI0X99mFQzjvxilU
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+46. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:20:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugzo6YzPIeayBgtkaTJ4AaABAg.9mFQh_Ev-rc9mFR0nQ-vjr
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+47. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:21:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzJuYubKWV6wBtplUJ4AaABAg.9mFQeaZl1iO9mFR4Dqq-Gq
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+48. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:21:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyocHln6AtVKq90T1x4AaABAg.9mFQasT28ty9mFR5jsh0La
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+49. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:21:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzE5p_KJOEVeo0KtfJ4AaABAg.9mFQZU50vOC9mFR7HzpQiK
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+50. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:22:18 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxzPeXEn2tRgqjrclZ4AaABAg.9mFQCzb885m9mFRB0Ab-di
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+51. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:22:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy36Pk56XqyuKu-F514AaABAg.9mFQCQhnYuB9mFRF-Ru7fG
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+52. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:14:18 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxMnUBymnQqA4mQGi14AaABAg.9mFQ145_d4S9mFQGPX3sUG
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+53. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  👍⬆️❤️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:14:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mFQIF7h63C
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+54. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:15:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyoLNhbXO-e5VzcAg94AaABAg.9mFPuPAgEST9mFQMOYJ7Jb
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+55. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️👍✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:15:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwHKVXNtGa6IVNbZcB4AaABAg.9mFPsAUWABy9mFQOJ3gQ0O
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+56. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️👍👍✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:15:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugzyshm_JDenf3rWiQN4AaABAg.9mFPjMhNTHE9mFQS7rkSlw
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+57. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:16:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwlaY40hUlOp8eM2SJ4AaABAg.9mFPOV7pwvY9mFQVDQi8Q_
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+58. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  , ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:17:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxcrNY48s3vComQfYB4AaABAg.9mFPFFBnL6-9mFQbvEroPj
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+59. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:18:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz_oe1EwU453uVcsAd4AaABAg.9mFPCNqgjlg9mFQhPhynAn
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+60. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:18:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwLQzi5CjzjccYS7l54AaABAg.9mFPCKOYEqq9mFQjctjryN
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+61. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:18:53 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzFsH24mnHQn1ye8WV4AaABAg.9mFPBCypyXG9mFQmw5X8Ie
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+62. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:05:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxEbH3XfBNAyMn4n-14AaABAg.9mFP3DWagLN9mFPCoT7OAp
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+63. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:19:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy77b4e9i2P2Rz3O1F4AaABAg.9mFP-yKxS6z9mFQspEoAGX
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+64. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:05:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy77b4e9i2P2Rz3O1F4AaABAg.9mFP-yKxS6z9mFPIoPw6eL
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+65. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️❤️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:06:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXrRCP90TOG-oBIt54AaABAg.9mFOu8VtOJw9mFPN00vFeq
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+66. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:07:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxBydokr6tWChJfBfp4AaABAg.9mFOqPo0hR_9mFPQtbhAkv
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+67. Thomas Slattery:  At heart I'm joyous but I wanna die and I'm almost ready to kill someone literally. Ive been living in my car 3 years because my landlords shoved me and poured piss on my head just for being a great guitarist. I got attacked multiple times then got charged with assault after. First I was assaulted by a weird guy opening my door and reaching through my window over naked kids too young to be publicly seen. I asked him to stop cleaning their genitals directly in front of me because all 3 kids were old enough to walk and talk. The second time by a hotel owner after i asked him advice for dealing with heckles while rehearsing guitar. He just said i was insane so i asked for my cash money back because i hadn't stayed. He refused to give me the money and after leaving and reentering he put me in series of headlocks and wall slams. Eventually he gave me the cash but charged me with battery. The police never listen to what I say because it's all favors for favors. The police tackled me at 3 am for missing the arraignment. I was asleep in my car, thought I was dreaming and tried to simply walk away before getting tackled by 3 cops. One feigned an injury like I tackled him as if it were soccer. Then they put me in jail 3 days. The police have woken me up asking if I have weapons, babies or just ID several times flashlights in my eyes. My car broke down and I missed court. My public defender offered to reschedule but I still got arrested and forced to plea guilty to two assault misdemean[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:01:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyTS4MET6ttGOFyCEx4AaABAg
+     > Author Channel ID: UCk1AWh2m-eokN-SJdg5UVKg
+=============================================================================================
+
+
+68. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:07:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyTS4MET6ttGOFyCEx4AaABAg.9mFOpQMLIhI9mFPXaA6ifJ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+69. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:08:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwGfHMeyM5Le3mCFAF4AaABAg.9mFOlHB9uh29mFPdtxPyCZ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+70. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:09:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzZy4MXD2V-Sz-P7pJ4AaABAg.9mFOiBSPjdX9mFPjFZ7J33
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+71. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️❤️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:09:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxSwU75sacofeg6x7p4AaABAg.9mFOhjmJilw9mFPlBPYwHS
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+72. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:10:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyEIlMYOLbRwmInwgJ4AaABAg.9mFOgknIKe59mFPnmWwtJg
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+73. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️❤️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:10:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxehT5LyvouGXINJjR4AaABAg.9mFObqxEE4T9mFPpsXFB8j
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+74. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️⬆️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:11:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwVtrFG76nMwDtd0BB4AaABAg.9mFOawnTWvS9mFPtZPlEy4
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+75. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:11:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyqq0FEwuv9EzqKfwl4AaABAg.9mFOZF9YHO-9mFPzvYBmYM
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+76. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:12:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzJ7DxLeUN_O-nseZl4AaABAg.9mFOELoYWhC9mFQ1su2P3E
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+77. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✍️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:58:30 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzJ7DxLeUN_O-nseZl4AaABAg.9mFOELoYWhC9mFOScUBvRQ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+78. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:59:17 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXTofkGEECZG-YKMN4AaABAg.9mFO4llye-29mFOYPFlMi2
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+79. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:59:36 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyfJPMlXXSc0aV7ob14AaABAg.9mFO1drWFWT9mFO_lU6-Ek
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+80. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:12:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzBoFzkE1nan-Iqw_h4AaABAg.9mFO0qvRWAD9mFQ5fzEMtY
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+81. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:00:17 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzBoFzkE1nan-Iqw_h4AaABAg.9mFO0qvRWAD9mFOejovUHf
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+82. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:01:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxxmKdYbSKIAy36aY94AaABAg.9mFNpy7E3vm9mFOkrNrVKA
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+83. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:01:24 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwUOM5h1OBBuF1LJw54AaABAg.9mFNX9IDRPJ9mFOmwna16z
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+84. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:01:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx502hE4_EFQOE8Pxt4AaABAg.9mFNNyh342q9mFOof4pbCa
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+85. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:02:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxgz78nlXz3JrNWUEZ4AaABAg.9mFNDR58TNL9mFOvB2KdKA
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+86. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️❤️✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:02:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwmO0P2PyxtA_ThdPt4AaABAg.9mFNCAfGdj89mFOx89linX
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+87. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:28:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy6-MxuRqrp2u0mhB94AaABAg.9mFNAZEB-Zg9mFRvaloMWx
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+88. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️❤️✍️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:49:05 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyQdkUlj2XiUepDbVV4AaABAg.9mFN7M7KQRx9mFNNfRAetO
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+89. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️✔️⬆️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:49:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwQTKEQy5PTQnYodGN4AaABAg.9mFN71Rzxn89mFNSHokUxF
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+90. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️✔️❤️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:49:56 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz7oxmZ4MRMq2qa7gt4AaABAg.9mFN3xUjwiT9mFNTwLd8P6
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+91. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️✔️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:50:31 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyK739_8OAnurf63BB4AaABAg.9mFN3j4j1jz9mFNYDMwt2G
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+92. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️❤️✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:50:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxCiC-U3uqhdP4Dny54AaABAg.9mFN3e0g3WC9mFN_FXxQjR
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+93. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️❤️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:51:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxCdq-x6d05QWwlCdF4AaABAg.9mFN2nngtco9mFNfljshZA
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+94. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:52:05 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwpjNYu3Y5YaR6Wi_p4AaABAg.9mFMxtHqM5K9mFNifwMtGk
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+95. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:53:10 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwuOwVHF7z1OEiAKIl4AaABAg.9mFMxN2-4x09mFNqYr_KSX
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+96. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:53:21 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzpiWz9YaKnNYtA1dd4AaABAg.9mFMuWaP5q39mFNrzC1arL
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+97. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:53:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugwg9HeuoXwf3F6YVPp4AaABAg.9mFMs7KzDPH9mFNvVdHtik
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+98. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:54:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwIQlkjSdOqhGbgz-F4AaABAg.9mFMpX9riGf9mFNxhF-pst
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+99. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:54:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwWYvlo-KxX7ME2ZTZ4AaABAg.9mFMo04hHiQ9mFO0kVLAlJ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+100. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:55:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugwr1KY-_vDBE3KAtSl4AaABAg.9mFMhGhFLr49mFO9JTu1TC
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+101. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 10:29:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxFMEGwBlv6COEyS5d4AaABAg.9mFMfnYqHMh9mFS-F_3-Wa
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+102. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️✍️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:56:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxFMEGwBlv6COEyS5d4AaABAg.9mFMfnYqHMh9mFOEP1UlH7
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+103. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️❤️✍️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:57:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzVU5_4AbbcObL3ZGR4AaABAg.9mFMe2NBdVm9mFOHhFhMJO
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+104. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  , ⬆️⬆️⬆️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:57:46 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugwsr2IfmzgfVlAP6_d4AaABAg.9mFMYue-D8x9mFONINeLUH
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+105. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:58:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwA5BpkrVUIBioGuOJ4AaABAg.9mFMVQKeFY69mFOP3nGQXU
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+106. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:58:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwQPjow2-XaCHA260V4AaABAg.9mFMUXktHr-9mFOQjiMx9v
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+107. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️⬆️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:32:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxU179IQazAhWFH5hd4AaABAg.9mFKst3e_1n9mFLVa-4PuX
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+108. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✔️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:33:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyKsTndzapBgWHgCk14AaABAg.9mFKnL2LnSy9mFLYk58ku_
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+109. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:33:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxrIoEl5ocFGkBc6o94AaABAg.9mFKgjHe-0M9mFL_bgeLol
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+110. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:33:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxa3VuCQazBjBe4sFV4AaABAg.9mFKdYlnYrH9mFLbytvIhL
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+111. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:35:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxu1vfkAs6qZVzkkFd4AaABAg.9mFK_g-7pNo9mFLor6iN-J
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+112. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:40:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyu8S-UDT19POzxWXd4AaABAg.9mFKZrhKXBP9mFMLuxrXSr
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+113. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:40:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxljVsEGvhYjtwLQlp4AaABAg.9mFKZInIMaT9mFMQJJK_SJ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+114. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:41:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxHjsf1s-0YQvbE-sF4AaABAg.9mFKZCTnOiL9mFMSUL7z0i
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+115. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:41:13 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyNH3efQ2M6btI-ORJ4AaABAg.9mFKY4eiLTU9mFMU5I9WS4
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+116. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️⬆️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:42:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzRhKpFKygaFnLL5aN4AaABAg.9mFKXDByWYM9mFMdoBY7Yl
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+117. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:43:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzxYT6QZiZt5-FKitB4AaABAg.9mFKS_omPC99mFMiXGsFaU
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+118. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:43:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwY3AtQ9nxZbeSq51R4AaABAg.9mFKJzDb3gc9mFMlNhgNxv
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+119. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:44:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx8b7ftQjrurSNFyq14AaABAg.9mFKIRqb8xk9mFMr-O6vcP
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+120. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️⬆️✍️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:45:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgykOBarUxNj9F03Lup4AaABAg.9mFKEgpI3U89mFMwWqfNZ1
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+121. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️✍️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:45:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mFN0NjOkO7
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+122. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️✔️❤️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:46:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzRl6fdUj7G9wUf96Z4AaABAg.9mFK6hUs1IS9mFN8CZnPMZ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+123. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ❤️⬆️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:47:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgywZefZVrSX0n0_cMZ4AaABAg.9mFK2p3SIiz9mFNAocvkgR
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+124. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:47:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2A7uF_2SxS5Dvjyt4AaABAg.9mFJxJsbTsW9mFNEJW_fyA
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+125. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️❤️❤️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:48:05 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyKeQSKDtoH898MsJl4AaABAg.9mFJvaXlXjH9mFNGN6c5ro
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+126. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:48:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzWZiJ4XVUvnsf94XR4AaABAg.9mFJiyMwXhj9mFNKE2l_Dl
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+127. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️📝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:18:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzWZiJ4XVUvnsf94XR4AaABAg.9mFJiyMwXhj9mFJv3penxL
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+128. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:19:16 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw0qAGqzly68DExPcN4AaABAg.9mFJdBWMsgE9mFJyLX7Zub
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+129. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️✅✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:19:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxYhmCWuMRDfUdrsH94AaABAg.9mFJcdFq6UD9mFK-HcBiyi
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+130. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:21:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxgzOq6nUKz1smG3H54AaABAg.9mFJc23c8RK9mFKE1wMesb
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+131. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:24:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzkybkqJOKlOjGHgZJ4AaABAg.9mFJRWSxIdn9mFKaXmlpSE
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+132. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✔️❤️⬆️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:25:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyMda2qTOfdFZj0sIF4AaABAg.9mFJJqhNvIC9mFKdBUsZWh
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+133. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✔️❤️⬆️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:25:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxYf4W23pew9rnIZ354AaABAg.9mFJF8pfl5Q9mFKfq4SGRt
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+134. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✔️❤️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:25:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzN9CnRJBP7FfN4kWp4AaABAg.9mFJ4Zb0Q-t9mFKibmacs5
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+135. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️⬆️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:26:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzUtCitfMgcPzUraAR4AaABAg.9mFJ4JoLE6v9mFKlIr0H02
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+136. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:26:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2m-cezIaFLVsXKKh4AaABAg.9mFIx2tQjJb9mFKpzj4Mgc
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+137. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✔️✍️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:27:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzWg3XpfImhi6Kk6lR4AaABAg.9mFIsnnh-AN9mFKsfyBJeL
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+138. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ✍️❤️⬆️✅
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:27:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxMvUgrRTMpXFiUmSB4AaABAg.9mFIrf_vhJM9mFKwSNGZH1
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+139. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️❤️✅
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:28:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxA-VW91HmnI8GXOhh4AaABAg.9mFIoI6aqBV9mFKymREFWf
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+140. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:28:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzwNZ70uWpCbo5UGUh4AaABAg.9mFIn23zycc9mFL01cyinJ
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+141. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:28:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw50WehpTW_gNdar7J4AaABAg.9mFIkk_7nWf9mFL23duWIw
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+142. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:29:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzuoJ3AqvXAw-aZocp4AaABAg.9mFIi3X_ioB9mFL4rZ3UCp
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+143. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️✔️✅
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:31:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwipVc1rQpdezzCMZh4AaABAg.9mFIeyu-pp-9mFLJCce4lW
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+144. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  ⬆️✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:29:18 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwipVc1rQpdezzCMZh4AaABAg.9mFIeyu-pp-9mFL6qrY3iC
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+145. ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯𝟯𝟰) 𝟳𝟳𝟮 𝟮𝟳𝟬𝟰:  👍👍✍️⬆️✔️
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 09:31:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugxua7B1hA1je6azf-d4AaABAg.9mFIXAPL5RF9mFLMYsgNES
+     > Author Channel ID: UCedu3dpsXDhub6TDJu15h3w
+=============================================================================================
+
+
+146. Victor Frank:  'Sjedinjene Američke Države ＋𝟏𝟓𝟐𝟎𝟑𝟎𝟓𝟗𝟔𝟐𝟒   trenutno 👍'  Translate to English.
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2023 @ 08:19:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz8n_yxUWBNc22KLcV4AaABAg.9mFBux2bYF49mFD6Bq5fQf
+     > Author Channel ID: UCQCyoFYZui6EBZrDkFtdHZw
+=============================================================================================
+
+
+
+
+============================================================================================
+============================ Spam Bot Thread Top-Level Comments ===========================
+============================================================================================
+
+147. Jessica Simpson:  *Despite the economic downturn,I'm so happy☺️. I have been earning $ 60,200 returns from my $7,000 investment every 14days.*
+---------------------------------------------------------------------------------------------
+     > Reason: Spam Bot Thread
+     > Timestamp: Feb 18, 2023 @ 08:30:00 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy2m-fA3Oc0haFxT894AaABAg
+     > Author Channel ID: UCWkuNxVG6VVfV0gHnensonA
+=============================================================================================
+
+
+
+
+============================================================================================
+=========================== Non-Matched, But Duplicate Comments ===========================
+============================================================================================
+
+148. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:56:03 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzNKU7WMhhJndn4S394AaABAg
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+149. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:56:27 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyPgIgwRNLdNhBP-gJ4AaABAg.9mFuePP8d-C9mGStCv49I6
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+150. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:56:18 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxN3iDcQ7bOLbizYEt4AaABAg.9mFWdOkLIJC9mGSs18UFPe
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+151. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:58:02 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwTNaF2VIcaMod5S2x4AaABAg.9mFRRwUJ5Mo9mGT3mdSl79
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+152. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:57:15 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyNH3efQ2M6btI-ORJ4AaABAg.9mFKY4eiLTU9mGSyzH4QXY
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+153. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:56:52 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mGSwGnujEo
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+154. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:56:43 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzIlskEyluARReHqU54AaABAg.9mFEMtRKNVk9mGSv7kSIyL
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+155. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:58:20 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxMY5G7mve-p9NeOmp4AaABAg.9mFDmcm3gVf9mGT6-Tv3A3
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+156. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:57:47 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mGT1y6q6xt
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+157. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:58:27 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwIqs_Ne8RylmVU_Hp4AaABAg.9mFDZVPgR8O9mGT6sx5SUs
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+158. R.U. Sure:  Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 07:58:51 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyPXXxAwqVjSPBxLyp4AaABAg.9mFC3N6R8839mGT9m1FnWA
+     > Author Channel ID: UCfdA9BhFJkaZVESc-m3wWqQ
+=============================================================================================
+
+
+159. masakiton guba:  @Sookie_the_fairy "They do.. I agree 👍 This is a pissing contest between Putin and the West" making west look bad, its around 40  plus more backers of Ukraine vs heavily sanctioned russia (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:47:00 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy3QzJIaIWsbF0U4Xh4AaABAg.9mGR5nU66y69mGeXvVnacy
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+160. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:17 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy3QzJIaIWsbF0U4Xh4AaABAg.9mGR5nU66y69mGcHQ-AgU7
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+161. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:50 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzFOw9qn8PROjvSgW54AaABAg.9mFX3TkQq3P9mGcED7F21d
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+162. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:36 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxN3iDcQ7bOLbizYEt4AaABAg.9mFWdOkLIJC9mGcCT9HM5m
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+163. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:06 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw5ne7W04ex-Ek5IXR4AaABAg.9mFUfiGhcj09mGcG4rtFFD
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+164. masakiton guba:  @anonymusum "And what do you think about the huge amount of corruption in your country?" aid Corruption is Ukraine is stealing from US, EU and UK tax payers money (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 03:59:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mHK9anXEcG
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+165. masakiton guba:  @Frederik Zinn " And Ukraine will get that money." US arms dealer and Ukrainian officials are more than happy to hear that (^_^) ongoing international conflict = $$$$$$$$$$$$$ for US arms dealer  more aid $$$$ to Ukraine = more $$$$$ for corruption in Ukraine (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 03:58:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mHK0v7RrMG
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+166. masakiton guba:  @Sormina Saragih "how much you have pay your taxes, could you mind giving us some bills taxes" you should ask this to head of states authorizing billions of tax payers money to use for Ukraine (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 03:53:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mHJXCqjQW4
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+167. masakiton guba:  @Søren Nielsen " The best use of my taxes " US arms dealer and Politicians in Ukraine are more than happy to take them (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 10:45:43 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mGlFxMcJOq
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+168. masakiton guba:  @Efstathios Dimopoulos " ruZZians need more corrupt oligarchs to steal the money from the ruZZian economy." Corrupt Ukrainians are happy with US EU and UK tax payers money (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:45:36 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mGeN_9WhQ7
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+169. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:07 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgztsIra8_Zew8K5MIx4AaABAg.9mFSpqrJ55F9mGc8uhyWHt
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+170. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:14 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwTNaF2VIcaMod5S2x4AaABAg.9mFRRwUJ5Mo9mGc9oydw7Z
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+171. masakiton guba:  @TheDrAstrov "American military-industrial complex." US arms dealer and US arms dealer backed politicians are happy  with $$$$$$ from the misery of Ukraine (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 10:34:16 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mGjx0XFbjv
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+172. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:46 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mGcDjfuVST
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+173. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:30 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz3nZe7muu1CrWfrld4AaABAg.9mFMR4kxPNr9mGcJ-FCKLp
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+174. masakiton guba:  @Sormina Saragih "Please learn to understand another, don't use bully. Absolutely, wrong destination" Yes, Please learn to understand that US arms dealer are happy with $$$$$$$$$$$$$$$$$$$$$ from the misery of Ukraine (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 03:55:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwUWoM8i-6Nqh57Na54AaABAg.9mFM1QpeGxP9mHJkGWHx-Q
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+175. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:10 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwUWoM8i-6Nqh57Na54AaABAg.9mFM1QpeGxP9mGcGcFncrs
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+176. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:44 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyNH3efQ2M6btI-ORJ4AaABAg.9mFKY4eiLTU9mGcDNr94a6
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+177. masakiton guba:  @Nick " If NATO was involved it would go all in and all weapons and jets would be used so no they are not directly involved" "if" - talk is cheap (^_^) with all the milirary and financial aid from US, UK EU and Nato, Ukraine still unable to get rid of the russians (^_^) US arms dealer and US arms dealer backed polilicians are happy with $$$$$$$$$$$$$$$ from the misery of Ukraine (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 03:49:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mHJ-68Potl
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+178. masakiton guba:  @Nick "They wouldn't need it if not for being invaded by a terrorist nazi state that russia is!!! 🤡" there are "NATO - Ukraine" western documentary that can help explain  the current conflict (^_^) Peace talk and Covid lock downs are not good for US arms dealers and US arms dealer supported politicians (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 10:32:24 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mGjjNLI4xj
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+179. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:00 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzzXVVciG-JueOHQyx4AaABAg.9mFKEgmfIWB9mGcFLvTNgI
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+180. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:47 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzkybkqJOKlOjGHgZJ4AaABAg.9mFJRWSxIdn9mGcL5wA90a
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+181. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:40 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_Ce3LNHfWDn0tWnx4AaABAg.9mFGoJBeNkG9mGcCxa-Nmi
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+182. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:40 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwZppgdBgufiyRk2SR4AaABAg.9mFGU6bIRGI9mGcKEo0Evn
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+183. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:43 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyET04EAZ6yQbA_83V4AaABAg.9mFEx0xdIWp9mGcKd6f9Mv
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+184. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:26 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugzx74FeqKwokfS3EbV4AaABAg.9mFEli0hMCF9mGcIZpcj3a
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+185. masakiton guba:  @Albert Mag "Germans are meticulous people...They got this ...Cool, Calm, and Collective...as the saying goes..." the Germans know that they need cheap energy from Russia to keep the "made in Germany" products price competitive (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 03:51:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mHJIancVQd
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+186. masakiton guba:  @Tim Mommens "You answer "to keep the conflict going" says it all" ongoing international conflict = $$$$$$ for US arms dealer (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 10:24:12 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mGinNv5RtF
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+187. masakiton guba:  @Tim Mommens "For the record.... happy to just pay some taxmoney." ordinary people has no choice but to pay tax money (^_^) Politicians who are not financially affected by the rising cost of living decides to support Ukraine using tax payers money to keep the conflict going (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 10:10:46 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mGhFtb9gs-
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+188. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:11 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyXIXW-D9IG0DQSNqx4AaABAg.9mFEgAF-8uu9mGc9RZt9kH
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+189. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:27 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzIlskEyluARReHqU54AaABAg.9mFEMtRKNVk9mGcBPblGLx
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+190. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:02 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mGcFgJsR2a
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+191. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:21 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyu4mj-MROpoepZrZB4AaABAg.9mFD91iEhGq9mGcHyW-_63
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+192. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:26:22 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mGcAjRLuFa
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+193. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:13 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyPXXxAwqVjSPBxLyp4AaABAg.9mFC3N6R8839mGcGx2_mnh
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+194. masakiton guba:  Ukraine needs more tax payers money from US, UK and EU (^_^)
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 09:27:34 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mGcJZ11Bap
+     > Author Channel ID: UCPyka02epSPRLrPVUPqC7vg
+=============================================================================================
+
+
+195. Rok Horvat:  🇷🇺is a fascist hole and Failed state.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:23:56 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_NQBGJiZmbjsAuZR4AaABAg
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+196. Rok Horvat:  Putler fascist is done
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:22:46 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugzkjnex3UKisDDi2F54AaABAg.9mFkiq8Higt9mFkpk9Ys4N
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+197. Rok Horvat:  Fascist psychopath Putler is done
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:23:16 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyeIZHjtRxnSVtRkpl4AaABAg.9mFj-3JJd5M9mFktRmLQFx
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+198. Rok Horvat:  Germany is talking and hestitating while Poland and the UK are acting. USA, Poland, UK gave Ukraine 90% of the weapons and support.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:32:59 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxPmP2ch9oT85cKhad4AaABAg
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+199. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:31:48 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugz3D7a9DeUQBzoV7El4AaABAg
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+200. Rok Horvat:  Ziss Germans were collaborating wizz Putler for years. You can’t trust ze Germans and the RuZZianazis
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:28:44 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwyBywUtU4NJcjiWxR4AaABAg
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+201. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:30:51 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFetXry7we
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+202. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:35:09 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxNzjXaunxIT223qDJ4AaABAg.9mFPySD9Umh9mFfO3YIzSz
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+203. Rok Horvat:  Scholz is a 🤡and a disgrace. Same as proPutler Germany
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:27:08 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzkybkqJOKlOjGHgZJ4AaABAg.9mFJRWSxIdn9mFeTFD0MuK
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+204. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:30:34 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyrBI39TwUmbk8NRpJ4AaABAg.9mFIEABkZzK9mFerTGPXwU
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+205. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:30:59 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyuAT20A1C1s6cUAV54AaABAg.9mFHw6kdCGi9mFeuYshfUp
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+206. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:31:12 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzQDZgUUFLEjkLE91N4AaABAg.9mFGsdw_P7v9mFew5TNEOU
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+207. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:31:24 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwIqs_Ne8RylmVU_Hp4AaABAg.9mFDZVPgR8O9mFexWYG8oc
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+208. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:31:31 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyu4mj-MROpoepZrZB4AaABAg.9mFD91iEhGq9mFeyQ_4rMg
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+209. Rok Horvat:  Germany was for years collaborating with Putler against the rest of the EU. Never trust the Germans and the RuZZians
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:31:38 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFezCu_j6M
+     > Author Channel ID: UC7sc7A-ks5iGZRR3I2sj8-A
+=============================================================================================
+
+
+210. Mike Frommie:  Reminder that Germans are so dumb they voted for Merkel after she imported 2 million Arabs and Africans (one million Syrians alone) in 2015/2016. 7 Years later, not even 20% of them are working. Germans deserve extinction. German cities look like giant refugee camps now.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:10:24 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw9QJj2biryizU7iGV4AaABAg
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+211. Mike Frommie:  @Billy Bonds or maybe you can stop pretending not to be the same person with multiple burner accounts you leftist shill
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:24:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mH2QDgnam7
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+212. Mike Frommie:  @Thomas It’s not a troll. These people are paid shills with multiple burner accounts.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 02:02:23 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFpMtPv_sN
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+213. Mike Frommie:  @Billy Bonds This is an obvious paid shill with multiple burner accounts so they can like and comment on their own posts. It’s absolutely pathetic and subversive
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:35:41 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFfRtXuR0V
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+214. Mike Frommie:  Biden and the congress gave $196 billion to zelensky in 11 months meanwhile millions of americans are living paycheck to paycheck and trains are derailing due to a decaying infrastructure
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 11:00:09 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwXJS6_3hSYPLvVuAx4AaABAg.9mFR2eaECvv9mFVWCg0OfS
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+215. Mike Frommie:  @Toxy Tronic That’s not an argument you paid globalist shill
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 02:03:03 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mFpRq-aeuJ
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+216. Mike Frommie:  @Toxy Tronic Reminder that Germans are so dumb they voted for Merkel after she imported 2 million Arabs and Africans (one million Syrians alone) in 2015/2016. 7 Years later, not even 20% of them are working. Germans deserve extinction. German cities look like giant refugee camps now.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 12:36:39 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mFfYy_P8MW
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+217. Mike Frommie:  Biden and the congress gave $196 billion to zelensky in 11 months meanwhile millions of americans are living paycheck to paycheck and trains are derailing due to a decaying infrastructure
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 11:00:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugw2NOVmDvSmLKfhkn54AaABAg.9mFDbWw_OYq9mFVXsAkXEb
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+218. Mike Frommie:  Biden and the congress gave $196 billion to zelensky in 11 months meanwhile millions of americans are living paycheck to paycheck and trains are derailing due to a decaying infrastructure
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:13:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyu2WD_16y1gsYoL2F4AaABAg
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+219. Mike Frommie:  @nottsco2002 Anyone fighting against George Soros has my support
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:44:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFFyS0b-Pa
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+220. Mike Frommie:  @Billy Bonds Biden and the congress gave $196 billion to zelensky in 11 months meanwhile millions of americans are living paycheck to paycheck and trains are derailing due to a decaying infrastructure
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:43:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFFvQd0eQA
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+221. Mike Frommie:  If anyone still thinks the whole situation isn't rife with corruption after this, they're a lost cause. Or maybe underage.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:15:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFCeq-Dxjq
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+222. Mike Frommie:  @pigGRAY Biden and the congress gave $196 billion to zelensky in 11 months meanwhile millions of americans are living paycheck to paycheck and trains are derailing due to a decaying infrastructure
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:44:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwgAFvRcnXkRDLCaLF4AaABAg.9mF9o8WsVBM9mFG-n3gNZc
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+223. Mike Frommie:  If anyone still thinks the whole situation isn't rife with corruption after this, they're a lost cause. Or maybe underage.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:16:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwgAFvRcnXkRDLCaLF4AaABAg.9mF9o8WsVBM9mFCj8XQbj6
+     > Author Channel ID: UC-ar2BBhkJvAPv_j-ZYK7AA
+=============================================================================================
+
+
+224. Nicole:  They've learned from history about the last time a European Country was invaded militarily by a Dictator was ignored and the consequences of that.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:54:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwZppgdBgufiyRk2SR4AaABAg.9mFGU6bIRGI9mFH66a3rpD
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+225. Nicole:  They've learned from history about the last time a European Country was invaded militarily by a Dictator was ignored and the consequences of that.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:47:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyWJN4KokaPx2QoSB94AaABAg
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+226. Nicole:  It'll be longer if Putin wins. He can't hold ground now. Ukrainians won't be governed by him. They'll continue to fight for independence and sovereignty.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:40:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxaCAi1dQkMA98wbNR4AaABAg
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+227. Nicole:  It'll be longer if Putin wins. He can't hold ground now. Ukrainians won't be governed by him. They'll continue to fight for independence and sovereignty.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:54:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugx5Y1dCHJjfvQe3uGR4AaABAg.9mFF2NtZ3R49mFH91l9Zsg
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+228. Nicole:  It'll be longer if Putin wins. He can't hold ground now. Ukrainians won't be governed by him. They'll continue to fight for independence and sovereignty.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:54:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgylhjZK4XonciG_vZ94AaABAg.9mFEz8mEZYT9mFHALpbD3b
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+229. Nicole:  Great more Russian bodies for canon fodder. Ukraine won't be ruled by Putin. They'll fight to the end for their sovereignty and independence. Putin can't hold ground now let alone a whole Country.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 09:00:09 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxhEMGNPAjkrAOT7Mh4AaABAg.9mFEfoBA2xs9mFHmL9ZtUn
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+230. Nicole:  Putin cannot be trusted. It'll be longer if Putin wins. He can't hold ground now. Ukrainians won't be governed by him. They'll continue to fight for independence and sovereignty.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:53:56 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugwodg_B7k1lyIGvxG14AaABAg.9mFEZZF2rGz9mFH3qYVjU2
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+231. Nicole:  @Desanpiss 24 Russia is going to get destroyed and good riddance. He'll end up falling out of a window if he costs them any more than he already has. That's how Russia deals with internal problems.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 09:57:17 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyMdWf5wQz0e3Y0cvh4AaABAg.9mFEVB8RNO79mFOJi5huwG
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+232. Nicole:  It'll be longer if Putin wins. He can't hold ground now. Ukrainians won't be governed by him. They'll continue to fight for independence and sovereignty.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:52:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyMdWf5wQz0e3Y0cvh4AaABAg.9mFEVB8RNO79mFGwYxuo6F
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+233. Nicole:  @JOSEPH STOLEN-ELECTION Did you see how. At gunpoint door to door, stood and waited for them to vote. Clearly you don't believe in sovereignty or independence. Putin can't hold ground now. Ukraine will not be ruled by Putin. How many Russians and Ukrainians do you want to see die before Putin is sent packing. Europe learned from history about ignoring Dictators invading sovereign Countries.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 09:41:31 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzF-In2gOxnO0AkAyd4AaABAg.9mFDKE5orcC9mFMWFCCbK3
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+234. Nicole:  It'll be longer if Putin wins. He can't hold ground now. Ukrainians won't be governed by him. They'll continue to fight for independence and sovereignty. Slava Ukraine
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:56:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzF-In2gOxnO0AkAyd4AaABAg.9mFDKE5orcC9mFHLLn775s
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+235. Nicole:  @mr derp 😭😂😂😂 Classic! Can't handle the truth best have a Cup of concrete and toughen up Princess 👸
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:15:42 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFk137fPYn
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+236. Nicole:  @mr derp  troll on comrade troll on.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:08:21 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFjBDT18Vj
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+237. Nicole:  @mr derp 🥱😴 another one trying on revisionist history. Ukraine's sovereignty is for Ukrainians to decide not some invading Dictator. Comrade
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 18, 2023 @ 01:00:24 AM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFiGvJecsy
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+238. Nicole:  They've learned from history and the last time a European sovereign country was invaded militarily by a Dictator.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:45:51 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFG8aH-vDR
+     > Author Channel ID: UCYYrSd_xAlveELy3qmz2__A
+=============================================================================================
+
+
+239. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:31:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgxVhEs-dZwlwvUE-Lt4AaABAg
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+240. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:54:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgzIlskEyluARReHqU54AaABAg.9mFEMtRKNVk9mFH7oOkI6l
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+241. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:53:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwIqs_Ne8RylmVU_Hp4AaABAg.9mFDZVPgR8O9mFH1cb9_qk
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+242. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:54:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugyu4mj-MROpoepZrZB4AaABAg.9mFD91iEhGq9mFH9Xik7vQ
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+243. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:33:46 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugzn7SHqIspTu-dGV954AaABAg.9mFClXRUVwC9mFEl4sY1xp
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+244. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:42:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=Ugy_76jXjco19CEO0rp4AaABAg.9mFChkK9kD89mFFhaV_kSp
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+245. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:36:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgyPXXxAwqVjSPBxLyp4AaABAg.9mFC3N6R8839mFF69miIVe
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+246. dave h:  Christiane is past her prime. Am I right cnn?
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Feb 17, 2023 @ 08:34:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=oWv2_aqu2Vo&lc=UgwhndE3Kp3Ra3k3iux4AaABAg.9mFB_G0jpUb9mFEsUwaYss
+     > Author Channel ID: UCeCFJUpuRmh4jGKohJ01Mtg
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+====================  NOTE:  Possible false positives marked with * Check them extra well! ==================== 
+ 1.  [x108] UCedu3dpsXDhub6TDJu15h3w | ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯...: ⬆✍⬆✔                                                                              
+ 2.  [x33]  UCXD6MDOozXDgN-jCxzv45zA | ᴍᴀʀʀɪᴀɴ ʀᴏɢᴇʀ+𝟭(𝟯...: 😏✅💹✍✔                                                                             
+ 3.  [x1]   UCQCyoFYZui6EBZrDkFtdHZw | Victor Frank        : 'Sjedinjene Američke Države ＋𝟏𝟓𝟐𝟎𝟑𝟎𝟓𝟗𝟔𝟐𝟒   trenutno 👍'  Translate to English.     
+*4. [x1]   UCk1AWh2m-eokN-SJdg5UVKg | Thomas Slattery     : At heart I'm joyous but I wanna die and I'm almost ready to kill someone litera...
+ 5.  [x1]   UCe4dI6hBKxaG0RzF3WGLA8g | Serbia              : https://www.youtube.com/watch?v=_aNMOEQ0248&list=WL&index=40&t=8274s              
+ 6.  [x1]   UC6sYg4-Iaf1iRXXv_aP36Bw | Larsen Clara        : Growing money is wisdom✙𝟭𝟵𝟳𝟬𝟯𝟲𝟯𝟴𝟱𝟮𝟬                                               
+ 7.  [x1]   UClvj0IoZgLxVCeIJpeYanQA | ISHAYA DOGO         : , Growing money is wisdom✙𝟭𝟵𝟳𝟬𝟯𝟲𝟯𝟴𝟱𝟮𝟬                                             
+
+============================ Match Samples: Spam Bot Threads ============================
+ 8.  [x1]   UCWkuNxVG6VVfV0gHnensonA | Jessica Simpson     : *Despite the economic downturn,I'm so happy☺. I have been earning $ 60,200 retu...
+
+-------------------- Non-Matched Commenters, but who wrote many similar comments --------------------
+---------------------- ( Similarity Threshold: 90%  |  Minimum Duplicates: 8 ) ----------------------
+ 9.  [x36]  UCPyka02epSPRLrPVUPqC7vg | masakiton guba      : @Sookie_the_fairy "They do.. I agree 👍 This is a pissing contest between Putin ...
+ 10. [x15]  UCYYrSd_xAlveELy3qmz2__A | Nicole              : They've learned from history about the last time a European Country was invaded...
+ 11. [x15]  UC7sc7A-ks5iGZRR3I2sj8-A | Rok Horvat          : 🇷🇺is a fascist hole and Failed state.                                             
+ 12. [x14]  UC-ar2BBhkJvAPv_j-ZYK7AA | Mike Frommie        : Reminder that Germans are so dumb they voted for Merkel after she imported 2 mi...
+ 13. [x11]  UCfdA9BhFJkaZVESc-m3wWqQ | R.U. Sure           : Hey Olaf, You better talk nice or the U.S. blow up more than your pipeline.       
+ 14. [x8]   UCeCFJUpuRmh4jGKohJ01Mtg | dave h              : Christiane is past her prime. Am I right cnn?                                     
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+

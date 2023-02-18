@@ -1,0 +1,64 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: vXzp-ZofVl0
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 2
+
+Number of Spam Bot Threads Found: 1
+
+Number of Non-Matched, but Duplicate Comments Found: 0
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched Comments Found: 
+[ UgwOTUYFFJ7HEtelRvV4AaABAg.9l9lw8yyzLw9l9pliWzIda, UgwOTUYFFJ7HEtelRvV4AaABAg.9l9lw8yyzLw9l9pjsKPNCA, UgwOTUYFFJ7HEtelRvV4AaABAg ] 
+
+
+1. Sophia Jimmy:  @Patsy Beck *ѕнe'ѕ alѕo on wнaтѕ,apĸ*     ＋𝟭𝟱𝟰𝟬𝟯𝟭𝟲𝟬𝟬𝟲𝟯  *ѕend a мeѕѕage*
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Jan 21, 2023 @ 09:39:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=vXzp-ZofVl0&lc=UgwOTUYFFJ7HEtelRvV4AaABAg.9l9lw8yyzLw9l9pliWzIda
+     > Author Channel ID: UCi6dHggf4IZhkq2lEz9wfSg
+=============================================================================================
+
+
+2. Sophia Jimmy:  *⬇️ ꜱʜᴇ'ꜱ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ⬇️*
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Jan 21, 2023 @ 09:38:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=vXzp-ZofVl0&lc=UgwOTUYFFJ7HEtelRvV4AaABAg.9l9lw8yyzLw9l9pjsKPNCA
+     > Author Channel ID: UCi6dHggf4IZhkq2lEz9wfSg
+=============================================================================================
+
+
+
+
+============================================================================================
+============================ Spam Bot Thread Top-Level Comments ===========================
+============================================================================================
+
+3. Luke steve:  *💯💯Making money is an action. Keeping money is behavior, but “growing money is wisdom”. I found this out a week ago after getting a $10,000 return on my $3,000 investment in 7 days.*
+---------------------------------------------------------------------------------------------
+     > Reason: Spam Bot Thread
+     > Timestamp: Jan 21, 2023 @ 09:05:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=vXzp-ZofVl0&lc=UgwOTUYFFJ7HEtelRvV4AaABAg
+     > Author Channel ID: UCspAmdWB-lkNclWuQ9pYIUQ
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+ 1.  [x2]   UCi6dHggf4IZhkq2lEz9wfSg | Sophia Jimmy        : @Patsy Beck *ѕнe'ѕ alѕo on wнaтѕ,apĸ*     ＋𝟭𝟱𝟰𝟬𝟯𝟭𝟲𝟬𝟬𝟲𝟯  *ѕend a мeѕѕage*          
+
+============================ Match Samples: Spam Bot Threads ============================
+ 2.  [x1]   UCspAmdWB-lkNclWuQ9pYIUQ | Luke steve          : *💯💯Making money is an action. Keeping money is behavior, but “growing money is ...
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+

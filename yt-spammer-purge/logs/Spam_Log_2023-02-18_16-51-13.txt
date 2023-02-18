@@ -1,0 +1,374 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: bOsE3ln-skg
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 3
+
+Number of Spam Bot Threads Found: 0
+
+Number of Non-Matched, but Duplicate Comments Found: 34
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched & Duplicate Comments Found: 
+[ Ugw-sRi6xG_JBwIz41R4AaABAg, UgxSKCz82kWmdvew9jB4AaABAg, Ugx1cJCjJfgWe6tNk214AaABAg.9-lbiNz5C-p9kS9TFOzVYE, Ugwjn4z6KjVmK1x5sB94AaABAg, UgxAxzHU_iwGpvRlN2x4AaABAg.9hl7Kkr6QEf9iEZTssWtSi, UgxwDCvPJK0DXIVH8Eh4AaABAg.9hjgcasv4RY9iEZlFEGcCZ, UgzdcetpDqFI7KV6m_d4AaABAg.9hVcc7CTSYj9iE_05HDDbb, UgwezTCVKFx1JmWRB1x4AaABAg.9hR07B8aGZd9iEaUimUfW5, Ugy-G-_ZKTDeCHlHPHp4AaABAg.9gL8TIVVBoh9iEaz9Su3P4, UgxrSYiIBG7cN2HnbtV4AaABAg.9g2IWxab5Wr9iEb4q03Fla, Ugwif4-2crbhGEto-kB4AaABAg.9fybN2Ucdjs9iEbBosMPXf, UgwExtrj7fmfue3_IO94AaABAg.9ev2_xZhzix9iEbkxBqTcy, UgzH1F9lgJYQ7frR2ZN4AaABAg.9eqdQpTMDR99iEbhlH3oAf, Ugw5tVhdQ-B142yOot14AaABAg.9eqbT9qptz09iEbp693ftx, UgwBIXTCW654BmrlRJl4AaABAg.9ekotKEfHX59iEbvV_swYA, UgwQUKIql1pWS_OckRF4AaABAg.9ekgRVIzG0M9iEbxVEvBh2, UgwXY4lAqhTZMNQGsQt4AaABAg.9ei0z6KNxBk9iEc4VUfSBL, UgzTw16_1rTm-R5cJtJ4AaABAg.9efeIwFmDkJ9iEc8h86OTu, Ugzl5lR6CFUue6MZGtl4AaABAg.9eeoq3Zez279iEcAtG15w_, UgzNXtdbt7t4EpQ3axh4AaABAg.9ecE77TiAA89iEcFfqwsHI, Ugzqg2J_foRF_CLY7Dt4AaABAg.9eXoVNH88fv9iEcKMKhVno, UgziIaPRM2BxwMg8hdt4AaABAg.9eXDV8Mt-Cu9iEcMuEr4Hq, UgzOZc19wKFaxkNOCNh4AaABAg.9eBYsQ8Pxp69iEcaHvg_lI, UgxxqlF5BOBRFxKknHd4AaABAg.9d_4fGNlKTl9iEclGhDFtS, Ugy4EXs9b_j5n1gx3sB4AaABAg.9dBoFBc3MoH9iEcoytyykQ, UgzGl2siU3Trqjr9CyV4AaABAg.9cxQ-fCRNFI9iEcsd83KA0, UgwOL6CrzTDNiFudokN4AaABAg.9cvM58Lk05i9iEcxNnFKWP, UgwrRR9t315tHOBWzCZ4AaABAg.9ckpap7fIDh9iEd5ZwnA0H, UgwOH-qUgGoJ5EbKSGV4AaABAg.9c7gU3496Ja9iEdGZ0iRZW, UgwIicy0WdPYbmdxMjZ4AaABAg.9bpbFWgIesk9iEdRcgL7hn, Ugxo0OfXJgpYbTO3rNl4AaABAg.9bYmP5dmtQf9iEdcEKPSZM, UgxOM67yUMvhNP61ZUp4AaABAg.9b0zD84ajvi9iEdxP8CC6U, UgxOM67yUMvhNP61ZUp4AaABAg.9b0zD84ajvi9iEdseVJmWq, Ugzu2LclkH-D24-3zkh4AaABAg.9b-fwZ-lZNi9iEe3YkTouu, UgxEz1JE90xRL99DuwN4AaABAg.9arCr6RNOUG9iEeCUq2tcH, Ugztmrl0FIrYM_GmLnJ4AaABAg.9aioR47HdQ79iEeP8QZLvK, UgwVz8WHDjr_mJOUPsl4AaABAg.9ah0Yrtr7ZN9iEenGDyujj ] 
+
+
+1. fredricful:  https://youtu.be/1I1vxu5qIUM ?
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Sep 08, 2021 @ 05:50:59 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugw-sRi6xG_JBwIz41R4AaABAg
+     > Author Channel ID: UCaw3nHs9dGkOA7k9r1d4Blw
+=============================================================================================
+
+
+2. Maya Langitan:  https://youtu.be/WgSE6m07Gfo
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Feb 17, 2021 @ 05:17:32 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxSKCz82kWmdvew9jB4AaABAg
+     > Author Channel ID: UCxTIqcQuN4LDcdinSkvKKVg
+=============================================================================================
+
+
+3. character:  Jude a ine of history   New International Version  1 Jude, a servant of Jesus Christ and a brother of James,  To those who have been called, who are loved in God the Father and kept for[a] Jesus Christ:  2 Mercy, peace and love be yours in abundance.  The Sin and Doom of Ungodly People  3 Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God’s holy people. 4 For certain individuals whose condemnation was written about[b] long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.  5 Though you already know all this, I want to remind you that the Lord[c] at one time delivered his people out of Egypt, but later destroyed those who did not believe. 6 And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day. 7 In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.  8 In the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings. 9 But even the archangel Michael, when he[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Jan 04, 2023 @ 03:54:51 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugx1cJCjJfgWe6tNk214AaABAg.9-lbiNz5C-p9kS9TFOzVYE
+     > Author Channel ID: UCY8cCy_Z91EQ7fbH4DEvMeQ
+=============================================================================================
+
+
+
+
+============================================================================================
+=========================== Non-Matched, But Duplicate Comments ===========================
+============================================================================================
+
+4. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 03:56:17 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugwjn4z6KjVmK1x5sB94AaABAg
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+5. Ron Lentjes:  $Big Pharma$ and $Big Food$  $medications$, $vaccines$, $drugs$, and $food additives$ (E numbers, E = evil), GMO, food sprays
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:09:58 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxAxzHU_iwGpvRlN2x4AaABAg.9hl7Kkr6QEf9iEZTssWtSi
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+6. Ron Lentjes:  $Big Pharma$ and $Big Food$  $medications$, $vaccines$, $drugs$, and $food additives$ (E numbers, E = evil), GMO, food sprays
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:12:29 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxwDCvPJK0DXIVH8Eh4AaABAg.9hjgcasv4RY9iEZlFEGcCZ
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+7. Ron Lentjes:  $Big Pharma$ and $Big Food$  $medications$, $vaccines$, $drugs$, and $food additives$ (E numbers, E = evil), GMO, food sprays
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:14:38 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgzdcetpDqFI7KV6m_d4AaABAg.9hVcc7CTSYj9iE_05HDDbb
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+8. Ron Lentjes:  And a collection of attached spirits to boot. Really sad how they are tormented.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:27:34 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwezTCVKFx1JmWRB1x4AaABAg.9hR07B8aGZd9iEaUimUfW5
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+9. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for Arithmetic Disorder. Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:31:51 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugy-G-_ZKTDeCHlHPHp4AaABAg.9gL8TIVVBoh9iEaz9Su3P4
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+10. Ron Lentjes:  And a collection of attached spirits to boot. Really sad how they are tormented.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:32:46 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxrSYiIBG7cN2HnbtV4AaABAg.9g2IWxab5Wr9iEb4q03Fla
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+11. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:33:43 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugwif4-2crbhGEto-kB4AaABAg.9fybN2Ucdjs9iEbBosMPXf
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+12. Ron Lentjes:  And a collection of attached spirits to boot. Really sad how they are tormented.
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:38:39 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwExtrj7fmfue3_IO94AaABAg.9ev2_xZhzix9iEbkxBqTcy
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+13. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:38:13 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgzH1F9lgJYQ7frR2ZN4AaABAg.9eqdQpTMDR99iEbhlH3oAf
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+14. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:39:13 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugw5tVhdQ-B142yOot14AaABAg.9eqbT9qptz09iEbp693ftx
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+15. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:40:05 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwBIXTCW654BmrlRJl4AaABAg.9ekotKEfHX59iEbvV_swYA
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+16. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:40:22 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwQUKIql1pWS_OckRF4AaABAg.9ekgRVIzG0M9iEbxVEvBh2
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+17. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:41:27 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwXY4lAqhTZMNQGsQt4AaABAg.9ei0z6KNxBk9iEc4VUfSBL
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+18. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:42:02 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgzTw16_1rTm-R5cJtJ4AaABAg.9efeIwFmDkJ9iEc8h86OTu
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+19. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:42:20 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugzl5lR6CFUue6MZGtl4AaABAg.9eeoq3Zez279iEcAtG15w_
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+20. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:42:59 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgzNXtdbt7t4EpQ3axh4AaABAg.9ecE77TiAA89iEcFfqwsHI
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+21. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:43:37 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugzqg2J_foRF_CLY7Dt4AaABAg.9eXoVNH88fv9iEcKMKhVno
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+22. Ron Lentjes:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your Funeral Services in advance...
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:43:58 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgziIaPRM2BxwMg8hdt4AaABAg.9eXDV8Mt-Cu9iEcMuEr4Hq
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+23. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:45:56 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgzOZc19wKFaxkNOCNh4AaABAg.9eBYsQ8Pxp69iEcaHvg_lI
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+24. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:47:26 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxxqlF5BOBRFxKknHd4AaABAg.9d_4fGNlKTl9iEclGhDFtS
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+25. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:47:56 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugy4EXs9b_j5n1gx3sB4AaABAg.9dBoFBc3MoH9iEcoytyykQ
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+26. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:48:26 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgzGl2siU3Trqjr9CyV4AaABAg.9cxQ-fCRNFI9iEcsd83KA0
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+27. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:49:05 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwOL6CrzTDNiFudokN4AaABAg.9cvM58Lk05i9iEcxNnFKWP
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+28. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:50:20 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwrRR9t315tHOBWzCZ4AaABAg.9ckpap7fIDh9iEd5ZwnA0H
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+29. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:51:50 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwOH-qUgGoJ5EbKSGV4AaABAg.9c7gU3496Ja9iEdGZ0iRZW
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+30. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:53:21 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwIicy0WdPYbmdxMjZ4AaABAg.9bpbFWgIesk9iEdRcgL7hn
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+31. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:54:56 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugxo0OfXJgpYbTO3rNl4AaABAg.9bYmP5dmtQf9iEdcEKPSZM
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+32. Ron Lentjes:  $Big Pharma$ and $Big Food$  $medications$, $vaccines$, $drugs$, and $food additives$ (E numbers, E = evil), GMO, food sprays
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:57:50 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxOM67yUMvhNP61ZUp4AaABAg.9b0zD84ajvi9iEdxP8CC6U
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+33. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:57:11 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxOM67yUMvhNP61ZUp4AaABAg.9b0zD84ajvi9iEdseVJmWq
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+34. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 04:58:48 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugzu2LclkH-D24-3zkh4AaABAg.9b-fwZ-lZNi9iEe3YkTouu
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+35. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 05:00:01 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgxEz1JE90xRL99DuwN4AaABAg.9arCr6RNOUG9iEeCUq2tcH
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+36. Ron Lentjes:  I will try to explain why these things happen getting to the core issue. This is hidden from us due to $$$greed$$$.  We are spirits inhabiting a physical body to experience this physical reality. Western world does not see full reality as it is. Western world only believes in MATERIALISM which is but a fraction of a fraction of the whole.  You can only HELP by helping the SPIRIT, by talking and removing any attached spirits. Drugs don't help. Drugs lead to psychosis.  About spirit attachment of 1 or more spirits:  You are the main attachment to your body and you drift off here and there (and may not want to return if you don't like the physical situation you are in).  If you do have other spirits attached, they can influence you or temporarily control your body. You can also exhibit some behaviors or even physical pains or even bad health via the energies from 1 or more attached spirits.  Patients are locked away with these attached (kind or manipulative) spirits. The cutting of hands may be the trapped spirits trying to get away. Attached spirits may think the body is theirs! And think the patient is invading them. So on!  About $$$drugs$$$:  DSM (Drug $Sales$ Manual) says this If you have this wide range of symptoms from category A the add $$$Drug A$$$ to your list. Repeat adding $$$Drugs B-Z$$$ for each category B-Z. Now if you have trouble counting how many drugs are now in your list, just add one for $$$Drug$$$ for "Arithmetic Disorder". Payment plans available. Buy your[Comment Truncated by YT SPammer Purge]
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 05:01:45 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=Ugztmrl0FIrYM_GmLnJ4AaABAg.9aioR47HdQ79iEeP8QZLvK
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+37. Ron Lentjes:  dissected 🤣
+---------------------------------------------------------------------------------------------
+     > Reason: Duplicate
+     > Timestamp: Nov 10, 2022 @ 05:05:11 AM
+     > Direct Link: https://www.youtube.com/watch?v=bOsE3ln-skg&lc=UgwVz8WHDjr_mJOUPsl4AaABAg.9ah0Yrtr7ZN9iEenGDyujj
+     > Author Channel ID: UCE_T2gATTTTNw5xshuCl5CA
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+====================  NOTE:  Possible false positives marked with * Check them extra well! ==================== 
+ 1.  [x1]   UCaw3nHs9dGkOA7k9r1d4Blw | fredricful          : https://youtu.be/1I1vxu5qIUM ?                                                    
+ 2.  [x1]   UCxTIqcQuN4LDcdinSkvKKVg | Maya Langitan       : https://youtu.be/WgSE6m07Gfo                                                      
+*3. [x1]   UCY8cCy_Z91EQ7fbH4DEvMeQ | character           : Jude a ine of history   New International Version  1 Jude, a servant of Jesus C...
+
+-------------------- Non-Matched Commenters, but who wrote many similar comments --------------------
+---------------------- ( Similarity Threshold: 90%  |  Minimum Duplicates: 8 ) ----------------------
+ 4.  [x34]  UCE_T2gATTTTNw5xshuCl5CA | Ron Lentjes         : I will try to explain why these things happen getting to the core issue. This i...
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+
