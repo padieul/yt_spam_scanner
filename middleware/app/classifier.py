@@ -69,7 +69,7 @@ class GenericClassifier:
 
     
     def _get_single_comment_embedding(self, comment):
-        return self.tfidf_vectorizer.transform([[self._preprocess_single_comment(comment)]])
+        return self.tfidf_vectorizer.transform([self._preprocess_single_comment(comment)])
         #return self.vectorizer.transform([self._preprocess_single_comment(comment)])
 
 
