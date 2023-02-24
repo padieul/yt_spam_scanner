@@ -1,6 +1,14 @@
 
 # YtSpamScanner
 
+## Table of Contents
+
+1. [General Information](#general-information)
+1. [High Level Overview](#high-level-overview)
+1. [Project State](#project-state)
+1. [Data Analysis](#data-analysis)
+1. [Current Code State](#current-code-state)
+
 ## General Information
 Task: Text Analytics project
 
@@ -13,6 +21,10 @@ Existing Code Fragments: sklearn models ([SVM](https://scikit-learn.org/stable/m
 Utilized libraries: [models-requirements](./models/requirements.txt), [middleware-requirements](./middleware/requirements.txt)
 
 Contributions: see table below
+
+## High Level Overview
+
+![alt text](./images/high_level_overview.png)
 
 ## Project State
 Planning State:
