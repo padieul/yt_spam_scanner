@@ -168,6 +168,7 @@ services:
     volumes:
       - ./middleware/app:/code/app # for code changes
       - ./models/data:/code/data
+      - ./dataset:/code/dataset
       - ./models/saved_models:/code/saved_models
     networks:
       - ytScannerNetwork

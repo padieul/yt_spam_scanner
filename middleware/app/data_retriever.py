@@ -265,7 +265,7 @@ class ESConnect:
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
                        "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
-                       "classifier": "naive_bayes" # TODO "support_vector_machine", "logistic_regression" ?
+                       "classifier": "logistic_regression" # TODO "support_vector_machine", "naive_bayes" ?
                      }
 
             action = {

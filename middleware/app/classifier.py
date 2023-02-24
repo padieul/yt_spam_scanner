@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 class GenericClassifier:
 
-    def __init__(self, model_path="saved_models/multinomialnb_33-38.joblib"):
+    def __init__(self, model_path="saved_models/logisticregression_34-23.joblib"):
         self.model, self.model_name = self._load_model(model_path)
         self.corpus = self._load_corpus()
         #self.vectorizer = CountVectorizer(binary=True, max_df=0.95) # TODO tfidf? TODO arguments?
@@ -24,7 +24,7 @@ class GenericClassifier:
         #path = "saved_models/multinomialnb_33-38.joblib" # TODO decide on trained classifier
         return joblib.load(path), (path[path.index("/")+1:][:path[path.index("/")+1:].index("_")])
 
-    def _load_corpus(self, data_path = "data/YouTube-Spam-Collection/"):
+    def _load_corpus(self, data_path = "dataset/"):
         """
         Load YouTube spam collection (kaggle dataset) from given path
         """
@@ -69,7 +69,7 @@ class GenericClassifier:
 
     
     def _get_single_comment_embedding(self, comment):
-        return self.tfidf_vectorizer.transform([[self._preprocess_single_comment(comment)]])
+        return self.tfidf_vectorizer.transform([self._preprocess_single_comment(comment)])
         #return self.vectorizer.transform([self._preprocess_single_comment(comment)])
 
 
@@ -77,5 +77,10 @@ class GenericClassifier:
         """
         Classify the comment using the loaded classifier/model
         """
-        prediction_label = self.model.predict(self._get_single_comment_embedding(comment))
+        arg = self._get_single_comment_embedding(comment)
+        print("arg")
+        print(arg)
+        prediction_label = self.model.predict(arg)
+        print("prediction label")
+        print(prediction_label)
         return { f"{self.model_name}_prediction": prediction_label }
