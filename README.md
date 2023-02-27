@@ -102,7 +102,7 @@ Default Page             |  Link entered
 - Kibana Dashboards
 
 <p align="left">
-<img src="./images/dashboard1.png"  alt="dashboard" width="1500" />
+<img src="./images/dashboard1.png"  alt="dashboard" width="1500"/>
 </p>
 
 <p align="left">
