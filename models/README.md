@@ -5,4 +5,4 @@ This folder includes:
     - [logistic regression](train-logistic-regression.py) 
     - [naive bayes](train-naive-bayes.py)
     - [support vector machines](train-svm.py)
-- [folder](saved_models/) with the stored trained models and vectorizers
+- [folder](saved_models/) with the stored trained classifiers and vectorizers

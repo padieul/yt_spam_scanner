@@ -34,6 +34,7 @@ Contributions: see table below
 - clean and comment code
 - last updates and fixes
 - create video presentation and merge final code
+- write and hand in report
 
 High-level Architecture Description:
 
@@ -53,7 +54,7 @@ High-level Architecture Description:
     - **classifier** - includes a Generic Classifier class (load model, load and preprocess corpus, predict comments)
 
 
-- Preprocessing pipeline: removal of empty entries (and irrelevant features), lowercase, tokenization, lemmatization, removal of stop words
+- Preprocessing pipeline: removal of empty entries (and irrelevant features), lowercase, spacy tokenization and lemmatization, removal of stop words
 
 Data Analysis: see next section
 
@@ -64,37 +65,34 @@ Experiments:
 ## Data Analysis
 Data Sources: 
  - **Reference dataset:** [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
- - **Manually extracted dataset:** [Comments extracted using YouTube Data API](data/) (stored beforehead)
+ - **Manually extracted dataset:** [Comments extracted using YouTube Data API](data/dataset.csv) (stored beforehead)
  - **User selected data**: Comments extracted using YouTube Data API (live, from the input video url)
 
-Preprocessing:
-<!--preprocessing steps - unicode normalization, length normalization, text sanitizing, etc-->
-- see reference dataset description
-- see DataRetriever and ESConnect classes in data_retriever.py
-- see DataRetriever and ESConnect classes in data_retriever.py
+Preprocessing and storing pipeline:
+- text sanitizing
+- use model (default is ligistic regression) to classify the single comments
+- store relevant information regarding the single comments (such as author, channel, number of likes, date etc.)
  
-Data Statistics: 
-<!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
+Data Statistics:
 - The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
 <p align="left">
-<img src="./images/yt-spam-collection.png" alt="yt-spam-collection" width="500" />
+<img src="./images/yt-spam-collection.png" alt="yt-spam-collection" width="500"/>
 </p>
 
-- The [Own Data Set](data/) contains of X comments from Y different YouTube videos. There are A spam and B legitimate comments. 
-<!--Dataset with 30575 comments (spam: 12910, legitimate: 17665) was created in ./dataset.csv-->
+- The [Own Data Set](data/dataset.csv) contains of 30575 comments from 9 different YouTube videos. There are 12910 spam and 17665 legitimate comments. For more information see [here](data/README.md)
 <p align="left">
-<img src="./images/yt-own-dataset.png" alt="yt-own-spam-collection" width="500" />
+<img src="./images/yt-own-dataset.png" alt="yt-own-spam-collection" width="500"/>
 </p>
 
-Example comment stored in Elasticsearch: <!--example of data sample from our collection, eventually edge cases-->
+Example comment stored in Elasticsearch:
 <p align="left">
-<img src="./images/example-data.png" /> <!--TODO update-->
+<img src="./images/example-data.png" /> <!--TODO update (new png with the new filds)-->
 </p>
 
 ## Code State
 - Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"
 
-- Web App Frontend:
+- Web App Frontend: <!--TODO update (new png with the new filds)-->
 
 Default Page             |  Link entered
 :-------------------------:|:-------------------------:
@@ -119,7 +117,10 @@ Timeframe  | Angelina   | Vivian     | Abdulghani | Paul
 10.11 - 25.11   | Accessing Youtube API  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
 26.11 - 02.12   | Sample Youtube data exploration analysis and processing | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
 03.12 - 11.12   | Extending YtDataRetriever class | working on middleware and frontend | reformating ES data and working on data visualization |  working on middleware and frontend, Kibana dashboard creation
-
+11.12 - 15.01   |        |  group meetings   |  toubleshooting Kibana-to-Frontend network connectivity (group meetings)   | minor bugfixes  |
+15.01 - 30.01   |        |  frontend (tabs items)   |  frontend-to-middleware error debugging (group meetings) | iframe embedding for Kibana dashboard in frontend (group meetings) |
+01.02 - 15.02   |        |  create dataset script   |  obtain comments for dataset, setup yt-spammer-purge (group meetings) | bugfixes within the spam detection pipeline (group meetings)                                            | 
+15.02 - 28.02   |        |  group meetings   |  group meetings  | Updating Kibana dashboard views, Repository Clean Up (group meetings) |
 
 ## How to run and debug?
 <details>

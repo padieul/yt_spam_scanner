@@ -18,7 +18,7 @@ CLIENT_SECRET = "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"
 REFRESH_TOKEN = "refresh_token"
 DEVELOPER_KEY = "AIzaSyB3pX9aY3rmP8xZSngxxX14NseZ6KCxb0U"
 
-nlp = spacy.load("en_core_web_sm", disable=["ner"]) 
+nlp = spacy.load("en_core_web_sm", disable=["ner"])
 
 
 ##################################### Data Retriever Class #####################################
