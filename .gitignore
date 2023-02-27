@@ -3,3 +3,4 @@
 /middleware/app/__pycache__
 /elasticsearch
 __pycache__/
+./extra/
