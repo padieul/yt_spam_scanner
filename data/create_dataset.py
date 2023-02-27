@@ -11,6 +11,12 @@ def get_label(label_str: str):
     """Return 0 (legitimate) or 1 (spam)"""
     return 0 if label_str == "False" else 1
 
+def filter_comment_text(text):
+    """Clean comment text"""
+    filtered = text.replace("\n", "").replace("\"\"", "").replace("\"", "")
+    filtered = filtered.replace("\"", "")
+    filtered = filtered.replace("\r", "")
+    return filtered
 
 def create_dataset_csv(directory_path, dataset_path):
     """Create dataset from given json files and store it in csv file"""
@@ -20,11 +26,11 @@ def create_dataset_csv(directory_path, dataset_path):
             data = [json.loads(line) for line in source]
 
         for entry in data:
-            dataset.append([entry["commentText"].strip().rstrip(), get_label(entry["isSpam"])])
+            dataset.append([filter_comment_text(entry["commentText"].strip().rstrip()), get_label(entry["isSpam"])])
             if get_label(entry["isSpam"])==1:
                 # resample
                 for i in range(0,9):
-                    dataset.append([entry["commentText"].strip().rstrip(), get_label(entry["isSpam"])])
+                    dataset.append([filter_comment_text(entry["commentText"].strip().rstrip()), get_label(entry["isSpam"])])
 
     spomments = len([comment for comment in dataset if comment[1]==1])
     legitimate = len([comment for comment in dataset if comment[1]==0])
