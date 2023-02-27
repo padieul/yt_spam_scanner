@@ -76,8 +76,8 @@ def resample_spam(data_f):
 
 if __name__=='__main__':
     directory = "logs/"
-    dataset_json = "../dataset/dataset.json"
-    dataset_csv = "../dataset/dataset.csv"
+    dataset_json = "../data/dataset.json"
+    dataset_csv = "../data/dataset.csv"
     create_dataset_csv(directory, dataset_csv)
     #create_dataset_json(directory, dataset_json)
     #json_to_csv(dataset_json, dataset_csv)

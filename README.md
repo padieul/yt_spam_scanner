@@ -64,7 +64,7 @@ Experiments:
 ## Data Analysis
 Data Sources: 
  - **Reference dataset:** [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
- - **Manually extracted dataset:** [Comments extracted using YouTube Data API](dataset/) (stored beforehead)
+ - **Manually extracted dataset:** [Comments extracted using YouTube Data API](data/) (stored beforehead)
  - **User selected data**: Comments extracted using YouTube Data API (live, from the input video url)
 
 Preprocessing:
@@ -80,7 +80,7 @@ Data Statistics:
 <img src="./images/yt-spam-collection.png" alt="yt-spam-collection" width="500" />
 </p>
 
-- The [Own Data Set](dataset/) contains of X comments from Y different YouTube videos. There are A spam and B legitimate comments. 
+- The [Own Data Set](data/) contains of X comments from Y different YouTube videos. There are A spam and B legitimate comments. 
 <p align="left">
 <img src="./images/yt-own-dataset.png" alt="yt-own-spam-collection" width="500" />
 </p>

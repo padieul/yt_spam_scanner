@@ -24,7 +24,7 @@ class GenericClassifier:
         #path = "saved_models/multinomialnb_33-38.joblib" # TODO decide on trained classifier
         return joblib.load(path), (path[path.index("/")+1:][:path[path.index("/")+1:].index("_")])
 
-    def _load_corpus(self, data_path = "dataset/"):
+    def _load_corpus(self, data_path = "data/"):
         """
         Load YouTube spam collection (kaggle dataset) from given path
         """
