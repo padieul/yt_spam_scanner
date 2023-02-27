@@ -5,13 +5,17 @@ import spacy
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+MODEL_PATH = "saved_models/logisticregression_34-23.joblib"
+VECTORIZER_PATH = "saved_models/logisticregression_34-23.joblib"
+
 
 class GenericClassifier:
 
-    def __init__(self, model_path="saved_models/logisticregression_34-23.joblib"):
+    def __init__(self, model_path=MODEL_PATH):
         self.model, self.model_name = self._load_model(model_path)
         self.corpus = self._load_corpus()
-        self.tfidf_vectorizer = TfidfVectorizer(max_df=0.95, use_idf=True, stop_words='english')
+        self.tfidf_vectorizer = self._load_vectorizer(VECTORIZER_PATH)
+        #self.tfidf_vectorizer = TfidfVectorizer(max_df=0.95, use_idf=True, stop_words='english')
         self.nlp = spacy.load("en_core_web_sm", disable=["ner"])
         self._preprocess_corpus()
 
@@ -20,6 +24,10 @@ class GenericClassifier:
         """Load stored classifier"""
         #path = "saved_models/multinomialnb_33-38.joblib" # TODO decide on trained classifier
         return joblib.load(path), (path[path.index("/")+1:][:path[path.index("/")+1:].index("_")])
+
+    def _load_vectorizer(self, path):
+        """Load stored vectorizer"""
+        return joblib.load(path)
 
 
     def _load_corpus(self, data_path = "data/"):

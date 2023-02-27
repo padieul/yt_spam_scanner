@@ -229,7 +229,7 @@ class ESConnect:
 
     def __init__(self):
         self._es_client = Elasticsearch("http://es01:9200") #, auth=("elastic", "1234"))
-        #self._classifier = GenericClassifier()
+        self._classifier = GenericClassifier()
         self._es_index = "yt_video"
         self._es_index_name = ""
 
@@ -272,7 +272,7 @@ class ESConnect:
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
-                       "spam_label": self.generate_spam_label(), #self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
+                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), #self.generate_spam_label(), # TODO list or single char? TODO ensemble model -> NB, LR ?
                        "classifier": "logistic_regression" # TODO "support_vector_machine", "naive_bayes" ?
                      }
 
