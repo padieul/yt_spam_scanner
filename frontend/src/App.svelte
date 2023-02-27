@@ -13,6 +13,11 @@
 
   var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
   
+  function delay(milliseconds){
+    return new Promise(resolve => {
+        setTimeout(resolve, milliseconds);
+    });
+ }
 
   async function youtube_parser() {
     var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
@@ -30,12 +35,12 @@
       alert('The video ID could not be extracted! Please enter a valid URL!')
     }
     text_post_request = await postVideoId()
+    await delay(1500);
     text_get_request = await obtain_spam_comments()
   }
 
   async function postVideoId() {
     var message;
-    console.log("RETRIEVE COMMENTS!!!!!!!!!")
     const response = await fetch("http://localhost:8000/retrieve_comments/" + video_id_str,
                                 {
                                   method: 'POST',
@@ -43,25 +48,20 @@
                                   body: JSON.stringify(video_id_str)
                                 });
     message = await response.json();
-    console.log("MESSAGE RECEIVED !!!!!!!!")
-    console.log(JSON.stringify(message))
+    //console.log("COMMENTS RETRIEVED")
     return "The comments have been successfully obtained."
   }
 
-  // TODO finish and test
   async function obtain_spam_comments() {
     var message;
-    console.log("GET SPAMM COMMENTS!!!!!!!!!")
     const response = await fetch("http://localhost:8000/spam/" + video_id_str,
                                 {
                                   method: 'GET',
                                   mode: 'cors'
                                 });
     message = await response.json()
-    console.log("SPAM COMMENTS RECEIVED !!!!!!!!")
-    console.log(JSON.stringify(message))
+    //console.log("SPAM COMMENTS RETRIEVED")
     spam_comments = message["spam"];
-    console.log("SPAM COMMENTS: ", spam_comments)
     active_result_board = true;
     return "The comments have been successfully classified."
   }  

@@ -39,9 +39,9 @@ def split_data(features, labels):
 def save_model(model, tfidf):
     """Save a trained model to disk"""
     now = datetime.datetime.now()
-    model_output_path = "saved_models/"+model.__class__.__name__.lower()+"_"+str(now.minute)+"-"+str(now.second)+".joblib"
+    model_output_path = "saved_models/"+model.__class__.__name__.lower()+"_"+now.strftime("%d-%m-%y_%H-%M-%S")+".joblib"
     joblib.dump(model, open(model_output_path, 'wb+'))
-    tfidf_output_path = "saved_models/tfidf_"+str(now.minute)+"-"+str(now.second)+".joblib"
+    tfidf_output_path = "saved_models/tfidf_"+now.strftime("%d-%m-%y_%H-%M-%S")+".joblib"
     joblib.dump(tfidf, open(tfidf_output_path, 'wb+'))
 
 

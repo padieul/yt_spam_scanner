@@ -12,7 +12,7 @@ def get_label(label_str: str):
     return 0 if label_str == "False" else 1
 
 def filter_comment_text(text):
-    """Clean comment text"""
+    """Clean/preprocess comment text"""
     filtered = text.replace("\n", "").replace("\"\"", "").replace("\"", "")
     filtered = filtered.replace("\"", "")
     filtered = filtered.replace("\r", "")

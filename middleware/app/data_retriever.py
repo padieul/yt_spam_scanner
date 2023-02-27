@@ -3,13 +3,12 @@ import httplib2
 import spacy
 import googleapiclient
 import googleapiclient.discovery
-from oauth2client import client, GOOGLE_TOKEN_URI
-
-from elasticsearch import helpers
-from elasticsearch import Elasticsearch
 
 import random as rnd
-import numpy as np
+
+from oauth2client import client, GOOGLE_TOKEN_URI
+from elasticsearch import helpers
+from elasticsearch import Elasticsearch
 
 from app.classifier import GenericClassifier
 
@@ -18,10 +17,11 @@ CLIENT_ID = "737324637694-b6ngjvspqdgv9cbkto3li52ljcl09k4h.apps.googleuserconten
 CLIENT_SECRET = "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"
 REFRESH_TOKEN = "refresh_token"
 DEVELOPER_KEY = "AIzaSyB3pX9aY3rmP8xZSngxxX14NseZ6KCxb0U"
+
 nlp = spacy.load("en_core_web_sm", disable=["ner"]) #TODO decide on arguments
 
 
-################################################### Data Retriever Class ###################################################
+##################################### Data Retriever Class #####################################
 
 class YtDataRetriever:
 
@@ -112,7 +112,7 @@ class YtDataRetriever:
         return data
 
 
-################################################### YouTube Comment Class ###################################################
+##################################### YouTube Comment Class #####################################
 
 class YtComment:
 
@@ -194,7 +194,7 @@ class YtComment:
         return self._parent_id
 
 
-################################################### YouTube Reply of Comment Class ###################################################
+##################################### YouTube Reply of Comment Class #####################################
 
 class YtCommentReply:
 
@@ -223,7 +223,7 @@ class YtCommentReply:
         return yt_comment
 
 
-################################################### Elastic Search Class ###################################################
+##################################### Elastic Search Class #####################################
 
 class ESConnect:
 
@@ -235,13 +235,6 @@ class ESConnect:
 
     def _set_es_index_name(self, video_id):
         self._es_index_name = (str(self._es_index) + "_" + str(video_id)).lower()
-
-    def generate_spam_label(self):
-        rnd_num = rnd.random()
-        if rnd_num < 0.8:
-            return 0
-        elif rnd_num >= 0.8:
-            return 1
 
     def store_video_data(self, video_comments_data, video_id):
         """
@@ -272,7 +265,7 @@ class ESConnect:
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
-                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), #self.generate_spam_label(), # TODO list or single char? TODO ensemble model -> NB, LR ?
+                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
                        "classifier": "logistic_regression" # TODO "support_vector_machine", "naive_bayes" ?
                      }
 
@@ -295,7 +288,7 @@ class ESConnect:
         self._set_es_index_name(video_id)
 
         search_query = {"term": {
-                                "spam_label": {
+                                "spam_label.logisticregression_prediction": {
                                     "value": 1
                                     }
                                 }
@@ -307,12 +300,11 @@ class ESConnect:
         return spam_comments
 
 
-################################################### Main Function ###################################################
+##################################### Main Function #####################################
 
 if __name__ == "__main__":
     yt = YtDataRetriever()
     es = ESConnect()
     VIDEO_ID = "kdcvyfjuKCw"
     data = yt.get_video_data(VIDEO_ID)
-    print(data)
-    print(es.store_video_data(data, VIDEO_ID))
+    res = es.store_video_data(data, VIDEO_ID)

@@ -1,6 +1,7 @@
-from collections import Counter
 import os
 import requests
+
+from collections import Counter
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -25,7 +26,7 @@ app.add_middleware(
 
 es = ESConnect()
 
-################################################### For testing purpose ###################################################
+##################################### For testing purpose #####################################
 
 @app.get("/")
 def read_root():
@@ -80,7 +81,7 @@ def test_predict_real_comments(video_id):
     return { f"{nb_clf.model_name} and {lr_clf.model_name} predictions": predictions }
 
 
-################################################### Main FastAPI functions ###################################################
+##################################### Main FastAPI functions #####################################
 
 @app.get("/es_status/")
 def get_es_status():
@@ -113,7 +114,7 @@ async def return_spam_comments(video_id):
     return { "spam": es.get_spam_comments(video_id) }
 
 
-################################################### Main function ###################################################
+##################################### Main function #####################################
 
 if __name__ == "__main__":
     print(f"main.py:\n{test_predict_example_comments()}")
