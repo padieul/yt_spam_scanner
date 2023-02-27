@@ -81,6 +81,7 @@ Data Statistics:
 </p>
 
 - The [Own Data Set](data/) contains of X comments from Y different YouTube videos. There are A spam and B legitimate comments. 
+<!--Dataset with 30575 comments (spam: 12910, legitimate: 17665) was created in ./dataset.csv-->
 <p align="left">
 <img src="./images/yt-own-dataset.png" alt="yt-own-spam-collection" width="500" />
 </p>
