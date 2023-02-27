@@ -18,7 +18,7 @@ CLIENT_SECRET = "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"
 REFRESH_TOKEN = "refresh_token"
 DEVELOPER_KEY = "AIzaSyB3pX9aY3rmP8xZSngxxX14NseZ6KCxb0U"
 
-nlp = spacy.load("en_core_web_sm", disable=["ner"]) #TODO decide on arguments
+nlp = spacy.load("en_core_web_sm", disable=["ner"]) 
 
 
 ##################################### Data Retriever Class #####################################
@@ -248,8 +248,6 @@ class ESConnect:
                 for reply in item["replies"]["comments"]:
                     comment_reply = YtCommentReply(reply)
                     comments.append(comment_reply.transform_reply_to_comment())
-                
-                # TODO replies of reply?
 
         actions = []
         self._set_es_index_name(video_id)
@@ -261,16 +259,16 @@ class ESConnect:
                        'author_channel_url': comment.get_author_channel_url(),
                        'author_channel_id': comment.get_author_channel_id(),
                        'like_count': comment.get_like_count(),
-                       'comment_length': len(nlp(comment.get_text_original())), # TODO by spacy sind PUNCT auch separate tokens -> len(comment.get_text_original().split(" ")) ?
+                       'comment_length': len(nlp(comment.get_text_original())),
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
-                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
-                       "classifier": "logistic_regression" # TODO "support_vector_machine", "naive_bayes" ?
+                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()),
+                       "classifier": "logistic_regression"
                      }
 
             action = {
-                "_index": self._es_index_name, #.lower(),
+                "_index": self._es_index_name,
                 '_op_type': 'index',
                 "_type": '_doc',
                 "_source": source
@@ -278,7 +276,7 @@ class ESConnect:
             actions.append(action)
 
         res = helpers.bulk(self._es_client, actions)
-        return res # TODO return statement? status of the action to be shown in frontend?
+        return res 
 
 
     def get_spam_comments(self, video_id):
