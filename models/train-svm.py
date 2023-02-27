@@ -6,7 +6,6 @@ import datetime
 #from sklearn.utils import resample # downsample dataset
 from sklearn.model_selection import train_test_split # split to training and testing datasets
 from sklearn.model_selection import GridSearchCV # cross validation
-#from sklearn.preprocessing import scale # scale and center data
 from sklearn.svm import SVC # support vector classifier
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
