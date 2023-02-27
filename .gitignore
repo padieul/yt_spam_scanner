@@ -3,10 +3,6 @@
 /middleware/app/__pycache__
 /elasticsearch
 __pycache__/
-<<<<<<< HEAD
 /yt-spammer-purge/client_secrets.json
 logs/
-
-=======
 /extra
->>>>>>> 4a5b1909619277fca19280d24e805eb7401d4425
