@@ -18,6 +18,8 @@ DEVELOPER_KEY = "AIzaSyB3pX9aY3rmP8xZSngxxX14NseZ6KCxb0U"
 nlp = spacy.load("en_core_web_sm", disable=["ner"]) #TODO decide on arguments
 
 
+################################################### Data Retriever Class ###################################################
+
 class YtDataRetriever:
 
     def __init__(self):
@@ -53,6 +55,7 @@ class YtDataRetriever:
         self._data_response = self.get_video_comments(youtube, video_id)
         return self._data_response
 
+
     def get_comment_replies(self, service, comment_id):
         request = service.comments().list(
             parentId=comment_id,
@@ -69,13 +72,13 @@ class YtDataRetriever:
 
         return replies
 
+
     def get_video_comments(self, service, video_id):
         request = service.commentThreads().list(
             videoId=video_id,
             part='id,snippet,replies',
             maxResults=100
         )
-
         data = {}
         comments = []
 
@@ -101,10 +104,12 @@ class YtDataRetriever:
                 comments.append(comment)
 
             data['items'] = comments
-
             request = service.commentThreads().list_next(request, response)
 
         return data
+
+
+################################################### YouTube Comment Class ###################################################
 
 class YtComment:
 
@@ -117,19 +122,17 @@ class YtComment:
             self._author_channel_id = None
             self._like_count = None
             self._publish_date = None
-
             self._is_reply = None
             self._parent_id = None
 
         else: # comment
             self._id = data_item["snippet"]["topLevelComment"]["id"]
-            self._text_original = data_item['snippet']['topLevelComment']['snippet']['textOriginal'].replace("\n", "")
+            self._text_original = data_item['snippet']['topLevelComment']['snippet']['textOriginal'].strip().rstrip()
             self._author_name = data_item['snippet']['topLevelComment']['snippet']['authorDisplayName']
             self._author_channel_url = data_item["snippet"]["topLevelComment"]["snippet"]["authorChannelUrl"]
             self._author_channel_id = data_item["snippet"]["topLevelComment"]["snippet"]["authorChannelId"]["value"]
             self._like_count = data_item['snippet']['topLevelComment']['snippet']['likeCount']
             self._publish_date = data_item['snippet']['topLevelComment']['snippet']['publishedAt']
-
             self._is_reply = False
             self._parent_id = self._id
 
@@ -142,10 +145,10 @@ class YtComment:
     def set_author_name(self, arg):
         self._author_name = arg
 
-    def set_author_chan_url(self, arg):
+    def set_author_channel_url(self, arg):
         self._author_channel_url = arg
 
-    def set_author_chan_id(self, arg):
+    def set_author_channel_id(self, arg):
         self._author_channel_id = arg
 
     def set_like_count(self, arg):
@@ -160,16 +163,19 @@ class YtComment:
     def set_parent_id(self, arg):
         self._parent_id = arg
 
+    def get_id(self):
+        return self._id
+
     def get_text_original(self):
         return self._text_original
 
     def get_author_name(self):
         return self._author_name
 
-    def get_author_chan_url(self):
+    def get_author_channel_url(self):
         return self._author_channel_url
 
-    def get_author_chan_id(self):
+    def get_author_channel_id(self):
         return self._author_channel_id
 
     def get_like_count(self):
@@ -184,43 +190,42 @@ class YtComment:
     def get_parent_id(self):
         return self._parent_id
 
-    def get_id(self):
-        return self._id
+
+################################################### YouTube Reply of Comment Class ###################################################
 
 class YtCommentReply:
 
     def __init__(self, data_item):
         self._id = data_item["id"]
-        self._text_original = data_item['snippet']['textOriginal'].replace("\n", "")
+        self._text_original = data_item['snippet']['textOriginal'].strip().rstrip()
         self._author_name = data_item["snippet"]["authorDisplayName"]
         self._author_channel_url = data_item["snippet"]["authorChannelUrl"]
         self._author_channel_id = data_item["snippet"]["authorChannelId"]["value"]
         self._like_count = data_item['snippet']['likeCount']
         self._publish_date = data_item['snippet']['publishedAt']
-
         self._is_reply = True
         self._parent_id = data_item["snippet"]["parentId"]
 
-    def to_yt_comment(self):
+    def transform_reply_to_comment(self):
         yt_comment = YtComment()
         yt_comment.set_id(self._id)
         yt_comment.set_text_original(self._text_original)
         yt_comment.set_author_name(self._author_name)
-        yt_comment.set_author_chan_url(self._author_channel_url)
-        yt_comment.set_author_chan_id(self._author_channel_id)
+        yt_comment.set_author_channel_url(self._author_channel_url)
+        yt_comment.set_author_channel_id(self._author_channel_id)
         yt_comment.set_like_count(self._like_count)
         yt_comment.set_publish_date(self._publish_date)
-
         yt_comment.set_is_reply(self._is_reply)
         yt_comment.set_parent_id(self._parent_id)
-
         return yt_comment
+
+
+################################################### Elastic Search Class ###################################################
 
 class ESConnect:
 
     def __init__(self):
-        #self._es_client = Elasticsearch("http://es01:9200", auth=("elastic", "1234"))
-        self._es_client = Elasticsearch("http://es01:9200")
+        self._es_client = Elasticsearch("http://es01:9200") #, auth=("elastic", "1234"))
         self._classifier = GenericClassifier()
         self._es_index = "yt_video"
         self._es_index_name = ""
@@ -230,28 +235,21 @@ class ESConnect:
 
     def store_video_data(self, video_comments_data, video_id):
         """
-        Loading data into elasticsearch
+        Load video comments data into Elastic Search
         """
         comments = []
         for item in video_comments_data["items"]:
-            try:
-                comment = YtComment(item)
-                comments.append(comment)
-            except:
-                continue #TODO
-            # except Exception as e:
-            #    print(e)
-            if "replies" in item.keys():
+            comment = YtComment(item)
+            comments.append(comment)
+            if "replies" in item.keys(): # consider first level replies
                 for reply in item["replies"]["comments"]:
-                    try:
-                        comment_reply = YtCommentReply(reply)
-                        comments.append(comment_reply.to_yt_comment())
-                    except:
-                        continue #TODO
+                    comment_reply = YtCommentReply(reply)
+                    comments.append(comment_reply.transform_reply_to_comment())
+                
                 # TODO replies of reply?
 
         actions = []
-        self._set_es_index_name(video_id) # self._es_index_name = str(self._es_index) + "_" + str(video_id)
+        self._set_es_index_name(video_id)
 
         for i, comment in enumerate(comments):
             source = { 'id': comment.get_id(),
@@ -280,9 +278,9 @@ class ESConnect:
         return res # TODO return statement? status of the action to be shown in frontend?
 
 
-    def get_spam_comments(self, video_id): #TODO test
+    def get_spam_comments(self, video_id):
         """
-        return the spam comments found/predicted in the given video
+        Return the spam comments found/predicted in the given video
         """
         self._set_es_index_name(video_id)
 
@@ -298,6 +296,8 @@ class ESConnect:
 
         return spam_comments
 
+
+################################################### Main Function ###################################################
 
 if __name__ == "__main__":
     yt = YtDataRetriever()
