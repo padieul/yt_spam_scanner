@@ -2,10 +2,11 @@ import pandas as pd
 import numpy as np
 import joblib
 import datetime
+import time
 
 from sklearn.model_selection import train_test_split # split to training and testing datasets
 from sklearn.model_selection import GridSearchCV # cross validation
-from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 import spacy
@@ -21,7 +22,7 @@ def preprocess_data(corpus):
 
     # add column for representation
     corpus['REPR'] = corpus.loc[:, 'CONTENT']
-
+  
     # lower case
     corpus['REPR'] = corpus['REPR'].str.lower()
 
@@ -42,18 +43,21 @@ def save_model(model):
     model_output_path = "saved_models/"+model.__class__.__name__.lower()+"_"+str(now.minute)+"-"+str(now.second)+".joblib"
     joblib.dump(model, open(model_output_path, 'wb+'))
 
-
-def train_lg_classifier(features, labels):
+    
+def train_nb_classifier(features, labels):
     """Train logistic regression classifier and find optimal parameters via crossvalidation"""
     X_train, X_test, y_train, y_test = split_data(features, labels) # split data
-    param = {'C': [1e-5, 1e-3, 1e-1, 1e0, 1e1, 1e2]}
 
-    clf = GridSearchCV(LogisticRegression(), param, cv=5, n_jobs=2, verbose=0)
+    param = {'alpha': [0.01, 0.1, 0.5, 1.0, 10.0, ],
+             'fit_prior': [True, False]
+            }
 
+    clf = GridSearchCV(MultinomialNB(), param, cv=5, n_jobs=2, verbose=0)
+    
     clf.fit(X_train, y_train)
-    lg_clf = clf.best_estimator_
+    nb_clf = clf.best_estimator_
 
-    save_model(lg_clf) # save model to disk
+    save_model(nb_clf) # save model to disk
 
 
 
@@ -77,7 +81,10 @@ if __name__ == "__main__":
     tfidf_vectorizer = TfidfVectorizer(max_df=0.95, use_idf=True, stop_words='english') #min_df= 3, stop_words="english", sublinear_tf=True, norm='l2', ngram_range=(1, 2))
     tfidf_voc = tfidf_vectorizer.fit_transform(corpus["REPR"])
 
-    train_lg_classifier(BOW, np.asarray(corpus["CLASS"]))
-    train_lg_classifier(BOW_2, np.asarray(corpus["CLASS"]))
-    train_lg_classifier(BOW_3, np.asarray(corpus["CLASS"]))
-    train_lg_classifier(tfidf_voc, np.asarray(corpus["CLASS"]))
+    train_nb_classifier(BOW, np.asarray(corpus["CLASS"]))
+    time.sleep(3)
+    train_nb_classifier(BOW_2, np.asarray(corpus["CLASS"]))
+    time.sleep(3)
+    train_nb_classifier(BOW_3, np.asarray(corpus["CLASS"]))
+    time.sleep(3)
+    train_nb_classifier(tfidf_voc, np.asarray(corpus["CLASS"]))

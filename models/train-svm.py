@@ -3,13 +3,14 @@ import numpy as np
 import joblib
 import datetime
 
+#from sklearn.utils import resample # downsample dataset
 from sklearn.model_selection import train_test_split # split to training and testing datasets
 from sklearn.model_selection import GridSearchCV # cross validation
-from sklearn.linear_model import LogisticRegression
+#from sklearn.preprocessing import scale # scale and center data
+from sklearn.svm import SVC # support vector classifier
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 import spacy
-
 
 
 def preprocess_data(corpus):
@@ -18,16 +19,16 @@ def preprocess_data(corpus):
 
     # remove blank rows if any
     corpus.dropna(inplace=True)
-
+    
     # add column for representation
     corpus['REPR'] = corpus.loc[:, 'CONTENT']
-
+        
     # lower case
     corpus['REPR'] = corpus['REPR'].str.lower()
-
-    # lemmatize, remove stopwords
-    for comment in corpus["REPR"]:
+    
+    for comment in corpus["REPR"]:    
         doc = nlp(comment)
+        # lemmatize, remove stopwords
         comment = " ".join([token.lemma_ for token in doc if not token.is_stop])
 
 
@@ -42,18 +43,22 @@ def save_model(model):
     model_output_path = "saved_models/"+model.__class__.__name__.lower()+"_"+str(now.minute)+"-"+str(now.second)+".joblib"
     joblib.dump(model, open(model_output_path, 'wb+'))
 
-
-def train_lg_classifier(features, labels):
+    
+def train_svm_classifier(features, labels):
     """Train logistic regression classifier and find optimal parameters via crossvalidation"""
     X_train, X_test, y_train, y_test = split_data(features, labels) # split data
-    param = {'C': [1e-5, 1e-3, 1e-1, 1e0, 1e1, 1e2]}
 
-    clf = GridSearchCV(LogisticRegression(), param, cv=5, n_jobs=2, verbose=0)
+    param = {'C': [0.1, 1, 10, 100, 1000],
+             'gamma': [1, 0.1, 0.01, 0.001, 0.0001, 0.00001],
+             'kernel': ['rbf', 'linear', 'poly', 'sigmoid']
+            }
+
+    clf = GridSearchCV(SVC(), param, cv=5, n_jobs=2, verbose=0)
 
     clf.fit(X_train, y_train)
-    lg_clf = clf.best_estimator_
+    svm_clf = clf.best_estimator_
 
-    save_model(lg_clf) # save model to disk
+    save_model(svm_clf) # save model to disk
 
 
 
@@ -74,10 +79,10 @@ if __name__ == "__main__":
     BOW_3 = bigram_vectorizer.fit_transform(corpus["REPR"])
 
     # TF-IDF
-    tfidf_vectorizer = TfidfVectorizer(max_df=0.95, use_idf=True, stop_words='english') #min_df= 3, stop_words="english", sublinear_tf=True, norm='l2', ngram_range=(1, 2))
+    tfidf_vectorizer = TfidfVectorizer(max_df=0.95, use_idf=True, stop_words='english')  #min_df= 3, stop_words="english", sublinear_tf=True, norm='l2', ngram_range=(1, 2))
     tfidf_voc = tfidf_vectorizer.fit_transform(corpus["REPR"])
 
-    train_lg_classifier(BOW, np.asarray(corpus["CLASS"]))
-    train_lg_classifier(BOW_2, np.asarray(corpus["CLASS"]))
-    train_lg_classifier(BOW_3, np.asarray(corpus["CLASS"]))
-    train_lg_classifier(tfidf_voc, np.asarray(corpus["CLASS"]))
+    train_svm_classifier(BOW, np.asarray(corpus["CLASS"]))
+    train_svm_classifier(BOW_2, np.asarray(corpus["CLASS"]))
+    train_svm_classifier(BOW_3, np.asarray(corpus["CLASS"]))
+    train_svm_classifier(tfidf_voc, np.asarray(corpus["CLASS"]))
