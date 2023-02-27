@@ -16,7 +16,7 @@ Team Members: Angelina Basova, Abdulghani Almasri, Paul Dietze, Vivian Kazakova
 
 Mail Addresses: angelina.basova@stud.uni-heidelberg.de, abdulghani.almasri@stud.uni-heidelberg.de, cl250@uni-heidelberg.de, vivian.kazakova@stud.uni-heidelberg.de
 
-Existing Code Fragments: sklearn models ([SVM](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)), [spaCy](https://spacy.io/), [nltk](https://www.nltk.org/)
+Existing Code Fragments: sklearn models ([SVM](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)), [spaCy](https://spacy.io/), [nltk](https://www.nltk.org/), [YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
 
 Utilized libraries: [models-requirements](./models/requirements.txt), [middleware-requirements](./middleware/requirements.txt)
 
@@ -26,21 +26,19 @@ Contributions: see table below
 
 ![alt text](./images/high_level_overview.png)
 
-## Project State
-Planning State:
- - finished tasks: setup ES and Kibana, setup containers and debug configurations, obtain existing spam collection dataset, implement pipeline for extracting video comments using YouTube Data API, implement and store models (SVM, LG, NB), develop first prototyp of the interface, implement pipeline for loading and storing data in ES, create FastAPI functions, create example dashboards
- - still in process: implement and store Ensemble model, choose the optimal spam classifier (i.e. evaluation of the four classifiers), further development (improve preprocess pipeline, frontend; add more features, visualizations and analysis), predicted spam labels not included in dashboard yet
-
-Future Planning:
-<!--timeline for second part of project, future time schedules-->
- - in mid/end-January: decide on spam classifier, improve preprocessing pipeline and frontend (include results of scanning)
- - in mid-February: last updates and fixes and finish further development
- - end of February: create video presentation and merge final code
+## Project Milestones
+- setup ES and Kibana, setup containers and debug configurations, obtain existing spam collection dataset ([YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#))
+- implement pipeline for extracting video comments using YouTube Data API, implement and store models (SVM, LG, NB), implement pipeline for loading and storing data in ES, create FastAPI functions, create first (example) dashboards
+- develop first prototyp of the interface
+- decide on spam classifier, improve preprocessing pipeline, improve frontend by including the results of the scanning (= spam comments and embedded dashboards)
+- clean and comment code
+- last updates and fixes
+- create video presentation and merge final code
 
 High-level Architecture Description:
 
 - Containers:
-    - **frontend** - simple Svelte frontend that takes a video link and extracts the Video ID
+    - **frontend** - simple Svelte frontend that takes a video link, extracts the Video ID and shows the results (found spam comments and embedded dashboards) of the scanning
     - **middleware** - contains both an api implemented with FastAPI and main application functionality: retrieving raw data from Youtube API, reformatting, applying classifier and storing final data in Elasticsearch
     - **elasticsearch** - an ES instance
     - **kibana** - a Kibana container
@@ -49,12 +47,13 @@ High-level Architecture Description:
 
 - Code Structure in Middleware:
     - **main** - includes the api functions 
-    - **data_retriever** - comprised of 4 clases
+    - **data_retriever** - comprised of 4 classes
         - 2 data classes: YtComment and YtCommentReply that store comment data for initial comments and reply comments respectively 
         - 2 interface/connection classes: YtDataRetriever allows comment retrieval from the official Youtube API, ESConnect takes care of storing comments in elasticsearch
+    - **classifier** - includes a Generic Classifier class (load model, load and preprocess corpus, predict comments)
 
 
-- Preprocessing pipeline: removal of irrelevant features and empty entries, lowercase, tokenization, lemmatization, removal of stop words
+- Preprocessing pipeline: removal of empty entries (and irrelevant features), lowercase, tokenization, lemmatization, removal of stop words
 
 Data Analysis: see next section
 
@@ -65,8 +64,8 @@ Experiments:
 ## Data Analysis
 Data Sources: 
  - **Reference dataset:** [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)
- - **Manually extracted dataset:** Comments extracted using YouTube Data API (stored beforehead) - not assembled yet
- - **User selected data**: (* up until 12.12.2022) Comments extracted using YouTube Data API (live, from the input video) for 4 random videos(see Dashboard)
+ - **Manually extracted dataset:** [Comments extracted using YouTube Data API](dataset/) (stored beforehead)
+ - **User selected data**: Comments extracted using YouTube Data API (live, from the input video url)
 
 Preprocessing:
 <!--preprocessing steps - unicode normalization, length normalization, text sanitizing, etc-->
@@ -74,27 +73,27 @@ Preprocessing:
 - see DataRetriever and ESConnect classes in data_retriever.py
 - see DataRetriever and ESConnect classes in data_retriever.py
  
-Basic Statistics: 
+Data Statistics: 
 <!--number of samples, mean, median & standard deviation, etc.; class distribution, plots-->
 - The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
 <p align="left">
-<img src="./images/spam-collection.png" alt="spam-collection" width="500" />
+<img src="./images/yt-spam-collection.png" alt="yt-spam-collection" width="500" />
 </p>
 
-- Eventually through a separate Kibana Dashboard
-- See Dashboard section for visualization and basic statistics
+- The [Own Data Set](dataset/) contains of X comments from Y different YouTube videos. There are A spam and B legitimate comments. 
+<p align="left">
+<img src="./images/yt-own-dataset.png" alt="yt-own-spam-collection" width="500" />
+</p>
 
 Example comment stored in Elasticsearch: <!--example of data sample from our collection, eventually edge cases-->
 <p align="left">
-<img src="./images/example-data.png" />
+<img src="./images/example-data.png" /> <!--TODO update-->
 </p>
 
-## Current Code State
+## Code State
 - Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"
 
 - Web App Frontend:
-
-
 
 Default Page             |  Link entered
 :-------------------------:|:-------------------------:
@@ -110,9 +109,6 @@ Default Page             |  Link entered
 <p align="left">
 <img src="./images/dashboard2.png"  alt="dashboard" width="1500"/>
 </p>
-
-
-
 
 
 ## Contributions
