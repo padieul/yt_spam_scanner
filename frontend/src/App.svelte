@@ -30,12 +30,7 @@
       alert('The video ID could not be extracted! Please enter a valid URL!')
     }
     text_post_request = await postVideoId()
-    //change_post_video_id() 
     text_get_request = await obtain_spam_comments()
-  }
-
-  function change_post_video_id() {
-    text_post_request = "Hi, I am Paul"
   }
 
   async function postVideoId() {
@@ -82,7 +77,7 @@
   <div slot="header">
     <div class="header" class:shadow={!!scroller.scroll}>YouTube Spam Scanner</div>
   </div>
-  <p class="p">Dear user, welcome to the YouTube Spam Scanner! <span class="wave">đź‘‹</span></p>
+  <p class="p">Dear user, welcome to the YouTube Spam Scanner! <span class="wave">👋</span></p>
 
   <div class="help">
     <div class="question"><i class="mi mi-circle-help"><span class="u-sr-only"></span></i></div>

@@ -167,8 +167,7 @@ services:
       - 5678:5678 # for remote debugger when DEBUG=1
     volumes:
       - ./middleware/app:/code/app # for code changes
-      - ./models/data:/code/data
-      - ./dataset:/code/dataset
+      - ./data:/code/data
       - ./models/saved_models:/code/saved_models
     networks:
       - ytScannerNetwork
@@ -194,9 +193,9 @@ services:
       - ./yt-spammer-purge/client_secrets.json:/usr/src/app/client_secrets.json # Client secret for Google API login
       - ./yt-spammer-purge/token.pickle:/usr/src/app/token.pickle # Tocken file for Google API login
       - ./yt-spammer-purge/SpamPurge_Resources:/usr/src/app/SpamPurge_Resources # Resources used by the third-part filter
-      - type: bind
-        source: ./yt-spammer-purge/logs # Map the results
-        target: /usr/src/app/logs
+      # - type: bind
+      #   source: ./yt-spammer-purge/logs # Map the results
+      #   target: /usr/src/app/logs
     stdin_open: true # Force the interactive mode
     tty: true # Force the interactive mode
 

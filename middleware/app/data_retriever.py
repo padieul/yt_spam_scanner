@@ -8,6 +8,9 @@ from oauth2client import client, GOOGLE_TOKEN_URI
 from elasticsearch import helpers
 from elasticsearch import Elasticsearch
 
+import random as rnd
+import numpy as np
+
 from app.classifier import GenericClassifier
 
 
@@ -226,12 +229,19 @@ class ESConnect:
 
     def __init__(self):
         self._es_client = Elasticsearch("http://es01:9200") #, auth=("elastic", "1234"))
-        self._classifier = GenericClassifier()
+        #self._classifier = GenericClassifier()
         self._es_index = "yt_video"
         self._es_index_name = ""
 
     def _set_es_index_name(self, video_id):
         self._es_index_name = (str(self._es_index) + "_" + str(video_id)).lower()
+
+    def generate_spam_label(self):
+        rnd_num = rnd.random()
+        if rnd_num < 0.8:
+            return 0
+        elif rnd_num >= 0.8:
+            return 1
 
     def store_video_data(self, video_comments_data, video_id):
         """
@@ -255,14 +265,14 @@ class ESConnect:
             source = { 'id': comment.get_id(),
                        'content': comment.get_text_original(),
                        'author_name': comment.get_author_name(),
-                       'author_channel_url': comment.get_author_chan_url(),
-                       'author_channel_id': comment.get_author_chan_id(),
+                       'author_channel_url': comment.get_author_channel_url(),
+                       'author_channel_id': comment.get_author_channel_id(),
                        'like_count': comment.get_like_count(),
                        'comment_length': len(nlp(comment.get_text_original())), # TODO by spacy sind PUNCT auch separate tokens -> len(comment.get_text_original().split(" ")) ?
                        'publish_date': comment.get_publish_date(),
                        'is_reply': comment.get_is_reply(),
                        'parent_id': comment.get_parent_id(),
-                       "spam_label": self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
+                       "spam_label": self.generate_spam_label(), #self._classifier.predict_single_comment(comment.get_text_original()), # TODO list or single char? TODO ensemble model -> NB, LR ?
                        "classifier": "logistic_regression" # TODO "support_vector_machine", "naive_bayes" ?
                      }
 
@@ -285,7 +295,7 @@ class ESConnect:
         self._set_es_index_name(video_id)
 
         search_query = {"term": {
-                                "spam_label.nb_prediction": {
+                                "spam_label": {
                                     "value": 1
                                     }
                                 }

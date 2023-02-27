@@ -23,6 +23,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+es = ESConnect()
 
 ################################################### For testing purpose ###################################################
 
@@ -99,7 +100,6 @@ def retrieve_comments(video_id):
     if video_id:
         yt = YtDataRetriever()
         data = yt.get_video_data(video_id) # TODO which function is to be used? (get_video_comments)
-        es = ESConnect()
         status = es.store_video_data(data, video_id)
 
     return { "answer": status } # TODO handle status
@@ -110,7 +110,6 @@ async def return_spam_comments(video_id):
     """"
     Output spam comments from the given video
     """
-    es = ESConnect()
     return { "spam": es.get_spam_comments(video_id) }
 
 
