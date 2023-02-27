@@ -4,5 +4,6 @@
 /elasticsearch
 __pycache__/
 /yt-spammer-purge/client_secrets.json
+/yt-spammer-purge/token.pickle
 logs/
 /extra
