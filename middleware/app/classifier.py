@@ -4,8 +4,8 @@ import joblib
 import spacy
 import pandas as pd
 
-MODEL_PATH = "saved_models/logisticregression_27-2-23_16-49-13.joblib" # TODO decide on trained classifier
-VECTORIZER_PATH = "saved_models/tfidf_logisticregression_27-2-23_16-49-13.joblib"
+MODEL_PATH = "saved_models/logisticregression_27-2-23_16-49-13.joblib" # LG model with tfidf
+VECTORIZER_PATH = "saved_models/tfidf_logisticregression_27-2-23_16-49-13.joblib" # tfidf vectorizer
 
 
 class GenericClassifier:
@@ -38,7 +38,6 @@ class GenericClassifier:
         Preprocessing pipeline for given comment:
         provides lowercasing, spacy tokenization and lemmatization, and removes stopwords
         """
-        # TODO not token.is_punct?
         return " ".join([token.lemma_ for token in self.nlp(comment) if not token.is_stop])
 
 

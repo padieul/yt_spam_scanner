@@ -92,13 +92,13 @@ Data Statistics:
 
 Example comment stored in Elastic Search:
 <p align="left">
-<img src="./images/example-data.png" /> <!--TODO update (new png with the new filds)-->
+<img src="./images/example_es_entry_new.png"/>
 </p>
 
 ## Code State
 - Important: Self-explanatory Variables, Comments, Docstrings, Module Structure, Code Consistency, [PEP-8](https://www.python.org/dev/peps/pep-0008/), "Hacks"
 
-- Web App Frontend: <!--TODO update (new png with the new filds)-->
+- Web App Frontend:
 
 Default Page             |  Link entered
 :-------------------------:|:-------------------------:
