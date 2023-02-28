@@ -22,9 +22,6 @@ Utilized libraries: [models-requirements](./models/requirements.txt), [middlewar
 
 Contributions: see table below
 
-## High Level Overview
-
-![alt text](./images/high_level_overview.png)
 
 ## Project Milestones
 - setup ES and Kibana, setup containers and debug configurations, obtain existing spam collection dataset ([YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#))
@@ -36,7 +33,12 @@ Contributions: see table below
 - create video presentation and merge final code
 - write and hand in report
 
-High-level Architecture Description:
+
+## High Level Overview
+
+![alt text](./images/high_level_overview.png)
+
+Architecture Description:
 
 - Containers:
     - **frontend** - simple Svelte frontend that takes a video link, extracts the Video ID and shows the results (found spam comments and embedded dashboards) of the scanning
@@ -47,14 +49,18 @@ High-level Architecture Description:
     - **setup** - an additional container that runs scripts that help with configuring security credentials for ES and Kibana communication
 
 - Code Structure in Middleware:
-    - **main** - includes the api functions 
-    - **data_retriever** - comprised of 4 classes
-        - 2 data classes: YtComment and YtCommentReply that store comment data for initial comments and reply comments respectively 
-        - 2 interface/connection classes: YtDataRetriever allows comment retrieval from the official Youtube API, ESConnect takes care of storing comments in elasticsearch
-    - **classifier** - includes a Generic Classifier class (load model, load and preprocess corpus, predict comments)
+    - **main** - includes the FastAPI functions 
+    - **data_retriever** - comprised of 4 classes:
+        - 2 data classes: YtComment and YtCommentReply that store comment data for initial comments and their replies respectively 
+        - 2 interface classes: YtDataRetriever, which allows comment retrieval via the official Youtube API and ESConnect, which takes care of storing the comments and their data in Elastic Search
+    - **classifier** - includes a Generic Classifier class, which allows loading the stored, already trained model and vectorizer, as well as preprocessing and prediction of single comments
 
 
-- Preprocessing pipeline: removal of empty entries (and irrelevant features), lowercase, spacy tokenization and lemmatization, removal of stop words
+- Preprocessing pipeline consisting of the following steps:
+    - removal of empty entries (and irrelevant features)
+    - lowercase
+    - spacy tokenization and lemmatization
+    - removal of stop words
 
 Data Analysis: see next section
 
@@ -70,8 +76,8 @@ Data Sources:
 
 Preprocessing and storing pipeline:
 - text sanitizing
-- use model (default is ligistic regression) to classify the single comments
-- store relevant information regarding the single comments (such as author, channel, number of likes, date etc.)
+- using stored and already trained model (default is ligistic regression) to classify individual comments
+- saving relevant information about each comment (such as author, channel, number of likes, date, etc.).
  
 Data Statistics:
 - The [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#) contains of 1956 comments from 5 different YouTube videos. There are 1005 spam and 951 legitimate comments. 
@@ -84,7 +90,7 @@ Data Statistics:
 <img src="./images/yt-own-dataset.png" alt="yt-own-spam-collection" width="500"/>
 </p>
 
-Example comment stored in Elasticsearch:
+Example comment stored in Elastic Search:
 <p align="left">
 <img src="./images/example-data.png" /> <!--TODO update (new png with the new filds)-->
 </p>
