@@ -162,6 +162,7 @@ services:
       - API_DEBUG=1 # setting debug state
     env_file:
       - .env # for inserting the ES password
+      - .env.secrets # secrets for Google Data API
     ports:
       - 8000:8000 # main port
       - 5678:5678 # for remote debugger when DEBUG=1

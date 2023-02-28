@@ -87,7 +87,7 @@ def retrieve_comments(video_id):
         data = yt.get_video_data(video_id)
         status = es.store_video_data(data, video_id)
 
-    return { "answer": status } 
+    return { "answer": status }
 
 
 @app.get("/spam/{video_id}")

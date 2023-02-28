@@ -9,3 +9,4 @@ logs/
 /extra
 yt-spammer-purge/
 data/YouTube-Spam-Collection/
+.env.secrets

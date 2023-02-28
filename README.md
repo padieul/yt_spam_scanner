@@ -102,17 +102,17 @@ Example comment stored in Elastic Search:
 
 Default Page             |  Link entered
 :-------------------------:|:-------------------------:
-![](/images/frontend1.png)  |  ![](/images/frontend2.png)
+![](/images/screen1_new.png)  |  ![](/images/screen2_new.png)
 
 
 - Kibana Dashboards
 
 <p align="left">
-<img src="./images/dashboard1.png"  alt="dashboard" width="1500"/>
+<img src="./images/dashboard_embedded1.png"  alt="dashboard" width="1500"/>
 </p>
 
 <p align="left">
-<img src="./images/dashboard2.png"  alt="dashboard" width="1500"/>
+<img src="./images/dashboard_embedded2.png"  alt="dashboard" width="1500"/>
 </p>
 
 
@@ -126,7 +126,7 @@ Timeframe  | Angelina   | Vivian     | Abdulghani | Paul
 11.12 - 15.01   |        |  group meetings   |  toubleshooting Kibana-to-Frontend network connectivity (group meetings)   | minor bugfixes  |
 15.01 - 30.01   |        |  frontend (tabs items)   |  frontend-to-middleware error debugging (group meetings) | iframe embedding for Kibana dashboard in frontend (group meetings) |
 01.02 - 15.02   |        |  create dataset script   |  obtain comments for dataset, setup yt-spammer-purge (group meetings) | bugfixes within the spam detection pipeline (group meetings)                                            | 
-15.02 - 28.02   |        |  group meetings   |  group meetings  | Updating Kibana dashboard views, Repository Clean Up (group meetings) |
+15.02 - 28.02   |        |  frontend, group meetings   |  secrets and environment variables, group meetings  | updating Kibana dashboard views, Repository Clean Up (group meetings) |
 
 ## How to run and debug?
 <details>

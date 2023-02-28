@@ -4,24 +4,33 @@
 
   var url_str = "";
   var video_id_str = "";
-  var active_button = false;
-  var active_result_board = false;
+  var active_scan_button = false;
+  var active_dashboard = false;
   var text_scanning_status = "";
-  var text_post_request = "";
-  var text_get_request  = "";
-  var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
-  var number_spam = 0;
-  var number_comments = 0;
+  var text_post_request_status = "";
+  var text_get_request_status  = "";
+  var spam_comments = [];
+  var number_spam = 0; // spomments
+  var number_comments = 0; // total
 
   var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
-  
+
+
   function delay(milliseconds){
     return new Promise(resolve => {
         setTimeout(resolve, milliseconds);
     });
  }
 
+
   async function youtube_parser() {
+    // hide process steps, spomments and dashboards from previous scan
+    text_scanning_status = "";
+    text_post_request_status = "";
+    text_get_request_status = "";
+    active_dashboard = false;
+    
+    // extract the video id from the given YouTube video URL
     var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
     var match = url_str.match(regExp);
     
@@ -31,16 +40,17 @@
     }
     else {
       video_id_str = ""
-      text_scanning_status = ""
       url_str = ""
-      active_button = false
+      active_scan_button = false
       alert('The video ID could not be extracted! Please enter a valid URL!')
     }
-    text_post_request = await postVideoId()
+    text_post_request_status = await postVideoId()
     await delay(1500);
-    text_get_request = await obtain_spam_comments()
+    text_get_request_status = await obtain_spam_comments()
   }
 
+
+  // retrieve comments and store them in ES
   async function postVideoId() {
     var message;
     const response = await fetch("http://localhost:8000/retrieve_comments/" + video_id_str,
@@ -54,6 +64,8 @@
     return "(1/2) The comments have been successfully obtained."
   }
 
+
+  // get the comments labeled as spam
   async function obtain_spam_comments() {
     var message;
     const response = await fetch("http://localhost:8000/spam/" + video_id_str,
@@ -66,7 +78,7 @@
     spam_comments = message["spam"];
     number_spam = message["spam_count"];
     number_comments = message["total_count"];
-    active_result_board = true;
+    active_dashboard = true;
     return "(2/2) The comments have been successfully classified."
   }  
 
@@ -96,14 +108,14 @@
       <input bind:value={url_str} placeholder="Enter the URL of your YouTube video">
     </div>
     <div class="button">
-      <button disabled={!url_str} class:active_button on:click={() => {active_button=!active_button}}
-        on:click={setTimeout(() => {active_button = false}, 2000)}
+      <button disabled={!url_str} class:active_scan_button on:click={() => {active_scan_button=!active_scan_button}}
+        on:click={setTimeout(() => {active_scan_button = false}, 2000)}
         on:click={youtube_parser}>Scan</button>
     </div>
-    <output>{text_scanning_status}<br>{text_post_request}<br>{text_get_request}</output>
+    <output>{text_scanning_status}<br>{text_post_request_status}<br>{text_get_request_status}</output>
   </div>
 
-  {#if active_result_board}
+  {#if active_dashboard}
   <Tabs>
     <TabList>
       <Tab>Spomments</Tab>
@@ -191,7 +203,7 @@
     height: auto;
   }
   .shadow { box-shadow: 0px 2px 8px #00000088; }
-	.active_button {
+	.active_scan_button {
     background-color: #009688;
     color: white;
   }

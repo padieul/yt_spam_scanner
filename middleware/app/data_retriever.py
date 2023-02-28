@@ -4,19 +4,21 @@ import spacy
 import googleapiclient
 import googleapiclient.discovery
 
-import random as rnd
-
 from oauth2client import client, GOOGLE_TOKEN_URI
 from elasticsearch import helpers
 from elasticsearch import Elasticsearch
 
 from app.classifier import GenericClassifier
 
+from dotenv import load_dotenv
 
-CLIENT_ID = "737324637694-b6ngjvspqdgv9cbkto3li52ljcl09k4h.apps.googleusercontent.com"
-CLIENT_SECRET = "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"
-REFRESH_TOKEN = "refresh_token"
-DEVELOPER_KEY = "AIzaSyB3pX9aY3rmP8xZSngxxX14NseZ6KCxb0U"
+
+# All secrets are stored a locally stored environment variables file
+CLIENT_ID = os.getenv('V_CLIENT_ID')
+CLIENT_SECRET = os.getenv('V_CLIENT_SECRET')
+REFRESH_TOKEN = os.getenv('V_REFRESH_TOKEN')
+DEVELOPER_KEY = os.getenv('V_DEVELOPER_KEY')
+
 
 nlp = spacy.load("en_core_web_sm", disable=["ner"])
 
@@ -24,6 +26,7 @@ nlp = spacy.load("en_core_web_sm", disable=["ner"])
 ##################################### Data Retriever Class #####################################
 
 class YtDataRetriever:
+    """Provides an interface with the Youtube API"""
 
     def __init__(self):
         self._data_response = {}
@@ -41,13 +44,14 @@ class YtDataRetriever:
         self.http = credentials.authorize(httplib2.Http())
 
 
+    
     # TODO old method that will be deleted soon (ok BUT still used!?)
     def get_video_data(self, video_id: str):
 
         # Disable OAuthlib's HTTPS verification when running locally.
         # *DO NOT* leave this option enabled in production.
 
-        os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = 'client_secret_737324637694-2c43sarhojqelig5rhvmp4pgkh8oiv5c.apps.googleusercontent.com.json'
+        #os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = 'client_secret_737324637694-2c43sarhojqelig5rhvmp4pgkh8oiv5c.apps.googleusercontent.com.json'
 
         api_service_name = "youtube"
         api_version = "v3"
@@ -60,6 +64,7 @@ class YtDataRetriever:
 
 
     def get_comment_replies(self, service, comment_id):
+        """obtains the replies of given comment"""
         request = service.comments().list(
             parentId=comment_id,
             part='id,snippet',
@@ -77,6 +82,7 @@ class YtDataRetriever:
 
 
     def get_video_comments(self, service, video_id):
+        """obtains the comments from given YouTube video via the YouTube API"""
         request = service.commentThreads().list(
             videoId=video_id,
             part='id,snippet,replies',
@@ -115,6 +121,10 @@ class YtDataRetriever:
 ##################################### YouTube Comment Class #####################################
 
 class YtComment:
+    """
+    A data class that wraps around the Youtube comment
+    representation that is returned by the official Youtube API
+    """
 
     def __init__(self, data_item = None):
         if data_item is None: # reply
@@ -197,6 +207,10 @@ class YtComment:
 ##################################### YouTube Reply of Comment Class #####################################
 
 class YtCommentReply:
+    """
+    A data class that wraps around the Youtube reply comment
+    representation that is returned by the official Youtube API
+    """
 
     def __init__(self, data_item):
         self._id = data_item["id"]
@@ -267,6 +281,12 @@ class ESConnect:
                        "classifier": "logistic_regression"
                      }
 
+            # detele index if existing to avoid duplicates
+            try:
+                self._es_client.options(ignore_status=[400,404]).indices.delete(index=self._es_index_name)
+            except:
+                ...
+
             action = {
                 "_index": self._es_index_name,
                 '_op_type': 'index',
@@ -297,15 +317,8 @@ class ESConnect:
         number_spam = search_result["hits"]["total"]["value"]
         spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
 
-        #return spam_comments
-
-        search_all_query = {"query": {
-                                    "match_all":{ }
-                                    }
-                            }
-
-        search_all_result = self._es_client.search(index=self._es_index_name, query=search_all_query)
-        number_comments = search_all_result["hits"]["total"]["value"]
+        search_all_query = {"query": {"match_all": {}}}
+        number_comments = self._es_client.count(index=self._es_index_name, body=search_all_query)["count"]
 
         return {"spam": spam_comments, "spam_count": number_spam, "total_count": number_comments }
 
