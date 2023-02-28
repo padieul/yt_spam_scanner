@@ -10,6 +10,8 @@
   var text_post_request = "";
   var text_get_request  = "";
   var spam_comments = ["Nice song!", "Love it", "Come on.. visit my page!"];
+  var number_spam = 0;
+  var number_comments = 0;
 
   var dashboard_src = "http://localhost:5601/app/dashboards#/view/3482a810-98f9-11ed-8c04-a96741ae86bb?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Fd%2Cto%3Anow))&show-query-input=true&show-time-filter=true"
   
@@ -49,7 +51,7 @@
                                 });
     message = await response.json();
     //console.log("COMMENTS RETRIEVED")
-    return "The comments have been successfully obtained."
+    return "(1/2) The comments have been successfully obtained."
   }
 
   async function obtain_spam_comments() {
@@ -62,8 +64,10 @@
     message = await response.json()
     //console.log("SPAM COMMENTS RETRIEVED")
     spam_comments = message["spam"];
+    number_spam = message["spam_count"];
+    number_comments = message["total_count"];
     active_result_board = true;
-    return "The comments have been successfully classified."
+    return "(2/2) The comments have been successfully classified."
   }  
 
 </script>
@@ -107,7 +111,7 @@
     </TabList>
   
     <TabPanel>
-      <p class="p">The following comments on your video have been classified as spam:</p>
+      <p class="p">The following {number_spam} out of {number_comments} comments on your video have been classified as spam:</p>
       <ul>
         {#each spam_comments as comment}
           <li>{comment}</li>
@@ -133,11 +137,11 @@
     </TabList>
   
     <TabPanel>
-      <p class="p">The following comments were classified as spam:</p>
+      <p class="p">No video URL has been entered yet...</p>
     </TabPanel>
   
     <TabPanel>
-      <p class="p">The following dashboards were created:</p>
+      <p class="p">No video URL has been entered yet...</p>
     </TabPanel>
   </Tabs>
   {/if}
@@ -240,7 +244,7 @@
     transition: 1s;
   }
   .help .popup {
-    left: -175px;
+    left: -184px;
     top: 10px;
   }
   .help:hover .popup {
@@ -251,6 +255,7 @@
     margin: 0;
     padding: 10px 0 0 10px;
     height: 30px;
+    text-align: center;
     background: #555;
     color: #fff;
     font-weight: 400;

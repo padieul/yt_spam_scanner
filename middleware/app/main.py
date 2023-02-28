@@ -78,8 +78,8 @@ def get_es_status():
 @app.post("/retrieve_comments/{video_id}")
 def retrieve_comments(video_id):
     """
-    Retrieve the comments from a given YouTube video using the ID
-    and store them in Elastic Search
+    Retrieve the comments from a given YouTube video
+    using the ID and store them in Elastic Search
     """
     status = ""
     if video_id:
@@ -93,12 +93,11 @@ def retrieve_comments(video_id):
 @app.get("/spam/{video_id}")
 async def return_spam_comments(video_id):
     """"
-    Output spam comments from the given video:
-    Accesses Elastic Search instance where the labeled comments for 
-    this video should already be stored.
+    Obtain spam comments, number of spam comments
+    and number of all comments for the given video
     """
-    return { "spam": es.get_spam_comments(video_id) }
-
+    #return { "spam": es.get_spam_comments(video_id) }
+    return es.get_spam_comments(video_id)
 
 ##################################### Main function #####################################
 

@@ -281,7 +281,8 @@ class ESConnect:
 
     def get_spam_comments(self, video_id):
         """
-        Return the spam comments found/predicted in the given video
+        Return the spam comments found in the given video, the
+        number of spam comments and the number of all comments
         """
         self._set_es_index_name(video_id)
 
@@ -293,9 +294,20 @@ class ESConnect:
                         }
 
         search_result = self._es_client.search(index=self._es_index_name, query=search_query)
+        number_spam = search_result["hits"]["total"]["value"]
         spam_comments = [ result["_source"]["content"] for result in search_result["hits"]["hits"] ]
 
-        return spam_comments
+        #return spam_comments
+
+        search_all_query = {"query": {
+                                    "match_all":{ }
+                                    }
+                            }
+
+        search_all_result = self._es_client.search(index=self._es_index_name, query=search_all_query)
+        number_comments = search_all_result["hits"]["total"]["value"]
+
+        return {"spam": spam_comments, "spam_count": number_spam, "total_count": number_comments }
 
 
 ##################################### Main Function #####################################
