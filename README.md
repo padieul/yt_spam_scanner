@@ -22,6 +22,12 @@ Utilized libraries: [models-requirements](./models/requirements.txt), [middlewar
 
 Contributions: see table below
 
+<br>
+
+> Please import the dashboard configurations file into Kibana (Stack Management > Saved Objects > Import) before you start the docker compose file.
+
+<br>
+
 
 ## Project Milestones
 - setup ES and Kibana, setup containers and debug configurations, obtain existing spam collection dataset ([YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#))
@@ -37,6 +43,8 @@ Contributions: see table below
 ## High Level Overview
 
 ![alt text](./images/high_level_overview.png)
+
+
 
 Architecture Description:
 
@@ -64,9 +72,6 @@ Architecture Description:
 
 Data Analysis: see next section
 
-Experiments:
- - results:
- - baselines:
 
 ## Data Analysis
 Data Sources: 
