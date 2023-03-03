@@ -24,7 +24,7 @@ Contributions: see table below
 
 <br>
 
-> Please import the dashboard configurations file into Kibana (Stack Management > Saved Objects > Import) before you start the docker compose file.
+> Please import the dashboard configurations file [`export.ndjson`](export.ndjson) into Kibana (Stack Management > Saved Objects > Import) before you start the docker compose file.
 
 <br>
 
