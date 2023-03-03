@@ -133,10 +133,10 @@ Timeframe  | Angelina   | Vivian     | Abdulghani | Paul
 10.11 - 25.11   | Accessing Youtube API  | implementation and evaluation of Support Vector Machine Classifier on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)     | Configuring Docker containers and compose                | Configuring ES and Kibana
 26.11 - 02.12   | Sample Youtube data exploration analysis and processing | implementation and evaluation of Logistic Regression and Naive Bayes on the [YouTube Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#)  | Preparing and uploading the data to Elasticsearch        | Experimenting with debug configurations involving multiple containers including Svelte, FastApi, TensorFlow Serving and bare Python projects.
 03.12 - 11.12   | Extending YtDataRetriever class | working on middleware and frontend | reformating ES data and working on data visualization |  working on middleware and frontend, Kibana dashboard creation
-11.12 - 15.01   |    group meetings    |  group meetings   |  toubleshooting Kibana-to-Frontend network connectivity (group meetings)   | minor bugfixes  |
-15.01 - 30.01   |    group meetings    |  frontend   |  frontend-to-middleware error debugging (group meetings) | iframe embedding for Kibana dashboard in frontend (group meetings) |
-01.02 - 15.02   |    group meetings    |  create dataset script   |  obtain comments for dataset, setup yt-spammer-purge (group meetings) | bugfixes within the spam detection pipeline (group meetings)                                            | 
-15.02 - 28.02   |    group meetings    |  frontend, group meetings   |  secrets and environment variables, group meetings  | updating Kibana dashboard views, Repository Clean Up (group meetings) |
+11.12 - 15.01   |    group meetings    |  bugfixes  | toubleshooting Kibana-to-Frontend network connectivity | bugfixes  |
+15.01 - 30.01   |    group meetings    |  improving frontend  | frontend-to-middleware error debugging | iframe embedding for Kibana dashboard in frontend |
+01.02 - 15.02   |    group meetings    |  create dataset script, bugfixes within the spam detection pipeline | obtain comments for dataset, setup yt-spammer-purge | bugfixes within the spam detection pipeline | 
+15.02 - 28.02   |    group meetings    |  last frontend improvements | secrets and environment variables | updating Kibana dashboard views, repository clean up |
 
 ## How to run and debug?
 <details>
