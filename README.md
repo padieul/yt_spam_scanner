@@ -4,10 +4,15 @@
 ## Table of Contents
 
 1. [General Information](#general-information)
+1. [Project Milestones](#project-milestones)
 1. [High Level Overview](#high-level-overview)
-1. [Project State](#project-state)
 1. [Data Analysis](#data-analysis)
-1. [Current Code State](#current-code-state)
+1. [Code State](#code-state)
+1. [Contributions](#contributions)
+1. [How to run and debug](#how-to-run-and-debug)
+
+
+<br>
 
 ## General Information
 Task: Text Analytics project
