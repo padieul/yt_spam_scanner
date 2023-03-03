@@ -93,7 +93,7 @@
   <div slot="header">
     <div class="header" class:shadow={!!scroller.scroll}>YouTube Spam Scanner</div>
   </div>
-  <p class="p">Dear user, welcome to the YouTube Spam Scanner! <span class="wave">👋</span></p>
+  <p class="p">Dear user, welcome to the YouTube Spam Scanner!</p>
 
   <div class="help">
     <div class="question"><i class="mi mi-circle-help"><span class="u-sr-only"></span></i></div>
